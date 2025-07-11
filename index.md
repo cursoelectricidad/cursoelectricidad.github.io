@@ -1,7 +1,9 @@
 ---
-title: Bunny project
+title: Curso de Electricidad - UOCRA
 x-toc-enable: true
 ...
+
+![](images/logo.png)
 
 Buy a bunny toy from your local toy store
 =========================================

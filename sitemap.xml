@@ -41,6 +41,10 @@
     <lastmod>2025-07-11</lastmod>
   </url>
   <url>
+    <loc>http://localhost:8000/news/</loc>
+    <lastmod>2025-07-11</lastmod>
+  </url>
+  <url>
     <loc>http://localhost:8000/news/resignations.html</loc>
     <lastmod>2025-07-11</lastmod>
   </url>
