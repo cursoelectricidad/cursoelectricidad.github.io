@@ -10,7 +10,7 @@ List of pages:
 * /download.md: [Downloads](/download.md)
 * /faq.md: [Frequently Questioned Answers](/faq.md)
 * /git.md: [Bunny review](/git.md)
-* /: [Curso de Electricidad - UOCRA](/)
+* /: [Inicio](/)
 * /license.md: [License](/license.md)
 * /logo-license.md: [Unlicinsed bunnies](/logo-license.md)
 * /news/bunny202104xx.md: [New Bunny release, ETA late April 2021 / early June 2021](/news/bunny202104xx.md)
