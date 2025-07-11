@@ -1,15 +1,20 @@
 ---
-title: Inicio
+title: Bunny news
 x-toc-enable: true
 ...
 
-![](images/logo.png)
+The bunnies have been busy!
 
-Profesor: Francisco Espeche
-=============================
+-------------------------------------------------------------------------------
 
-![](images/espeche.jpg)     
 
----
+Subscribe to RSS: [/feed.xml](/feed.xml)
 
-Este curso fue dictado durante el año 2025.
+[Bunnies removed from the Shark project](/resignations.md){.title}
+[30 March 2021]{.date}
+
+
+[New Bunny release, ETA late April 2021 / early June 2021](/bunny202104xx.md){.title}
+[30 March 2021]{.date}
+
+
