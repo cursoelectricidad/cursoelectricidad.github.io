@@ -1,17 +1,17 @@
 <rss version="2.0">
 <channel>
 <title>cursos</title>
-<link>cursoelectricidad.github.io</link>
+<link>https://cursoelectricidad.github.io/</link>
 <description>Electricista</description>
 <item>
 <title>Curso de Electricidad Nº 2</title>
-<link>cursoelectricidad.github.ioresignations.html</link>
-<description><p>Article: Curso de Electricidad Nº 2</p><p>Web link: cursoelectricidad.github.ioresignations.html</p></description>
+<link>https://cursoelectricidad.github.io/resignations.html</link>
+<description><p>Article: Curso de Electricidad Nº 2</p><p>Web link: https://cursoelectricidad.github.io/resignations.html</p></description>
 </item>
 <item>
 <title>New Bunny release, ETA late April 2021 / early June 2021</title>
-<link>cursoelectricidad.github.iobunny202104xx.html</link>
-<description><p>Article: New Bunny release, ETA late April 2021 / early June 2021</p><p>Web link: cursoelectricidad.github.iobunny202104xx.html</p></description>
+<link>https://cursoelectricidad.github.io/bunny202104xx.html</link>
+<description><p>Article: New Bunny release, ETA late April 2021 / early June 2021</p><p>Web link: https://cursoelectricidad.github.io/bunny202104xx.html</p></description>
 </item>
 </channel>
 </rss>
