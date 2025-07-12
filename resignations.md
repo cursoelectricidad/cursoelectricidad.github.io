@@ -1,5 +1,5 @@
-% Bunnies removed from the Shark project
-% Leah Rowe
-% 30 March 2021
+% Curso de Electricidad Nº 2
+% Andres Imlauer
+% 30 March 2025
 
-Because bunnies belong on land, and sharks belong in the sea.
+Acá empieza todo.

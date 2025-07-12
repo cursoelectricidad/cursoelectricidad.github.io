@@ -1,12 +1,12 @@
 <rss version="2.0">
 <channel>
-<title>bunny news</title>
+<title>cursos</title>
 <link>http://localhost:8000</link>
-<description>news about bunnies</description>
+<description>Electricista</description>
 <item>
-<title>Bunnies removed from the Shark project</title>
+<title>Curso de Electricidad Nº 2</title>
 <link>http://localhost:8000resignations.html</link>
-<description><p>Article: Bunnies removed from the Shark project</p><p>Web link: http://localhost:8000resignations.html</p></description>
+<description><p>Article: Curso de Electricidad Nº 2</p><p>Web link: http://localhost:8000resignations.html</p></description>
 </item>
 <item>
 <title>New Bunny release, ETA late April 2021 / early June 2021</title>
