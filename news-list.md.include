@@ -1,9 +1,10 @@
 ---
-title: Bunny news
+title: Curso Electricidad
 x-toc-enable: true
 ...
 
-The bunnies have been busy!
+Curso de Electricidad dictado el año 2025 en la UOCRA.
+Profesor: Francisco Espeche. Ayudante: Alejandro Ramirez.
 
 -------------------------------------------------------------------------------
 
