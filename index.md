@@ -91,7 +91,7 @@ Subscribe to RSS: [/feed.xml](/feed.xml)
 [30 Julio 2025]{.date}
 
 
-[Clase Nº 22 (Una de las clases más importantes)](/22clase.md){.title}
+[Clase Nº 22: Esquemas de Montaje. Preguntas de examen. (Una de las clases más importantes)](/22clase.md){.title}
 [30 Julio 2025]{.date}
 
 
@@ -171,11 +171,11 @@ Subscribe to RSS: [/feed.xml](/feed.xml)
 [30 Julio 2025]{.date}
 
 
-[Clase Nº 42](/42clase.md){.title}
+[Clase Nº 42: Fin de curso auxiliar electricista](/42clase.md){.title}
 [30 Julio 2025]{.date}
 
 
-[Clase Nº 43](/43clase.md){.title}
+[Clase Nº 43: Choripaneada final.](/43clase.md){.title}
 [30 Julio 2025]{.date}
 
 
