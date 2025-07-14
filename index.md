@@ -11,7 +11,7 @@ Profesor: Francisco Espeche. Ayudante: Alejandro Ramirez.
 
 Subscribe to RSS: [/feed.xml](/feed.xml)
 
-[Clase Nº 2](/clase2.md){.title}
+[Clase Nº 2](/2clase.md){.title}
 [30 March 2025]{.date}
 
 
