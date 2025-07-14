@@ -1,4 +1,4 @@
-% Clase Nº 2
+% Clase Nº 24
 % Andrés Imlauer
 % 30 Julio 2025
 

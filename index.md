@@ -99,83 +99,83 @@ Subscribe to RSS: [/feed.xml](/feed.xml)
 [30 Julio 2025]{.date}
 
 
-[Clase Nº 2](/24clase.md){.title}
+[Clase Nº 24](/24clase.md){.title}
 [30 Julio 2025]{.date}
 
 
-[Clase Nº 2](/25clase.md){.title}
+[Clase Nº 25](/25clase.md){.title}
 [30 Julio 2025]{.date}
 
 
-[Clase Nº 2](/26clase.md){.title}
+[Clase Nº 26](/26clase.md){.title}
 [30 Julio 2025]{.date}
 
 
-[Clase Nº 2](/27clase.md){.title}
+[Clase Nº 27](/27clase.md){.title}
 [30 Julio 2025]{.date}
 
 
-[Clase Nº 2](/28clase.md){.title}
+[Clase Nº 28](/28clase.md){.title}
 [30 Julio 2025]{.date}
 
 
-[Clase Nº 2](/29clase.md){.title}
+[Clase Nº 29](/29clase.md){.title}
 [30 Julio 2025]{.date}
 
 
-[Clase Nº 2](/30clase.md){.title}
+[Clase Nº 30](/30clase.md){.title}
 [30 Julio 2025]{.date}
 
 
-[Clase Nº 2](/31clase.md){.title}
+[Clase Nº 31](/31clase.md){.title}
 [30 Julio 2025]{.date}
 
 
-[Clase Nº 2](/32clase.md){.title}
+[Clase Nº 32](/32clase.md){.title}
 [30 Julio 2025]{.date}
 
 
-[Clase Nº 2](/33clase.md){.title}
+[Clase Nº 33](/33clase.md){.title}
 [30 Julio 2025]{.date}
 
 
-[Clase Nº 2](/34clase.md){.title}
+[Clase Nº 34](/34clase.md){.title}
 [30 Julio 2025]{.date}
 
 
-[Clase Nº 2](/35clase.md){.title}
+[Clase Nº 35](/35clase.md){.title}
 [30 Julio 2025]{.date}
 
 
-[Clase Nº 2](/36clase.md){.title}
+[Clase Nº 36](/36clase.md){.title}
 [30 Julio 2025]{.date}
 
 
-[Clase Nº 2](/37clase.md){.title}
+[Clase Nº 37](/37clase.md){.title}
 [30 Julio 2025]{.date}
 
 
-[Clase Nº 2](/38clase.md){.title}
+[Clase Nº 38](/38clase.md){.title}
 [30 Julio 2025]{.date}
 
 
-[Clase Nº 2](/39clase.md){.title}
+[Clase Nº 39](/39clase.md){.title}
 [30 Julio 2025]{.date}
 
 
-[Clase Nº 2](/40clase.md){.title}
+[Clase Nº 40](/40clase.md){.title}
 [30 Julio 2025]{.date}
 
 
-[Clase Nº 2](/41clase.md){.title}
+[Clase Nº 41](/41clase.md){.title}
 [30 Julio 2025]{.date}
 
 
-[Clase Nº 2](/42clase.md){.title}
+[Clase Nº 42](/42clase.md){.title}
 [30 Julio 2025]{.date}
 
 
-[Clase Nº 2](/43clase.md){.title}
+[Clase Nº 43](/43clase.md){.title}
 [30 Julio 2025]{.date}
 
 
