@@ -4,6 +4,7 @@ List of pages:
 
 
 <div class='sitemap'>
+* /bunny202104xx.md: [New Bunny release, ETA late April 2021 / early June 2021](/bunny202104xx.md)
 * /contact.md: [Contact](/contact.md)
 * /contrib.md: [Bunnies](/contrib.md)
 * /donate.md: [Donate to bunnies](/donate.md)
