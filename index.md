@@ -3,8 +3,8 @@ title: Curso Electricidad
 x-toc-enable: true
 ...
 
-Curso de Electricidad dictado el año 2025 en la UOCRA.
-Profesor: Francisco Espeche. Ayudante: Alejandro Ramirez.
+Curso de Electricidad dictado el año 2025 en la UOCRA.                      
+Profesor: Francisco Espeche. Ayudante: Alejandro Ramirez.                    
 
 -------------------------------------------------------------------------------
 
