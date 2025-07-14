@@ -1,4 +1,4 @@
-% Curso de Electricidad Nº 2
+% Clase Nº 2
 % Andres Imlauer
 % 30 March 2025
 
