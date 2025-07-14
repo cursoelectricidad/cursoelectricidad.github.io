@@ -11,6 +11,7 @@ List of pages:
 * /download.md: [Downloads](/download.md)
 * /faq.md: [Frequently Questioned Answers](/faq.md)
 * /git.md: [Bunny review](/git.md)
+* /: [Curso Electricidad](/)
 * /license.md: [License](/license.md)
 * /logo-license.md: [Unlicinsed bunnies](/logo-license.md)
 * /suppliers.md: [Buy a bunny](/suppliers.md)
