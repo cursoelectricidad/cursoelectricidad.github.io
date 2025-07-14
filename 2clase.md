@@ -1,5 +1,5 @@
 % Clase Nº 2
-% Andres Imlauer
-% 30 March 2025
+% Andrés Imlauer
+% 30 Julio 2025
 
 Acá empieza todo.
