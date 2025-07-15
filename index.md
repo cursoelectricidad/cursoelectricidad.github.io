@@ -15,10 +15,6 @@ Subscribe to RSS: [/feed.xml](/feed.xml)
 [30 Julio 2025]{.date}
 
 
-[Clase Nº 3](/03clase.md){.title}
-[30 Julio 2025]{.date}
-
-
 [Clase Nº 4](/04clase.md){.title}
 [30 Julio 2025]{.date}
 
