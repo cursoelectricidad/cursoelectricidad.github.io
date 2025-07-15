@@ -3,10 +3,13 @@
 % 30 Julio 2025
 
 ##### Empecé el curso recién en la 3era clase.
+
 #### Audio de la clase en Archive:
 https://archive.org/details/record-57
+
 #### Audio de la clase en Vocaroo:
 https://vocaroo.com/1bkuThXk0Fs9
+
 #### Audio de la clase en YouTube:
 https://www.youtube.com/embed/kC4hTgBpfa0
 
