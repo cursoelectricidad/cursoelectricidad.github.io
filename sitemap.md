@@ -4,7 +4,6 @@ List of pages:
 
 
 <div class='sitemap'>
-* /02clase.md: [Clase Nº 2](/02clase.md)
 * /03clase.md: [Clase Nº 3](/03clase.md)
 * /04clase.md: [Clase Nº 4](/04clase.md)
 * /05clase.md: [Clase Nº 5](/05clase.md)
@@ -24,8 +23,8 @@ List of pages:
 * /19clase.md: [Clase Nº 19](/19clase.md)
 * /20clase.md: [Clase Nº 20](/20clase.md)
 * /21clase.md: [Clase Nº 21](/21clase.md)
-* /22clase.md: [Clase Nº 22: Esquemas de Montaje. Preguntas de examen. (Una de las clases más importantes)](/22clase.md)
-* /23clase.md: [Clase Nº 23](/23clase.md)
+* /22clase.md: [Clase Nº 22](/22clase.md)
+* /23clase.md: [Clase Nº 23: Esquemas de Montaje. Preguntas de examen. (Una de las clases más importantes)](/23clase.md)
 * /24clase.md: [Clase Nº 24](/24clase.md)
 * /25clase.md: [Clase Nº 25](/25clase.md)
 * /26clase.md: [Clase Nº 26](/26clase.md)
@@ -44,8 +43,12 @@ List of pages:
 * /39clase.md: [Clase Nº 39](/39clase.md)
 * /40clase.md: [Clase Nº 40](/40clase.md)
 * /41clase.md: [Clase Nº 41](/41clase.md)
-* /42clase.md: [Clase Nº 42: Fin de curso auxiliar electricista](/42clase.md)
-* /43clase.md: [Clase Nº 43: Choripaneada final.](/43clase.md)
+* /42clase.md: [Clase Nº 42](/42clase.md)
+* /43clase.md: [Clase Nº 43](/43clase.md)
+* /44clase.md: [Clase Nº 44](/44clase.md)
+* /45clase.md: [Clase Nº 45](/45clase.md)
+* /46clase.md: [Clase Nº 46: Fin curso de auxiliar electricista. Videos en proyector.](/46clase.md)
+* /47clase.md: [Clase Nº 47: Choripaneada final.](/47clase.md)
 * /contact.md: [Contact](/contact.md)
 * /contrib.md: [Bunnies](/contrib.md)
 * /donate.md: [Donate to bunnies](/donate.md)

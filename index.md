@@ -11,7 +11,7 @@ Profesor: Francisco Espeche. Ayudante: Alejandro Ramirez.
 
 Subscribe to RSS: [/feed.xml](/feed.xml)
 
-[Clase Nº 2](/02clase.md){.title}
+[Clase Nº 3](/03clase.md){.title}
 [30 Julio 2025]{.date}
 
 
@@ -91,11 +91,11 @@ Subscribe to RSS: [/feed.xml](/feed.xml)
 [30 Julio 2025]{.date}
 
 
-[Clase Nº 22: Esquemas de Montaje. Preguntas de examen. (Una de las clases más importantes)](/22clase.md){.title}
+[Clase Nº 22](/22clase.md){.title}
 [30 Julio 2025]{.date}
 
 
-[Clase Nº 23](/23clase.md){.title}
+[Clase Nº 23: Esquemas de Montaje. Preguntas de examen. (Una de las clases más importantes)](/23clase.md){.title}
 [30 Julio 2025]{.date}
 
 
@@ -171,11 +171,27 @@ Subscribe to RSS: [/feed.xml](/feed.xml)
 [30 Julio 2025]{.date}
 
 
-[Clase Nº 42: Fin de curso auxiliar electricista](/42clase.md){.title}
+[Clase Nº 42](/42clase.md){.title}
 [30 Julio 2025]{.date}
 
 
-[Clase Nº 43: Choripaneada final.](/43clase.md){.title}
+[Clase Nº 43](/43clase.md){.title}
+[30 Julio 2025]{.date}
+
+
+[Clase Nº 44](/44clase.md){.title}
+[30 Julio 2025]{.date}
+
+
+[Clase Nº 45](/45clase.md){.title}
+[30 Julio 2025]{.date}
+
+
+[Clase Nº 46: Fin curso de auxiliar electricista. Videos en proyector.](/46clase.md){.title}
+[30 Julio 2025]{.date}
+
+
+[Clase Nº 47: Choripaneada final.](/47clase.md){.title}
 [30 Julio 2025]{.date}
 
 
