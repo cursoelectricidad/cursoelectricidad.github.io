@@ -50,13 +50,9 @@ List of pages:
 * /46clase.md: [Clase Nº 46: Fin curso de auxiliar electricista. Videos en proyector.](/46clase.md)
 * /47clase.md: [Clase Nº 47: Choripaneada final.](/47clase.md)
 * /contact.md: [Contacto](/contact.md)
-* /contrib.md: [Bunnies](/contrib.md)
-* /: [Curso Electricidad](/)
 * /license.md: [License](/license.md)
 * /logo-license.md: [Unlicinsed bunnies](/logo-license.md)
 * /suppliers.md: [Buy a bunny](/suppliers.md)
-* /tasks/202105xx.md: [Bunny 202105xx changelog](/tasks/202105xx.md)
-* /tasks/: [Tasks](/tasks/)
 * /template-license.md: [Template license](/template-license.md)
 </div>
 
