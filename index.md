@@ -11,7 +11,7 @@ Profesor: Francisco Espeche. Ingeniero Mecánico.
 
 Subscribe to RSS: [/feed.xml](/feed.xml)
 
-[Clase Nº 3: Simbología. Red de distribución Morceto. Fusible aéreo. Conductor preensamblado y bipolar. Acometida. Línea de distribución principal. Alimentación trifásica. ](/03clase.md){.title}
+[Clase Nº 3: Simbología. Red de distribución Morceto. Fusible aéreo. Conductor preensamblado y bipolar. Acometida. Línea de distribución principal. Alimentación trifásica. Esquema de la acometida que entra en el examen.](/03clase.md){.title}
 [30 Julio 2025]{.date}
 
 
