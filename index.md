@@ -95,11 +95,11 @@ Subscribe to RSS: [/feed.xml](/feed.xml)
 [30 Julio 2025]{.date}
 
 
-[Clase Nº 24](/24clase.md){.title}
+[Clase Nº 24: Armado y Comprobación de Tableros Eléctricos. Comprobación de Continuidad. ](/24clase.md){.title}
 [30 Julio 2025]{.date}
 
 
-[Clase Nº 25](/25clase.md){.title}
+[Clase Nº 25: Armamos tablero: 2)Dos lámparas y 2 interruptores en la misma caja. 3)Dos lámparas y 2 interruptores en distintas cajas.](/25clase.md){.title}
 [30 Julio 2025]{.date}
 
 
