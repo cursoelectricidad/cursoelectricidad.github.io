@@ -4,13 +4,13 @@ List of pages:
 
 
 <div class='sitemap'>
-* /03clase.md: [Clase Nº 3](/03clase.md)
-* /04clase.md: [Clase Nº 4](/04clase.md)
-* /05clase.md: [Clase Nº 5](/05clase.md)
-* /06clase.md: [Clase Nº 6](/06clase.md)
+* /03clase.md: [Clase Nº 3: Simbología. Red de distribución Morceto. Fusible aéreo. Conductor preensamblado y bipolar. Acometida. Línea de distribución principal. Alimentación trifásica. ](/03clase.md)
+* /04clase.md: [Clase Nº 4: Interruptores, Sistemas de Puesta a Tierra](/04clase.md)
+* /05clase.md: [Clase Nº 5: Simbología. Normas y Precauciones. Pelar Cables y Conectar Acometidas. Tableros y Sistemas de Medición.](/05clase.md)
+* /06clase.md: [Clase Nº 6: Capacitación en Trabajo en Altura. Simbología. Instalaciones Eléctricas: Conceptos básicos. ](/06clase.md)
 * /07clase.md: [Clase Nº 7](/07clase.md)
 * /08clase.md: [Clase Nº 8](/08clase.md)
-* /09clase.md: [Clase Nº 9](/09clase.md)
+* /09clase.md: [Clase Nº 9: Clase práctica sobre EMPALMES. Estuve ausente.](/09clase.md)
 * /10clase.md: [Clase Nº 10: Canalización](/10clase.md)
 * /11clase.md: [Clase Nº 11: Continuamos con canalización.](/11clase.md)
 * /12clase.md: [Clase Nº 12: Continuamos canalización.](/12clase.md)
@@ -50,6 +50,7 @@ List of pages:
 * /46clase.md: [Clase Nº 46: Fin curso de auxiliar electricista. Videos en proyector.](/46clase.md)
 * /47clase.md: [Clase Nº 47: Choripaneada final.](/47clase.md)
 * /contact.md: [Contacto](/contact.md)
+* /: [Curso Electricidad](/)
 * /license.md: [License](/license.md)
 * /logo-license.md: [Unlicinsed bunnies](/logo-license.md)
 * /suppliers.md: [Buy a bunny](/suppliers.md)

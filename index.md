@@ -4,26 +4,26 @@ x-toc-enable: true
 ...
 
 Curso de Electricidad dictado el año 2025 en la UOCRA.                      
-Profesor: Francisco Espeche. Ayudante: Alejandro Ramirez.                    
+Profesor: Francisco Espeche. Ingeniero Mecánico.
 
 -------------------------------------------------------------------------------
 
 
 Subscribe to RSS: [/feed.xml](/feed.xml)
 
-[Clase Nº 3](/03clase.md){.title}
+[Clase Nº 3: Simbología. Red de distribución Morceto. Fusible aéreo. Conductor preensamblado y bipolar. Acometida. Línea de distribución principal. Alimentación trifásica. ](/03clase.md){.title}
 [30 Julio 2025]{.date}
 
 
-[Clase Nº 4](/04clase.md){.title}
+[Clase Nº 4: Interruptores, Sistemas de Puesta a Tierra](/04clase.md){.title}
 [30 Julio 2025]{.date}
 
 
-[Clase Nº 5](/05clase.md){.title}
+[Clase Nº 5: Simbología. Normas y Precauciones. Pelar Cables y Conectar Acometidas. Tableros y Sistemas de Medición.](/05clase.md){.title}
 [30 Julio 2025]{.date}
 
 
-[Clase Nº 6](/06clase.md){.title}
+[Clase Nº 6: Capacitación en Trabajo en Altura. Simbología. Instalaciones Eléctricas: Conceptos básicos. ](/06clase.md){.title}
 [30 Julio 2025]{.date}
 
 
