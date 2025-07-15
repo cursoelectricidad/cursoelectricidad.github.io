@@ -31,23 +31,23 @@ Subscribe to RSS: [/feed.xml](/feed.xml)
 [30 Julio 2025]{.date}
 
 
-[Clase Nº 8](/08clase.md){.title}
+[Clase Nº 8: Empalmes. Reglamentación AEA 90364: Altura colocar cajas. Ubicación de las bocas de interruptores de efecto. Ubicación de las bocas de tomacorrientes. Clase que viene realizaremos: uniones en cajas de paso, ortogonal y 5x10"](/08clase.md){.title}
 [30 Julio 2025]{.date}
 
 
-[Clase Nº 9: Clase práctica sobre EMPALMES. Estuve ausente.](/09clase.md){.title}
+[Clase Nº 9: Clase práctica sobre EMPALMES. ](/09clase.md){.title}
 [30 Julio 2025]{.date}
 
 
-[Clase Nº 10: Canalización](/10clase.md){.title}
+[Clase Nº 10: Canalización. Transición al PVC y Cambios en la Práctica Técnica. Red de distribución externa. Tipos de empalmes. Dentro del mismo caño: 3 circuitos. Sistema trifásico tengo que hacer cañería independiente. Fusible NH. Marca ABB no comprar.](/10clase.md){.title}
 [30 Julio 2025]{.date}
 
 
-[Clase Nº 11: Continuamos con canalización.](/11clase.md){.title}
+[Clase Nº 11: Continuamos con canalización: cupla, desperdicio de caños, caño corrugado, conductor taller, bandejas de baja alta tensión, medida caños, mezclar hierro con PVC no es recomendable pero hacerlo a través de una caja de paso. Corrugado blanco es ignífugo. Fijar cajas en tirante o planchuelas. Como cobrar canalización y cableado y el recableado.](/11clase.md){.title}
 [30 Julio 2025]{.date}
 
 
-[Clase Nº 12: Continuamos canalización.](/12clase.md){.title}
+[Clase Nº 12: Continuamos canalización. No usar curva y contracurva juntos porque es difícil pasar cinta pasacables, mejor un cañito en el medio. Meter pinza para sacar rebarba adentro y afuera agarrar el caño. Acanaladora.](/12clase.md){.title}
 [30 Julio 2025]{.date}
 
 
@@ -67,27 +67,27 @@ Subscribe to RSS: [/feed.xml](/feed.xml)
 [30 Julio 2025]{.date}
 
 
-[Clase Nº 17: Clase práctica.  Armamos distribución](/17clase.md){.title}
+[Clase Nº 17: Clase práctica. Armamos distribución](/17clase.md){.title}
 [30 Julio 2025]{.date}
 
 
-[Clase Nº 18](/18clase.md){.title}
+[Clase Nº 18: Alarmas. Guía AEA.](/18clase.md){.title}
 [30 Julio 2025]{.date}
 
 
-[Clase Nº 19](/19clase.md){.title}
+[Clase Nº 19: FOTOCOPIA. España apagón. Sistemas de alarma. Conocimientos básicos de electricidad y seguridad para obreros.](/19clase.md){.title}
 [30 Julio 2025]{.date}
 
 
-[Clase Nº 20](/20clase.md){.title}
+[Clase Nº 20: Sistema Alarma. Corriente Alterna/Continua. Tester. Profesor hace chistes sobre número de avogadro y se enoja con otro.](/20clase.md){.title}
 [30 Julio 2025]{.date}
 
 
-[Clase Nº 21](/21clase.md){.title}
+[Clase Nº 21: Vimos una instalación mal hecha: Errores y Mejoras. Conexiones en Serie y Paralelo. ](/21clase.md){.title}
 [30 Julio 2025]{.date}
 
 
-[Clase Nº 22](/22clase.md){.title}
+[Clase Nº 22: Clase práctica. Armado de Tablero Paralelo. Fundamentos de Electricidad: Paralelo y Serie, Tensión y Corriente.](/22clase.md){.title}
 [30 Julio 2025]{.date}
 
 

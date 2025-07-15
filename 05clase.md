@@ -2,14 +2,14 @@
 % Andrés Imlauer
 % 30 Julio 2025
 
-#### Audio en Archive:
-https://archive.org/details/record-59
-#### Audio en Vocaroo:
-https://vocaroo.com/1hnXZFbaWXBU
-#### Audio en YouTube:
-https://www.youtube.com/embed/A0NSDdsoT_w
-
-
+**Audio en Archive**   
+https://archive.org/details/record-59   
+**Audio en Vocaroo**   
+https://vocaroo.com/1hnXZFbaWXBU   
+**Audio en YouTube**   
+https://www.youtube.com/embed/A0NSDdsoT_w   
+   
+   
 Pelar cables con pinza y alicate. La acometida puede ser aérea o subterránea, esa era la posibildad. Simbología. Intervenimos a partir del municipal hacia adentro. Línea principal, acometida, tablero general, tablero seccional y el sistema de medición. Les dije tengan en cuanta la bajada del tanque. Gancho U. ¿Por qué gira el artefacto al colocar?. Colocar cajitas altura. Los módulos son para 10 amper. Está prohibido hacer empalme dentro de las cañerías. Corrugado aprobado y prohibido. El 35% de la superficie de ese círculo tiene que ser ocupado por el conductor más de eso no
 
 ![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhyf5U6qeAht5UW8Zyju4WEC-kaU3WxBoGedGxsmArn87lUwGBotBUtjs0ab4WdiMKBdWRptjg1NG1KrFifPlek0SLk4QUpMU5XLeMI9Vz31Y8sb3VFfxs-96iod4D2XRjHhZ9xIl87ieUhdMRU1S-PNMKucjy1BhfRLXOp0FHCvO7S8JZxFZem5t87cZ0/s4160/IMG_20250318_183607339.jpg)

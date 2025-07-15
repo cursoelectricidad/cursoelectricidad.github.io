@@ -1,16 +1,16 @@
-% Clase Nº 12: Continuamos canalización.
+% Clase Nº 12: Continuamos canalización. No usar curva y contracurva juntos porque es difícil pasar cinta pasacables, mejor un cañito en el medio. Meter pinza para sacar rebarba adentro y afuera agarrar el caño. Acanaladora.
 % Andrés Imlauer
 % 30 Julio 2025
 
-#### Audio Vocaroo:
-https://vocaroo.com/1bzUkEBGqoud
-#### Audio Archive.org:
-https://archive.org/details/record-79
-#### Audio en YouTube:
-https://www.youtube.com/embed/Fd-5siG1NRA
-
-No usar curva y contracurva juntos porque es difícil pasar cinta pasacables, mejor un cañito en el medio. Meter pinza para sacar rebarba adentro y afuera agarrar el caño. Acanaladora.
-
+**Audio Vocaroo**   
+https://vocaroo.com/1bzUkEBGqoud   
+**Audio Archive.org**   
+https://archive.org/details/record-79   
+**Audio en YouTube**   
+https://www.youtube.com/embed/Fd-5siG1NRA   
+   
+No usar curva y contracurva juntos porque es difícil pasar cinta pasacables, mejor un cañito en el medio. Meter pinza para sacar rebarba adentro y afuera agarrar el caño. Acanaladora.   
+   
 * Consulta sobre como usar llave unipolar
 * El morceto no agarraba bien el neutro hacía falso contacto. Costaba que el neutro se desligue.
 * En una escuela por el neutro entraba una fase más dando como resultado 380

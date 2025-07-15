@@ -2,16 +2,16 @@
 % Andrés Imlauer
 % 30 Julio 2025
 
-###### Audio en Vocaroo:
-https://vocaroo.com/1efmU5QFpIEW
-###### Audio en Archive.org
-https://archive.org/details/record-86
-###### Audio en YouTube
-https://www.youtube.com/embed/UTkGo4YMaos
+**Audio en Vocaroo**   
+https://vocaroo.com/1efmU5QFpIEW   
+**Audio en Archive.org**   
+https://archive.org/details/record-86   
+**Audio en YouTube**   
+https://www.youtube.com/embed/UTkGo4YMaos   
+   
+https://www.energiademisiones.com.ar/planos-del-pilar/   
 
-https://www.energiademisiones.com.ar/planos-del-pilar/
-
-###### Archivos enviados por WhatsApp
+**Archivos enviados por WhatsApp**       
 https://archive.org/details/aea-770
 
 

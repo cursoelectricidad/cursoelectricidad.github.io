@@ -1,4 +1,4 @@
-% Clase Nº 10: Canalización
+% Clase Nº 10: Canalización. Transición al PVC y Cambios en la Práctica Técnica. Red de distribución externa. Tipos de empalmes. Dentro del mismo caño: 3 circuitos. Sistema trifásico tengo que hacer cañería independiente. Fusible NH. Marca ABB no comprar.
 % Andrés Imlauer
 % 30 Julio 2025
 
