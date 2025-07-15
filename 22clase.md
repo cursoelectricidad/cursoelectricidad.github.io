@@ -5,10 +5,13 @@
 [LO MAS IMPORTANTE DEL CURSO: ESQUEMAS DE MONTAJE]. Teoría para el armado de trabajo práctico. Preguntas de examen.
 
 #### Preguntas de examen
+
 * Eso hay una parte teórica que yo prengunto: con que elementos cuento en una instalación, que debo tener los procedimientos los pasos que necesito, es fácil. En la práctica por ejemplo: buscapolo. Todas esas cosas que hicimos, eso va pregunta escrita.
 * Hay una pregunta que siempre hago y eso es fácil ahora que ustedes están 12 nada más: Donde se toma o donde hago la medición de la tensión. En los borners de la termomagnética bipolar por ejemplo tomo los borners ahí. Ta para que ustedes sepan donde tomo la tensión. Esos dos y tengo 1 elemento que va al común en el caso del tester y el
 otro va Voltaje continuo o voltaje alterna. Entonces yo tomo ahí.
+
 ###### Resumen
+
 * Hay una hoja que les dí agrupación de conductores.
 * Antes de colocar los conductores yo tengo que tener la canalización bien hecha, o sea que esté concluído el montaje de todas las cañerías y cajas.
 * Todos los conductores deberá dejarse una longitud mínima de 15cm, más o menos de 15cm una mano abierta.
