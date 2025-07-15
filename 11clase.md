@@ -1,6 +1,16 @@
-% Clase Nº 11
+% Clase Nº 11: Continuamos con canalización.
 % Andrés Imlauer
 % 30 Julio 2025
+
+#### Audio en Vocaroo:
+https://vocaroo.com/1nCsI2HvLFNc
+#### Audio en Archive.org:
+https://archive.org/details/record-76_202504
+#### Audio en Youtube:
+https://www.youtube.com/embed/nPLnCB8nsbw
+#### Documentos enviados por WhatsApp
+https://archive.org/details/catalogo-tubelectric
+
 
 Continuamos con canalización: cupla, desperdicio de caños, caño corrugado, conductor taller, bandejas de baja alta tensión, medida caños,
 mezclar hierro con PVC no es recomendable pero hacerlo a través de una caja de paso. Corrugado blanco es ignífugo. Fijar cajas en tirante o planchuelas. Montaje horizontal, vertical. RL/RS nomenclatura hierro. Como cobrar canalización y cableado y el recableado.

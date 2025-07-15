@@ -35,39 +35,39 @@ Subscribe to RSS: [/feed.xml](/feed.xml)
 [30 Julio 2025]{.date}
 
 
-[Clase Nº 9](/09clase.md){.title}
+[Clase Nº 9: Clase práctica sobre EMPALMES. Estuve ausente.](/09clase.md){.title}
 [30 Julio 2025]{.date}
 
 
-[Clase Nº 10](/10clase.md){.title}
+[Clase Nº 10: Canalización](/10clase.md){.title}
 [30 Julio 2025]{.date}
 
 
-[Clase Nº 11](/11clase.md){.title}
+[Clase Nº 11: Continuamos con canalización.](/11clase.md){.title}
 [30 Julio 2025]{.date}
 
 
-[Clase Nº 12](/12clase.md){.title}
+[Clase Nº 12: Continuamos canalización.](/12clase.md){.title}
 [30 Julio 2025]{.date}
 
 
-[Clase Nº 13](/13clase.md){.title}
+[Clase Nº 13: [FOTOCOPIA] Uniones caño caja. Cupla. Curvado caños. Sistema U. Colocación. Planos de pilar EMSA. Leemos fotocopia normas IRAM. Caños 5/8 solo en línea recta.](/13clase.md){.title}
 [30 Julio 2025]{.date}
 
 
-[Clase Nº 14](/14clase.md){.title}
+[Clase Nº 14: Instalaciones Eléctricas Seguras. Consejos y Precauciones para Electricistas.](/14clase.md){.title}
 [30 Julio 2025]{.date}
 
 
-[Clase Nº 15](/15clase.md){.title}
+[Clase Nº 15: Leímos catalogo Genrod (Tubeelectric). Exámen entra esquema de una acometida.](/15clase.md){.title}
 [30 Julio 2025]{.date}
 
 
-[Clase Nº 16](/16clase.md){.title}
+[Clase Nº 16: Doblado de Caños, perfilería y estética de una instalación.](/16clase.md){.title}
 [30 Julio 2025]{.date}
 
 
-[Clase Nº 17](/17clase.md){.title}
+[Clase Nº 17: Clase práctica.  Armamos distribución](/17clase.md){.title}
 [30 Julio 2025]{.date}
 
 
