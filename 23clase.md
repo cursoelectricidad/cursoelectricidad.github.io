@@ -10,7 +10,7 @@
 * Hay una pregunta que siempre hago y eso es fácil ahora que ustedes están 12 nada más: Donde se toma o donde hago la medición de la tensión. En los borners de la termomagnética bipolar por ejemplo tomo los borners ahí. Ta para que ustedes sepan donde tomo la tensión. Esos dos y tengo 1 elemento que va al común en el caso del tester y el
 otro va Voltaje continuo o voltaje alterna. Entonces yo tomo ahí.
 
-###### Resumen
+#### Resumen
 
 * Hay una hoja que les dí agrupación de conductores.
 * Antes de colocar los conductores yo tengo que tener la canalización bien hecha, o sea que esté concluído el montaje de todas las cañerías y cajas.
