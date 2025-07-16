@@ -1,4 +1,4 @@
-% Clase Nº 3: Simbología. Red de distribución Morceto. Fusible aéreo. Conductor preensamblado y bipolar. Acometida. Línea de distribución principal. Alimentación trifásica. Esquema de la acometida que entra en el examen.
+% Clase Nº 3: [FOTOCOPIA] Simbología. Red de distribución. Morceto. Fusible aéreo. Conductor preensamblado y bipolar. Acometida. Línea de distribución principal. Alimentación trifásica. Esquema de la acometida que entra en el examen. Definciones: Línea de alimentación, principal, seccional, etc.
 % Andrés Imlauer
 % 30 Julio 2025
 
