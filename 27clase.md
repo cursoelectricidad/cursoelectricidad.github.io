@@ -9,6 +9,7 @@
 **Audio en YouTube**      
 [https://www.youtube.com/embed/R2V3PACiUoU](https://www.youtube.com/embed/R2V3PACiUoU)      
    
+### Ejercicio 6) 2 lámparas con llave combinación
 ![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgSrTjf-8wBSVTVGDK_A3RTY5MIieU197-vIR9HX1ws21IBEOAezoquTtiaLVHZkUouq-H6BxFjqar09hxzciCmtEhhD0QaT0mmvqP-6pAK4zERgMV7UYmnNHZeVN8VhTr-D-mj_MmZe6ff_Co5fHFH8im8rcI33zju6om8RO9RZD01ZXd-NfWngITDQuU/s4160/IMG_20250511_181942963.jpg)   
 ![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhZ2DqC1kepIAqus-2nNq8fCn5dMqMvqef01FtnM_AxkYCgRfzxmSn-Yzjn_cvpBdiyMXorvr41KvMH2QYr5qSbg-PK6YF291yoJFGfamhPjAjRjEpzMUbUukzOJqClTcz9haIRcQmtZ_GA5xQ4JAfdWLw6BMt3FTkydPsfULcOPAybIveWTfA4lDChtXc/s4160/IMG_20250514_202616901.jpg)   
 ![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEil5ew5QVWeyV96tQLOsz_9yDA-mwfO7bNHoyhOXYbuhb-UrjfSBDkNpijhLxkOp0zzuWHXS9v4AA0WhQIzSqPV1fMIgLm67JoHgE-bOXI8LuLW_3sbNVlRvq4zZXmMes9KI8g68tZ5g8Bu9ruU9pDUO6WGmwAmPnifWBZ7yupkjAV0a2vOUugBxksc-Hg/s4160/IMG_20250519_192501319.jpg)   
@@ -17,6 +18,7 @@
 ![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhdnQOfPBWCpAxt8B7VWsj6dswVNaoI1j40lyIF0v6SDtnlHiLekszTgFRzWddGgQsRS6de1iMOl39HCXpqOgEDoKpHx-dF9iAHM9KatlzZ7b810qX7LSsvQKUtc2FN6YJ6ZKc8D96MX7gh5CKWKKbRd3osOFjAkvd5eV__Q1XWWfR94mzmiv6iNsh1M8o/s4160/IMG_20250519_200511478.jpg)   
 ![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjq9pGVB_R-NfOg1-f6_1x5lM25Rsq9Wt6gB7j2Qg_98V-9YwtjN21wRPfDFKwKVUuFFSTCdGJpJ118Jqy0RbyhnoOXQPmXbvBqrVGCrG689mJGWr_AplJYBqbHoJGpQH-ReYmgST00iGbH_Vov0UWB8MejKObXDdLgGedSvhbvAM1sfr3UHrHGFUBgRLk/s4160/IMG_20250519_202033785.jpg)   
 ![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg-vI-zGm1VTF9GOnuZZgzE_IQUHjj2NTlX1jKKyk10ls1YRTuEPiZ4hl6dJ9-knOCMFP4-gYcZjvihQzlYzq8gwtBgymjBqG7DJkvkLprrEfZtfa14sHfGbR_XyG3KuuaHtzjPKmWawohKYSvGHnty-jw2D9-X_IgcE4vxtvJiZORVTrOGy6ix62U2ZMM/s4160/IMG_20250519_203334764.jpg)   
+### Ejercicio 7) 2 lámparas con con llave combinación y una llave de 1 punto.
 ![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgzu5poJnE2u75TZ3K3_eHp2LpK6NLlRVgMUpfDPcR2Ws8Qei2KASo2Cjgkrr8A0bU1TN-fhDk98m3FjSWMGyyxVRbEKzUm2ppi_E8yEpJykYoACD-tDhfB3GLVYPCguAe-gAWsPoWOvyBU_37AX-5mUXIh8dssEI7Yaku12HUjVXZgDW_WQzkmW_nRewY/s4160/IMG_20250519_215122711.jpg)   
    
 **Hice mal. No hace falta una fase para el foco y otra fase para el toma corrientes, podes usar la misma fase de 2,5 mm^2 para ambos hacé un puente.**   
