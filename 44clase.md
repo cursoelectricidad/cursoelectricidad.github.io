@@ -2,13 +2,13 @@
 % Andrés Imlauer
 % 30 Julio 2025
 
-###### Audio en Vocaroo:   
+**Audio en Vocaroo**       
 [https://vocaroo.com/1nYvA7jIrSMl](https://vocaroo.com/1nYvA7jIrSMl)   
-###### Audio en Archive:   
+**Audio en Archive**        
 [https://archive.org/details/record-173](https://archive.org/details/record-173)   
-###### Audio en YouTube:   
+**Audio en YouTube**       
 [https://www.youtube.com/embed/tGN2cpJzc6Q](https://www.youtube.com/embed/tGN2cpJzc6Q)   
-###### RCP:   
+**RCP**        
 [https://www.youtube.com/embed/GB54VXNrf3I](https://www.youtube.com/embed/GB54VXNrf3I)   
    
 ![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgP_mXYgz-p0s6ye9EivR3Fmb6yOt2ot_jOPNHsKqHD5MRRb2zHakfLlt_7Dbn3K4joW-EWoCsWmx9_3X8PybZkAhtzzKeSFm6yvO_N9INLU3kEDRtCuxARC6GNiM9_p2angX5khfSiHzuX2-n58McOsSuRPvtUlTtUUYintROB7NRhN_PnwNLfygG5Eds/s4160/IMG-20250630-WA0003.jpg)   
