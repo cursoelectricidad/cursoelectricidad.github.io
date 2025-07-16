@@ -15,11 +15,11 @@ Subscribe to RSS: [/feed.xml](/feed.xml)
 [30 Julio 2025]{.date}
 
 
-[Clase Nº 4: Simbología. Conceptos básicos. Efecto YULL. Sistemas de Puesta a Tierra. Pregunta de examen.](/04clase.md){.title}
+[Clase Nº 4: Simbología. Regleta de sección de cables. Efecto YULL. Sistemas de Puesta a Tierra. Pregunta de examen.](/04clase.md){.title}
 [30 Julio 2025]{.date}
 
 
-[Clase Nº 5: Simbología. Normas y Precauciones. Pelar Cables y Conectar Acometidas. Tableros y Sistemas de Medición.](/05clase.md){.title}
+[Clase Nº 5: [FOTOCOPIA de pilar monofásico y requisitos generales] Simbología. Morceto. Normas y Precauciones. Pelar Cables y Conectar Acometidas. Tableros y Sistemas de Medición.](/05clase.md){.title}
 [30 Julio 2025]{.date}
 
 
@@ -27,11 +27,11 @@ Subscribe to RSS: [/feed.xml](/feed.xml)
 [30 Julio 2025]{.date}
 
 
-[Clase Nº 7: Simbología. Desarmamos tablero anterior y desarmamos y armamos portalámparas desde 0, identificando donde colocar la fase y neutro en la lámpara.](/07clase.md){.title}
+[Clase Nº 7: [FOTOCOPIA Simbología]. Desarmamos tablero anterior y desarmamos y armamos portalámparas desde 0, identificando donde colocar la fase y neutro en la portalámpara.](/07clase.md){.title}
 [30 Julio 2025]{.date}
 
 
-[Clase Nº 8: Empalmes. Reglamentación AEA 90364: Altura colocar cajas. Ubicación de las bocas de interruptores de efecto. Ubicación de las bocas de tomacorrientes. Clase que viene realizaremos: uniones en cajas de paso, ortogonal y 5x10"](/08clase.md){.title}
+[Clase Nº 8: [FOTOCOPIA ALTURA CAJAS] Empalmes. Reglamentación AEA 90364: Altura colocar cajas. Ubicación de las bocas de interruptores de efecto. Ubicación de las bocas de tomacorrientes. Clase que viene realizaremos: uniones en cajas de paso, ortogonal y 5x10"](/08clase.md){.title}
 [30 Julio 2025]{.date}
 
 
@@ -39,7 +39,7 @@ Subscribe to RSS: [/feed.xml](/feed.xml)
 [30 Julio 2025]{.date}
 
 
-[Clase Nº 10: Canalización. Transición al PVC y Cambios en la Práctica Técnica. Red de distribución externa. Tipos de empalmes. Dentro del mismo caño: 3 circuitos. Sistema trifásico tengo que hacer cañería independiente. Fusible NH. Marca ABB no comprar.](/10clase.md){.title}
+[Clase Nº 10: [FOTOCOPIA empalmes y costos de trabajo] Canalización. Transición al PVC y Cambios en la Práctica Técnica. Red de distribución externa. Tipos de empalmes. Dentro del mismo caño: 3 circuitos. Sistema trifásico tengo que hacer cañería independiente. Fusible NH. Marca ABB no comprar.](/10clase.md){.title}
 [30 Julio 2025]{.date}
 
 
@@ -51,7 +51,7 @@ Subscribe to RSS: [/feed.xml](/feed.xml)
 [30 Julio 2025]{.date}
 
 
-[Clase Nº 13: [FOTOCOPIA] Uniones caño caja. Cupla. Curvado caños. Sistema U. Colocación. Planos de pilar EMSA. Leemos fotocopia normas IRAM. Caños 5/8 solo en línea recta.](/13clase.md){.title}
+[Clase Nº 13: [FOTOCOPIA Uniones caño caja, sección de conductores]. Cupla. Curvado caños. Sistema U. Colocación. Planos de pilar EMSA. Leemos fotocopia normas IRAM. Caños 5/8 solo en línea recta.](/13clase.md){.title}
 [30 Julio 2025]{.date}
 
 
@@ -59,7 +59,7 @@ Subscribe to RSS: [/feed.xml](/feed.xml)
 [30 Julio 2025]{.date}
 
 
-[Clase Nº 15: Leímos catalogo Genrod (Tubeelectric). Exámen entra esquema de una acometida.](/15clase.md){.title}
+[Clase Nº 15: Leímos catalogo Genrod (Tubeelectric). Exámen entra esquema general que vimos en la 3era clase (la primera en mi caso).](/15clase.md){.title}
 [30 Julio 2025]{.date}
 
 
@@ -71,11 +71,11 @@ Subscribe to RSS: [/feed.xml](/feed.xml)
 [30 Julio 2025]{.date}
 
 
-[Clase Nº 18: Alarmas. Guía AEA.](/18clase.md){.title}
+[Clase Nº 18: Alarmas. Canalización subterránea. Como enterrar un conductor subterráneo. Guía AEA.](/18clase.md){.title}
 [30 Julio 2025]{.date}
 
 
-[Clase Nº 19: FOTOCOPIA. España apagón. Sistemas de alarma. Conocimientos básicos de electricidad y seguridad para obreros.](/19clase.md){.title}
+[Clase Nº 19: [FOTOCOPIA] España apagón. Sistemas de alarma. Conocimientos básicos de electricidad y seguridad para obreros.](/19clase.md){.title}
 [30 Julio 2025]{.date}
 
 

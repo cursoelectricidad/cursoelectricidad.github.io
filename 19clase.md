@@ -1,4 +1,4 @@
-% Clase Nº 19: FOTOCOPIA. España apagón. Sistemas de alarma. Conocimientos básicos de electricidad y seguridad para obreros.
+% Clase Nº 19: [FOTOCOPIA] España apagón. Sistemas de alarma. Conocimientos básicos de electricidad y seguridad para obreros.
 % Andrés Imlauer
 % 30 Julio 2025
 

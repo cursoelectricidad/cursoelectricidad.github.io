@@ -1,4 +1,4 @@
-% Clase Nº 5: Simbología. Normas y Precauciones. Pelar Cables y Conectar Acometidas. Tableros y Sistemas de Medición.
+% Clase Nº 5: [FOTOCOPIA de pilar monofásico y requisitos generales] Simbología. Morceto. Normas y Precauciones. Pelar Cables y Conectar Acometidas. Tableros y Sistemas de Medición.
 % Andrés Imlauer
 % 30 Julio 2025
 
