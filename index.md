@@ -99,87 +99,87 @@ Subscribe to RSS: [/feed.xml](/feed.xml)
 [30 Julio 2025]{.date}
 
 
-[Clase Nº 25: Armamos tablero: 2)Dos lámparas y 2 interruptores en la misma caja. 3)Dos lámparas y 2 interruptores en distintas cajas.](/25clase.md){.title}
+[Clase Nº 25: Armamos tablero: 2)Dos lámparas y 1 interruptor. 3)Dos lámparas y 2 interruptores en la misma caja. La fase siempre es recomendable que esté en el medio. El circuito que hice no funcionó porque luego de probar el primer ejercicio desarmé el portalámparas cuando saqué el foco y ya no hacía contacto. El profesor en un comienzo pensó que era la llave de punto y me la hizo cambiar pero en realidad era el portalámparas que estaba flojo.](/25clase.md){.title}
 [30 Julio 2025]{.date}
 
 
-[Clase Nº 26](/26clase.md){.title}
+[Clase Nº 26: Armamos tablero: 4) Dos lámparas y 2 interruptores en distintas cajas. 5) Una lámpara con llave combinación](/26clase.md){.title}
 [30 Julio 2025]{.date}
 
 
-[Clase Nº 27](/27clase.md){.title}
+[Clase Nº 27: [LO MAS IMPORTANTE DEL CURSO: LOS ULTIMOS 2 ESQUEMAS DE MONTAJE] 6) Dos lámparas con llave combinación. 7) Dos lámparas. Una con llave combinación y otra con llave de 1 punto. Comenzamos ejercicio 8. En el exámen entra el diagrama unifilar de todo esto."](/27clase.md){.title}
 [30 Julio 2025]{.date}
 
 
-[Clase Nº 28](/28clase.md){.title}
+[Clase Nº 28: [LO MAS IMPORTANTE DEL CURSO: ESQUEMA DE MONTAJE] 8) Llave de 1 punto y toma corrientes 1 lámpara - Baño. Cortamos la luz para probar disyuntor.](/28clase.md){.title}
 [30 Julio 2025]{.date}
 
 
-[Clase Nº 29](/29clase.md){.title}
+[Clase Nº 29: [FOTOCOPIA] Tester. Multímetro. Vacunación. Preguntas exámen: 01:55](/29clase.md){.title}
 [30 Julio 2025]{.date}
 
 
-[Clase Nº 30](/30clase.md){.title}
+[Clase Nº 30: Protecciones. Instalaciones Electricidad Domiciliaria. Corriente máxima por conductor.](/30clase.md){.title}
 [30 Julio 2025]{.date}
 
 
-[Clase Nº 31](/31clase.md){.title}
+[Clase Nº 31: [FOTOCOPIA] Ordenamos. Fusibles. Térmicas. Mortero. Driver. Etc. Día de Lluvia.](/31clase.md){.title}
 [30 Julio 2025]{.date}
 
 
-[Clase Nº 32](/32clase.md){.title}
+[Clase Nº 32: [FOTOCOPIA] Protecciones. Interruptor termomagnético. Fusibles. Repaso.](/32clase.md){.title}
 [30 Julio 2025]{.date}
 
 
-[Clase Nº 33](/33clase.md){.title}
+[Clase Nº 33: [FOTOCOPIA] Foto termomagnética. Leímos fotocopia interruptor termomagnético. Potencia nominal. Corriente máxima por sección de cable.](/33clase.md){.title}
 [30 Julio 2025]{.date}
 
 
-[Clase Nº 34](/34clase.md){.title}
+[Clase Nº 34: Calculamos la corriente nominal (P = VxI). Conductor. Térmica protectora. Preguntas examen.](/34clase.md){.title}
 [30 Julio 2025]{.date}
 
 
-[Clase Nº 35](/35clase.md){.title}
+[Clase Nº 35: Interruptor Diferencial (Disyuntor)](/35clase.md){.title}
 [30 Julio 2025]{.date}
 
 
-[Clase Nº 36](/36clase.md){.title}
+[Clase Nº 36: [FOTO DE PUESTA A TIERRA] Partes de un disyuntor. Sistema de puesta a tierra. Preguntas de exámen.](/36clase.md){.title}
 [30 Julio 2025]{.date}
 
 
-[Clase Nº 37](/37clase.md){.title}
+[Clase Nº 37: Puesta a tierra. Jabalina. Disyuntor igual o mayor a térmica. Preguntas examen.](/37clase.md){.title}
 [30 Julio 2025]{.date}
 
 
-[Clase Nº 38](/38clase.md){.title}
+[Clase Nº 38: Puesta a tierra. Bajar sensibilidad disyuntor. Tetrapolar con 2 salidas de circuito. Tipos canalizacion. Descarga rayos. Esquema acometida. Preguntas Examen."](/38clase.md){.title}
 [30 Julio 2025]{.date}
 
 
-[Clase Nº 39](/39clase.md){.title}
+[Clase Nº 39: FOTO del Examen teórico](/39clase.md){.title}
 [30 Julio 2025]{.date}
 
 
-[Clase Nº 40](/40clase.md){.title}
+[Clase Nº 40: [FOTOCOPIA VIEJA DE AGRUPACION DE CONDUCTORES] Foto del examen teórico (Continuación). Foto interruptor. Fotocopia agrupación de conductores normas."](/40clase.md){.title}
 [30 Julio 2025]{.date}
 
 
-[Clase Nº 41](/41clase.md){.title}
+[Clase Nº 41: [FOTOCOPIA] Fotocelula. Fotocontrol. Fotocélula siempre mirando al norte.](/41clase.md){.title}
 [30 Julio 2025]{.date}
 
 
-[Clase Nº 42](/42clase.md){.title}
+[Clase Nº 42: Clase práctica. Armamos tablero con fotocélula.](/42clase.md){.title}
 [30 Julio 2025]{.date}
 
 
-[Clase Nº 43](/43clase.md){.title}
+[Clase Nº 43: Clase teórica: Tableros. Ayudante abre un candado (de baja calidad) con un paper clip (encontré video en ingles que explica como hacerlo)](/43clase.md){.title}
 [30 Julio 2025]{.date}
 
 
-[Clase Nº 44](/44clase.md){.title}
+[Clase Nº 44: Clase práctica. Como hacer RCP (Posadas Reanima)](/44clase.md){.title}
 [30 Julio 2025]{.date}
 
 
-[Clase Nº 45](/45clase.md){.title}
+[Clase Nº 45: Teoría. Riesgo eléctrico. Elementos de protección. Vimos videos en proyector.](/45clase.md){.title}
 [30 Julio 2025]{.date}
 
 
