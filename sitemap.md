@@ -24,7 +24,7 @@ List of pages:
 * /20clase.md: [Clase Nº 20: Sistema Alarma. Corriente Alterna/Continua. Tester. Profesor hace chistes sobre número de avogadro y se enoja con otro.](/20clase.md)
 * /21clase.md: [Clase Nº 21: Vimos una instalación mal hecha: Errores y Mejoras. Conexiones en Serie y Paralelo. ](/21clase.md)
 * /22clase.md: [Clase Nº 22: Clase práctica. Armado de Tablero Paralelo. Fundamentos de Electricidad: Paralelo y Serie, Tensión y Corriente.](/22clase.md)
-* /23clase.md: [Clase Nº 23: Esquemas de Montaje. Preguntas de examen. (Una de las clases más importantes)](/23clase.md)
+* /23clase.md: [Clase Nº 23: Esquemas de Montaje. Preguntas de examen. [UNA DE LAS CLASES MÁS IMPORTANTES]](/23clase.md)
 * /24clase.md: [Clase Nº 24: Armado y Comprobación de Tableros Eléctricos. Comprobación de Continuidad. ](/24clase.md)
 * /25clase.md: [Clase Nº 25: Armamos tablero: 2)Dos lámparas y 1 interruptor. 3)Dos lámparas y 2 interruptores en la misma caja. La fase siempre es recomendable que esté en el medio. El circuito que hice no funcionó porque luego de probar el primer ejercicio desarmé el portalámparas cuando saqué el foco y ya no hacía contacto. El profesor en un comienzo pensó que era la llave de punto y me la hizo cambiar pero en realidad era el portalámparas que estaba flojo.](/25clase.md)
 * /26clase.md: [Clase Nº 26: Armamos tablero: 4) Dos lámparas y 2 interruptores en distintas cajas. 5) Una lámpara con llave combinación](/26clase.md)

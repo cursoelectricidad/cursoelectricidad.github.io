@@ -91,7 +91,7 @@ Subscribe to RSS: [/feed.xml](/feed.xml)
 [30 Julio 2025]{.date}
 
 
-[Clase Nº 23: Esquemas de Montaje. Preguntas de examen. (Una de las clases más importantes)](/23clase.md){.title}
+[Clase Nº 23: Esquemas de Montaje. Preguntas de examen. [UNA DE LAS CLASES MÁS IMPORTANTES]](/23clase.md){.title}
 [30 Julio 2025]{.date}
 
 
