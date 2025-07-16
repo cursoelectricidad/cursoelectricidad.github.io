@@ -2,13 +2,13 @@
 % Andrés Imlauer
 % 30 Julio 2025
 
-#### Audio en Vocaroo:
-https://vocaroo.com/1mOXmDVVcNcE
-#### Audio en Archive:
-https://archive.org/details/record-74
-#### Audio en Youtube:
-https://www.youtube.com/embed/Cc_CGLRU5xQ
-
+**Audio en Vocaroo**  
+[https://vocaroo.com/1mOXmDVVcNcE](https://vocaroo.com/1mOXmDVVcNcE)  
+**Audio en Archive**  
+[https://archive.org/details/record-74](https://archive.org/details/record-74)  
+**Audio en Youtube**  
+[https://www.youtube.com/embed/Cc_CGLRU5xQ](https://www.youtube.com/embed/Cc_CGLRU5xQ)  
+  
 Canalización. Transición al PVC y Cambios en la Práctica Técnica. Red de distribución externa. Tipos de empalmes. Dentro del mismo caño:
 3 circuitos. Sistema trifásico tengo que hacer cañería independiente. Fusible NH. Cable desnudo es de aluminio porque si fuera de cobre robarían. Conductor preensamblado
 se utiliza principalmente para líneas aéreas. Acometida medidor línea aérea, eso nos pide hoy la gente de la cooperativa en este caso también EMSA que ese conductor sea preensamblado. Preensamblado: 45 amper, conductor bipolar no llega a 30 amper. Antihurto = concéntrico. Marca ABB no. Anécdota de su alumno que trabajó para un arquitecto

@@ -2,15 +2,15 @@
 % Andrés Imlauer
 % 30 Julio 2025
 
-**Audio en Vocaroo**     
-https://vocaroo.com/18rfPSWtQmJT     
-**Audio en Archive**     
-https://archive.org/details/record-104     
-**Audio en YouTube**     
-https://www.youtube.com/embed/HXGFTzbrKP8     
-     
-**Video mandado por WhatsApp**     
-https://www.youtube.com/embed/BEFGzbV5SE8     
+**Audio en Vocaroo**        
+[https://vocaroo.com/18rfPSWtQmJT](https://vocaroo.com/18rfPSWtQmJT)   
+**Audio en Archive**        
+[https://archive.org/details/record-104](https://archive.org/details/record-104)   
+**Audio en YouTube**        
+[https://www.youtube.com/embed/HXGFTzbrKP8](https://www.youtube.com/embed/HXGFTzbrKP8)   
+        
+**Video mandado por WhatsApp**        
+[https://www.youtube.com/embed/BEFGzbV5SE8](https://www.youtube.com/embed/BEFGzbV5SE8)   
      
      
 Vimos una instalación eléctrica mal hecha. La idea original era una radio ahora es streaming. Clase práctica. Conectamos 3 lámparas en serie y en paralelo. Si están las 3 lámparas en serie baja la luz. Si las 3 lámparas están en paralelo tienen la misma intensidad de luz. Profesor no quiere cajas de PVC porque se aplastan. Si usas cajas de PVC hay que poner 2 o 3 soporte para que no se aplaste. Como fijar cajas. Utilizan cajas de iluminación como caja de paso. Si las cajas no están fijas hay que volver a hacer. Caños de más, mal recorrido. Lo hicieron sin planos: ponemos una boca acá un toma acá y la llave de punto ahí y arreglate. Hay que tener cuidado con el plástico porque se desforma. Hay que poner madera para poder fijar las cajas. Con el alambre no sirve para fijar las cajas, no tiene que moverse para arriba ni para abajo. Con la manguera se saca nivel de agua. Las cajas con orejitas son para durlock. Las cajas tienen que tener 15 de distancia sino si enchufás algo no se puede abrir la puerta. Le falta tierra a la ducha, pusieron bien caño(7/8) y conductor(4mm). Lo que no se ve podes hacerlo en diagonal pero en las paredes siempre ortogonal. El entrecruzamiento de caños está mal. El profesor ofreció enseñar a la gente que hizo la instalación pero no quisieron. no poner tanta cantidad de caños, tomar

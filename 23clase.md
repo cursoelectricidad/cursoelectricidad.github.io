@@ -4,14 +4,14 @@
 
 [LO MAS IMPORTANTE DEL CURSO: ESQUEMAS DE MONTAJE]. Teoría para el armado de trabajo práctico. Preguntas de examen.
 
-**Audio en Vocaroo**     
-https://vocaroo.com/12vVDMn5Viq2     
-**Audio en Archive.org**     
-https://archive.org/details/record-113     
-**Audio en YouTube**     
-https://www.youtube.com/watch?v=v5VihbvcxFw     
-https://www.youtube.com/embed/v5VihbvcxFw     
-     
+**Audio en Vocaroo**        
+[https://vocaroo.com/12vVDMn5Viq2](https://vocaroo.com/12vVDMn5Viq2)   
+**Audio en Archive.org**        
+[https://archive.org/details/record-113](https://archive.org/details/record-113)   
+**Audio en YouTube**        
+[https://www.youtube.com/watch?v=v5VihbvcxFw](https://www.youtube.com/watch?v=v5VihbvcxFw     )   
+[https://www.youtube.com/embed/v5VihbvcxFw](https://www.youtube.com/embed/v5VihbvcxFw)   
+        
      
 #### Preguntas de examen
 

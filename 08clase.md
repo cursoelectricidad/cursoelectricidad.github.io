@@ -2,12 +2,12 @@
 % Andrés Imlauer
 % 30 Julio 2025
 
-**Audio en Vocaroo**     
-https://vocaroo.com/1ogqpgbNGUlR     
-**Audio en Archive.org**     
-https://archive.org/details/record-66     
-**Audio en YouTube**     
-https://www.youtube.com/embed/icXGJc3v5fg     
+**Audio en Vocaroo**        
+[https://vocaroo.com/1ogqpgbNGUlR](https://vocaroo.com/1ogqpgbNGUlR)   
+**Audio en Archive.org**        
+[https://archive.org/details/record-66](https://archive.org/details/record-66)   
+**Audio en YouTube**        
+[https://www.youtube.com/embed/icXGJc3v5fg](https://www.youtube.com/embed/icXGJc3v5fg)   
      
 Empalmes. Reglamentación AEA 90364: Altura colocar cajas. Ubicación de las bocas de interruptores de efecto. Ubicación de las bocas de tomacorrientes. Clase que viene realizaremos: uniones en cajas de paso, ortogonal y 5x10     
    

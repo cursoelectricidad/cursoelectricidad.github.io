@@ -2,14 +2,14 @@
 % Andrés Imlauer
 % 30 Julio 2025
 
-**Audio en Vocaroo**   
-https://vocaroo.com/1hjLQYyLQIkS   
-   
-**Audio en Archive.org**   
-https://archive.org/details/record-94   
-   
-**Audio en YouTube**   
-https://www.youtube.com/embed/rDrnbLd95v0   
+**Audio en Vocaroo**       
+[https://vocaroo.com/1hjLQYyLQIkS](https://vocaroo.com/1hjLQYyLQIkS)    
+       
+**Audio en Archive.org**       
+[https://archive.org/details/record-94](https://archive.org/details/record-94)    
+       
+**Audio en YouTube**       
+[https://www.youtube.com/embed/rDrnbLd95v0](https://www.youtube.com/embed/rDrnbLd95v0)    
    
 ![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgR2oDACyxHDQ0bJvEQ82OSugA5G6bHJnpdM5ARc7IXawIqUfoDq5oiy3rIiS5js7FBkxkmfI2GLviJAq7z6W6Fz_og3e41SpbRf-pceV89KXQLKBPQ2RvDaOFEngWuxG5n3K2swp449Y5oxW6T-hObmnYIO4gtEhaElEXVfZs_RIKt9Bz_F1Ict7CL4sM/s1536/fed64637-9be9-4ca9-ac1e-7bdfb85c73b5.png)
 ![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjzIvZGrzx4Q3JNdf3Zv5TYOnbkopNYTT3U-wsvd6cTkuY64XbcawrzjA7nlVpjx0k84fGFoRRK4QZNElMqGtzHkvUBRrRYaFmvEJlGFzWvTXL7N797ClumK-yc_dhSC3pipl0RnSRShovvyEJ8Piqy_75xxObnDrcT4hAiqy6pxSukKSADUMDjG6dkVCI/s4160/IMG-20250422-WA0002.jpg)

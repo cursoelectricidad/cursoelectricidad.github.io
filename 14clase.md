@@ -3,16 +3,16 @@
 % 30 Julio 2025
 
 **Audio en Vocaroo**   
-https://vocaroo.com/1efmU5QFpIEW   
+[https://vocaroo.com/1efmU5QFpIEW](https://vocaroo.com/1efmU5QFpIEW)
 **Audio en Archive.org**   
-https://archive.org/details/record-86   
+[https://archive.org/details/record-86](https://archive.org/details/record-86)
 **Audio en YouTube**   
-https://www.youtube.com/embed/UTkGo4YMaos   
+[https://www.youtube.com/embed/UTkGo4YMaos](https://www.youtube.com/embed/UTkGo4YMaos)
    
-https://www.energiademisiones.com.ar/planos-del-pilar/   
+[https://www.energiademisiones.com.ar/planos-del-pilar/](https://www.energiademisiones.com.ar/planos-del-pilar/)
 
-**Archivos enviados por WhatsApp**       
-https://archive.org/details/aea-770
+**Archivos enviados por WhatsApp**        
+[https://archive.org/details/aea-770](https://archive.org/details/aea-770)
 
 
 Siempre sacar una foto antes de tocar un tablero porque después te quieren echar la culpa. Catálogo INET cursos formación profesional. Usar el tester para saber cuál es el neutro si es del medio o el de afuera en el medidor monofásico. Si yo tengo una distancia menor que 5 metros directamente pongo disyuntor, sino tengo que poner un interruptor principal de cabecera porque hay una distancia muy grande y en ese trayecto puede haber un cortocircuito. Tiene 4: 2 entradas y 2

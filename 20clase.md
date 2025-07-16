@@ -2,15 +2,15 @@
 % Andrés Imlauer
 % 30 Julio 2025
 
-**Audio en Vocaroo**
-https://vocaroo.com/1cAFyikGV6rm
-**Audio en Archive**
-https://archive.org/details/record-103
-**Audio en YouTube**
-https://www.youtube.com/embed/RPvLhFV1H4Y
-**Documentos enviados por WhatsApp: (La importancia de la puesta a tierra)**
-https://archive.is/wip/oRRq6
-
+**Audio en Vocaroo**   
+[https://vocaroo.com/1cAFyikGV6rm](https://vocaroo.com/1cAFyikGV6rm)   
+**Audio en Archive**   
+[https://archive.org/details/record-103](https://archive.org/details/record-103)   
+**Audio en YouTube**   
+[https://www.youtube.com/embed/RPvLhFV1H4Y](https://www.youtube.com/embed/RPvLhFV1H4Y)   
+**Documentos enviados por WhatsApp: (La importancia de la puesta a tierra)**   
+[https://archive.is/wip/oRRq6](https://archive.is/wip/oRRq6)   
+   
 ![](https://scontent.fpss7-1.fna.fbcdn.net/v/t39.30808-6/494277040_1763111434550034_7338506165126566287_n.jpg?_nc_cat=1&ccb=1-7&_nc_sid=aa7b47&_nc_ohc=GZt0nbLtSBEQ7kNvwGpi3Ic&_nc_oc=Adl9OEWK2x2BFrSka3fyHXJZOdOxEnt2blm78wOC9MS4vw9Ozi31DFPDt2QciV44JKhNptYCe0-hUTi67GBDwiuZ&_nc_zt=23&_nc_ht=scontent.fpss7-1.fna&_nc_gid=lA7sM6TBMzYO534drQsiOg&oh=00_AfF8A1tz2NxZ5KuEmp76KiGwRFha6km4ajZGrxNulzU4Zg&oe=681847EC)
 
 Sistema Alarma. Corriente Alterna/Continua. Tester multímetro, medimos continuidad. Profesor hace chistes sobre número de avogadro de un alumno de la clase anterior y se enoja con otro (Hora 1:36 y hora 1:46). La clase que viene hacemos circuito paralelo y en serie. Llevar foco incandescente.

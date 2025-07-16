@@ -27,7 +27,7 @@ Subscribe to RSS: [/feed.xml](/feed.xml)
 [30 Julio 2025]{.date}
 
 
-[Clase Nº 7](/07clase.md){.title}
+[Clase Nº 7: Desarmamos bastidores anterior y desarmamos y armamos portalámparas desde 0, identificando fase y neutro.](/07clase.md){.title}
 [30 Julio 2025]{.date}
 
 
