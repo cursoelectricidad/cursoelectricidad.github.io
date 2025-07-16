@@ -8,7 +8,7 @@ List of pages:
 * /04clase.md: [Clase Nº 4: Interruptores, Sistemas de Puesta a Tierra](/04clase.md)
 * /05clase.md: [Clase Nº 5: Simbología. Normas y Precauciones. Pelar Cables y Conectar Acometidas. Tableros y Sistemas de Medición.](/05clase.md)
 * /06clase.md: [Clase Nº 6: Capacitación en Trabajo en Altura. Simbología. Instalaciones Eléctricas: Conceptos básicos. ](/06clase.md)
-* /07clase.md: [Clase Nº 7: Desarmamos bastidores anterior y desarmamos y armamos portalámparas desde 0, identificando fase y neutro.](/07clase.md)
+* /07clase.md: [Clase Nº 7: Simbología. Desarmamos bastidores anterior y desarmamos y armamos portalámparas desde 0, identificando fase y neutro.](/07clase.md)
 * /08clase.md: [Clase Nº 8: Empalmes. Reglamentación AEA 90364: Altura colocar cajas. Ubicación de las bocas de interruptores de efecto. Ubicación de las bocas de tomacorrientes. Clase que viene realizaremos: uniones en cajas de paso, ortogonal y 5x10"](/08clase.md)
 * /09clase.md: [Clase Nº 9: Clase práctica sobre EMPALMES. ](/09clase.md)
 * /10clase.md: [Clase Nº 10: Canalización. Transición al PVC y Cambios en la Práctica Técnica. Red de distribución externa. Tipos de empalmes. Dentro del mismo caño: 3 circuitos. Sistema trifásico tengo que hacer cañería independiente. Fusible NH. Marca ABB no comprar.](/10clase.md)
