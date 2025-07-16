@@ -1,4 +1,4 @@
-% Clase Nº 24: Armado y Comprobación de Tableros Eléctricos. Comprobación de Continuidad. 
+% Clase Nº 24: Clase práctica. Armado y Comprobación de Tableros Eléctricos. Comprobación de Continuidad. 
 % Andrés Imlauer
 % 30 Julio 2025
 

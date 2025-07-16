@@ -1,4 +1,4 @@
-% Clase Nº 45: Teoría. Riesgo eléctrico. Elementos de protección. Vimos videos en proyector.
+% Clase Nº 45: Riesgo eléctrico. Elementos de protección. Vimos videos en proyector.
 % Andrés Imlauer
 % 30 Julio 2025
 

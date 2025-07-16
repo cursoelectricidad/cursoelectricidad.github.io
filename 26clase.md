@@ -1,4 +1,4 @@
-% Clase Nº 26: Armamos tablero: 4) Dos lámparas y 2 interruptores en distintas cajas. 5) Una lámpara con llave combinación
+% Clase Nº 26: Clase práctica. Armamos tablero: 4) Dos lámparas y 2 interruptores en distintas cajas. 5) Una lámpara con llave combinación
 % Andrés Imlauer
 % 30 Julio 2025
 

@@ -1,4 +1,4 @@
-% Clase Nº 43: Clase teórica: Tableros. Ayudante abre un candado (de baja calidad) con un paper clip (encontré video en ingles que explica como hacerlo)
+% Clase Nº 43: Tableros. Ayudante abre un candado (de baja calidad) con un paper clip (encontré video en ingles que explica como hacerlo)
 % Andrés Imlauer
 % 30 Julio 2025
 

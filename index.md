@@ -95,23 +95,23 @@ Subscribe to RSS: [/feed.xml](/feed.xml)
 [30 Julio 2025]{.date}
 
 
-[Clase Nº 24: Armado y Comprobación de Tableros Eléctricos. Comprobación de Continuidad. ](/24clase.md){.title}
+[Clase Nº 24: Clase práctica. Armado y Comprobación de Tableros Eléctricos. Comprobación de Continuidad. ](/24clase.md){.title}
 [30 Julio 2025]{.date}
 
 
-[Clase Nº 25: Armamos tablero: 2)Dos lámparas y 1 interruptor. 3)Dos lámparas y 2 interruptores en la misma caja. La fase siempre es recomendable que esté en el medio. El circuito que hice no funcionó porque luego de probar el primer ejercicio desarmé el portalámparas cuando saqué el foco y ya no hacía contacto. El profesor en un comienzo pensó que era la llave de punto y me la hizo cambiar pero en realidad era el portalámparas que estaba flojo.](/25clase.md){.title}
+[Clase Nº 25: Clase práctica. Armamos tablero: 2)Dos lámparas y 1 interruptor. 3)Dos lámparas y 2 interruptores en la misma caja. La fase siempre es recomendable que esté en el medio. El circuito que hice no funcionó porque luego de probar el primer ejercicio desarmé el portalámparas cuando saqué el foco y ya no hacía contacto. El profesor en un comienzo pensó que era la llave de punto y me la hizo cambiar pero en realidad era el portalámparas que estaba flojo.](/25clase.md){.title}
 [30 Julio 2025]{.date}
 
 
-[Clase Nº 26: Armamos tablero: 4) Dos lámparas y 2 interruptores en distintas cajas. 5) Una lámpara con llave combinación](/26clase.md){.title}
+[Clase Nº 26: Clase práctica. Armamos tablero: 4) Dos lámparas y 2 interruptores en distintas cajas. 5) Una lámpara con llave combinación](/26clase.md){.title}
 [30 Julio 2025]{.date}
 
 
-[Clase Nº 27: [LO MAS IMPORTANTE DEL CURSO: LOS ULTIMOS 2 ESQUEMAS DE MONTAJE] 6) Dos lámparas con llave combinación. 7) Dos lámparas. Una con llave combinación y otra con llave de 1 punto. Comenzamos ejercicio 8. En el exámen entra el diagrama unifilar de todo esto."](/27clase.md){.title}
+[Clase Nº 27: Clase práctica. [LO MAS IMPORTANTE DEL CURSO: LOS ULTIMOS 2 ESQUEMAS DE MONTAJE] 6) Dos lámparas con llave combinación. 7) Dos lámparas. Una con llave combinación y otra con llave de 1 punto. Comenzamos ejercicio 8. En el exámen entra el diagrama unifilar de todo esto."](/27clase.md){.title}
 [30 Julio 2025]{.date}
 
 
-[Clase Nº 28: [LO MAS IMPORTANTE DEL CURSO: ESQUEMA DE MONTAJE] 8) Llave de 1 punto y toma corrientes 1 lámpara - Baño. Cortamos la luz para probar disyuntor.](/28clase.md){.title}
+[Clase Nº 28: Clase práctica. [LO MAS IMPORTANTE DEL CURSO: ESQUEMA DE MONTAJE] 8) Llave de 1 punto y toma corrientes 1 lámpara - Baño. Cortamos la luz para probar disyuntor.](/28clase.md){.title}
 [30 Julio 2025]{.date}
 
 
@@ -155,7 +155,7 @@ Subscribe to RSS: [/feed.xml](/feed.xml)
 [30 Julio 2025]{.date}
 
 
-[Clase Nº 39: FOTO del Examen teórico](/39clase.md){.title}
+[Clase Nº 39: Exámen. FOTO del Examen teórico](/39clase.md){.title}
 [30 Julio 2025]{.date}
 
 
@@ -171,7 +171,7 @@ Subscribe to RSS: [/feed.xml](/feed.xml)
 [30 Julio 2025]{.date}
 
 
-[Clase Nº 43: Clase teórica: Tableros. Ayudante abre un candado (de baja calidad) con un paper clip (encontré video en ingles que explica como hacerlo)](/43clase.md){.title}
+[Clase Nº 43: Tableros. Ayudante abre un candado (de baja calidad) con un paper clip (encontré video en ingles que explica como hacerlo)](/43clase.md){.title}
 [30 Julio 2025]{.date}
 
 
@@ -179,7 +179,7 @@ Subscribe to RSS: [/feed.xml](/feed.xml)
 [30 Julio 2025]{.date}
 
 
-[Clase Nº 45: Teoría. Riesgo eléctrico. Elementos de protección. Vimos videos en proyector.](/45clase.md){.title}
+[Clase Nº 45: Riesgo eléctrico. Elementos de protección. Vimos videos en proyector.](/45clase.md){.title}
 [30 Julio 2025]{.date}
 
 

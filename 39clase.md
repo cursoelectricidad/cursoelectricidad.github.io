@@ -1,4 +1,4 @@
-% Clase Nº 39: FOTO del Examen teórico
+% Clase Nº 39: Exámen. FOTO del Examen teórico
 % Andrés Imlauer
 % 30 Julio 2025
 

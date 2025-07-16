@@ -1,4 +1,4 @@
-% Clase Nº 28: [LO MAS IMPORTANTE DEL CURSO: ESQUEMA DE MONTAJE] 8) Llave de 1 punto y toma corrientes 1 lámpara - Baño. Cortamos la luz para probar disyuntor.
+% Clase Nº 28: Clase práctica. [LO MAS IMPORTANTE DEL CURSO: ESQUEMA DE MONTAJE] 8) Llave de 1 punto y toma corrientes 1 lámpara - Baño. Cortamos la luz para probar disyuntor.
 % Andrés Imlauer
 % 30 Julio 2025
 
