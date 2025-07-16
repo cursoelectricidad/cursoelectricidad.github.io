@@ -27,7 +27,7 @@ Subscribe to RSS: [/feed.xml](/feed.xml)
 [30 Julio 2025]{.date}
 
 
-[Clase Nº 7: Simbología. Desarmamos bastidores anterior y desarmamos y armamos portalámparas desde 0, identificando fase y neutro.](/07clase.md){.title}
+[Clase Nº 7: Simbología. Desarmamos tablero anterior y desarmamos y armamos portalámparas desde 0, identificando donde colocar la fase y neutro en la lámpara.](/07clase.md){.title}
 [30 Julio 2025]{.date}
 
 
