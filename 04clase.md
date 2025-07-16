@@ -1,4 +1,4 @@
-% Clase Nº 4: Interruptores, Sistemas de Puesta a Tierra
+% Clase Nº 4: Simbología. Conceptos básicos. Efecto YULL. Sistemas de Puesta a Tierra. Pregunta de examen.
 % Andrés Imlauer
 % 30 Julio 2025
 

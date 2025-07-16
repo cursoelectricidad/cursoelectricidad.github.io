@@ -5,7 +5,7 @@ List of pages:
 
 <div class='sitemap'>
 * /03clase.md: [Clase Nº 3: Simbología. Red de distribución Morceto. Fusible aéreo. Conductor preensamblado y bipolar. Acometida. Línea de distribución principal. Alimentación trifásica. Esquema de la acometida que entra en el examen.](/03clase.md)
-* /04clase.md: [Clase Nº 4: Interruptores, Sistemas de Puesta a Tierra](/04clase.md)
+* /04clase.md: [Clase Nº 4: Simbología. Conceptos básicos. Efecto YULL. Sistemas de Puesta a Tierra. Pregunta de examen.](/04clase.md)
 * /05clase.md: [Clase Nº 5: Simbología. Normas y Precauciones. Pelar Cables y Conectar Acometidas. Tableros y Sistemas de Medición.](/05clase.md)
 * /06clase.md: [Clase Nº 6: Capacitación en Trabajo en Altura. Simbología. Instalaciones Eléctricas: Conceptos básicos. ](/06clase.md)
 * /07clase.md: [Clase Nº 7: Simbología. Desarmamos tablero anterior y desarmamos y armamos portalámparas desde 0, identificando donde colocar la fase y neutro en la lámpara.](/07clase.md)
