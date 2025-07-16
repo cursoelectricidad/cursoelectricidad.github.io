@@ -89,9 +89,9 @@ regulador del ventilador) y eso se desformaba y se notaba después cuando vos ve
 ![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg_1Jx_U9ZWdH4feIxFXNIBRWuckmlHhUCnr2eGu6nCfbSYke8zt-oorhlEf85XbWIRLrqzLbDyPY5C2cIaT5oc9n1MvEem0NSGGUoLf9lmHZsILuMGpvMHXKgwG7IJAroRa7kFYVe8Gw-lqph_iE4r9nArhYhn2wyDtGzZpahTO0cEDU3QSJHJgghNEjc/s4160/IMG_20250507_201855211.jpg)
 ![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiMkRdtDHhNr_VT4DL0Y3ZjdzuyimbZir7xioEgtogVOKabl1pikiliITqeOBbe2FxvAq_gakM74JkinxLELOSdKBBOigJ6c8SdmPs1D1bHU-1HzbkheWhbApTCEu8ayZzSySD9aOTbhDcAPiNgds5L7-vhaliK87k-nmql5HcvO9-ly795GYGvqbr53gQ/s4160/IMG_20250507_201900387.jpg)
 
+---
 
-
-### Ejercicio 1) 1 lámpara vamos a tener y un interruptor**, en este caso sería llave de 1 punto.
+### Ejercicio 1) 1 lámpara vamos a tener y un interruptor, en este caso sería llave de 1 punto.
 ![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjRqnfxpsgyeEQNi2oFZ8-3H2_9-lOy-oZi1FSqaVcVEi9yLZHKYuAdcXts-B6IW6NXiiiHej5GPX72n8yqeBOTvacVKkr5ttnNZCTN5KM-3uzwoMwrUlLCZ_ks6nd6uuCvGxW1b8k9AFWCcd8yqjjUy-2Yko4nVjcKk7TQjttiYO5bg1ctPEXMMhj0gs4/s4620/IMG_20250511_181821091.jpg)
 
 ### Ejercicio 2) 2 lámparas y 1 interruptor el interruptor sigue siendo el mismo.
