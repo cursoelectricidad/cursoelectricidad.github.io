@@ -15,7 +15,7 @@ Subscribe to RSS: [/feed.xml](/feed.xml)
 [30 Julio 2025]{.date}
 
 
-[Clase Nº 4: Interruptores, Sistemas de Puesta a Tierra](/04clase.md){.title}
+[Clase Nº 4: Simbología. Conceptos básicos. Efecto YULL. Sistemas de Puesta a Tierra. Pregunta de examen.](/04clase.md){.title}
 [30 Julio 2025]{.date}
 
 
