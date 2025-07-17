@@ -4,7 +4,7 @@ x-toc-enable: true
 ...
 
 Curso de Electricidad dictado el año 2025 en la UOCRA.                      
-Profesor: Francisco Espeche. Ingeniero ElectroMecánico.
+Profesor: Francisco Espeche. Ingeniero Electromecánico.
 
 -------------------------------------------------------------------------------
 
