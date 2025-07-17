@@ -1,4 +1,4 @@
-% Clase Nº 47: Choripaneada final (auxiliar electricista).
+% Clase Nº 47: Choripaneada. Fin de curso auxiliar electricista.
 % Andrés Imlauer
 % 08 Julio 2025
 

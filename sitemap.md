@@ -48,7 +48,7 @@ List of pages:
 * /44clase.md: [Clase Nº 44: Clase práctica. Como hacer RCP (Posadas Reanima)](/44clase.md)
 * /45clase.md: [Clase Nº 45: Riesgo eléctrico. Elementos de protección. Vimos videos en proyector.](/45clase.md)
 * /46clase.md: [Clase Nº 46: Fin curso de auxiliar electricista. Videos en proyector.](/46clase.md)
-* /47clase.md: [Clase Nº 47: Choripaneada final (auxiliar electricista).](/47clase.md)
+* /47clase.md: [Clase Nº 47: Choripaneada. Fin de curso auxiliar electricista.](/47clase.md)
 * /contact.md: [Contacto](/contact.md)
 * /: [Curso Electricidad](/)
 * /license.md: [License](/license.md)

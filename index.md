@@ -187,7 +187,7 @@ Subscribe to RSS: [/feed.xml](/feed.xml)
 [05 Julio 2025]{.date}
 
 
-[Clase Nº 47: Choripaneada final (auxiliar electricista).](/47clase.md){.title}
+[Clase Nº 47: Choripaneada. Fin de curso auxiliar electricista.](/47clase.md){.title}
 [08 Julio 2025]{.date}
 
 
