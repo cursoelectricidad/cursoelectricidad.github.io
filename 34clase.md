@@ -1,6 +1,6 @@
 % Clase Nº 34: Calculamos la corriente nominal (P = VxI). Conductor. Térmica protectora. Preguntas examen.
 % Andrés Imlauer
-% 30 Julio 2025
+% 03 Junio 2025
 
 **Audio en Vocaroo**   
 [https://vocaroo.com/1aYATeHa481q](https://vocaroo.com/1aYATeHa481q)   

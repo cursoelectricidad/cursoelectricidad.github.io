@@ -1,6 +1,6 @@
-% Clase Nº 39: Exámen. FOTO del Examen teórico
+% Clase Nº 39: Examen (17 de Junio). FOTO del Examen teórico.
 % Andrés Imlauer
-% 30 Julio 2025
+% 19 Junio 2025
 
 **Audio en Vocaroo**  
 [https://vocaroo.com/1ah2hMBPBwjn](https://vocaroo.com/1ah2hMBPBwjn)  

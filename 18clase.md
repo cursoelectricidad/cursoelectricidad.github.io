@@ -1,6 +1,6 @@
 % Clase Nº 18: Alarmas. Canalización subterránea. Como enterrar un conductor subterráneo. Guía AEA.
 % Andrés Imlauer
-% 30 Julio 2025
+% 23 Abril 2025
 
 **Audio en Vocaroo**      
 [https://vocaroo.com/1ekttX93zXKA](https://vocaroo.com/1ekttX93zXKA)   

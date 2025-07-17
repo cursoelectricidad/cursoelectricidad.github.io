@@ -1,6 +1,6 @@
 % Clase Nº 22: Clase práctica. Armado de Tablero Paralelo. Fundamentos de Electricidad: Paralelo y Serie, Tensión y Corriente.
 % Andrés Imlauer
-% 30 Julio 2025
+% 06 Mayo 2025
 
 **Audio en Vocaroo**   
 [https://vocaroo.com/1268wHQBLwls](https://vocaroo.com/1268wHQBLwls)   

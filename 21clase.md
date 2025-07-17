@@ -1,6 +1,6 @@
 % Clase Nº 21: Vimos una instalación mal hecha: Errores y Mejoras. Conexiones en Serie y Paralelo. 
 % Andrés Imlauer
-% 30 Julio 2025
+% 02 Mayo 2025
 
 **Audio en Vocaroo**        
 [https://vocaroo.com/18rfPSWtQmJT](https://vocaroo.com/18rfPSWtQmJT)   

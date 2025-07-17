@@ -1,6 +1,6 @@
 % Clase Nº 27: Clase práctica. [LO MAS IMPORTANTE DEL CURSO: LOS ULTIMOS 2 ESQUEMAS DE MONTAJE] 6) Dos lámparas con llave combinación. 7) Dos lámparas. Una con llave combinación y otra con llave de 1 punto. Comenzamos ejercicio 8. En el exámen entra el diagrama unifilar de todo esto."
 % Andrés Imlauer
-% 30 Julio 2025
+% 19 Mayo 2025
 
 **Audio en Vocaroo**      
 [https://vocaroo.com/1ndiSoYVRjEc](https://vocaroo.com/1ndiSoYVRjEc)      

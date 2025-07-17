@@ -1,6 +1,6 @@
 % Clase Nº 31: [FOTOCOPIA] Ordenamos. Fusibles. Térmicas. Mortero. Driver. Etc. Día de Lluvia.
 % Andrés Imlauer
-% 30 Julio 2025
+% 28 Mayo 2025
 
 Hay una parte que se me cortó el audio sin querer :(    
 

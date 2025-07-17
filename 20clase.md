@@ -1,6 +1,6 @@
 % Clase Nº 20: Sistema Alarma. Corriente Alterna/Continua. Tester. Profesor hace chistes sobre número de avogadro y se enoja con otro.
 % Andrés Imlauer
-% 30 Julio 2025
+% 30 Abril 2025
 
 **Audio en Vocaroo**   
 [https://vocaroo.com/1cAFyikGV6rm](https://vocaroo.com/1cAFyikGV6rm)   

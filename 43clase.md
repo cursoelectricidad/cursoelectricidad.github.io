@@ -1,6 +1,6 @@
 % Clase Nº 43: Tableros. Ayudante abre un candado (de baja calidad) con un paper clip (encontré video en ingles que explica como hacerlo)
 % Andrés Imlauer
-% 30 Julio 2025
+% 25 Junio 2025
 
 **Audio en Vocaroo**    
 [https://vocaroo.com/1mMgp9RqS3l7](https://vocaroo.com/1mMgp9RqS3l7)    

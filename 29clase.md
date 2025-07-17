@@ -1,6 +1,6 @@
 % Clase Nº 29: [FOTOCOPIA] Tester. Multímetro. Vacunación. Preguntas exámen: 01:55
 % Andrés Imlauer
-% 30 Julio 2025
+% 22 Mayo 2025
 
 **Audio en Vocaroo**   
 [https://vocaroo.com/1oGJu6JbJHr9](https://vocaroo.com/1oGJu6JbJHr9)   

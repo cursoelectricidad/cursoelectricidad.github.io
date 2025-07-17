@@ -1,6 +1,6 @@
 % Clase Nº 42: Clase práctica. Armamos tablero con fotocélula.
 % Andrés Imlauer
-% 30 Julio 2025
+% 25 Junio 2025
 
 (Se cortó el audio)    
     

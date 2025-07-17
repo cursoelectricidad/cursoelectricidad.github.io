@@ -1,6 +1,6 @@
 % Clase Nº 25: Clase práctica. Armamos tablero: 2)Dos lámparas y 1 interruptor. 3)Dos lámparas y 2 interruptores en la misma caja. La fase siempre es recomendable que esté en el medio. El circuito que hice no funcionó porque luego de probar el primer ejercicio desarmé el portalámparas cuando saqué el foco y ya no hacía contacto. El profesor en un comienzo pensó que era la llave de punto y me la hizo cambiar pero en realidad era el portalámparas que estaba flojo.
 % Andrés Imlauer
-% 30 Julio 2025
+% 13 Mayo 2025
 
 **Audio en Vocaroo**    
 [https://vocaroo.com/1dlEbWtj6jkS](https://vocaroo.com/1dlEbWtj6jkS)    

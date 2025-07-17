@@ -1,6 +1,6 @@
-% Clase Nº 47: Choripaneada final.
+% Clase Nº 47: Choripaneada final (auxiliar electricista).
 % Andrés Imlauer
-% 30 Julio 2025
+% 08 Julio 2025
 
 **Audio en Vocaroo**   
 [https://vocaroo.com/1obbPubQmp4T](https://vocaroo.com/1obbPubQmp4T)   

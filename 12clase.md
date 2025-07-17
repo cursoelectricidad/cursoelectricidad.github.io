@@ -1,6 +1,6 @@
 % Clase Nº 12: Continuamos canalización. No usar curva y contracurva juntos porque es difícil pasar cinta pasacables, mejor un cañito en el medio. Meter pinza para sacar rebarba adentro y afuera agarrar el caño. Acanaladora.
 % Andrés Imlauer
-% 30 Julio 2025
+% 10 Abril 2025
 
 **Audio Vocaroo**   
 [https://vocaroo.com/1bzUkEBGqoud](https://vocaroo.com/1bzUkEBGqoud)    

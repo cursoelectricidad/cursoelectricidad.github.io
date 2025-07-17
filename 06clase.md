@@ -1,6 +1,6 @@
 % Clase Nº 6: Capacitación en Trabajo en Altura. Simbología. Instalaciones Eléctricas: Conceptos básicos. 
 % Andrés Imlauer
-% 30 Julio 2025
+% 26 Marzo 2025
 
 **Audio en Vocaroo**       
 [https://vocaroo.com/1oV3Ik1LSwaP](https://vocaroo.com/1oV3Ik1LSwaP)    

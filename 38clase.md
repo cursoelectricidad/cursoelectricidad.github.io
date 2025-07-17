@@ -1,6 +1,6 @@
 % Clase Nº 38: Puesta a tierra. Bajar sensibilidad disyuntor. Tetrapolar con 2 salidas de circuito. Tipos canalizacion. Descarga rayos. Esquema acometida. Preguntas Examen."
 % Andrés Imlauer
-% 30 Julio 2025
+% 12 Junio 2025
 
 **Audio en Vocaroo**   
 [https://vocaroo.com/15pfGHEbKMe9](https://vocaroo.com/15pfGHEbKMe9)   

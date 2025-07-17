@@ -1,6 +1,6 @@
 % Clase Nº 14: Instalaciones Eléctricas Seguras. Consejos y Precauciones para Electricistas.
 % Andrés Imlauer
-% 30 Julio 2025
+% 15 Abril 2025
 
 **Audio en Vocaroo**   
 [https://vocaroo.com/1efmU5QFpIEW](https://vocaroo.com/1efmU5QFpIEW)   

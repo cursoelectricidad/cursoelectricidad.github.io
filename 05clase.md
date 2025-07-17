@@ -1,6 +1,6 @@
 % Clase Nº 5: [FOTOCOPIA de pilar monofásico y requisitos generales] Simbología. Morceto. Normas y Precauciones. Pelar Cables y Conectar Acometidas. Tableros y Sistemas de Medición.
 % Andrés Imlauer
-% 30 Julio 2025
+% 19 Marzo 2025
 
 **Audio en Archive**      
 [https://archive.org/details/record-59](https://archive.org/details/record-59)   

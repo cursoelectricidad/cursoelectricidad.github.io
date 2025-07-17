@@ -1,6 +1,6 @@
 % Clase Nº 13: [FOTOCOPIA Uniones caño caja, sección de conductores]. Cupla. Curvado caños. Sistema U. Colocación. Planos de pilar EMSA. Leemos fotocopia normas IRAM. Caños 5/8 solo en línea recta.
 % Andrés Imlauer
-% 30 Julio 2025
+% 15 Abril 2025
 
 **Audio en Vocaroo**       
 [https://vocaroo.com/1dx7HunJiApZ](https://vocaroo.com/1dx7HunJiApZ)    

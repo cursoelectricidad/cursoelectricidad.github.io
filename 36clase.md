@@ -1,6 +1,6 @@
 % Clase Nº 36: [FOTO DE PUESTA A TIERRA] Partes de un disyuntor. Sistema de puesta a tierra. Preguntas de exámen.
 % Andrés Imlauer
-% 30 Julio 2025
+% 09 Junio 2025
 
 **Audio en Vocaroo**   
 [https://vocaroo.com/1cTonDaIf9VT](https://vocaroo.com/1cTonDaIf9VT)   

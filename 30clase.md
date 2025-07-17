@@ -1,6 +1,6 @@
 % Clase Nº 30: Protecciones. Instalaciones Electricidad Domiciliaria. Corriente máxima por conductor.
 % Andrés Imlauer
-% 30 Julio 2025
+% 27 Mayo 2025
 
 **Audio en Vocaroo**  
 [https://vocaroo.com/1kdaJ3BdGrCz](https://vocaroo.com/1kdaJ3BdGrCz)  

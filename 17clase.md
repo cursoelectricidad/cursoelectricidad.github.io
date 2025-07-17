@@ -1,6 +1,6 @@
 % Clase Nº 17: Clase práctica. Armamos distribución
 % Andrés Imlauer
-% 30 Julio 2025
+% 23 Abril 2025
 
 **Audio en Vocaroo**       
 [https://vocaroo.com/1hjLQYyLQIkS](https://vocaroo.com/1hjLQYyLQIkS)    

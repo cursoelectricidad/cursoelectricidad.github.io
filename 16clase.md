@@ -1,6 +1,6 @@
 % Clase Nº 16: Doblado de Caños, perfilería y estética de una instalación.
 % Andrés Imlauer
-% 30 Julio 2025
+% 22 Abril 2025
 
 **Audio en Vocaroo**    
 [https://voca.ro/1ducR52fkSsq](https://voca.ro/1ducR52fkSsq)    

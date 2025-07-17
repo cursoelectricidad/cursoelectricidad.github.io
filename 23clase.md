@@ -1,6 +1,6 @@
 % Clase Nº 23: Esquemas de Montaje. Preguntas de examen. [UNA DE LAS CLASES MÁS IMPORTANTES]
 % Andrés Imlauer
-% 30 Julio 2025
+% 08 Mayo 2025
 
 [LO MAS IMPORTANTE DEL CURSO: ESQUEMAS DE MONTAJE]. Teoría para el armado de trabajo práctico. Preguntas de examen.
 

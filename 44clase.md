@@ -1,6 +1,6 @@
 % Clase Nº 44: Clase práctica. Como hacer RCP (Posadas Reanima)
 % Andrés Imlauer
-% 30 Julio 2025
+% 05 Julio 2025
 
 **Audio en Vocaroo**       
 [https://vocaroo.com/1nYvA7jIrSMl](https://vocaroo.com/1nYvA7jIrSMl)   

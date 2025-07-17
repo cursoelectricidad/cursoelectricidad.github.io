@@ -1,6 +1,6 @@
 % Clase Nº 37: Puesta a tierra. Jabalina. Disyuntor igual o mayor a térmica. Preguntas examen.
 % Andrés Imlauer
-% 30 Julio 2025
+% 11 Junio 2025
 
 **Audio en Vocaroo**   
 [https://vocaroo.com/19Ddr8rj9Jco](https://vocaroo.com/19Ddr8rj9Jco)   

@@ -1,6 +1,6 @@
 % Clase Nº 15: Leímos catalogo Genrod (Tubeelectric). Exámen entra esquema general que vimos en la 3era clase (la primera en mi caso).
 % Andrés Imlauer
-% 30 Julio 2025
+% 18 Abril 2025
 
 **Audio en Vocaroo**        
 [https://voca.ro/1bSaDxOxewXW](https://voca.ro/1bSaDxOxewXW)    

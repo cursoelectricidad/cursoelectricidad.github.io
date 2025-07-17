@@ -1,6 +1,6 @@
 % Clase Nº 35: Interruptor Diferencial (Disyuntor)
 % Andrés Imlauer
-% 30 Julio 2025
+% 04 Junio 2025
 
 **Audio en Vocaroo**   
 [https://vocaroo.com/1hSZf8wq7RJM](https://vocaroo.com/1hSZf8wq7RJM)   

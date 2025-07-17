@@ -1,6 +1,6 @@
 % Clase Nº 32: [FOTOCOPIA] Protecciones. Interruptor termomagnético. Fusibles. Repaso.
 % Andrés Imlauer
-% 30 Julio 2025
+% 28 Mayo 2025
 
 **Audio en Vocaroo**  
 [https://vocaroo.com/11YfVW6QE7QS](https://vocaroo.com/11YfVW6QE7QS)  

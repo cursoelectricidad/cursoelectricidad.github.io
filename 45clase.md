@@ -1,6 +1,6 @@
 % Clase Nº 45: Riesgo eléctrico. Elementos de protección. Vimos videos en proyector.
 % Andrés Imlauer
-% 30 Julio 2025
+% 05 Julio 2025
 
 **Audio en Vocaroo**   
 [https://vocaroo.com/1oHoZB8WNiFg](https://vocaroo.com/1oHoZB8WNiFg)   

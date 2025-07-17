@@ -1,6 +1,6 @@
 % Clase Nº 10: [FOTOCOPIA empalmes y costos de trabajo] Canalización. Transición al PVC y Cambios en la Práctica Técnica. Red de distribución externa. Tipos de empalmes. Dentro del mismo caño: 3 circuitos. Sistema trifásico tengo que hacer cañería independiente. Fusible NH. Marca ABB no comprar.
 % Andrés Imlauer
-% 30 Julio 2025
+% 08 Abril 2025
 
 **Audio en Vocaroo**  
 [https://vocaroo.com/1mOXmDVVcNcE](https://vocaroo.com/1mOXmDVVcNcE)  

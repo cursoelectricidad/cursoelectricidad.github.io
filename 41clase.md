@@ -1,6 +1,6 @@
 % Clase Nº 41: [FOTOCOPIA] Fotocelula. Fotocontrol. Fotocélula siempre mirando al norte.
 % Andrés Imlauer
-% 30 Julio 2025
+% 25 Junio 2025
 
 **Audio en Vocaroo**     
 [https://vocaroo.com/18HLAUVPLg8z](https://vocaroo.com/18HLAUVPLg8z)     
