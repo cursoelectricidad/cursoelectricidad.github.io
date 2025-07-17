@@ -44,7 +44,7 @@ List of pages:
 * /40clase.md: [Clase Nº 40: [FOTOCOPIA VIEJA DE AGRUPACION DE CONDUCTORES] Foto del examen teórico (Continuación). Foto interruptor. Fotocopia agrupación de conductores normas."](/40clase.md)
 * /41clase.md: [Clase Nº 41: [FOTOCOPIA] Fotocelula. Fotocontrol. Fotocélula siempre mirando al norte.](/41clase.md)
 * /42clase.md: [Clase Nº 42: Clase práctica. Armamos tablero con fotocélula.](/42clase.md)
-* /43clase.md: [Clase Nº 43: Tableros. Ayudante abre un candado (de baja calidad) con un paper clip (encontré video en ingles que explica como hacerlo)](/43clase.md)
+* /43clase.md: [Clase Nº 43: Tableros. Ayudante Alejandro Ramirez abre un candado con un paper clip (agrego video en ingles que explica como hacerlo)](/43clase.md)
 * /44clase.md: [Clase Nº 44: Clase práctica. Como hacer RCP (Posadas Reanima)](/44clase.md)
 * /45clase.md: [Clase Nº 45: Riesgo eléctrico. Elementos de protección. Vimos videos en proyector.](/45clase.md)
 * /46clase.md: [Clase Nº 46: Fin curso de auxiliar electricista. Videos en proyector.](/46clase.md)

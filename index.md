@@ -171,7 +171,7 @@ Subscribe to RSS: [/feed.xml](/feed.xml)
 [25 Junio 2025]{.date}
 
 
-[Clase Nº 43: Tableros. Ayudante abre un candado (de baja calidad) con un paper clip (encontré video en ingles que explica como hacerlo)](/43clase.md){.title}
+[Clase Nº 43: Tableros. Ayudante Alejandro Ramirez abre un candado con un paper clip (agrego video en ingles que explica como hacerlo)](/43clase.md){.title}
 [25 Junio 2025]{.date}
 
 
