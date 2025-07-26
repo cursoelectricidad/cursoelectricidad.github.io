@@ -132,7 +132,7 @@ Subscribe to RSS: [/feed.xml](/feed.xml)
 [28 Mayo 2025]{.date}
 
 
-[Clase Nº 33: [FOTOCOPIA] Foto termomagnética. Leímos fotocopia interruptor termomagnético. Potencia nominal. Corriente máxima por sección de cable.](/33clase.md){.title}
+[Clase Nº 33: [FOTOCOPIA] Foto termomagnética. Leímos fotocopia interruptor termomagnético. Potencia nominal. Foto de Corriente máxima por sección de cable.](/33clase.md){.title}
 [02 Junio 2025]{.date}
 
 
@@ -188,7 +188,7 @@ Subscribe to RSS: [/feed.xml](/feed.xml)
 [05 Julio 2025]{.date}
 
 
-[Clase Nº 47: Choripaneada. Fin de curso auxiliar electricista.](/47clase.md){.title}
+[Clase Nº 47: Fin de curso auxiliar electricista.](/47clase.md){.title}
 [08 Julio 2025]{.date}
 
 

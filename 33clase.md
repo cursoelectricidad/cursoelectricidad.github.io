@@ -1,4 +1,4 @@
-% Clase Nº 33: [FOTOCOPIA] Foto termomagnética. Leímos fotocopia interruptor termomagnético. Potencia nominal. Corriente máxima por sección de cable.
+% Clase Nº 33: [FOTOCOPIA] Foto termomagnética. Leímos fotocopia interruptor termomagnético. Potencia nominal. Foto de Corriente máxima por sección de cable.
 % Andrés Imlauer
 % 02 Junio 2025
 
