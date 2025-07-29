@@ -1,11 +1,11 @@
 ---
-title: Curso Electricidad
+title: Curso Electricidad - UOCRA
 x-toc-enable: true
 ...
 
-Curso de Electricidad dictado el año 2025 en la UOCRA.                      
-Profesor: Francisco Espeche. Ingeniero Electromecánico.
-Ayudante: Alejandro Ramirez.
+Curso de Electricidad de la UOCRA que comenzó el 10 de Marzo del año 2025.     
+Profesor: Francisco Espeche. Ingeniero Electromecánico, inspector de obra.   
+Ayudante: Alejandro Ramirez.  
 
 -------------------------------------------------------------------------------
 
@@ -160,7 +160,7 @@ Subscribe to RSS: [/feed.xml](/feed.xml)
 [19 Junio 2025]{.date}
 
 
-[Clase Nº 40: [FOTOCOPIA VIEJA DE AGRUPACION DE CONDUCTORES] Foto del examen teórico (Continuación). Foto interruptor. Fotocopia agrupación de conductores normas."](/40clase.md){.title}
+[Clase Nº 40: [FOTOCOPIA VIEJA DE AGRUPACION DE CONDUCTORES] Foto del examen teórico (Continuación). Foto interruptor. Fotocopia agrupación de conductores normas.](/40clase.md){.title}
 [19 Junio 2025]{.date}
 
 
