@@ -12,136 +12,149 @@
    
 **Audio de la clase en YouTube**   
 [https://www.youtube.com/embed/kC4hTgBpfa0](https://www.youtube.com/embed/kC4hTgBpfa0)
-   
-   
-El examen es a carpeta abierta. Simbología. Red de distribución Morceto. Fusible aéreo. Si tenés morceto con fusible (antirobo) no hace falta el aéreo. Si solo tenés morceto simple se coloca el aéreo por la fase. EMSA coloca el morceto. Conductor preensamblado y bipolar. Un electricista chanta me quizo cambiar toda la instalación porque el conductor de entrada es más chico que va al tablero seccional. Línea de alimentación es la que vincula la red de la empresa distribuidora con los borners del medidor de carga. Acometida se llama así al conjunto de elementos que se utiliza para hacer la conexión entre la red alimentación y el medidor: cable, fusible y morceto. La otra es línea de distribución principal hay una línea que se llama línea principal esta línea que va del medidor al tablero general se llama línea principal para que ustedes entiendan aunque esté detrás del medidor yo del medidor saco una alimentación que va al tablero general o principal del medidor saco una línea que va al tablero general esa línea se llama línea principal. Alimentación trifásica, ahí aparecerán 3 fases (3 líneas) trifásica. Si tengo una alimentación como ese tablero que te mostré ahí tengo TRES fase más el neutro. Fijense que esta caja es más alta que la otra ¿para qué?  Es cuando uno tiene losa, la losa continua se hace primero la parte de madera se pone la caja se hace la distribución luego va el hormigón arriba. Fijense que es más alto entonces ahí para hierro y todas esas cosas y logro una mejor distribución se usa este tipo de caja. Siempre en todo gabinete en todo medidor hasta EMSA te pide que esté en el gabinete puesta a tierra, sino no te baja la
-línea. El profesor para evitar que la ducha eléctrica haga saltar el disyuntor desconectó el disyuntor y le puso una buena tierra, pero en mi caso desconecté la tierra y
-dejé el disyuntor. 
 
-### Diez SI para una instalación segura.
 
-1. Interruptor diferencial
-Se debe instalar un interruptor diferencial de 30 mA, menor de 200 ms.
-2. Un interruptor por circuito, Automático termomagnético o manual con fusibles.
-3. Toma a tierra en toda la instalación. De resistencia inferior a 10 ohms.
-4. Separación de funciones
-Un circuito para cada función. Por ejemplo, en una vivienda, según el grado de electrificación del inmueble, debe instalarse:
-* Circuito para las bocas de alumbrado.
-* Circuito para los tomacorrientes.
-* Circuitos exclusivos para cada artefacto especial que se instale: lavarropa, horno, termotanque, etc.
-5. Secciones mínimas de los conductores
-Línea principal: 4.0 mm^2 Cu.
-Líneas seccionales: 2.5 mm^2 Cu.
-Líneas de circuitos: 1.5 mm^2 Cu.
-Conductor de protección: 2.5 mm^2 Cu.
+### **🔌 1\. Acometida y Línea de Alimentación**
+
+* **Acometida:** conjunto de elementos que conecta la red de la distribuidora con el medidor. Incluye **morceto**, **fusible** y **cable**.
+
+* **Línea de alimentación:** vincula la red de la empresa con los bornes del medidor.
+
+* EMSA se encarga de colocar el **morceto**.
+
+* Si hay **morceto con fusible (antirrobo)** → **no hace falta fusible aéreo**.
+
+* Si hay **morceto simple** → **se coloca fusible aéreo en la fase**.
+
+---
+
+### **🧰 2\. Elementos de Protección**
+
+* **Interruptor diferencial**: obligatorio, de **30 mA**, con tiempo de corte \< **200 ms**.
+
+* **Disyuntor termomagnético (curva B)**: protección rápida exigida por EMSA.
+
+* **Un disyuntor por circuito** (iluminación, tomacorrientes, artefactos especiales).
+
+* **Pararrayos (descargador de baja tensión)**: debe estar en la acometida con puesta a tierra.
+
+* **Protección de sobretensión**: al lado del diferencial en el tablero principal.
+
+* **Toma a tierra obligatoria**: resistencia \< **10 ohms**, en todo gabinete y medidor.
+
+---
+
+### **⚡ 3\. Instalación Eléctrica Segura – 10 "Sí"**
+
+1. Disyuntor diferencial obligatorio.
+
+2. Automático por circuito.
+
+3. Puesta a tierra en toda instalación.
+
+4. Circuito separado por función: iluminación, tomas, artefactos.
+
+5. Secciones mínimas:
+
+   * Línea principal: **4 mm² Cu**
+
+   * Seccional: **2,5 mm² Cu**
+
+   * Circuitos: **1,5 mm² Cu**
+
+   * Protección: **2,5 mm² Cu**
+
 6. Tomacorrientes con toma a tierra.
-Distribuídos para que cada artefacto tenga una tomacorrientes propio.
-7. Observar los principios de seguridad en el cuarto de baño:
-Respetar las distancias de protección entre los t tomacorrientes, interruptores, artefactos y bañera.
-8. Utilizar materiales normalizados IRAM en todos los componetes de la instalación.
-9. Protector pararrayos
-Descagador de baja tensión con su respectiva puesta a tierra a instalarse en la acometida de cada conexión.
-10. Protección de tensión
-Se debe instalar en el table principal a lado del interruptor diferencial.
 
-### Algunos NO para un uso seguro
-1. No utilice prolongadores
-2. No conecte varios artefactos juntos.
-3. No desconecte tirando del cable.
-4. No utilice adaptadores. Instale tomacorrientes y ficha normalizada IRAM.
-5. No cambie lámparas sin desconectar el artefacto o sin cortar la electricidad desde el tablero.
+7. Distancias seguras en baños (zona de peligro y protección).
 
-Si quitan la contratapa ahí se ve la realidad de como está trabajando la persona.
-Hay muchos tableros desplolijos. No son aprobados.
+8. Usar materiales normalizados **IRAM**.
 
-En los cuartos de baño la instalación eléctrica debe respetar la zona de peligro, dentro de la cual no pueden instalarse interruptores, tomacorrientes, calefones eléctricos o artefactos de iluminación y de la zona de protección donde pueden instalarse artefactos de iluminación y aparatos eléctricos fijos, clase II, que se encuentren protegidos contra posibles salpicaduras.
+9. Pararrayos en acometida.
 
-### Que hace la bornera?
-La bornera junta los cables y en esa parte no tendrá problemas porque ya está bien apretado. Se llama terminal **TIF**, tipo un capuchón entonces se reduce queda bien apretado a la herramienta lo ajusta 2 o 3 distintos tipos de herramienta que hacen que eso quede bien apretado y entonces no se mueve y no se dilata.
+10. Protección contra sobretensión.
 
-### No se debe unir ningún conductor dentro de un tablero.
+---
 
-#### El neutro de el disyuntor es el que me da la pauta en donde yo quiero que vaya el neutro.
+### **🚫 4\. Instalación Eléctrica Segura – 5 "NO"**
 
-### Todo interruptor trabaja por gravedad, para arriba conecta toda la alimentación para abajo no.
+1. No usar **prolongadores**.
 
-##### El interruptor termomagnético se puede conectar por arriba o por abajo de cualquier lado cumple la misma función porque el dispositivo la parte interna entra la corriente por un lado produce el mismo efecto
+2. No **sobrecargar** tomacorrientes.
 
-### Aunque ustedes no crean el calor floja la bornera y hacía falso contacto cuando había mucho consumo, como no estaba apretado la bornera acá hacía un efecto de fuga chispazo y eso hacía saltar el disyuntor.
+3. No tirar del cable para desconectar.
 
-#### 1. Buscapolo
-Buscan la fase y el neutro y listo.
+4. No usar **adaptadores**; usar tomas IRAM.
 
-#### 2. Lámpara de prueba
-Si no tengo el neutro sigo con esto, es muy interesante lámpara de prueba
+5. No cambiar lámparas sin cortar la electricidad.
 
-#### 3. Probador de tensión
-Tiene una escala aproximada de tantos valores yo les voy a mostrar.
+---
 
-La lámpara me indica que tiene tensión y acá me da un valor aproximado que dice 230 en volt.
+### **🏠 5\. Instalación en Viviendas**
 
-Eso 3 elementos me indican que tensión está llegando, cual es la fase y cual el negro.
+* **Línea principal:** del medidor al **tablero general**.
 
-Corriente alterna: fase y neutro. Corriente continua: positivo negativo.
+* **Tableros prolijos** y bien cerrados son obligatorios para ser aprobados.
 
-#### 4. Multímetro
+* En **losa**, se usan **cajas más altas** para facilitar la instalación previa al hormigón.
 
-#### Hay que usar guantes aislantes
+---
 
-#### Habíamos dicho que la última parte de la norma pedía por cada circuito un disyuntor.
-### Para que sea confiable por cada circuito de iluminación yo puedo colocar 15 bocas.
-### Yo puedo usar todos los elementos que no estén normalizados con esas precauciones.
-Algunso usan medidores separados por problemas de quién paga más.
+### **🌡️ 6\. Problemas Comunes**
 
+* **Conexiones flojas** → calientan, generan falsos contactos y disparan disyuntores.
 
-### A eso es lo que voy hay veces que ven una casa que tiene una trifásica 3 fusible aeroes y arriba tiene una botella de plástico cortada otros le ponen un caño cortado y le ponen arriba del fusible aéreo.
-Hay gente que pone una botella de agua arriba del pilar para tener "menos consumo" (es falso)
+* No se deben hacer uniones dentro de los tableros.
 
-#### Uso de la cinta: diferentes colores instalación a la vista.
+* Neutro mal conectado o sin identificación → mal funcionamiento.
 
-#### Esto es rápido lo que dije ayer: Tenemos un sistema de iluminación, tomacorriente de uso generales, tomacorriente de uso especiales. Cada uno lo ideal es colocar la sección de conductor que corresponde. Eso vamos a ver más tarde, pero esto si le doy una pauta porque de acuerdo a eso sale la protección de cada interruptor. Protege el cable.
+* **Botellas o plásticos** sobre fusibles para "bajar consumo" → *mito, no funciona*.
 
+---
 
-### Ustedes van a ver siempre un cable eléctrico listo de planta es que tenga todas las dimensiones mirando de arriba, es como si sacaramos el techo y miraramos de arriba
+### **🧪 7\. Herramientas de Medición**
 
-#### Qué pasa en Itaembé Guazú?
-Es distinto a este sistema también tiene un transformador y una base al transformador para acá que hace que baje la tensión de media y después vaya tensión baja 380/220.
-Acá hay 13,2 sería 13200 voltios y después esa tensión baja, **si yo me prendo de esto quemo todos los equipos, tiene que haber un transformador que reduce la tensión ALTA o MEDIA en BAJA tensión**.
+1. **Buscapolo:** identifica la fase.
 
-## Esquema
-#### Parte de la red de distribución en nuestro caso es 380/220, esa es la red de distribución siempre parte de ese.
-### Acá habrá una línea municipal, **el medidor está luego de la línea municipal** o en el límite de la línea municipal.
-### Puedo hacerlo de forma aérea o de forma subterránea.
+2. **Lámpara de prueba:** detecta si hay tensión.
 
+3. **Probador de tensión:** da un valor aproximado (ej: 230 V).
 
-## **¿cuál es la fase y cuál es el nuetro?** En este caso hay un relieve acá y ese pequeño relieve es la fase.
-Si yo tengo una alimentación trifásica o preensablado son 4 cables ustedes van a tener un cable que tiene **un relieve**, un segundo cable que tiene **2 relieve** y el 3er cable tiene **3 relieves**. Son RAR77 ¿? (Hora 01:32:55)
+4. **Multímetro:** da lecturas más exactas; usar con **guantes aislantes**.
 
-## Este morceto la línea esta es preensamblado como yo tengo sistema monofásico acá hay una unión para el morceto, tomo fase neutro cable de alimentación a este para simplifcar el esquema **hacemos solo 1 rayita** y acá ponemos esto significa conductor y esto significa fase y el neutro sería así (ver imágenes).
+---
 
+### **⚙️ 8\. Tipos de Conductor**
 
-El cable que tiene acá es preensamblado anteriormente la gente ponía conectores bipolar que es un solo a veces blanco a veces negro bipolar son dos cables separado esto viene ya prensado que es preensamablado tiene mayor capacidad la corriente que soporta esto por más sección que sea igual que el otro conductor bipolar acá tengo la posibilidad de que la capacidad máxima de la corriente es mayor que el otro, pero vamos viendo de a poco.
+* **Preensamblado:** más seguro, ya viene unido (fase y neutro). Soporta más corriente.
 
-### Si tenés morceto con fusible no hace falta el aéreo.
+* **Bipolar:** dos cables separados, menos eficiente.
 
-## Curva B es importante, EMSA pide curva B. Es una termomagnética que es más rápida. Nosotros tenemos una de tipo B afuera y una de tipo C adentro.
+* El relieve en el cable ayuda a identificar la fase (1, 2 o 3 relieves según fase).
 
-### conductor preensamblado y este es un conductor bipolar
+* En monofásico: fase \+ neutro.
 
+---
 
-### Línea de alimentación es la que vincula la red de la empresa distribuidora con los borners del medidor de carga (acometida), se llama así al conjunto de elementos que se utiliza para hacer la conexión entre la red alimentación y el medidor: cable, fusible y morceto.
+### **🛠️ 9\. Símbolos y Esquemas**
 
-#### Todo lo que ustedes tienen ahí se llama acometida es un conjunto de cosas: fusible, morceto, cable.
+* Esquemas deben incluir medidor, acometida, tablero general, protecciones.
 
+* **Símbolos eléctricos** deben conocerse e identificarse en planos.
 
+* Vista de instalación eléctrica debe verse como "desde arriba", como si se quitara el techo.
 
+---
 
+### **🔌 10\. Otros Conceptos Importantes**
 
+* **Corriente alterna:** fase \+ neutro.
 
+* **Corriente continua:** positivo \+ negativo.
 
+* Todo interruptor **actúa por gravedad** (sube \= enciende, baja \= apaga).
 
-
-
+* El disyuntor termomagnético **puede conectarse arriba o abajo**, funciona igual.
 
 
 ![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgO9roP_5LKwhf0StuiEh_WAj7iYO05K3qOFUJQVnlOHRBXVX1N0qFQjqpTFqQPDX9NneZSaMOvbHi2E7a2_CH2xPSueykT19WsJZQZWeWbkrb5VSNbMz4YH2HqS-GIorKiOW24bizGsufwCVMz3QGvjnqPX51ccZwkkne11J4tATvRyf52UPQV13_JSXo/s4160/IMG_20250312_204002630_BURST000_COVER.jpg)

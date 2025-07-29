@@ -12,15 +12,156 @@
 **Video mandado por WhatsApp**        
 [https://www.youtube.com/embed/BEFGzbV5SE8](https://www.youtube.com/embed/BEFGzbV5SE8)   
      
-     
-Vimos una instalación eléctrica mal hecha. La idea original era una radio ahora es streaming. Clase práctica. Conectamos 3 lámparas en serie y en paralelo. Si están las 3 lámparas en serie baja la luz. Si las 3 lámparas están en paralelo tienen la misma intensidad de luz. Profesor no quiere cajas de PVC porque se aplastan. Si usas cajas de PVC hay que poner 2 o 3 soporte para que no se aplaste. Como fijar cajas. Utilizan cajas de iluminación como caja de paso. Si las cajas no están fijas hay que volver a hacer. Caños de más, mal recorrido. Lo hicieron sin planos: ponemos una boca acá un toma acá y la llave de punto ahí y arreglate. Hay que tener cuidado con el plástico porque se desforma. Hay que poner madera para poder fijar las cajas. Con el alambre no sirve para fijar las cajas, no tiene que moverse para arriba ni para abajo. Con la manguera se saca nivel de agua. Las cajas con orejitas son para durlock. Las cajas tienen que tener 15 de distancia sino si enchufás algo no se puede abrir la puerta. Le falta tierra a la ducha, pusieron bien caño(7/8) y conductor(4mm). Lo que no se ve podes hacerlo en diagonal pero en las paredes siempre ortogonal. El entrecruzamiento de caños está mal. El profesor ofreció enseñar a la gente que hizo la instalación pero no quisieron. no poner tanta cantidad de caños, tomar
-la alimentación de un sector a otro, de acá depende de como tenga el tema de iluminación ya podría haber salido para un circuito de este lado y otro circuito allá directamente. Hicieron demasiadas cañerías por arriba. Hay demasiados cables en una caja octogonal (encima es la chica), hay que poner una caja de paso y ahí distribuir: pero no tiene mucha potencia porque es lumínico. Hay que cumplir tiempo de cerramiento de durlock(trabajan por hora) y te vas a quedar sin colocar las cajas: cuando te dejen la
-posibilidad mandá todo para arriba, eso es la parte interesante, mandarlo todo para arriba y ver lo que tengo abajo para poder anticiparme de lo que ellos están por hacer. Soporte tipo L para las bocas eso se hace con perfilería, tengo que fijarlo a la estructura primero, a veces tengo perfil C.  fijo una madera ahí entra de perfil acá entonces hago tipo una L que apoye acá primero fijo y esto va pero acá tengo que fijar ahí está Profesor: Entonces a veces se pone un perfil o una planchuela de acá hasta allá que pase de acá hasta allá arriba, hasta este, en otros lados se suelda planchuela de acá hasta acá, y después sueldo acá.  Es todo trabajar en conjunto yo sé que un
-electricista no va a tener un soldador a mano tampoco, y tampoco va a tener perfiles.  ¿Para qué voy hasta arriba y vuelvo vuelvo otra vez y bajo? Al pedo.  A menos que el tipo haya pensando directamente mando hasta arriba y después no sé que hago.  Eso pasa cuando no tienen definido que van a hacer. Le habrán faltado caños. Ayudante dice que sobra caño.  Afuera tenía corrugado.  3 portalámparas en 3 cajas.  Hicimos el dibujo en planta.  El ayudante(Alejandro Ramirez) borró el diagrama de la clase pasada.  En la caja principal llega fase, neutro y tierra.  La llave de 1 punto tienen solo 2 borners.  La fase que ustedes va a la llave de 1 punto y el retorno sale del interruptor a la lámpara y este que es el neutro viene directamente de acá al portafoco(portalámparas).  La 1era es siempre igual(conexión de serie/paralelo) El profesor Espeche hizo temblar a un estudiante cuando hacía el empalme. Consejo del profesor: pensar en las mujeres para no temblar.  Los empalmes nunca se hacen en las cañerías.  No hay que hacer empalme cola de rata hay que hacer empalme prolongación o western union Cinta aisladora doble.  En el circuito en serie se puede mezclar colores.  El profesor
-mandó a arreglar un ventilador que tenía 1 luz y en vez de colocar en paralelo lo colocaron en serie el ventilador con la luz si yo encendía solo el ventilador andaba bien, si encendía solo la luz andaba bien, si prendía los 2 andaba bien pero disminuía la intensidad.  Los foquitos de navidad van en serie.  No debe quedar bodoque cuando pones la cinta aisladora.  Hay que poner la cinta en forma elecoidal en diagonal en vez de poner recto, hay que tratar de inclinarla.  Hay que hacerle lo más fuerte posible el 1er empalme. La 1er cinta es para empalme entonces con la fuerza de tu cinta.  La cinta aisladora tiene 2 funciones: El 1ero es para que refuerce tu sujeción de cable.  El 2do es para que aumente tu aislación.  Esto tiene suficiente elasticidad para que vos hagas lo más fuerza posible, la 2da es para la aislación.  Cuando tengo que comprar el alicate: tiene que fijarse que no tenga luz, o la mínima luz posible Como comprobar una instalación eléctrica: buscapolo, lámpara de prueba, probador de tensión, tester.  Al usar el tester: Acá tenemos DC AC. Si medimos corriente alterna tenes que saber más o menos cuanto voltaje vas a medir nosotros medimos 230 entonces yo tengo una escala lo ideal es que supere los 200.  Entonces hago esto lo 1ero que tengo que hacer es activarlo tengo las puntas igual que tenía en el portalámparas.  216 VOLTIOS (hay que acordarse de decir la unidad).  Esto es un interruptor termomagnético esto es un disyuntor si yo quiero bajo todo sino directamente bajo el disyuntor.  Antes
-de probar el tablero hay que verificar que no haya continuidad en las dos puntas.  Escucho el beep ya sé que tengo continuidad.  En este caso si sacas un foco interrumpís el circuito porque ahora vos está conectando entraste de acá un portalámparas y de otro portalámparas saliste a otro, si vos sacas cualquiera de los focos interrumpís el circuito tenes que poner los 3 focos puestos para que la conexión en serie funcione, si cualquiera de estos se quema el circuito se interrumpe.  Esto es en serie. Acá tendría que dar 300watts/220 voltios da 1,37 amper(la intensidad de corriente) En serie: Fíjense que pasa si yo saco una lámpara: se corta el circuito.  Con este podemos identificar la polaridad y sabemos que te llega fase, el otro no sabes, ahora vos conectando esto en cada punta, si tenes fase y neutro encenderá el foco.  El tester se usa para probar la continuidad de un circuito y mide el voltaje más exacto.  Algunos testers son autoregulables pero ahí en ese caso hay que llevarlo a una escala de 750 voltios para que pueda marcar o no.  Uno es AC que es alterna y el otro DC(continua).  Por lo general no tiene que ser menor a 190 porque sino se queman los electrodomésticos.  El disyuntor es que te protege a vos de quedar electrocutado. Siempre es térmica, disyuntor.  El disyuntor salta por fuga.  Matías Samuel: Si toca un metal también va a saltar no?  Ayudante: Sí, porque ahí se está fugando la corriente por tierra y ahí va a disparar.  Alumno: Y por recalentamiento?  Ayudante: No, eso es la térmica. Por
-eso se llama interruptor termomagnético, termo=temperatura.  Profesor: Antes de probar hay que probar continuidad, no tiene que haber continuidad. (La tecla tiene que estar apagada) Ese estaba en continuidad porque están todos los focos puestos y el interruptor encendido si este estaba apagado ahi no van a tener continuidad entonces ahí están salvados.  LA PRUEBA DE CONTINUIDAD HAY QUE HACERLO APAGADO. SI ESTA PRENDIDA LA TECLA VAN A TENER CONTINUIDAD.  Si la tecla está apagada y suena ahí tenes que preocuparte.  Hasta 15 bocas por circuito. La térmica para iluminación es hasta 10 amper pero hasta 15 bocas. Si pones focos incandescentes de 100 watts cada uno solo vas a 20 porque (20*100)/220 te da 9,09 amper que es casi el límite de la térmica.  Si supera los 10 amperes se funde el cable (o salta la térmica)
 
+## **⚡ INSTALACIÓN ELÉCTRICA – PUNTOS CLAVE DE LA CLASE**
+
+---
+
+### **🧪 Clase Práctica**
+
+* Se armaron **tres lámparas conectadas en serie y paralelo**:
+
+  * En **serie**: disminuye la intensidad de luz.
+
+  * En **paralelo**: cada lámpara mantiene la misma intensidad.
+
+---
+
+### **⚙️ Materiales y Montaje**
+
+* **Cajas de PVC**: el profesor no las recomienda, se **aplastan fácilmente**.
+
+  * Si se usan, deben tener **2 o 3 soportes** y estar **bien fijadas**.
+
+* **Fijación de cajas**:
+
+  * Usar **madera** para fijar.
+
+  * **Alambre no sirve**: no debe moverse ni hacia arriba ni hacia abajo.
+
+  * Las **cajas con orejitas** son para **Durlock**.
+
+  * Deben tener **15 cm de distancia** a la puerta: si no, no se puede abrir con un enchufe conectado.
+
+---
+
+### **🧱 Errores Comunes Observados**
+
+* **Instalación sin planos**: decisiones improvisadas generan **mal recorrido de caños**.
+
+* **Exceso de caños**: demasiadas cañerías por arriba, mal distribuido.
+
+* **Demasiados cables** en una **caja octogonal chica** → hay que usar **caja de paso**.
+
+* **Empalmes mal hechos** o en caños (prohibido).
+
+* **Entrecruzamiento de caños** y uso innecesario de curvas o tramos largos.
+
+* **Ducha sin puesta a tierra** (aunque bien dimensionado el caño 7/8 y conductor de 4 mm²).
+
+---
+
+### **🔨 Sujeciones y Soportes**
+
+* Soporte tipo **L con perfilería** (perfil C o planchuela), soldado o fijado.
+
+* Se debe trabajar en conjunto con los otros gremios (albañilería, Durlock) para coordinar tiempos.
+
+---
+
+### **🧠 Consejos del Profesor**
+
+* Empalmes: **nunca cola de rata**, sí **prolongación** o **western union**.
+
+* **Cinta aisladora**:
+
+  * Primera vuelta: refuerza la sujeción del cable.
+
+  * Segunda vuelta: asegura la aislación.
+
+  * Aplicar en **diagonal tipo espiral**, no recta.
+
+* No dejar **bodoques** de cinta.
+
+* El **primer empalme debe ser fuerte**.
+
+---
+
+### **🔌 Principios de Conexión**
+
+* En **llave de 1 punto**:
+
+  * **Fase va al interruptor**, el **retorno va a la lámpara**, el **neutro directo al portalámpara**.
+
+* En **conexión en serie**:
+
+  * Si **una lámpara se quema o se saca**, **el circuito se interrumpe**.
+
+* Ejemplo real: un ventilador con luz mal conectado en **serie**, lo correcto era en **paralelo**.
+
+* **Luces de navidad**: están conectadas en serie.
+
+---
+
+### **🧪 Pruebas y Herramientas**
+
+* Para **verificar instalaciones eléctricas**:
+
+  * **Buscapolo**
+
+  * **Lámpara de prueba**
+
+  * **Probador de tensión**
+
+  * **Tester (multímetro)**:
+
+    * Para corriente alterna (AC): usar escala **mayor a 200 V** (ideal: 750 V).
+
+    * Medir **continuidad con tecla apagada** (si suena con tecla apagada \= problema).
+
+    * Mide continuidad y voltaje con más precisión.
+
+* Verificar que **no haya continuidad** antes de alimentar el circuito.
+
+---
+
+### **🔥 Dispositivos de Protección**
+
+* **Térmica primero**, luego **disyuntor (interruptor diferencial)**.
+
+  * La térmica protege por **temperatura o cortocircuito**.
+
+  * El disyuntor protege por **fugas de corriente a tierra** (te salva de electrocutarte).
+
+  * **Disyuntor salta** si hay corriente fugándose por tocar un metal conectado a tierra.
+
+* Hasta **15 bocas por circuito de iluminación**.
+
+* La **térmica de 10 A** puede manejar hasta 15 bocas, dependiendo de la potencia:
+
+  * Ej: 20 focos de 100W → 9,09 A → al límite de la térmica.
+
+---
+
+### **⚠️ Errores Críticos**
+
+* El **ayudante borró el diagrama** de la clase anterior.
+
+* Se hizo el **dibujo en planta** para corregir.
+
+* **Cajas mal ubicadas** por cumplir horarios de otros gremios (Durlock).
+
+* Se debe prever desde el principio cómo se va a trabajar la instalación (evita improvisación y errores).
+
+* **Profesor ofreció enseñar** a quienes hicieron mal la instalación, **pero no aceptaron**.
+
+---
+
+### **📏 Cálculo de Corriente**
+
+* Ejemplo: 300W / 220V \= **1,37 A** (intensidad).
+
+* Si el voltaje baja de **190 V**, se **pueden dañar electrodomésticos**.
 
 ![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgQJ_tQLc5rd6y7cfWhyhofhCUHhS-MGhLedfMTFecMqmRd3m7-QWi8MJAqWwpVQNdf5JX7XhpOmOyUF8QIZdFUr48t1kAw7iMGEaf53aFYz5jgBb850mJq32R7_2C4qW5zHhWrOyrpIPWcthXQVt5vtq7M5B3v2f8Vh6AYwzVznEtnEyaZp0XsydALai0/s4160/IMG_20250430_184222823.jpg)
 ![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg8mAIPYY8vSP0kknXam4c-WbMxBHqbL-41qYTkEKHRZnwK4SfUVN1eoaBGkv7w-PpFnlascmTTdw05IBh6Ljg0vbPp6QRXDDEy_Q2Inr0HXkSeMlF3kMDKvYjkZ3B2NkzW4fp7ye6qGonpZw78BHnPJ2ADYRizcKAUyA3j-CO-zahXdHpBQfoByhR7vsg/s4160/IMG_20250430_184819957.jpg)

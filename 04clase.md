@@ -9,6 +9,126 @@
 **Audio YouTube**     
 [https://www.youtube.com/embed/tN76Tnlmi8s](https://www.youtube.com/embed/tN76Tnlmi8s)   
    
+
+### **⚙️ 1\. Esquema Básico de Instalación**
+
+* **Red de distribución:** suele ser **conductor preensamblado**, especialmente en zonas urbanas.
+
+* **Línea municipal:** marca el **límite de responsabilidad del instalador** (desde el medidor hacia adentro).
+
+* **Acometida:** incluye **morceto, fusible aéreo, caño galvanizado, pipeta**, etc.
+
+* **Línea de alimentación principal:** desde el **morceto hasta el tablero general**.
+
+* **Línea principal:** va desde el **medidor al tablero**.
+
+* En instalaciones modernas se usa **caño corrugado**, pero **el anaranjado está prohibido** (no es inífugo).
+
+* Todos los tableros deben tener **puesta a tierra**.
+
+---
+
+### **🔌 2\. Protección Eléctrica**
+
+* **Interruptor termomagnético** debe ir **antes** del **interruptor diferencial**.
+
+* **Interruptor diferencial:** detecta fugas de corriente y protege personas.
+
+* **Puesta a tierra es obligatoria**. Sin ella, aunque haya disyuntor o térmica, **no hay protección completa**.
+
+* El **fusible aéreo** (si no está dentro del morceto) **limita la potencia** que entra a la vivienda.
+
+* El sistema **trifásico** no genera picos de corriente al encender motores.
+
+---
+
+### **🌩️ 3\. Sistema de Pararrayos y Puesta a Tierra**
+
+* El pararrayos descarga a tierra mediante **jabalina** conectada con **cable desnudo de cobre**.
+
+* Si **no se conecta** la puesta a tierra del pararrayos con la del tablero, **puede quemar equipos**.
+
+* Jabalina puede colocarse **vertical**, **a 45°**, o **acostada a 50 cm** de profundidad si hay impedimentos.
+
+* Se conecta mediante **toma cable** que **presiona el conductor pelado**.
+
+---
+
+### **⚠️ 4\. Seguridad y Riesgos**
+
+* **Efecto Joule:** corriente genera calor → deteriora la aislación → **riesgo de cortocircuito o incendio**.
+
+* **Empalmes siempre dentro de cajas** de distribución. **Nunca dentro de caños**.
+
+* **Doble aislación:** algunos equipos tienen carcasa plástica y protección interna extra (símbolo: dos cuadrados superpuestos).
+
+* **Equipos sin puesta a tierra** son peligrosos: por ejemplo, **heladera** → descarga primero, disyuntor después.
+
+---
+
+### **🧰 5\. Materiales y Métodos**
+
+* **Conductor preensamblado:** el neutro es **liso**, la fase tiene **una ranura**.
+
+  * En **trifásico:**
+
+    * Fase 1: una ranura
+
+    * Fase 2: dos ranuras
+
+    * Fase 3: tres ranuras
+
+* **RETENAX** es una **marca**, no el nombre del conductor (preensamblado).
+
+* **Catálogos antiguos** (sección de 4 mm² como principal) están **desactualizados**.
+
+---
+
+### **📚 6\. Evaluación y Curso**
+
+* **Examen a carpeta abierta.**
+
+* **Auxiliar electricista:** 70 horas reloj.
+
+* Tarjeta de oficio se entrega al finalizar.
+
+* Preguntas del examen incluyen contenido de **fotocopias**.
+
+* **Montador no puede rendir a libro abierto.**
+
+* Electromisiones ofrece **descuento** si se tiene **tarjeta de oficio registrada**.
+
+---
+
+### **🏁 7\. Terminación de la Instalación**
+
+* La instalación **se considera terminada** cuando:
+
+  * Se **conectan los artefactos** (o al menos un portalámparas).
+
+  * Se **sube la térmica** y se prueba que **funcionan luces y tomas**.
+
+  * Se **verifica que no haya cortocircuitos**.
+
+---
+
+### **❓ Preguntas Clave para el Examen**
+
+1. ¿Qué diferencia hay entre un **interruptor diferencial** y uno **termomagnético**?
+
+2. ¿Qué se considera **acometida**?
+
+3. ¿Qué sucede si el **pararrayos** no comparte puesta a tierra con el tablero?
+
+4. ¿Cómo se identifican las fases en un **conductor preensamblado**?
+
+5. ¿Dónde deben hacerse los **empalmes**?
+
+6. ¿Qué sección y material debe tener el conductor de puesta a tierra?
+
+7. ¿Qué características tiene un equipo con **doble aislación**?
+
+
 Interruptor diferencial tiene que ir siempre después del interruptor termomagnético. Tarjeta de oficio te dan al finalizar curso. La evaluación tendrá preguntas sobre las fotocopias. Auxiliar a libro abierto, montador no. Regleta: Había métodos que nos daba la posibilidad a nosotros que este conductor de sección X necesito mi interruptor termomagnético de estas características que proteja este conductor. 70 horas reloj para aprobar auxiliar electricista. El porcentaje que me daba electromisiones de descuento me ayudaba a pagar ayudantes. Electromisiones te da descuento si tenes la tarjeta de oficio registrado. Corriente alterna: fase y neutro. Continua: positivo y negativo. Red de distribución. Tengo la red de distribución que puede ser que este conductor que viene acá la mayoría es preensamblado y puede aparecer en algunos casos en los lugares más retirados del sistema urbano, conductores desnudo de aluminio, pero en el urbano es preensamblado.  Hay electricista que se acostumbraron que lo llama RETENAX. Esa es la marca. El conductor se llama preensamblado. Esa línea línea municipal nos permite a nosotros como instaladores donde va a ir ubicado nuestro medidor ahí inicia nuestra instalación. Tenemos injerencia a partir de la línea municipal para abajo. Todo para adentro ahí debemos nosotros trabajar. Pregunta de exámen: Y la línea de alimentación principal es del morceto hasta acá, la acometida es todo lo que constituye protección con caño garbanizado, pipeta morceto fusible aéreo. El otro es mi alimentación principal. Hoy en día se usa caño corrugado, si es anaranjado está prohibido porque es no es inófugo. Con el morceto tomo la línea. Si el poste está cerca puedo hacer subterráneo. Siempre si no tengo un fusible dentro de la cápsula que está en el morceto puedo tener un fusible aéreo, el fusible aéreo me delimita la potencia que entra a la línea a la casa. El trifásico no me genera el pico de corriente.Ya empezamos con este sistema. Acá hay una parte que se llama línea principal, línea seccional de acá hasta acá y luego esta es línea de alimentación entre el tablero general y el gabinete de medición tengo la línea principal, está casi en mezclado porque a veces yo tengo el gabinete y detrás del gabinete de medición tengo el tablero general o sea que hay muy poco de recorrido pero hay un conductor que alimenta desde el medidor hasta la térmica entonces esa alimentación es línea principal.  Catálogo viejo aparece sección principal con conductores de 4 mm OLVIDENSE DE ESO,
 es de 20 años.  Y todos los tableros deben tener conductor de puesta a tierra.  Acuérdense que tengo un sistema de pararayos y el sistema de la bajada del pararrayos que
 va un sistema de jabalina puesta a tierra y después vinos que el tablero general también tenemos puesta a tierra, entonces pasaba que esas descargas del pararrayos que bajaba por el conductor desnudo de cobre y se distribuía a la tierra se quemaba algún equipo porque esa corriente que es grande iba por debajo de la tierra y entraba al tablero seccional y ahí buscaba la parte más débil y me **QUEMABA LA INSTALACION**.  AL NO ESTAR UNIDO LA PUESTA TIERRA O SEA QUE EL PARARRAYOS Y LA PUESTA TIERRA PROVOCABA
