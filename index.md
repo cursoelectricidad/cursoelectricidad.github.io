@@ -84,7 +84,7 @@ Subscribe to RSS: [/feed.xml](/feed.xml)
 [30 Abril 2025]{.date}
 
 
-[Clase Nº 21: X Vimos una instalación mal hecha: Errores y Mejoras. Conexiones en Serie y Paralelo. ](/21clase.md){.title}
+[Clase Nº 21: Vimos una instalación mal hecha: Errores y Mejoras. Conexiones en Serie y Paralelo. ](/21clase.md){.title}
 [02 Mayo 2025]{.date}
 
 
@@ -116,11 +116,11 @@ Subscribe to RSS: [/feed.xml](/feed.xml)
 [21 Mayo 2025]{.date}
 
 
-[Clase Nº 29: X [FOTOCOPIA] Tester. Multímetro. Vacunación. Preguntas exámen: 01:55](/29clase.md){.title}
+[Clase Nº 29: [FOTOCOPIA] Tester. Multímetro. Vacunación. Preguntas exámen: 01:55](/29clase.md){.title}
 [22 Mayo 2025]{.date}
 
 
-[Clase Nº 30: X Protecciones. Instalaciones Electricidad Domiciliaria. Corriente máxima por conductor.](/30clase.md){.title}
+[Clase Nº 30: Protecciones. Instalaciones Electricidad Domiciliaria. Corriente máxima por conductor.](/30clase.md){.title}
 [27 Mayo 2025]{.date}
 
 
@@ -128,11 +128,11 @@ Subscribe to RSS: [/feed.xml](/feed.xml)
 [28 Mayo 2025]{.date}
 
 
-[Clase Nº 32: X [FOTOCOPIA] Protecciones. Interruptor termomagnético. Fusibles. Repaso.](/32clase.md){.title}
+[Clase Nº 32: [FOTOCOPIA] Protecciones. Interruptor termomagnético. Fusibles. Repaso.](/32clase.md){.title}
 [28 Mayo 2025]{.date}
 
 
-[Clase Nº 33: X [FOTOCOPIA] Foto termomagnética. Leímos fotocopia interruptor termomagnético. Potencia nominal. Foto de Corriente máxima por sección de cable.](/33clase.md){.title}
+[Clase Nº 33: [FOTOCOPIA] Foto termomagnética. Leímos fotocopia interruptor termomagnético. Potencia nominal. Foto de Corriente máxima por sección de cable.](/33clase.md){.title}
 [02 Junio 2025]{.date}
 
 

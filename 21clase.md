@@ -1,4 +1,4 @@
-% Clase Nº 21: X Vimos una instalación mal hecha: Errores y Mejoras. Conexiones en Serie y Paralelo. 
+% Clase Nº 21: Vimos una instalación mal hecha: Errores y Mejoras. Conexiones en Serie y Paralelo. 
 % Andrés Imlauer
 % 02 Mayo 2025
 
