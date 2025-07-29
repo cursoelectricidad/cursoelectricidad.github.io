@@ -4,15 +4,15 @@
 
 ##### Audio en Vocaroo:
 
-https://vocaroo.com/1979ylz1KTim
+![https://vocaroo.com/1979ylz1KTim](https://vocaroo.com/1979ylz1KTim)
 
 #### Audio en Archive:
 
-https://archive.org/details/record-190
+[https://archive.org/details/record-190](https://archive.org/details/record-190)
 
 #### Audio en YouTube:
 
-https://www.youtube.com/watch?v=NB4SV-JIt1E
+[https://www.youtube.com/watch?v=NB4SV-JIt1E](https://www.youtube.com/watch?v=NB4SV-JIt1E)
 
 #### La clase que viene trabajaremos con hoja cuadriculada.
 
