@@ -1,4 +1,4 @@
-% Clase Nº 47: Comienzo del curso montador electricista. Bienvenida a nuevos alumnos. Repaso conceptos de las primeras clases.
+% Clase Nº 48: Comienzo del curso montador electricista. Bienvenida a nuevos alumnos. Repaso conceptos de las primeras clases.
 % Andrés Imlauer
 % 29 Julio 2025
 
