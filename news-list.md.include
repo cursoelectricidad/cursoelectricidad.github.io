@@ -3,7 +3,7 @@ title: Curso Electricidad - UOCRA
 x-toc-enable: true
 ...
 
-Curso de Electricidad de la UOCRA que comenzó el 10 de Marzo del año 2025.     
+Curso de Electricidad de la UOCRA que comenzó el 10 de Marzo del año 2025 pero mi primera clase fue el miércoles 12 de Marzo.    
 Profesor: Francisco Espeche. Ingeniero Electromecánico, inspector de obra.   
 Ayudante: Alejandro Ramirez.  
 
