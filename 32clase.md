@@ -1,4 +1,4 @@
-% Clase Nº 32: [FOTOCOPIA] Protecciones. Interruptor termomagnético. Fusibles. Repaso.
+% Clase Nº 32: X [FOTOCOPIA] Protecciones. Interruptor termomagnético. Fusibles. Repaso.
 % Andrés Imlauer
 % 28 Mayo 2025
 
@@ -22,7 +22,7 @@ Cuando haay problema de lluvia humedad todo el sistema se complica a veces cuand
 Abri el tablero y fijate que disparo si disparo una termica es lo mas facil de solucionar, si disparo un disyuntor es mas complicado.    
 rst las 3 fases vivas y el neutro    
     
-Botolli problema de heladera por baja tensión produce un amperage más alto y hacía cortar la térmica.    
+Botolli tenía problema de heladera por baja tensión produce un amperage más alto y hacía cortar la térmica.    
 Partes principales de un ITM (Ver Foto): Borne de entrada.  Cable trenzado.  Prolongador.  Sistema mecánico magnético.  Resorte.  elemento térmico lámina bimetálica.  Contacto móvil.  Contacto fijo.  Cámara de extinción.  Elemento magnético bobina.  Borner de salida    
     
 La parte de educacion tiene un sistema monofasico todas las instalaciones internas excepto algunos lugares en donde van la alimentacion directamente a una bomba que puede ser trifasica.    
@@ -97,7 +97,7 @@ La norma dice que si hago iluminación tengo que aplicar conductores de 1,5mm^2,
 Botolli: La de 2,5mm^2 es de 18 amper pero tiene que cortar antes por eso uso térmica 16    
 En síntesis la idea principal es que sabiendo los conductores que necesito para iluminación, toma corrientes de uso generales y especiales se que interruptor debo colocar.    
 Algunos españoles le dicen cuadro principal (tablero principal).    
-Padre: Si es el disyuntor(después Botolli dijo que era la térmica) A lo mejor hace más hielo en una parte que corta alguna chapa o se derrite. El problema está en la heladera. Si es la térmica: hay que cambiar la térmica, si tiene menos tensión. En verano baja la tensión por lo tanto sube el consumo.    
+Padre: Si es el disyuntor a lo mejor hace más hielo en una parte que corta alguna chapa o se derrite. El problema está en la heladera. Si es la térmica: hay que cambiar la térmica, si tiene menos tensión. En verano baja la tensión por lo tanto sube el consumo.    
 Profesor tiene un problema en el burlete de la heladera.    
 Todo es interesante pero quiero que me hagan en un día acá, yo voy a laburar con ustedes y nadie quiere ir a laburar a casa entonces lo quieren llevar.    
 He tenido amigos que llevaron la heladera andaba bien el burlete y después desapareció la heladera. Entonces no es así.    
@@ -117,14 +117,15 @@ Para evitar que se deteriore el ITM esperen un poco, si levantan y vuelve a salt
 Como se comprueba eso? Medir amper y tensión.    
 Esto es lo que le pasó a Botolli con su heladera por eso corta: Si yo tengo menor tensión necesito mayor corriente para poder un motor     
 Si trabaja en tensiones nominales 210/220 pero si la tensión baja a parámetros menores de 200 la corriente esa para que el equipo siga funcionando será muy elevada entonces ahí le puede hacer saltar el interruptor.    
-Ricardo Selva: Ahí le puede pasar eso a ella.    
+**Ricardo Selva: Ahí le puede pasar eso a ella**.    
     
-Acá se dieron cuenta del problema de la heladera de Botolli :)    
+Acá se dieron cuenta del problema de la heladera.
+
 El 1er elemento que se utilizó como protección para el conductor fue el fusible.    
 Con el tiempo la gente no tenía para reemplazar y quería tener luz entonces como tenía 2 terminales de chapa lo puenteaban y ponían un conductor de sección mayor de la necesidad, y se incendiaba el conductor, y otras veces le incendiaba hasta el cielo raso de la casa.    
 Hay unos barrios de Iprodra que todavía tienen esos tienen esos interruptores tipo fusible.    
 Bochinche de la hinchada de Guaraní cobraba todo. Le cobraba 3 garrafas a la mamá y ella usaba 1.    
-Barrientos: La última vez lo ví en Santa Rita, Chacabuco y Sapiola tenía una SW4 o sea andaba bien.    
+Alumno: La última vez lo ví en Santa Rita, Chacabuco y Sapiola tenía una SW4 o sea andaba bien.    
 ¿Qué diferencia tengo entre un ITM y un fusible?    
 Los 2 tiene la misma protección que protege al conductor.    
 Uno actúa por fusión y otro también activa trabajando el tema que al aumentar la corriente corta.    

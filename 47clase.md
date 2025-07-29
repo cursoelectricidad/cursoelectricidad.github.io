@@ -9,7 +9,6 @@
 **Audio en YouTube**   
 [https://www.youtube.com/embed/AyTuVpk8-Ok](https://www.youtube.com/embed/AyTuVpk8-Ok)   
    
-![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEglzjYV23RQQi9GVvGTvlC5FR6PaFp-DOizqp6SNAEUX8CoKwTDMhqpqrAH8YirvW1O2llN7nfPtcX59OoXCdW6N3_fU5nrqE8JrR9eNX6xqqYFEYoMpGhHVCrD_OXAK8nmOvK79dyd8qehouh8GeckqvwQKKdCuaNwVb5hPPO0B1LEod0ht81d9LM_qEE/s4160/IMG-20250707-WA0006.jpg)   
 ![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEivf5XL1-HQaKS6rSBAcvTEMPS_1UhWo67IEVI23XW20ZvaTg_JbU5vTAlXYzt45hRKyLHrBnRrN5DP1O0DWlCwnJ2fO_G5hV-7m0s2l9t4RJFBl8ZDnRREqZBc0yo2Cf7tkF7dcVmv0oN1GXc6aZ4J3Bx7HdhWOPNXQYOVvcgdYY5NOEubkSJT1yoRG1s/s4160/IMG-20250707-WA0007.jpg)   
 ![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj3Zz_Y7Fi1XoO1MaR4KtdxfP5zupHKhLujlfzWV9Y9YjSy5eitXCJgcPqabxpPH6PEEi373CY686P0ksOZTwVXMWfi1oD1wK-VVY_c2ZCaenlIFVsgHj2Q4SMOyrHA8fQLXKhNkf5Rd4EdR8F2ftpRNHFarc0xf08JVPy2RjfgsGb3H8EsyIXKb6FhGsI/s4160/IMG-20250707-WA0008.jpg)   
 ![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhSce6IPTCyv0WU-_hopVlLdnbp33qv5yAwvTwsA5YtOF2W_TnEgdqxyS0II4OmbL3PP56zwJy-IwgmDMOLTNzFkSqUjYGaZAAAaIImlvjYmpkB4JeGx0977fFPwK0fOnkFODBD0fjHs6SavVonun8TQXD7gW_pHPbF2Ra24B8douzOkNtUmcMeFjvoA7E/s4160/IMG-20250707-WA0009.jpg)   

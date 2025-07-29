@@ -1,4 +1,4 @@
-% Clase Nº 30: Protecciones. Instalaciones Electricidad Domiciliaria. Corriente máxima por conductor.
+% Clase Nº 30: X Protecciones. Instalaciones Electricidad Domiciliaria. Corriente máxima por conductor.
 % Andrés Imlauer
 % 27 Mayo 2025
 
@@ -22,7 +22,7 @@ Profesor: Bueno, en síntesis empecé al revés esto es lo que se utiliza ahora 
 Agustín García Humada Fundieron el Banco Provincia porque daba mucho crédito que no pudieron pagar y hasta Mennoquio que se fugó al Paraguay, el gusano Mennocchio también llevó mucha plata.
 Se quemaban todos los motores de la fábrica Agustín García en Candelaria porque era fácil meter un alambre cuando se fundía el fusible. Tenía que tener contactor térmico para proteger los motores, no solo los fusibles.
 Cámara apaga chispas de la térmica.
-Matías Samuel: Ahí se quema tu térmica y tenes que comprar otra?
+Alumno: Ahí se quema tu térmica y tenes que comprar otra?
 Corriente de ruptura: produce un cortocircuito que absorbe el equipamiento este para no romperse por lo general aparece en un interruptor aparece un cuadradito a veces dice: 3000 amper esa es la corriente de ruptura que nos da la cooperativa dice que probablemente cuando se desliga un transformador el neutro con la fase puede producir una corriente cortocircuito y CC al rededor de 3000 amper.
 El interruptor termomagnético puede actuar por una corriente cortocircuito que venga de la línea o directamente por un circuito acá abajo, cualquiera de las 2 formas actúa (aguas arriba y aguas abajo) en eso es distinto que el disyuntor(interruptor diferencial).
 
@@ -87,7 +87,7 @@ Profesor: Tuvo suerte, trifásica 3 fases y 1 neutro. Todas las heladeras la may
 
 ###### Ingeniero: si la carga está equilibrada no hace falta que el neutro soporte tanto. 1000 vatios en una fase y 1000 en la otra, en las 3 tenes que tener 1000.  No hace falta que el neutro sea la suma de las 3 fases pero la sección del cable por lo menos tiene que tener el grosor de una fase.
 
-Barrientos: El año pasado me compré en Paraguay una fryair freidora de aire y hoy estaba mirando y ahora me mudé y no puedo conectar porque los enchufes tiene la pata más gruesa, el año pasado hice volar la puesta a tierra del enchufe pero no sabía.
+Alumno: El año pasado me compré en Paraguay una fryair freidora de aire y hoy estaba mirando y ahora me mudé y no puedo conectar porque los enchufes tiene la pata más gruesa, el año pasado hice volar la puesta a tierra del enchufe pero no sabía.
 Si se achicharra el cable es por consumo (está mal calculada la sección del cable)
 
 

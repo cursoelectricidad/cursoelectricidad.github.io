@@ -22,10 +22,8 @@ Y este:
 Aclaración: Todos los ejercicios los venía haciendo con llave combinación pero este ejercicio cuando lo llevé a probar no encendía la luz, así que el profesor me dijo (erróneamente) que cambie la llave combinación porque pensaba que ese era el problema. Yo la cambié por una llave de 1 punto. Al final el problema terminó siendo que el portalámparas no hacía contacto porque cuando puse el foco lo desarmé un poco. Así que cambié toda la tecla de balde y mañana tendré que reemplazar esa llave de 1 punto por la llave combinación otra vez porque el ejercicio siguiente usa llave combinación.    
 ![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEijTte7dBiI6_Z6PEjZ6tK35Vex8o1_OpirgLDwvE3eWR_-gd4dnDD0UNnhpTRm0yALcESySaT0uROOpzmv6k5W_ciNiiy72ZFCaLYoRol3PPEFk35KWsiG2Qvl5gXw-XOPqKD5V7Z2yQFhvm_d22ZJDP_F7F-zDYI_B67zfuYKk5tLkS45V_YwEm3QB8g/s4160/IMG_20250511_181833612.jpg)    
     
-A Leiva un hombre le puso la vacuna cuando estaba lleno de chicas.    
 La fase siempre es recomendable que esté en el medio (Hora 01:28)    
 El circuito que hice no funcionó porque luego de probar el primer ejercicio desarmé el portalámparas cuando saqué el foco y ya no hacía contacto. El profesor en un comienzo pensó que era la llave de punto y me la hizo cambiar pero en realidad era el portalámparas que estaba flojo.    
 Espeche se operó de las cataratas, al principio estaba contento a 1 metro veía bien todas las letras, ahora necesita anteojos.    
 Estaba al reves pero lo importante es que de un lado vos podes manejar 2 bocas diferentes, prendes y apagas. NO te sulfures.    
 Cuando vos tenes un disyuntor vos podes usar el boton de prueba para cortar toda la energía y después ya después bajar los demás.    
-Conversación final con el belado Benavides.    

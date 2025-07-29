@@ -1,4 +1,4 @@
-% Clase Nº 43: Tableros. Ayudante Alejandro Ramirez abre un candado con un paper clip (agrego video en ingles que explica como hacerlo)
+% Clase Nº 43: Tableros. Ayudante Alejandro Ramirez abre un candado con 2 clips (agrego video en ingles que explica como hacerlo)
 % Andrés Imlauer
 % 25 Junio 2025
 
@@ -11,7 +11,7 @@
     
 ![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgS1_4_3P6kFKx6h2ArdbqumTzd82SBjqNaXPI8VmuTHQQZL3iUbYm2_DA-7zRWh3JaT-hpBALgnPiU9dsPVBM1BtyMBRvqTwe0ikF4zNgeXKvT6wGjSMaJIk-RPkgSLWphc3fWvwnPkapreje9fvNgmR3kcG6gSATe_IleTQiBsihudE6fuaNvOEJVy3s/s4160/IMG_20250625_203200823.jpg)    
 
-##### Como abrir candados con un paper clip
+##### Como abrir candados con un clip
 
 Encontré otros tutoriales mucho más sofisticados que te enseñan el método de hacerlo 1 por 1. Este método está basado en probabilidad.
 

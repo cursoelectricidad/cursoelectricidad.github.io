@@ -1,4 +1,4 @@
-% Clase Nº 29: [FOTOCOPIA] Tester. Multímetro. Vacunación. Preguntas exámen: 01:55
+% Clase Nº 29: X [FOTOCOPIA] Tester. Multímetro. Vacunación. Preguntas exámen: 01:55
 % Andrés Imlauer
 % 22 Mayo 2025
 
@@ -17,9 +17,8 @@ Como marcar continuidad del circuito sin el foco: Tenes que con un destornillado
 
 Definición voltaje, amper:
 
-Yo explico a Adrián Torres: Voltaje es la fuerza que tiene que tiene la energía de pasar de un lado al otro, y amper es cuánta energía lleva cada vez que pasa.
-Adrián Torres: Ah.
-Yo: Dicen que con 1 amper ya es suficiente para matarte pero no pasa la pila tiene 1 amper pero no pasa por tu cuerpo porque tiene 5 voltios para que pase la energía por tu cuerpo necesitas romper la resistencia de la piel.
+Voltaje es la fuerza que tiene que tiene la energía de pasar de un lado al otro, y amper es cuánta energía lleva cada vez que pasa.
+Dicen que con 1 amper ya es suficiente para matarte pero no pasa la pila tiene 1 amper pero no pasa por tu cuerpo porque tiene 5 voltios para que pase la energía por tu cuerpo necesitas romper la resistencia de la piel.
 Adrián Torres: Con cuánto más o menos? O sea con lo que tocamos acá? 220?
 Yo: Sí, eso ya rompe la resistencia.
 Adrián Torres: Ellos habían hablado de eso las primeras clases, porque uno siempre conoce como voltios o sea yo le digo voltios siempre le dicen voltios, 220 voltios. Ahora recién entendí.

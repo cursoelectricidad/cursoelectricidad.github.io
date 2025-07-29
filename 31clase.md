@@ -2,7 +2,7 @@
 % Andrés Imlauer
 % 28 Mayo 2025
 
-Hay una parte que se me cortó el audio sin querer :(    
+Hay una parte que se me cortó el audio
 
 **Audio en Vocaroo**    
 [https://vocaroo.com/1iHHSbiUXgm1](https://vocaroo.com/1iHHSbiUXgm1)    

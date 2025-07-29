@@ -1,4 +1,4 @@
-% Clase Nº 24: Clase práctica. Armado y Comprobación de Tableros Eléctricos. Comprobación de Continuidad. 
+% Clase Nº 24: Clase práctica. Armado y Comprobación de Tableros Eléctricos. Comprobación de Continuidad. Vacunación, control oftalmológico, hipertensión(Alumnos de la UCAMI). 
 % Andrés Imlauer
 % 13 Mayo 2025
 

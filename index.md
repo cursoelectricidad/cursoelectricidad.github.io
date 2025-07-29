@@ -32,7 +32,7 @@ Subscribe to RSS: [/feed.xml](/feed.xml)
 [26 Marzo 2025]{.date}
 
 
-[Clase Nº 8: [FOTOCOPIA ALTURA CAJAS] Empalmes. Reglamentación AEA 90364: Altura colocar cajas. Ubicación de las bocas de interruptores de efecto. Ubicación de las bocas de tomacorrientes. Clase que viene realizaremos: uniones en cajas de paso, ortogonal y 5x10"](/08clase.md){.title}
+[Clase Nº 8: [FOTOCOPIA ALTURA CAJAS] Empalmes. Reglamentación AEA 90364: Altura colocar cajas. Ubicación de las bocas de interruptores de efecto. Ubicación de las bocas de tomacorrientes. Clase que viene realizaremos: uniones en cajas de paso, ortogonal y 5x10](/08clase.md){.title}
 [01 Abril 2025]{.date}
 
 
@@ -84,7 +84,7 @@ Subscribe to RSS: [/feed.xml](/feed.xml)
 [30 Abril 2025]{.date}
 
 
-[Clase Nº 21: Vimos una instalación mal hecha: Errores y Mejoras. Conexiones en Serie y Paralelo. ](/21clase.md){.title}
+[Clase Nº 21: X Vimos una instalación mal hecha: Errores y Mejoras. Conexiones en Serie y Paralelo. ](/21clase.md){.title}
 [02 Mayo 2025]{.date}
 
 
@@ -96,7 +96,7 @@ Subscribe to RSS: [/feed.xml](/feed.xml)
 [08 Mayo 2025]{.date}
 
 
-[Clase Nº 24: Clase práctica. Armado y Comprobación de Tableros Eléctricos. Comprobación de Continuidad. ](/24clase.md){.title}
+[Clase Nº 24: Clase práctica. Armado y Comprobación de Tableros Eléctricos. Comprobación de Continuidad. Vacunación, control oftalmológico, hipertensión(Alumnos de la UCAMI). ](/24clase.md){.title}
 [13 Mayo 2025]{.date}
 
 
@@ -108,7 +108,7 @@ Subscribe to RSS: [/feed.xml](/feed.xml)
 [15 Mayo 2025]{.date}
 
 
-[Clase Nº 27: Clase práctica. [LO MAS IMPORTANTE DEL CURSO: LOS ULTIMOS 2 ESQUEMAS DE MONTAJE] 6) Dos lámparas con llave combinación. 7) Dos lámparas. Una con llave combinación y otra con llave de 1 punto. Comenzamos ejercicio 8. En el exámen entra el diagrama unifilar de todo esto."](/27clase.md){.title}
+[Clase Nº 27: Clase práctica. [LO MAS IMPORTANTE DEL CURSO: LOS ULTIMOS 2 ESQUEMAS DE MONTAJE] 6) Dos lámparas con llave combinación. 7) Dos lámparas. Una con llave combinación y otra con llave de 1 punto. Comenzamos ejercicio 8. En el exámen entra el diagrama unifilar de todo esto.](/27clase.md){.title}
 [19 Mayo 2025]{.date}
 
 
@@ -116,11 +116,11 @@ Subscribe to RSS: [/feed.xml](/feed.xml)
 [21 Mayo 2025]{.date}
 
 
-[Clase Nº 29: [FOTOCOPIA] Tester. Multímetro. Vacunación. Preguntas exámen: 01:55](/29clase.md){.title}
+[Clase Nº 29: X [FOTOCOPIA] Tester. Multímetro. Vacunación. Preguntas exámen: 01:55](/29clase.md){.title}
 [22 Mayo 2025]{.date}
 
 
-[Clase Nº 30: Protecciones. Instalaciones Electricidad Domiciliaria. Corriente máxima por conductor.](/30clase.md){.title}
+[Clase Nº 30: X Protecciones. Instalaciones Electricidad Domiciliaria. Corriente máxima por conductor.](/30clase.md){.title}
 [27 Mayo 2025]{.date}
 
 
@@ -128,11 +128,11 @@ Subscribe to RSS: [/feed.xml](/feed.xml)
 [28 Mayo 2025]{.date}
 
 
-[Clase Nº 32: [FOTOCOPIA] Protecciones. Interruptor termomagnético. Fusibles. Repaso.](/32clase.md){.title}
+[Clase Nº 32: X [FOTOCOPIA] Protecciones. Interruptor termomagnético. Fusibles. Repaso.](/32clase.md){.title}
 [28 Mayo 2025]{.date}
 
 
-[Clase Nº 33: [FOTOCOPIA] Foto termomagnética. Leímos fotocopia interruptor termomagnético. Potencia nominal. Foto de Corriente máxima por sección de cable.](/33clase.md){.title}
+[Clase Nº 33: X [FOTOCOPIA] Foto termomagnética. Leímos fotocopia interruptor termomagnético. Potencia nominal. Foto de Corriente máxima por sección de cable.](/33clase.md){.title}
 [02 Junio 2025]{.date}
 
 
@@ -152,7 +152,7 @@ Subscribe to RSS: [/feed.xml](/feed.xml)
 [11 Junio 2025]{.date}
 
 
-[Clase Nº 38: Puesta a tierra. Bajar sensibilidad disyuntor. Tetrapolar con 2 salidas de circuito. Tipos canalizacion. Descarga rayos. Esquema acometida. Preguntas Examen."](/38clase.md){.title}
+[Clase Nº 38: Puesta a tierra. Bajar sensibilidad disyuntor. Tetrapolar con 2 salidas de circuito. Tipos canalizacion. Descarga rayos. Esquema acometida. Preguntas Examen.](/38clase.md){.title}
 [12 Junio 2025]{.date}
 
 
@@ -172,7 +172,7 @@ Subscribe to RSS: [/feed.xml](/feed.xml)
 [25 Junio 2025]{.date}
 
 
-[Clase Nº 43: Tableros. Ayudante Alejandro Ramirez abre un candado con un paper clip (agrego video en ingles que explica como hacerlo)](/43clase.md){.title}
+[Clase Nº 43: Tableros. Ayudante Alejandro Ramirez abre un candado con 2 clips (agrego video en ingles que explica como hacerlo)](/43clase.md){.title}
 [25 Junio 2025]{.date}
 
 
