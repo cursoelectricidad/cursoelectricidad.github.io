@@ -2,22 +2,28 @@
 % Andrés Imlauer
 % 29 Julio 2025
 
-###### Audio en Vocaroo:
+##### Audio en Vocaroo:
+
 https://vocaroo.com/1979ylz1KTim
-###### Audio en Archive:
+
+#### Audio en Archive:
+
 https://archive.org/details/record-190
-###### Audio en YouTube:
+
+#### Audio en YouTube:
+
 https://www.youtube.com/watch?v=NB4SV-JIt1E
 
-###### La clase que viene trabajaremos con hoja cuadriculada.
-###### Traer hoja cuadriculada / regla / metro.
+#### La clase que viene trabajaremos con hoja cuadriculada.
+
+#### Traer hoja cuadriculada / regla / metro.
    
 Símbolos eléctricos.   
 Repasamos conceptos viejos porque hay nuevos alumnos.   
 Escala - metro patron.   
 Metro unidad patrón, podemos tener cinta carpintero.   
 Lo más importante es la canalización.   
-* Ubicación de las cajas octogonales.   
+Ubicación de las cajas octogonales.   
 Planta eléctrico = es como si se le saca el techo.   
 Montante eléctrico en un edificio hay tensiones bajas, internet, incendio. Detectores de humo pasillo,    
 Sacar gas hacer con energía eléctrica   
@@ -44,9 +50,13 @@ En la obra compraron corrugado de 5/8 en vez de 3/4 (vamos a ver si pasan los ca
 Espeche siempre intenta que tenga otra bajada.   
 Sea PVC o hierro todos tienen elemento auxiliar: cupla, contectores.   
 Entre 2 cajas debe haber    
-##### Es importante definir que cañería usar de principio a fin, siempre usar el mismo caño.   
+
+#### Es importante definir que cañería usar de principio a fin, siempre usar el mismo caño.   
+
 Si uso hierro, todo hierro. Si uso PVC, todo PVC. (Algunos intercalan PVC con hierro está mal hacer eso)   
-###### Aunque si quiero cambiar de cañería(PVC a hierro) no hacerlo en la curva, siempre cambiar canalización en una boca.   
+
+#### Aunque si quiero cambiar de cañería(PVC a hierro) no hacerlo en la curva, siempre cambiar canalización en una boca.   
+
 Alumna: ¿Cómo se representa caño liviano?   
 Aparece en el plano hay un pliegue que dice usar cañería de hierro.   
 Los electricistas no leen las especificaciones y el profesor les dice que hay que sacar todo porque eso no es lo especificado.   
@@ -78,7 +88,9 @@ Montador debería saber leer un plano, ubicar cañería y cajas.
 Caños: Depende de la cantidad de circuitos. Hasta 3 circuito por caño.   
 Hay un grupo de WhatsApp.   
 El curso empezó el 10 de Marzo.   
-##### Repasamos la 1er pregunta del examen que está en la 1era fotocopia: Una instalación es segura y confiable cuando ha sido...   
+
+#### Repasamos la 1er pregunta del examen que está en la 1era fotocopia: Una instalación es segura y confiable cuando ha sido...   
+
 No damos matrícula, preparamos a gente de oficio.   
 Tarjeta IERIC.   
 Vamos a hacer cálculo y cómputo de presupuestos (antes este trabajo lo hacía el ingeniero ahora las empresas quieren ahorrar y lo hace el electricista).   
