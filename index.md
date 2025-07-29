@@ -192,3 +192,7 @@ Subscribe to RSS: [/feed.xml](/feed.xml)
 [08 Julio 2025]{.date}
 
 
+[Clase Nº 48: Comienzo del curso montador electricista. Bienvenida a nuevos alumnos. Repaso conceptos de las primeras clases.](/48clase.md){.title}
+[29 Julio 2025]{.date}
+
+
