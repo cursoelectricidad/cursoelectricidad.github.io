@@ -196,3 +196,7 @@ Subscribe to RSS: [/feed.xml](/feed.xml)
 [29 Julio 2025]{.date}
 
 
+[Clase Nº 49: Electricidad / Clase 48: Plano. Dibujo a escala.](/49clase.md){.title}
+[29 Julio 2025]{.date}
+
+
