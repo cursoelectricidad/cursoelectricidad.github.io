@@ -50,6 +50,7 @@ List of pages:
 * /46clase.md: [Clase Nº 46: Fin curso de auxiliar electricista. Videos en proyector.](/46clase.md)
 * /47clase.md: [Clase Nº 47: Fin de curso auxiliar electricista.](/47clase.md)
 * /48clase.md: [Clase Nº 48: Comienzo del curso montador electricista. Bienvenida a nuevos alumnos. Repaso conceptos de las primeras clases.](/48clase.md)
+* /49clase.md: [Clase Nº 49: Electricidad / Clase 48: Plano. Dibujo a escala.](/49clase.md)
 * /contact.md: [Contacto](/contact.md)
 * /: [Curso Electricidad - UOCRA](/)
 * /license.md: [License](/license.md)
