@@ -16,7 +16,7 @@ Subscribe to RSS: [/feed.xml](/feed.xml)
 [13 Marzo 2025]{.date}
 
 
-[Clase Nº 4: Simbología. Regleta de sección de cables. Efecto YULL. Sistemas de Puesta a Tierra. Pregunta de examen.](/04clase.md){.title}
+[Clase Nº 4: Simbología. Regleta de sección de cables. Efecto Joule. Sistemas de Puesta a Tierra. Pregunta de examen.](/04clase.md){.title}
 [19 Marzo 2025]{.date}
 
 

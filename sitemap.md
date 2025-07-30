@@ -5,7 +5,7 @@ List of pages:
 
 <div class='sitemap'>
 * /03clase.md: [Clase Nº 3: [FOTOCOPIA] Simbología. Red de distribución. Morceto. Fusible aéreo. Conductor preensamblado y bipolar. Acometida. Línea de distribución principal. Alimentación trifásica. Esquema de la acometida que entra en el examen. Definciones: Línea de alimentación, principal, seccional, etc.](/03clase.md)
-* /04clase.md: [Clase Nº 4: Simbología. Regleta de sección de cables. Efecto YULL. Sistemas de Puesta a Tierra. Pregunta de examen.](/04clase.md)
+* /04clase.md: [Clase Nº 4: Simbología. Regleta de sección de cables. Efecto Joule. Sistemas de Puesta a Tierra. Pregunta de examen.](/04clase.md)
 * /05clase.md: [Clase Nº 5: [FOTOCOPIA de pilar monofásico y requisitos generales] Simbología. Morceto. Normas y Precauciones. Pelar Cables y Conectar Acometidas. Tableros y Sistemas de Medición.](/05clase.md)
 * /06clase.md: [Clase Nº 6: Capacitación en Trabajo en Altura. Simbología. Instalaciones Eléctricas: Conceptos básicos. ](/06clase.md)
 * /07clase.md: [Clase Nº 7: [FOTOCOPIA Simbología]. Desarmamos tablero anterior y desarmamos y armamos portalámparas desde 0, identificando donde colocar la fase y neutro en la portalámpara.](/07clase.md)

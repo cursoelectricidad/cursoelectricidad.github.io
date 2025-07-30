@@ -1,4 +1,4 @@
-% Clase Nº 4: Simbología. Regleta de sección de cables. Efecto YULL. Sistemas de Puesta a Tierra. Pregunta de examen.
+% Clase Nº 4: Simbología. Regleta de sección de cables. Efecto Joule. Sistemas de Puesta a Tierra. Pregunta de examen.
 % Andrés Imlauer
 % 19 Marzo 2025
 
