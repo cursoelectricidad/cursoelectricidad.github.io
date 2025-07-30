@@ -4,15 +4,15 @@
 
 #### Audio en Vocaroo
 
-https://vocaroo.com/1cpnXdKWPsk1
+[https://vocaroo.com/1cpnXdKWPsk1](https://vocaroo.com/1cpnXdKWPsk1)
 
 #### Audio en Archive.org
 
-https://archive.org/details/record-194
+[https://archive.org/details/record-194](https://archive.org/details/record-194)
 
 #### Audio en YouTube
 
-https://www.youtube.com/watch?v=MlWojvyrz4Y
+[https://www.youtube.com/watch?v=MlWojvyrz4Y](https://www.youtube.com/watch?v=MlWojvyrz4Y)
 
 ![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhoShuB3Y8EcKNpIsxVJJO-k4DnJM8I2CuNcRTmLcTs4FskZUdOF__imBcShmB4UAljxEa_exmaq2ehBczbhyphenhyphenc7dzjQh2TAdB4Uf9A07vMfvmz-qky0jqZjY6wTku-FGhvyDkvPSWucqoFBcWwLc-Ne7-LznXN7z1GmxM4oyIRJ3dTVl1Ec8ETMoLj91bE/s4160/IMG_20250729_190746665.jpg)
 ![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhxQBrhtDu0Uk_y3HWqzm-BYtXK44QBkwDcxDqCVxH9HtfZBd27d_U1dbXsnTT7YO8AOpzDKcelnpNLx98bDFKUOLErHpcO7H-EYkusiDlDPCO_ws6ZmZHsFnelJoNCDirOGFCUkioPBsHQtbS0IMO8FM2Oy9HJwFvJ7Nv45C_FUMnu0rNErfV3PHoiNHs/s4160/IMG_20250729_190758060.jpg)
