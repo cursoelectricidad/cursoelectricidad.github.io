@@ -20,8 +20,6 @@ por abajo del otro. Siempre el mejor electricista tiene que seguir una determina
 ![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhrIfGwN0rOeZotqdaWT2IjZ3bns3wPPmJRWdmWKM6XDKhe_ufqAcPJwQjLKPjkAfhY068vp2xXthFshJ3olfPjgFNaqOiyyrusKMaLiOY5A8G26s1wjNtRy3FkOoZXOCltSp0LzQ88kO74IRHq3BTSGRtST8vxHv0_GQ0UBcGh09eEMAfe2dQyxMZ2K8s/s1599/WhatsApp%20Image%202025-04-17%20at%2010.16.59%20AM.jpeg)
 
 
-**Resumen de los puntos más importantes** *(nombres reemplazados por “Alumno”)*
-
 1. **Materiales livianos y doblado de caños**
 
    * Utilizar caños de PVC livianos (3/4″, 20 mm) para facilitar el doblado en frío con resorte.
