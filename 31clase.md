@@ -1,4 +1,4 @@
-% Clase Nº 31: [FOTOCOPIA] Ordenamos. Fusibles. Térmicas. Mortero. Driver. Etc. Día de Lluvia.
+% Clase Nº 31: [FOTOCOPIA] Ordenamos. Fusibles. Térmicas. Morceto. Driver. Etc. Día de Lluvia.
 % Andrés Imlauer
 % 28 Mayo 2025
 

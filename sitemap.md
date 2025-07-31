@@ -32,7 +32,7 @@ List of pages:
 * /28clase.md: [Clase Nº 28: Clase práctica. [LO MAS IMPORTANTE DEL CURSO: ESQUEMA DE MONTAJE] 8) Llave de 1 punto y toma corrientes 1 lámpara - Baño. Cortamos la luz para probar disyuntor.](/28clase.md)
 * /29clase.md: [Clase Nº 29: [FOTOCOPIA] Tester. Multímetro. Vacunación. Preguntas exámen: 01:55](/29clase.md)
 * /30clase.md: [Clase Nº 30: Protecciones. Instalaciones Electricidad Domiciliaria. Corriente máxima por conductor.](/30clase.md)
-* /31clase.md: [Clase Nº 31: [FOTOCOPIA] Ordenamos. Fusibles. Térmicas. Mortero. Driver. Etc. Día de Lluvia.](/31clase.md)
+* /31clase.md: [Clase Nº 31: [FOTOCOPIA] Ordenamos. Fusibles. Térmicas. Morceto. Driver. Etc. Día de Lluvia.](/31clase.md)
 * /32clase.md: [Clase Nº 32: [FOTOCOPIA] Protecciones. Interruptor termomagnético. Fusibles. Repaso.](/32clase.md)
 * /33clase.md: [Clase Nº 33: [FOTOCOPIA] Foto termomagnética. Leímos fotocopia interruptor termomagnético. Potencia nominal. Foto de Corriente máxima por sección de cable.](/33clase.md)
 * /34clase.md: [Clase Nº 34: Calculamos la corriente nominal (P = VxI). Conductor. Térmica protectora. Preguntas examen.](/34clase.md)

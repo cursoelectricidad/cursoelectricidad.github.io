@@ -123,7 +123,7 @@ Subscribe to RSS: [/feed.xml](/feed.xml)
 [27 Mayo 2025]{.date}
 
 
-[Clase Nº 31: [FOTOCOPIA] Ordenamos. Fusibles. Térmicas. Mortero. Driver. Etc. Día de Lluvia.](/31clase.md){.title}
+[Clase Nº 31: [FOTOCOPIA] Ordenamos. Fusibles. Térmicas. Morceto. Driver. Etc. Día de Lluvia.](/31clase.md){.title}
 [28 Mayo 2025]{.date}
 
 
