@@ -2,15 +2,15 @@
 % Andrés Imlauer
 % 30 Julio 2025
 
-##### Audio en Vocaroo:
+### Audio en Vocaroo:
 
 [https://vocaroo.com/1kIHpRnIBrwu](https://vocaroo.com/1kIHpRnIBrwu)
 
-##### Audio en Archive:
+### Audio en Archive:
 
 [https://archive.org/details/record-195_202507](https://archive.org/details/record-195_202507)
 
-##### Audio en YouTube
+### Audio en YouTube
 
 [https://www.youtube.com/watch?v=gJ3CSxDxKLw](https://www.youtube.com/watch?v=gJ3CSxDxKLw)
 
