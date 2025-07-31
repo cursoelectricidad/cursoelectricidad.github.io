@@ -75,11 +75,11 @@ Subscribe to RSS: [/feed.xml](/feed.xml)
 [23 Abril 2025]{.date}
 
 
-[Clase Nº 19: [FOTOCOPIA] España apagón. Sistemas de alarma. Conocimientos básicos de electricidad y seguridad para obreros. Ley de avogadro.](/19clase.md){.title}
+[Clase Nº 19: [FOTOCOPIA] España apagón. Sistemas de alarma. Conocimientos básicos de electricidad y seguridad para obreros. ](/19clase.md){.title}
 [30 Abril 2025]{.date}
 
 
-[Clase Nº 20: Sistema Alarma. Corriente Alterna/Continua. Tester. Profesor hace chistes sobre número de avogadro y se enoja con otro.](/20clase.md){.title}
+[Clase Nº 20: Sistema Alarma. Corriente Alterna/Continua. Tester. ](/20clase.md){.title}
 [30 Abril 2025]{.date}
 
 
