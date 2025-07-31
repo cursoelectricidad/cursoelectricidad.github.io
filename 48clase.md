@@ -28,7 +28,6 @@ Planta eléctrico = es como si se le saca el techo.
 Montante eléctrico en un edificio hay tensiones bajas, internet, incendio. Detectores de humo pasillo,    
 Sacar gas hacer con energía eléctrica   
 Planta - es como sacar el techo.   
-Alejandro siempre llega a las 7 pm.   
 Plano eléctrico = bosquejo. Ubicación de bocas.   
 Recta indica unión.   
 Nos guiamos a través de la AEA.   
