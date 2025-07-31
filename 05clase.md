@@ -51,7 +51,7 @@ Pelar cables con pinza y alicate. La acometida puede ser aérea o subterránea, 
 
 * Uso de **corrugado**:
 
-  * Solo los **aprobados** (los naranjas).
+  * Solo los **aprobados** (los naranjas están prohibidos).
 
   * Soportar mínimo **80 kg** si se usan en piso.
 
