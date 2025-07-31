@@ -12,6 +12,114 @@
    
 Pelar cables con pinza y alicate. La acometida puede ser aérea o subterránea, esa era la posibildad. Simbología. Intervenimos a partir del municipal hacia adentro. Línea principal, acometida, tablero general, tablero seccional y el sistema de medición. Les dije tengan en cuanta la bajada del tanque. Gancho U. ¿Por qué gira el artefacto al colocar?. Colocar cajitas altura. Los módulos son para 10 amper. Está prohibido hacer empalme dentro de las cañerías. Corrugado aprobado y prohibido. El 35% de la superficie de ese círculo tiene que ser ocupado por el conductor más de eso no
 
+
+### **🧰 Práctica**
+
+* Uso de **pinza y alicate** para pelar cables.
+
+* Se trabajó con **preensamblado** y **pinzas de retención**.
+
+* **Empalmes**: solo en **cajas de derivación**, **prohibidos dentro de cañerías**.
+
+---
+
+### **🏠 Instalación eléctrica domiciliaria**
+
+* La **acometida** puede ser **aérea** o **subterránea**.
+
+* Elementos principales de una instalación:
+
+  * Pilar (externo)
+
+  * Línea principal
+
+  * Acometida
+
+  * Tablero general
+
+  * Tablero seccional
+
+  * Sistema de medición
+
+  * Puesta a tierra (**obligatoria**)
+
+---
+
+### **⚠️ Normativas y recomendaciones**
+
+* Reglamentación de la **AEA (Asociación Electrotécnica Argentina)**.
+
+* Uso de **corrugado**:
+
+  * Solo los **aprobados** (los naranjas).
+
+  * Soportar mínimo **80 kg** si se usan en piso.
+
+* Cañerías:
+
+  * Mínimo **3/4 pulgada**.
+
+  * Tipos: liviana, semipesada, pesada.
+
+* **No reutilizar cañerías viejas** para instalaciones nuevas.
+
+* El conductor no debe ocupar más del **35%** de la sección de la cañería.
+
+---
+
+### **📐 Diseño e interpretación de planos**
+
+* Lectura de **símbolos eléctricos**.
+
+* Simbología: cañerías, cajas, llaves, tomacorrientes.
+
+* Importancia del **bosquejo** para armar la **lista de materiales**.
+
+* Altura de instalación:
+
+  * Cajas de toma: **0,40 m** del piso.
+
+  * Llaves: **1,10 m** o según marco de puerta.
+
+  * Cajas de empalme: **0,30 m** desde el cielo raso.
+
+* Corte de plano: se debe leer a **1,80 m** para ver aberturas.
+
+* **Caja ortogonal**: centro de distribución de iluminación.
+
+* Tomacorrientes:
+
+  * Uso general: módulo de **10A**.
+
+  * Uso especial (AA): **20A**, conductor de **4 mm²**.
+
+---
+
+### **⚡ Instalaciones especiales**
+
+* Ventiladores deben fijarse a la **estructura del techo**, no al cielo raso.
+
+* Evitar cruce con cañerías de agua: seguir un **sistema ortogonal** (90°).
+
+* Uso de **curvas de 90°** (prefabricadas o hechas con resorte).
+
+* Considerar las **cargas térmicas** y el posible **calentamiento** en conexiones.
+
+---
+
+### **🔧 Errores comunes y consejos prácticos**
+
+* No ubicar tomas ni cajas en paredes débiles sin reforzar.
+
+* Siempre trabajar sobre el **nivel de piso terminado**, no sobre rellenos.
+
+* Para nivelar: usar **nivel de agua** si no se cuenta con nivel láser.
+
+* Nunca alimentar aires acondicionados desde un toma corriente común.
+
+* Usar conductores adecuados aunque el consumo sea bajo (ej: **no usar 1 mm² en luminarias**).
+
+
 ![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhyf5U6qeAht5UW8Zyju4WEC-kaU3WxBoGedGxsmArn87lUwGBotBUtjs0ab4WdiMKBdWRptjg1NG1KrFifPlek0SLk4QUpMU5XLeMI9Vz31Y8sb3VFfxs-96iod4D2XRjHhZ9xIl87ieUhdMRU1S-PNMKucjy1BhfRLXOp0FHCvO7S8JZxFZem5t87cZ0/s4160/IMG_20250318_183607339.jpg)
 ![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj5lVQ5rwJ49WbPuruUxbP-2Ud2JrZH5uOvg9LieGGaeGwzQh7merl__fD6czD4wykNTToe7v7Sj7hxCni3UqR5SVc0rwOtrBdwYvpyrTnWhCF0OVCg4jLTpPB0X3xwRtt66iWRpxdbBjUbhVcLZfEp5pxT5A1qONSH6v2A4VennwEXBDucUlPGCnTZ76w/s4160/IMG_20250318_183609655.jpg)
 ![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh_SYqm3uoqQBNxi54i2Lzlcp3tWmrMMmV4ivLPZstdqOng04xGXcXkeWL-A8O2dBcVnHOrK_6AVGLsSpsBxDo50ml84LC4JL386yGAWJ70Khh-dz5JkRDsW-yr2hfvSYxvmm7BrBOjEotTVhEzDWzvJ64SaB4rYfaD-6V70-5YZegsb3fcnxFmesjcYks/s4160/IMG_20250318_183611698.jpg)
@@ -33,145 +141,3 @@ Pelar cables con pinza y alicate. La acometida puede ser aérea o subterránea, 
 ![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgiSU6HzE3qP2B4H8KFNDwhNbT44VkNhJ2CpKFqNpCI5uQZnQmiGken1pyauBPqvyucTgkuW2Ovn6loiNRVt3N5I5NSpH5ERC7JC71CIjWF9ftqLtlMdmdAp2CrJQZuNnJfFfiUMq9aKLk0E0rFzH2aOjrAjaJLNzLpD5QBEDHb6hCriKE2zAbu3lgCxzo/s4160/IMG_20250318_200515765.jpg)
 ![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEirohK_URgctCkdV98dJSI5tVxTE1giOIpSaYQ0v0sV3ovgub_oBXBd12DbPYFh7o852_6-S_kdxkTtgLLe0sRzOU6yHod-yGMgwjy9mGsolHXfiSxRSTVIir-vNbDqpkilqn7SvtNOk1OEiBwCg5MoS6MdomqBhzMhqFHDAdCHJ0mP6ykKq-lO-EWVGR8/s4160/IMG_20250318_200956327.jpg)
 ![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiWMu_a1LyHK6gtjuj0lqHRscITBOvevjemPxlMf6qN0fOIZyY2oKICEkEziVRv7YuXXmaCvapVRCY2oRt2j361MA_PfFn7sqOfWmPgeh_W60cq17B4C4IvlxNLEoBno2RMCe_X8tFBP6PLbQ3rK2HJOe1HJ50skbwA3i1TTWsvUPKIrAy85M6QHNj7Khc/s4160/IMG_20250318_203759780.jpg)
-
-Electricidad -  Clase 4: Pelar cables con pinza y alicate. La acometida puede ser aérea o subterránea, esa era la posibildad. Simbología. Intervenimos a partir del municipal hacia adentro. Línea principal, acometida, tablero general, tablero seccional y el sistema de medición. Les dije tengan en cuanta la bajada del tanque. Gancho U. ¿Por qué gira el artefacto al colocar?. Colocar cajitas altura. Los módulos son para 10 amper. Está prohibido hacer empalme dentro de las cañerías. Corrugado aprobado y prohibido. El 35% de la superficie de ese círculo tiene que ser ocupado por el conductor más de eso no
-
-#### Lo que ustedes reciben es el pilar que nos pide la medición, que nos pide EMSA, EMSA está normalizado si ustedes necesitan después le voy a dar ahí están todos los materiales, cuando ustedes presenten y hagan lista de materiales tienen que tener una idea de lo que tienen que hacer, ahí tienen las medidas.
-Acuérdense que siempre va la puesta a tierra, si no ponen la puesta a tierra los dos gabinetes son metálicos así que tienen que tener en cuenta que ese gabinete ahí figura tiene que estar las mismas condiciones necesitan para su aprobación, esa es la idea fundamental.
-#### Por las dudas cuando sientan que tienen muchos cayos usen PINZA Y ALICATE.
-Alumna: Dice la cometida deberá tener una flecha, qué?.    
-Profesor: Viste cuando vos tenés un conductor ahí que no caiga.   
-#### Alumna: Ah, flecha es la caída.     
-Profesor: Si vos tenés muy flojo el cable se viene muy abajo, y hay épocas que calor y mucho consumo eso baja más y se dilata. Entonces la idea es que se tensa por eso que tiene unos PK20 dice al costado ahí cerca del sistema es para trenzar.
-
-Son pinzas de retención acuérdense que utilizamos el preensamblado que estaba ahí, ese que usamos ayer el conductor.
-#### La acometida puede ser aérea o subterránea, esa era la posibildad.
-
-### Simbología.
-La finalidad del curso dice el esquema general está en la reglamentación ahora van a seguir la hojita en el cual figura el esquema como nosotros que somos instaladores donde tomamos la energía y donde tenemos la incidencia nuestra a dónde intervenimos a partir del municipal para adentro. Entonces van a recibir ese esquema la gente nueva si no entienden algunas cosas pregunten. A partir de ahí ahora voy, empezamos a deleitarnos con el tema de los símbolos. Cada símbolos que vamos a mostrar le voy a mostrar que cada signo eléctrico que cosa representa en el plano y que material es o que dispositivo entonces todos van a estar de acuerdo y ....
-
-##### Los electricistas intervenimos a partir del municipal hacia adentro.
-Ayer vieron el morceto, vayan pasándose. **La misma característica que tiene hay uno que tiene tipo un capuchón que es el fusible estamos? O sea que tiene un morceto con fusible, o sea que en vez de utilizar el fusible aéreo utiliza uno parecido a esto con fusible aéreo**, cualquier problema la gente de EMSA tendrá que cambiarlo.
-
-Alumno: Ese es el retenax?    
-Profesor: No. Esto es morceto.   
-Alumno2:  Retenax es la marca.
-
-### En principio aparecerá esta hoja que vimos ayer del esquema general de instalación eléctricas, ahí define qué es la línea principal, que es la acometida que es el tablero general, tablero seccional y el sistema de medición, o sea que ahí más o menos tienen.
-#### Vamos a empezar con los símbolos.
-### Lo primero que tienen que hacer una vez que sepan leer el plano, el bosquejo, saber que materiales puedo utilizar, porque sino por más que sepan los símbolos sino sé los materiales no sirve de nada, lo primero que hago es la canalización esa canalización consiste en tener todas las cajas necesarias para poder armar tipo una red de canalización con caños cajas, lo que tenga debo saber también a qué altura debo colocar con respecto al nivel del piso tengo el reglamento, nosotros nos regimos por un reglamento de la asociación de electrotécnico argentino para instalación eléctrica que se llama tiene una característica AEA (Asociación electrotécnico argentino) yo después si quieren les paso pero este reglamento que a nosotros nos permite hacer cualquier instalación y tener una aval un apoyo ahí vamos a ver cuando hacemos canalización te dice que todo sistema debe estar formado por (inaudible) comunidad ¿?(Minuto 32:53) respetar las columnas por las vigas en caso de que hagamos a la vista y si hacemos embutidos tener tmb la idea fíjense yo tengo esto por ejemplo y si tengo embutido yo no puedo si quiero hacer o tengo una caja de alimentación o una derivación no puedo hacer esta curva tengo que seguir hasta arriba y ahí llegar a la caja de distribución
-No puedo hacer: Ah! está acá llego hasta acá hago la curva así... No está permitido 
-- No... pero cualquier cosa pongo corrugado.
-- TAMPOCO, está permitido! Por más que pongas corrugado tenes que seguir el sistema a 90 grados, tiene una finalidad fíjense y acuérdense en la cocina hoy en día en la parte que está en la mesada tenemos también heladeras y tenemos horno eléctrico, horno eléctrico, cocina eléctrica, es la parte que mayor cantidad de tomas necesito entonces si viene un electricista: ay! tengo una cocina y necesito enchufarla y coloco ahí en cualquier lugar... Pero ¿en la cocina que también tengo? Tengo la canalización de agua, a una determinada altura tengo que colocar el sistema de agua frío a caliente en caso, también puedo tener un termotanque que haga la fusión? y si yo no hago un sistema ortogonal puede ocurrir que pase o saltee el sistema de cañería de agua por ejemplo y sin querer.... Vino el plomero primero hizo la canalización de agua y yo vengo segundo y tengo que hacer la parte eléctrica o al revés entonces se me cruzan en algunos casos...
-
-### He tenido problemas accidentes domésticos mando a un electricista a hacer una instalación eléctrica ya habían hecho toda la instalación habían ya hecho el "grueso" por lo tanto no sabían donde estaba la canalización y tampoco se habían dado cuanta la bajada del tanque
-### Les dije tengan en cuanta la bajada del tanque.
-##### pica y pincha la cañería hasta ahí todo bien, como arreglamos? Porque era HIDROBRON parece una cañería de cobre que se usaba antes, primero apareció la de plomo y después hidrobrown? (Minuto 36) había que soldar... ¿quién sabe soldar?
-Como buscamos los respuestos y mientras tanto teníamos que cerrar arriba esta gente quedó sin agua. Como le decís que fue un error...
-El responsable soy yo porque estaba dirigiendo la obra, y les había **advertido fíjense la bajada del tanque** bueno en síntesis conocí un plomero tenía esas características podía soldar y yo antes trabajaba en un sistema de oxígeno trato ¿? (Minuto 36:47) utilizamos mucho sistema para hacer oxígeno, lo que sea aire para la parte de terapia y teníamos algunos repuestos algunas uniones logramos conectar ahí y soldar por suerte soldó bien esperamos 2 días y probamos listo, soldó bien y listo....
-Pero lo que quiero decir es que suele ocurrir eso y si uno no tiene un plomero para unir eso la familia queda un par de días sin agua... No es la primera vez.
-Entonces a partir de ahí yo tengo un rectángulo de acuerdo a las característica que tenga la superficie la cantidad de lúmenes que yo necesito porque no es lo mismo poner en una superficie grande como esta solo una boca así que varias bocas para iluminar este recinto a **mi me piden acá está normalizado en sistema que ustedes tengan una cierta lectura de 300 a 500 luz para que puedan leer sin problemas entonces de acuerdo a eso yo calculo la cantidad de bocas que yo necesito para poder darle esa suficiente distribución ahí no más falta una pero XD... Para que ustedes tengan suficiente luz**. 
-### Círculo que está rayando me está representando una boca de iluminación, vamos a suponer que yo quiero colocar 2 o 3.
-### generalmente donde colocamos la caja ortogonal grande? cuando yo pongo por ejemplo allá y acá y ahí hago como caja de distribución entonces ahí puedo derivar para allá para acá...
-### Está previsto te venden el gancho U y ese gancho U tiene la finalidad de sujetar cualquier artefacto siempre y cuando esto esté fijo, esto es especialmente para eso para fijar cualquier artefacto. 
-#### El primer montaje agarre que tiene que tener vamos a suponer un florescente ahora es a LED antes era florescente esa boca está en el medio lo primero que hago es sujetar el equipo pero ese equipo si yo sujeto acá tengo la posibilidad de qué al pegarle un lado esté rota y va a rotar sobre su eje que será este, entonces algunos colocan en sus extremos un tornillo, pero ese tornillo acuérdense en la época que se usaba florescente ese tornillo y empezábamos con el tema del cielo raso con PVC, entonces que hacía la gente? Ponía un tornillo de acá a acá, fíjense hay partes que son huecas. Y época de florescente tenía un sistema balastro, que es un balastro eléctrico generalmente o en algunos casos el de como se llamaba? Mecánico, eso calentaba esto es de chapa la chapa calentaba el tornillo y el tornillo se agrandaba y .... Quedaba el artefacto.
-###### Hoy al inventarse el sistema de led ya se sacó el ¿? (Minuto 45) tenemos una cosa menos, pero igual tenemos que seguir aplicando las mínimas sugerencias. De la boca de gancho U y después sí pongo un tornillo en uno de los extremos para que no gire...
-### Por qué gira el artefacto al colocar? Estos son cielo raso con características en la cuál uno puede limpiar y siempre hay un personal de servicio. Antes que nada soy inspector de escuela, inspector de infraestructura de escuela de la parte eléctrica entonces el personal de servicio limpia y no le perdonan nada, a veces vos veías que eso estaba así...
-#### Uso de machimbre.
-Pero son condiciones y tienen esta particularidad que se puede limpiar, mejoramos el tema del **machimbre**. Para que ustedes entiendan había una época que se cortaba mucho machimbre y acá quedaban los desagues los húmedos y nosotros seguíamos con la idea de que quedaba lindo en las escuelas más en las escuelas rurales el machimbre bien pintado barnizado, pero luego empezamos a desistir con la idea esa porque se secaba y se deformaba el machimbre... Y como era un material inófugo se reemplazó el machimbre por esto. 
-
-#### Por qué recalco esto? Porque anteriormente como electricista instaladores podíamos subir y teníamos la posibilidad de caminar o algunos casos poder hacer instalaciones suplementarias agrandar poner más bocas, hoy en día ya no tenemos estas condiciones entonces nuestra instalación tiene que estar perfecta.
-Si queremos cambiar o aumentar las instalaciones adentro esto requiere sacar y de vez en cuando se rompe y no es fácil sacar uno de acá sino que tenemos que sacar empezando de allá hasta acá eso es para que entiendan por qué nosotros tenemos que sujetar... Seguimos.
-#### Si yo no tengo un sistema de losa continua y tenemos instalación suspendida, estas bocas tienen que estar fijas ¿dónde? A la estructura del cielo raso... Del techo! No de la estructura (Minuto 48) acuérdense que esto lleva una cierta cantidad de pérfilería¿? (Minuto 47:58) esa perfilería me ayuda después a montar el PVC entonces necesito que las bocas estén fijas... Hoy fui a una obra y el instalador electricista aprovechó la perfilería y coloco la... Como ya estaba hecha toda la canalización lo perdoné, pero generalmente yo pongo 6 artefactos al costado y 2 ventiladores, esos ventiladores les digo que NO ME FIJE a la estructura del cielo raso, fijáme allá arriba porque el ventilador tiene un sistema rotativo en algunos casos tiene una goma que absorve el movimiento axial pero a veces está mal colocado no está centrado y empieza a vibrar y esa vibración provoca que esa estructura por más que esté sujeta de la perfilería de aluminio se empiece a vibrar... Y anteriormente no usábamos esto, usábamos la placa de durlock colocábamos la placa de durlock juntábamos y pintábamos y quedaba perfecto lo único malo es que si había filtración de agua. Pero que pasaba si poníamos el ventilador en los extremos en las uniones se empezaba a poner tipo la rajadura porque eso va unido y el problema entonces de que la boca de estos ventiladores tienen que estar fija a la estructura del techo. Todo tiene que estar fijo.
-Entonces fíjense esto es todo con cañería de hierro y ahora empezamos con las de PVC. Tienen las mismas condiciones yo tmb puedo meterle gancho U tiene las mismas formas y la misma distancia para colocar estas características esto ya viene hecho no es que yo inventé la pólvora, fíjense tiene los mismos agurejitos ahí yo puedo poner el gancho U ahí, si fijo este y fijo el gancho U es muy difícil que esto tenga algún problema. 
-
-### O sea que si aparece en un esquema bosquejo un redondito ustedes ya saben que es una caja ortogonal.
-##### Si yo no tengo la boca de iluminación en algún lado necesito prender, entonces vamos a suponer que este es 1 y este es 2, y acá tengo vamos a hacerlo 1 y 2 para que ustedes entiendan otra simbología que se usa esto es esto. Llave de 1 punto, llave de 2 puntos también puede ser así, llave de 3 puntos también puede ser así. Esto es llave.
-#### ¿Qué implica esto? Si ustedes ven en el plano lo primero que tienen que pensar es que ahí va una caja rectangular 5x10 a cada caja ortogonal. Ta? Ven el plano y se preguntan que pongo ahí? Cuando me dan la lista de materiales lo primero que dicen: vamos a hacer solo canalización, bueno tiene que hacer lista de materiales, miran la simbología y vemos. Acá va una caja rectangular.
-#### Hay un rango para la altura que es 1-20, 1-30, 1-40 principalmente con respecto a nivel del piso y toma siempre la media o sea aire y acá aire¿? (Minuto 56:16) entonces vamos a suponer que ustedes quieren ir a colocar la cajita esta yo directamente le digo tomáme el nivel de piso hasta acá 1-10 a la base esta entonces tengo punto de  referencia y apoyo y ahí estoy tomando lo otros son ejes imaginarios, ahí no va la caja imaginario ¿? (Minuto 56:40) viene a ser 1 metro y ahí colocás y a esta distancia colocamos la cajita. Tamos?
-**Ahora si querés la altura de este estamos muertos depende del cielo raso. Generalmente se trata de la estructura del cielo raso que sería de los perfiles de aluminio dejarle por lo menos 5 cm.**
-#### Otra cosa importante estamos colocando iluminación, si o si necesitamos un lugar en donde se produzca el encendido a través de llaves ya sea de 1 punto 2 puntos, acá puedo con 1 punto accionar la de 2.
-Alumno: Preferentemente al lado de la puerta.   
-Profesor: Al lado de la puerta NO. En el marco de la puerta. Siempre depende de como abro o cierro la puerta y si este marco de la puerta tiene apertura para este lado acá coloco a 10 cm mi cajita. Ya sé la altura entonces yo puedo venir a ciegas...
-
-#### Vamos a suponer el peor de los casos que esté en un dormitorio y a partir de acá justo tengo un dormitorio y acá justo tengo un ROPERITO ahí todo de madera tengo que colocar la caja. O sino esa pared a veces es de un ladrillo cerámico 7 8 no sé que finito. Está prendido ahí por más que tenga el revoque tengo que hacer la canalización para arriba muy probable que rompa la mitad... Amoladora, pero puedo hacerlo pero es preferible no tumbar todas esas paredes dejar todo como estaba ahí, tengo la apertura de la puerta y cuando termina la puerta hago 10? Y ahí pongo la cajita a la misma altura, y ustedes me dirán hasta ahí va bien
-
-### Pero donde entran ustedes a trabajar? Hicieron todas las paredes revocaron terminaron el revoque ahí entran ustedes porque las paredes ya tienen más consistencia si dejan sin hecho acá probablemente hay gente que todavía sigue utilizando corta hierro y masa con el mismo golpe hace y si es ladrillo cerámico ese ladrillo hace un agujero muy grande...
-##### Entonces que conviene entran ustedes hacen la mezcla y ahí entran ustedes o eventualmente si no hacen la mezcla le piden al capataz de obra que le haga la faja a qué cuánto espesor y todo entonces tomás como punto de referencia y con esa faja ustedes saben donde va a llevar, sino queda muy a veces muy adentro. Ahí saben que esa faja ese va a ser mi punto?
-
-### Una cosa importante, muy probable que el piso no esté terminado o hayan tirado un relleno y ahí se complica porque si yo tengo varias ahí puede haber una pieza otro comedor lo que sea y el nivel de piso el sistema acá es de hormigón pobre porque van a seguir haciendo más cosas y hasta que sea el nivel terminado... Tenés que pedirle al capataz de obra, necesito el nivel del piso terminado, entonces el tipo les marca.
-
-### A partir de ahí ustedes tienen el nivel de AGUA. Para que la gente que no sabe yo tengo una manguerita por ahí, el nivel de agua lo más fácil. Esto se carga de agua y se va transladando por ejemplo el me marcó acá entonces tomo la distancia de acá a acá y voy a cada pared, y voy marcando pongo el agua ahí y la gotita vamos a ver como se hace y voy marcando todos los sectores para que tengan la misma altura, yo no puedo tomar como referencia parte de este piso sino el nivel en donde va a quedar el piso terminado. A partir de eso hago todo, ese es un método. Hay otros que tienen el nivel te va mostrando te marca coordenadas todo, pero sale caro, tenés que tener la tela.
-
-#### Entonces tengo que tener la otra opción. Por eso cuando hacemos la fotocelda trato de que se coloque aunque sea una llave combinada una para encender con la fotocelda y si no funciona trabaja con llaves normales entonces queda encendido.
-
-#### Y otra cosa muy importante, esto es para gente que proyecta generalmente siempre la altura de la puerta son 2 metros. Y cuando ustedes vean un plano el corte que se hace para gente que alguna vez vió un plano de arquitectura es como si uno haga el corte pero a 1 metro 80. Entonces si yo corto a 1,80 metro ahí veo todas las aberturas si no hago un corte esto es como si pasa una sierra y corto a esa altura entonces veo en el plano la puerta y las aberturas ahora si hago un corte acá no me sirve para nada porque por donde voy (ver?) abrir la puerta. 
-Alumno: por la ventana capaz?   
-
-Profesor: Tampoco. Arriba si hago el corte acá arriba no, pero esto como haciendo que el corte yo lo hago a 1 metro 80. Entonces ahí yo veo la abertura en el plano todo lo que ustedes quieran, **esto es plano de planta**.
-
-Entonces hay gente que le gusta y pone, ahí aparece el **símbolo de toma corriente**. 
-### Tomacorriente de usos generales.
-
-### Automáticamente son 3 cajas rectangulares porque va los tomas corrientes de uso generales.
-
-#### Duda sobre caja vertical horizontal.
-
-### Porque después aparece tomacorriente de uso especiales, yo para no complicar mucho lo que hago directamente en los planos para aire acondicionado de 20 amper el módulo que he utilizado 20 amper, pero también es un 5x10 rectangular, la única diferencia en ese caso les voy a dar los valores para que vayan teniendo, la altura acá será 0,40 acá la altura es igual a 0,40 con respecto al nivel de piso. 0,40 y rectangular porque les recalco esto, porque esto es un tomacorriente hay electricistas que ponen así (ponen la caja vertical) a veces quiero poner dos módulos y se me entrecruza los cables acá porque yo enchufo acá y... Generalmente cuando es tomacorriente trato de meterle la instalación de esta cajita esta¿? (Hora 01:10:39) una vez fui a una obra y me dice lo que pasa que allá IPRODA es otro lugar en donde hacen obras de escuelas y pusieron todo vertical y bueno... 
-
-Qué diferencia hay entre este y este? El módulo, para un toma normal de uso generales el módulo tiene más de un módulo son de 10 amper. Esto que está acá son de 10 amper.
-
-### Los módulos son para 10 amper, más de eso no.
-#### Todo lo que hacemos es en metros.
-##### El empalme se hace en las cajas. Está prohibido hacer empalme dentro de las cañerías. Ta? Caja de derivación empalme, dónde? A qué altura va esto? Por norma: del cielo raso 30 cm para abajo van a la caja de empalme.
-#### Esa caja de empalme va a 0,30 de nivel de cielo raso porque tiene una condición y va sobre pared exclusivamente porque cualquier persona que trabaja en un lugar importante por tema de seguridad va a tener el casco y si tiene el casco tiene que tener una visión exacta por más que tenga la escalera allá arriba de mirar para hacer un empalme. Entonces si va muy arriba con el casco ya (es incómodo) y si va pegado al cielo raso peor todavía, entonces es importante tener la idea de que esta caja siempre va a 0,30 y ahí generalmente viene alimentación principal y ustedes me dicen por qué no hago acá abajo? Tiene un por qué si yo coloco acá y acá llega mi alimentación principal cualquiera puede desarmar y tocar mi alimentación principal entonces allá ya necesito de un elemento para llegar hasta arriba y acá ya tengo peligro.
-### Cañería de 3/4
-Profesor: Exactamente! Después vamos a ver tipo de cañerías, pero acuérdense la mínima cañería que yo exijo en las empresas es 3/4. 3/4 es pulgada, porque comercialmente uno va a pedir un caño y va a decir necesito un caño de 3/4 hoy PVC te va a decir que es 20. 3/4 es 19. 19 generalmente las normas te piden **RL sería cañería liviana de hierro y te pone en algunos casos 19, vamos a ser liviana 17. O sea la cañería livana. 19 exterior y 17 interior**. Esto está en milímetros estamos? Entonces comercialmente esta cañería es igual a 3/4 ustedes van y piden comercialmente dicen: bueno necesito una cañería de 3/4 después las cantidades, le dan y todo. Estas cañerías que están acá es de 1 pulgada más o menos tiene su nomenclatura por ahí, tiene que ser de 25 por ahí? Estoy quedando viejo, me cuesta leer. Esta que está acá es 3/4 y en algunos casos van a decir, esto ya se utilizó con varias cositas aparece así el tema de seguridad normativa, va a aparecer la enumeración 20, esto es 1 pulgada 25 seguramente y el que proyecta toma la alimentación que viene de acá, de acá empieza la distribución puede llevarlo de acá a acá XD, de acá hago la distribución acá XD de acá puedo ir acá y si quiero puedo ir acá y de acá puedo hacer la distribución. Después veremos el conductor que vaya, y como esto es toma de usos generales aparece otra cañería para tomas especiales. Generalmente la cañería de toma especiales lleva conductor de 4 milímetros esta cañería de 7/8 que sería toma comercial, y este sería 22 19 más o menos en cañería de hierro 7/8 esto sería 3/4. 
-#### Comercialmente sería 19 16 así van a ir viendo el tema de canalización de un plano o bosquejo, por qué les voy poniendo por boca ¿?  ? Porque puede tener una persona que les contrate a ustedes y en este sector que no hay nada necesito que usted me coloquen 2/3 bocas, 2/3 tomas y vayas viendo y bosquejando.
-### ¿Para qué me sirve el bosquejo? Para hacer la listas de materiales. Acuérdense ustedes van a hacer la lista de materiales, el dueño no les va a decir dejá no más yo compro. Ustedes le hacen la lista de materiales y a partir de ahí se compra todo, las cantidades todo hacen ustedes. Antes hacía un ingeniero pero nosotros cobrábamos para hacer esto, ahora la empresa contrata un electricista y te dicen haceme la lista de materiales así te compro y ya empezás mañana y ahí no más tenés que estar.
-Fíjense esto, esto, esto, esto, esto esto son 2 cañerías. Todas las cañerías están unidas a las cajas a través de un elemento auxiliar que se compra aparte y esto es un conector estamos? Yo no puedo poner caños y que este quede flotando ahí, todo va con conector **o sea que cuando yo estoy haciendo la lista de materiales voy marcando después que termino de hacer las cañerías, ya voy marcando acá tengo conductores 3/4 3/4 3/4 3/4 3/4 3/4 3/4 3/4 y tomo todas las cantidades lo que sé de ahí ya pongo en la lista: conductor de 3/4 todas las cantidades que están ahí** y si tengo que colocar el de 7/8 también pongo, 7/8 con otra característica vamos a poner así y así (hace una raja en el plano en vez de una x). Fíjense como va saliendo despacito, vemos...
-
-#### ¿Qué dijimos? Que esto está a 0,30 del cielo raso o sea que este sería el cielo raso y acá está la cajita cuadrada. **La alimentación de este por más que venga por arriba nunca va a llegar directamente a la caja porque esto está del nivel del cielo raso para abajo, entonces es muy probable que esta sea la alimentación y acá habrá un elemento que es una curva de 90 grados estamos?** Curva de 90 grados justo que es la alimentación y acá para la salida también: va para arriba y después sale. No es que de esta cajita de paso va directamente tiene que subir arriba y por la estructura del cielo raso y va directamente a la caja UIIFF! 
-
-#### Por qué le hago el recalco ese? Porque en esa parte es importante que tengamos en cuenta los elementos auxiliares o sea esto conectores ahora tenemos otro elementos que son curvas de 90 grados que ya vienen para cada cañería entonces ya voy colocando si es un caño de 3/4 pongo, acá por ejemplo este va para arriba y llega a la caja ortogonal de la caja ortogonal que está ahí, viene hasta la pared y ahí tiene que bajar entonces esa bajada generalmente ya va una curva de 90 grados eso implica que si yo soy un maestro en doblado de caños, pueda hacer con las cañerías y un resorte de 90 grados así, pero las dudas ya tengo un auxiliar que es la curva de 90 grados. Estamos?
-
-#### Acuérdense que eso tiene un resorte estos en algunos casos le llaman cañería y me permite en algunos casos hacer el doblez y reemplazar la curva esa. Es práctica y a veces hay artistas que hacen buena. **Este es siempre un ángulo 90 grados o mayor. Nunca menor porque se achica la curva y disminuye la sección del caño** de cañería de plomo hay una tabla está en la tabla en la parte de la reglamentación de acuerdo a la cantidad y la sección de los conductores que caños mínimo necesito para eso o para arriba lo que quieran pero mínimo que me pide el reglamento,
-
-
-#### vamos a ver un jueguito que se hace a través de una tabla para que tengan suficiente idea y seguridad en lo que están haciendo y colocando los caños es lo que está permitido para que ustedes entiendan y alguna vez se van a encontrar más la gente que está con sistemas de instalaciones viejas aparecerá un caño que es el mínimo caño fíjense este es 5/8 cañería de hierro que sería al rededor de 15 mm si yo utilizo esto con una curva la curva me disminuye un porcentaje de un 30% la superficie de la curva, entonces a veces fíjense el hueco que tiene hasta la cinta pasa cables apenas pasa por la sección que tiene, entonces estos caños generalmente hay empresas que siguen utilizando y yo como inspector de obra solo permito que este caño vaya de ahí hasta ahí, no que haga la curva, entonces prefiero que todos tengan 3/4 en los pliegos de especificaciones técnicas generalmente ya pongo el mínimo caño que se debe utilizar es 3/4 para arriba todo lo que quieran para abajo nada.
-
-Esto es importante para ustedes que van a leer los planos, aparecen en algunos de acuerdo al proyectista aparece... Bueno pero antes que nada me saltee un paso... 
-
-Esto que está acá cualquier línea ya sea línea o curva esto se representa cañería. Siempre la parte superior va a aparecer el tipo o el diámetro de la cañería vamos a suponer este es liviano (RL 19 sobre 17) esto sería cañería de hierro liviana, para que ustedes entiendan hay liviana, y otra cosa pesada y semipesada generalmente uno que trabaja en la parte de educación yo exijo semipesada, pesada ya es más en el sentido industrial.
-
-##### Y ustedes dicen pero por qué dice pesada es por la resistencia y por el espesor que tienen, cada cañería tiene un espesor determinado, cuando más espesor tiene más pesada la cañería. Y cualquier impacto puede ser que ustedes coloquen cañería de hierro y sin querer meten un clavito y si meten un clavito pueden perforar la cañería y si perforan la cañería también pueden perforar el conductor entonces a veces se coloca semipesada que tiene un poquito más... (espesor).
-
-### Entonces otra simbología es esto: cañería es una recta un ángulo como una curva todo lo que sea que me figure en el plano es una cañería arriba siempre aparecerá la nomenclatura y hay un pequeño **secreto** que a veces se confunden yo puedo tener.... Vamos a suponer que tengo RS (semipesada) que aparece 19/16. Y algunos proyectistas para no meter tanta letra en el plano ¿qué hacen? Ponen solo 16 indican que el diámetro interno pero sigue siendo caño de 3/4 entonces aparece 16 hoy en día voy a la obra y me dicen si nosotros pusimos los caños que pedía el plano, y miro y que era? 5/8 entonces 5/8 ni mi dedo entra. 
-Alumno: Ese es el de 15 mm?
-## Profesor: 15 y piquito más o menos 15,4. Fíjense y que le dije yo? Que solo permito para alimentación horizontal sin curva ni nada, todavía faltaba la instalación la parte de arriba aprovecharon ellos hicieron embutidos en todas las cañerías y dejan una curva para unir después con las cañerías arriba porque todavía no estaba hecha la perfilería que les digo? Que hagan todo de vuelta porque hizo mal? Pobre vago se va a la mierda. Entonces me va a echar porque estaba toda echa las paredes. Lo primero que hice: hermano hiciste mal no leíste bien el plano no supiste leer, vamos a buscar una forma, porque no puedo hacer llegar allá arriba y meter otro caño acá(pone un caño mas grueso arriba) siempre digo... Ha pasado entonces mirá es de 3/4 vos llegás allá arriba acá está tapada pero yo tengo la precaución siempre de ver que cañería es... A veces me cortaba(pasando el dedo) pero en seguida detectas que ese caño que está acá a la salida no era 3/4. Entonces que le dije? Para ayudar al tipo ponemos una cajita de paso ahí arriba y de ahí salí 3/4 entonces va recto hasta ahí quedó como te puedo decir desprolijo porque había varias cajitas. Alumno: había cajas por todos lados? Profesor: No generalmente la principal que se unía a la de ¿eeh como se llama? en el sentido ucral ¿? (01:35:47), pero a veces uno tiene que salvar a la gente, pero la lectura que tienen que hacer en el plano si aparece solo este es diámetro interno y equivaldría siempre a 3/4, puede aparecer solo en otros planos sigue si es 7/8 aparecerá en vez de 22 que es de 7/8 le aparecerá 19. Y eso equivaldría a un caño de 7/8 entonces siempre si está hecho la lectura, arriba de la línea cañería y abajo ya que estamos vamos a suponer que yo tengo que alimentar un foco una lámpara y lleva 2 cables eso que yo tengo el sistema de prueba tiene 2 cables: fase y neutro. 
-#### Por qué tiene la sección de un conductor dice 2,5 mm^2 como yo saco eso de un conductor?
-## Esto es un conductor bipolar y cuando van a Electromisiones La Unión le piden dame un conductor 2,5 1,5 y ni le dicen que milímetro comprar, la sección de cable. Y esto tiene un por qué acuérdense que esto tiene un diámetro y adentro tiene unos conductores que tienen también todos sus diámetros estamos? Y esto sale de la superficie del círculo.
-### Superficie del círculo, se toma el diámetro, el radio lo que sea. Se multiplica y se divide por 2 por 4 depende de si tomó el diámetro o el radio y esa superficie de círculo es la sección del conductor. 
-###### Entendieron esto entonces? Yo tengo las cañerías tengo las cajas, los caños, como vienen entonces? Vienen aunque sea en PVC de 3 metros. Ese es un caño que donde está cortado tiene 3 metros PVC los caños de hierro también vienen de 3 metros, lo único que varía son si yo tengo corrugado esos caños corrugados que les mostré la otra vez tienen los rollos de 100 metros pero que particularidad yo tengo caños rígidos entonces tengo otros caños corrugados que también cumplen la misma función y si yo en el plano veo esa característica de este tipo de caño cuando trabajo con corrugado si le pusieron un caño rígido de 3/4 el caño corrugado tendrá que ser un poquito más voy a 7/8 ¿? ¿Por qué? Es importante que cuando uno haga cualquier obra o trabaje o haga cualquier trabajo más en la parte eléctrica se pregunten por qué hago de esta manera. Yo puedo decirle... YO fíjense cuando empezó la obra y está mal algo no le digo tenés que hacer de esta forma, yo le digo yo haría de esta forma. El puede tener otra idea y llegar al mismo resultado, queda mal que vos le digas: Ah hacelo así, NO. Vos tenés que decir donde van las cañerías que problemas tiene y como haría uno para poder solucionar ese problema, después el otro tiene que pensar un poquito...
-
-**En donde estaba? Corrugado.**
-### Corrugado aprobado y prohibido.
-
-(Uno era corrugado blanco el otro naranja) por eso le recalco eso porque todavía algunas ferreterías vende el más barato. La finalidad acá es saber que hay un sistema también de caños corrugados no rígidos como estos, pero si yo quiero hacer una instalación arriba tengo que tener mucho cuidado porque sino **queda parece tipo guirnalda si yo no fijo eso XDD.** Vamos a suponer que yo quiero hacer la alimentación de ahí a ahí y yo no fijo eso.Vamos a suponer que yo quiero hacer la alimentación de ahí a ahí, de ahí a ahí pongo las bocas todo lo que usted quiera siempre por más que tenga corrugado lo que sea... Por más que tenga corrugado siempre me pide las normas que vengan tengan conectores, **si no coloco conector está mal**. No es cuestión de meter la cañería acá y dejarla ahí. 
-
-##### Tiene que ir el conector en el caño corrugado.
-
-#### Tirar arriba no más el corrugado y meter los conductores no se debe hacer.
-##### Profesor: Sí! Lo que pasa es lo que yo siempre les digo nosotros somos instaladores capaz que hacemos la lista de materiales y el tipo por economizar les da este material y yo hago igual le explico que está mal, pero le hago igual porque necesito cobrar la mano de obra, pero le digo al propietario esto tenemos que hacer de esta forma porque es así. Acuérdense que corrugado tmb viene liviano, pesado y semipesado de que depende del espesor y qué particularidad tiene? Se pone corrugado en el piso y se pone un peso PUNTUAL y tiene que soportar mínimamente 80 kilos en un punto no deformarse por eso hay algunos corrugados que son utilizados en losa de hormigón continuo pero tiene que tener esta resistencia, si no tiene esta resistencia no sirve para esa función. 
-##### Para qué sirve la cañería? Protege el conductor, unipolar ese es. Vamos a poner un solo ¿? acá porque tiene que ser bastante grande la cañería para poner eso. Exige que esa cantidad que entra dentro de la cañería ocupen un 35% la superficie o sea que si yo tengo un caño este 35% es conductor: 2 conductores, 3 conductores. 35% es lo que se debe ocupar de los conductores, lo otro sirve.
-# Preguntar sobre tierra al plomo
-### Ya me perdí pero bueno... El 35% de la superficie de ese círculo tiene que ser ocupado por el conductor más de eso no, pero a que viene esto? Puede ser que le contraten en una casa y quieran mejorar la instalación eléctrica que tienen esas casas que tienen 30/40 años en la cuál en esa época todavía se usaba 1 sola térmica y esa térmica cortaba la fase y el neutro recorría todo el sistema, entonces aparecerá en algunos lados todavía el 7/8 (siete octavos) y que dice que dueño: si yo quiero que me recables todo usando la misma cañería y ahí viene el problema porque ahora todos los circuitos son bipolares tienen 2 cables va sin neutro entonces más tierra...
-#### Preguntar: ...ahí tienen tierra porque cañería de plomo se usaba entonces ponían un cablecito la cañería de plomo voy ibas a la cocina conductora de plomo hacía una cosquillita ahí, pero bueno ahora estamos mejorando.
-
-# No ocupar cañería vieja para hacer instalación. Recomendación.
-#### Tomo un sector vamos a suponer un dormitorio, tomo un living, tomo una cocina, tomo un baño y veo que característica tiene si va a usar la misma boca y digo todos los conductos en este caso que sean horizontal mantengo esta cañería y en la bajada trato de picar lo menos posible y hago eso distribuyo hasta esa boca y después hago la distribución en este sentido, no sé si me entienden, no importa si no entienden después es cuestión de pensar en gran escala cuando hagamos. Lo que quiero decirles que es tomo por sector mantengo las canalización existente puede ser 1 o 2 bocas por acá y en algún lado hago la alimentación a esa parte una caja en algún lado hago la alimentación a esa parte una caja en algún lado capaz que me comí una caja ahí hago la bajada y a partir de ahí hago la distribución y mantengo la misma cañería, lo que no puedo hacer es automáticamente ocupar la cañería vieja para hacer la instalación nueva acá
-### Todas los conductores de las cañerías especiales deben ir en caños distintos. Hay gente que hace refrigeración y dice no pero hoy los aires acondicionado consumen poco: 7,5,8 amper como máximo, perfecto, pero hay que usar la reglamentación por más que ese equipo consuma poco tengo que poner el cable que me pide la norma mínimamente conductor de 4 mm del tablero hasta el toma tengo que cumplir son normas especiales, porque sino es lo mismo que me dijo la otra vez un alumno, si lo que pasa es que ahora todos los sistemas lumínicos son a LED y bajo consumo por qué no usamos conductores de 1 mm y NO. 1 mm son un retorno puede ser pero tengo que seguir trabajando con 1,5. 
-##### La gente que trabaja en refrigeración siempre trata de que los que hacen ... En algunos casos sacan hasta del mismo toma corrientes una alimentación al aire. No papá. Alumno: y ahí le encajan una térmica en el medio XD. Profesor: Nah pero si anda!(remeda al técnico en refrigeración) ¡Está mal!
-
-##### Posibles problemas con AA puede generar un consumo mayor por eso está mal conectarlo al mismo toma la alimentación del aire:
-##### Las luces generalmente son poco consumo, el ventilador debe tener 90 watts pero puede tener problemas de cortocircuito el ROTOR se toma lo que sea y ese es un elemento porque es monofásico el motor puede llegar a levantar la corriente y esa corriente puede provocar un problema.
