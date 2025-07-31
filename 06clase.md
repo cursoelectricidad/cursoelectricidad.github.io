@@ -1,4 +1,4 @@
-% Clase Nº 6: Capacitación en Trabajo en Altura. Simbología. Instalaciones Eléctricas: Conceptos básicos. Anédocta: Ayudante de Alejandro Ramirez trabajando con tensión corta un cable (fase y neutro juntos) y provoca un cortocircuito que arruina su alicate y casi se muere.
+% Clase Nº 6: Capacitación en Trabajo en Altura. Simbología. Instalaciones Eléctricas: Conceptos básicos. Anédocta: El ayudante de Alejandro Ramirez trabajando con tensión corta un cable (fase y neutro juntos) y provoca un cortocircuito que arruina su alicate y casi se muere.
 % Andrés Imlauer
 % 26 Marzo 2025
 
