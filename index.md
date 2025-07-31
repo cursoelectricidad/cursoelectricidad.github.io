@@ -23,7 +23,7 @@ Subscribe to RSS: [/feed.xml](/feed.xml)
 [19 Marzo 2025]{.date}
 
 
-[Clase Nº 6: Capacitación en Trabajo en Altura. Simbología. Instalaciones Eléctricas: Conceptos básicos. ](/06clase.md){.title}
+[Clase Nº 6: Capacitación en Trabajo en Altura. Simbología. Instalaciones Eléctricas: Conceptos básicos. Anédocta: Ayudante de Alejandro Ramirez trabajando con tensión corta un cable (fase y neutro juntos) y provoca un cortocircuito que arruina su alicate y casi se muere.](/06clase.md){.title}
 [26 Marzo 2025]{.date}
 
 
@@ -59,7 +59,7 @@ Subscribe to RSS: [/feed.xml](/feed.xml)
 [15 Abril 2025]{.date}
 
 
-[Clase Nº 15: Leímos catalogo Genrod (Tubeelectric). Exámen entra esquema general que vimos en la 3era clase (la primera en mi caso).](/15clase.md){.title}
+[Clase Nº 15: Leímos catalogo Genrod (Tubeelectric). Exámen entra esquema general que vimos en la 3era clase (la primera en mi caso). Recibimos una torta por pascuas.](/15clase.md){.title}
 [18 Abril 2025]{.date}
 
 
@@ -75,7 +75,7 @@ Subscribe to RSS: [/feed.xml](/feed.xml)
 [23 Abril 2025]{.date}
 
 
-[Clase Nº 19: [FOTOCOPIA] España apagón. Sistemas de alarma. Conocimientos básicos de electricidad y seguridad para obreros.](/19clase.md){.title}
+[Clase Nº 19: [FOTOCOPIA] España apagón. Sistemas de alarma. Conocimientos básicos de electricidad y seguridad para obreros. Ley de avogadro.](/19clase.md){.title}
 [30 Abril 2025]{.date}
 
 

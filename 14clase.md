@@ -21,6 +21,77 @@ fases anduvo un tiempo hasta que se quemó. 1,5mm^2 térmica de 10. 2,5mm^2 tér
 fijo acá la caja y los caños, termino la mampostería, recién hago el cableado. No se permite las uniones o derivaciones de cables en el interior de los caños. Bornera de
 distribución. Alumna pregunta sobre como mejorar instalación de su casa. Entrada de hombre: 80 kilos pisar clavadores. Profesor hizo instalación de alarmas gateando. Alarma no se debe ver cables. Madera entre clavadores. El machimbre hay de media, de 3/4 pero se usa el de media porque es el más barato y no aguanta el peso, pero los clavdores sí.
 
+---
+
+## 🧰 **Clase de Electricidad - Puntos Clave**
+
+### 🔌 **Tipos de canalizaciones**
+
+* **PVC vs. Metálico**: El caño mostrado en clase tenía un núcleo metálico recubierto de PVC. Se debe verificar si es apto para instalaciones eléctricas, ya que puede afectar la continuidad eléctrica.
+* **Diámetros comunes**:
+
+  * Caño de 5/8: solo para tramos rectos, sin curvas.
+  * Caño de 3/4 y 7/8: uso general y servicios especiales, respectivamente.
+  * Diámetro interno mínimo permitido: 15,3 mm.
+  * El caño de 12,5 mm está en desuso.
+
+### 🧮 **Cómputo de materiales**
+
+* **Caños**:
+
+  * PVC: 3 metros por tramo.
+  * Cable canal: 2 metros por tramo.
+  * Se deben calcular también curvas, conectores, cajas, grampas, etc.
+* Entre cajas: **máximo 3 curvas**.
+* Tramos rectos: caja cada **12 m**, en vertical: cada **15 m**.
+
+### ⚙️ **Uniones**
+
+* **PVC**: se puede usar caño de mayor diámetro como unión de emergencia (tipo camisa).
+* **Metálico**: se necesita continuidad eléctrica. No se pueden usar caños de mayor sección como unión si son metálicos.
+
+### 📏 **Normativa**
+
+* **Reglamentaciones IRAM 2224 y 2005** para uniones.
+* Las curvas reducen el espacio útil interno, por eso **no se permite caño de 5/8 con curvas**.
+* **No más del 35%** del volumen del caño debe estar ocupado por conductores.
+
+### 🧠 **Diseño de circuitos**
+
+* Máximo **15 bocas** por circuito (iluminación o tomas).
+* Circuitos mixtos deben protegerse por la **sección del cable más fino** (ej: 1,5 mm²).
+* Circuitos especiales: 1 por cada equipo especial (ducha, horno, aire).
+* No hay límite de cantidad de circuitos, depende del diseño y comodidad.
+
+### ⚡ **Cálculo de carga y potencia**
+
+* **Por toma**: se considera una carga de 400 W.
+* **Por boca de iluminación**: 100 W como referencia (aunque las LED consumen mucho menos).
+* Se utiliza un **factor de simultaneidad** entre 0,6 y 0,7 (no todos los equipos se usan a la vez).
+* Sección del conductor de acometida: 6 a 10 mm² según la carga.
+* Medidor monofásico: máximo de **5 kW** para usuarios domiciliarios.
+
+### 🔋 **Paneles solares**
+
+* Sistema fotovoltaico: genera corriente continua → se convierte a alterna mediante inversor → se acumula en baterías.
+* Vida útil larga, pero **retorno de inversión a los 10-15 años**.
+* No es útil para equipos de alto consumo (ej: heladera, aire acondicionado).
+* En Brasil: el excedente se inyecta a la red y se descuenta del consumo.
+
+### 🏗️ **Consejos para obra**
+
+* **Planificación**: anticipar ubicación de cajas, caños, bocas, etc.
+* Las **cajas deben quedar accesibles**, no ocultas por muebles o revestimientos.
+* Acordar con los albañiles para que dejen los espacios necesarios en las paredes.
+* **Cañerías bien hechas facilitan el trabajo de cableado** (la canalización representa el 60% del trabajo).
+
+### 📐 **Dibujo a escala**
+
+* Se usa **escala 1:100**: 1 cm en plano = 1 metro real.
+* Permite calcular distancias, cantidad de caños, cajas, curvas, etc.
+
+---
+
 ![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg6DNOlZYSgyUOs6GEHzjkKsbPZtqGWLgmD2b87csBttxK3HsB8XymYuLjnvWvloY3lDMBPTjZ_lBbLhbnYZ4tM5E-DnzdWYqQmJPhYLH_siOeissLpu4SIBQj3V6p4FApGYpKFEAsIPHFNYtpCOEPS-hHTFe21aoWFFuGNZd-RzYn3CBiJ0F01xRFApj0/s4160/IMG_20250415_184909742.jpg)
 ![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhncCzKpIJR8eNFm4FYe40vSTshMhKJVKbuUB8P0YsKNxY86Q16nOH2_1VD6ZlzLH0ebSepgDtgkW2n-HZm_UW5ZXWZY9b20HvkibqJjtG_COhh9lo55MgB5v52mDqtERwU4j2LG5ITEBrpzou_TvCAc7LNB19fvoqbxpXy8UOhXORQhP-Y7oPsipaQfv4/s4160/IMG_20250415_184904446.jpg)
 ![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgz-he3XRS0VXEkZSlTrRXSrk4psL9JQ1AF1saGbRoOnAVjAQn4gnOgk7n7jg-6QX0BAQqwMilnCgICmq4f7MX3MFsUV9_PCM5X2RPnzHkwOyhURqfGh_MNV0rACKPERCz3QIVnZcjjRjL4xNFDRyqWoJqyT4-Yl0Gf5tgCHqeL4pQsGm8kbL0uQoDKSv0/s4160/IMG_20250415_193247963.jpg)

@@ -34,8 +34,96 @@ https://cursosdeelectricidad.blogspot.com/2008/06/tema-14-conexin-de-2-o-ms-lmpa
 ![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjHAVayGJWBpyj2W-2TLeJnJaOkhBHiwk0kZeShOxI6QzJ6GH-7dal9ElOwqT_M8TbZZ4N0TqVTJtJMXObqIHFum-pMUZkrgwoeRcXVxJMKe74kteuoFH89OWO0sKLVkgv0X0XcAyCnm4w-N0L5G_U54rbe-vrOjM_bb9xgdVNIYsxj-5rQmWqoJcC2zME/s4160/IMG-20250505-WA0042.jpg)
 ![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjIkBq23aMiNmfA3ac9CHIceMfL2B87-wSrTUKVpunoEbxc_PII8PfqziPwOZ6Y9Py-qbjz7be2H7ZaLR6JhCJetsoMmIb84HMU9WwOeMGciGPaAgC2ClQsOijewy3-1l-I8-IuNnOhIz3ncWa8m6GOM3D80BspQdaYmRpVmnC_ZWFlFQMhrZnhPEHiaTA/s4160/IMG-20250505-WA0037.jpg)
 
-Clase práctica. Armarmos tablero paralelo. Conclusiones serie vs paralelo.  Saul Kuperman el Lunes va a haber un grupo de gente de la obra social nuestra que es la UOCRA y salud pública a vacunar grande vacunación obviamente para adultos Ya partimos de esquemas eléctricos yo siempre hago un **esquema en plata como ubicar como si tuviéramos un plano en la mano** entonces a partir de ahí vamos a ver ahí ya trabajan por separado.  Hay que dejar un bucle de 15 cm en la caja octogonal Los empalmes no pueden quedar dentro del caño Los hijos Chuck Norris(Selva) desarmaron el portalámparas y no había necesidad de hacer eso podían haber cortado el empalme (Minuto 43) (Hicieron eso porque pensaron que quedaba corto) Siempre el portalámparas independiente Lo 1ero que tengo que usar es el buscapolo(para identificar la polaridad de tu circuito), 2do lámpara de prueba(para identificar si llega fase y neutro y 220 voltios), 3ero probador de tensión(saber el voltaje aproximado que llega), 4to tester o multímetro o multitester(saber voltaje exacto y comprobar que el circuito no tenga continuidad con la LLAVE APAGADA si tiene continuidad es cortocircuito).  Acá tenemos 2 cables. Los 2 son uno es vivo el otro es el retorno. De acá entra el vivo.  El vivo va a tu interruptor.  El vivo es el de la derecha.  A cualquier lado le podes poner el vivo pero algunos tienen una marquita.  Fijate ese trae 2 borners no más, no trae 3.  Trae 1 acá y el otro acá, el 3ero viene vacío, el 3ero es para llave combinada.  Retorno va a todas las lámparas.  En el retorno tenes los empalmes: empalme 1, empalme 2 y empalme 3.  El retorno le hizo con el mismo color porque es vivo.  Adrian Torres: Viene tu principal y va a tu portalámparas Ahora sé que... Los hermanos cardozo.  Estoy aprendiendo ya. Chamamecero de Ley.  Profesor: Sabe algo por lo menos?  Grandes tiempos en donde estaba Power Profesor: Power? El boliche bailable? Ah eso si para eso si.  Importante que uno tome la posta yo quiero ver como trabaja cada uno.  Después vamos a ir individual para ver como trabajan.  Tester estaba puesto en corriente (amper) y había que seleccionar la V de voltaje (alterna ~) y hay que poner el rango más grande de lo que aprox. vas a medir si es 220voltios hay que seleccionar 750 voltios.  A es de amper. V voltios.  No debe dar continuidad con la tecla apagada porque es cortocircuito (está unido fase y neutro y no debería estar) Para que no haya cortocircuito tiene que haber un receptor de por medio para que no haya corto.  El Disyuntor salta por fuga. La Térmica salta por corto y por sobrecalentamiento La térmica se llama interruptor termomagnético también termomagnético porque corta por calor y sobrecalentamiento Si tenes una térmica más grande y el cable es fino el cable se va a quemar y la térmica no va a proteger. La térmica es proporcional a la sección de su cable. cable de 1,5mm² va una térmica de 10am.  La escala de continuidad se mide donde está el puntito, el volumen (el pitido): cuando está apagado tiene que sonar.  Ahora controlen que está seguro conectar acá.  Fíjense como lo van a probar (hay que identificar cual bornera es el vivo y cuál el neutro).  Si vos tenes fase solo no va a encender tu foco por ahí no podes tener neutro, si tenes fase solo vas a meter la mano y te va a patear.  Alejandro: Yo te aflojo y te saco este cable (neutro) yo coloco acá no va a encender el foco pero metes el dedo y te va a meter una patada porque tu vivo sigue estando en tu circuito porque tu vivo está en tu circuito pero solo con el VIVO no se enciende el foco.  Buscapoloco de inducción: sabes si tenes fase en tu circuito o cerca de tu circuito (detecta el campo electromagnético que genera la electricidad por eso no es necesario pelarlo). Mientras más rápido chilla más corriente pasa por tu circuito, mientras menos pasa puede chillar un poco más lento. Si suena ojo con meter la mano.  Buscapolo: Se puede usar en una instalación domiciliaria. No se puede usar cerca de un tablero de un transformador porque el campo electromagnético que genera un transformador es muy grande y en un tablero también porque tienen varias fases en distintos lados y dejan loco esto. Solo se usa en una instalación chica en una casa.  Adrián Torres: Estaba tocando una instalación conectada (casi se queda electrocutado).  Si cortaste el disyuntor ya tiene que cortar todo.  La falla en la termomagnética siempre va a impedir el paso de corriente, nunca una termomagnética falla dejando pasar corriente.  Ninguna térmica falle manteniendo el paso de tensión siempre se interrumpe porque actúa por gravedad.  Adrián Torres: Fase al interruptor. El retorno para cortar la energía sale a los portalámparas y el neutro va a los 3 portalámparas.  Al usar la pinza amperométrica solo hay que agarrar uno de los cables: fase o neutro si tomás los dos te dará 0. Si vos agarrás y te da un valor ínfimo esa es la pérdida  o que está en cortocircuito que está consumiendo, en algún lado se está yendo eso.  Vamos a suponer que vos quieras ampliar tu instalación e hiciste pasar el cable, depende de tu sección de amperage que vos tengas va a ser difícil pasar, hasta la cinta. Entonces yo te recomiendo: corto la tierra de ahí, ahí uno y paso el cable pero paso ya otra tierra en este caso verde-amarillo y ese uso como pasa cables.  Los cables que tienen sobrecarga están más duros, los cables nuevos sin uso tienen ELASTICIDAD.  ### Sebastián habla sobre arreglar Instalación Eléctrica de su CASA. Los electricistas le hicieron mal la instalación pusieron octogonales en todos lados y se ahorraron interruptor diferencial y puerta del tablero¿?  Vamos a suponer que vos quieras ampliar tu instalación e hiciste pasar el cable, depende de tu sección de amperage que vos tengas va a ser difícil pasar, hasta la cinta. Entonces yo te recomiendo: corto la tierra de ahí, ahí uno y paso el cable pero paso ya otra tierra en este caso verde-amarillo y ese uso como pasa cables.  El tema es así: si los cables no están si tienen elasticidad es porque ya son descargados si realmente vos no sentís nada. Este es un cable que no tiene uso por eso tiene elasticidad.  Se hace más rígido si tiene sobrecarga. Vos podes cambiar todo lo que quieras todo cambio es efectivo así que vos tenes que mirando como podes solucionar.  Sebastián: No vas a comprar 100 metros de cable.  Profesor: Claro. Yo prefiero a veces que compre una térmica no más.  ###### Sebastián: En mi casa tenemos pilar, y se hace la conexión hacia adelante, se usó el pilar o sea sé que está mal, se usó el pilar en el tablero principal para alimentar esa división de la casa. Tengo que un tablero en el medio para esa piesita (un tablero seccional), o traer los de adelante, eso quiero hacer.  Porque ese cable tenía 1 originalmente ahora tiene 3: 1 para el aire, y 1 para la cocina pero esas dos térmicas quiero llevar en el seccional.  Profesor: Claro. Te hago la alimentación principal y de acá volves ahí y ahí, ahí.  Sebastián Melgarejo: Claro, que en el pilar solamente haya 1 térmica.  Profesor: Sí sí.  Sebastián Melgarejo: Y poner disyuntor, porque en esa época no se ponía disyuntor. En mi casa no tenemos diferencial.  ##### Profesor: Es por costo. Ponele que tienen una manzana de 20/30 casas ellos se ahorran 1 interruptor diferencial Sebastián Melgarejo: En mi caso se ahorraron 1 puerta porque esa no tenía puerta y se ahorraron el interruptor diferencial.  Profesor: Fijate casa sin disyuntores un valor que tiene ahora el más barato ponele 40(mil).  ##### Sebastián Melgarejo: Lo que hizo el IPRODRA un barrio de 38 son distintos barrios, distintas casas y en todos falta la puesta y disyuntor y acá el revoque¿? (Hora 01:41:20) Profesor: Voy a tener que hacer otro tablero de prueba, voy a hacerlo.
-##### Sebastián Melgarejo: Primero la térmica principal y al lado del disyuntor.  ### Profesor: Ahora si tu distancia que está acá es pequeña ponele de 2/3 metros 4 como máximo para que vas a poner otro interruptor principal de cabecera? Directamente pone el disyuntor.  Sebastián Melgarejo: Claro, como por ejemplo en la construcción que yo le mostré empezaron a trabajar de este lado para acá o sea no hicimos de acá para allá, como ese.  Profesor: Yo trabajo siempre...  Sebastián Melgarejo: Sí y tiene sentido. ¿? Ruido Hora 01:43 Profesor: Pero fíjense hay lugares cuando voy a un tablero a veces aparece por abajo y tu llave principal de corte está abajo, hay un tipo de conductor subterráneo entonces pone acá y ese llave de corte general hay veces que es así.  Profesor: El de la entrada. El principal es la suma de todos las corrientes de cada cosa en paralelo.
-300/220 = 1,36 amper el teórico, y cuánto da en la vida real.  Profesor: El de la entrada. El principal es la suma de todos las corrientes de cada cosa en paralelo. 300/220 = 1,36 amper el teórico, y cuánto da en la vida real.  Leonardo: 1,25 amper aprox.  Yo: Porque es menos de 220.  Alejandro: Al conectarla en paralelo ustedes ven lo que consume los 3 focos.  Profesor: Acá y acá tienen que ser igual la suma de todo esto tiene que ser igual a esta tiene que dar 1,25 amper o sea hago la suma.  Ayudante: Si yo mido el amperage 1 por 1 yo estoy teniendo la potencia de cada foco por individual si yo tomo en la entrada tomo la sumatoria de los 3 en consumo (que se mide en amperes) Sebastián Melgarejo: No no, la térmica es el interruptor termomagnético y disyuntor es el interruptor diferencial. Diferencial es para humanos y ...  En paralelo.
-1. Tensión en paralelo: es constante.  Explicación: en todo su recorrido porque estoy tomando la tensión ahí, **en todo su recorrido la tensión es constante**, mido entre 2 extremos acuérdense fase y neutro va al revés fase y neutro cualquiera que mida me va a indicar la tensión esa tensión es constante en todo su recorrido.  2. Corriente: Variable.  Sebastián Melgarejo: Se divide entre los 3 artefactos.  Profesor: Vamos a hacer más sencillo corriente... Porque yo puedo tener acá en este caso distintas potencias: corriente variable.  3. Cuando saco un foco qué pasa? En paralelo sigue funcionando.  ##### En serie.  1. Tensión: Variable.  Explicación: Porque varía en cada extremo. La sumatoria de esta acá, es la sumatoria de esta. Acá sería total o va a ser igual a: `V1 V2 y V3`. Esto es tensión o sea la tensión de los extremos acá cuando ustedes midan allá, será igual a la sumatoria de cada esto. Estamos? Entonces acá la tensión es variable.  2. Corriente: Constante.  3. Cuando saco un foco qué pasa? En serie se corta el circuito.
+---
+
+### 1. Contexto y organización
+
+* El lunes vino un equipo de **UOCRA y Salud Pública** para vacunar adultos en la obra social.
+* Se parte siempre de un **“esquema en plata”** (planta) para ubicar tablero y derivaciones, como si fuese un plano real.
+
+---
+
+### 2. Montaje del tablero en paralelo
+
+* **Circuito en paralelo**:
+
+  1. **Tensión** (220 V) **constante** en cada lámpara.
+  2. **Corriente total** = suma de corrientes de cada rama.
+  3. Si quitas una lámpara, el resto **permanece encendido**.
+* **Buenas prácticas de montaje**:
+
+  * Dejar **bucle de 15 cm** de cable dentro de la caja octogonal.
+  * Los **empalmes** deben quedar **siempre fuera del caño**.
+  * El **portalámparas** se instala y prueba de forma independiente; no desarmarlo salvo necesidad.
+
+---
+
+### 3. Herramientas y orden de diagnóstico
+
+1. **Buscapolo de inducción**: detecta fase sin contacto; más rápido el pitido → mayor corriente.
+2. **Buscapolo puntual**: identifica fase en cable pelado o bornera.
+3. **Lámpara de prueba**: comprueba fase y neutro (¿llega 220 V?).
+4. **Probador de tensión** (display): mide voltaje aproximado.
+5. **Multímetro/tester**:
+
+   * Modo voltímetro alterna (\~), rango ≥ 750 V para 220 V.
+   * Modo continuidad (pitido) con llave general apagada → comprueba ausencia de cortocircuito fase–neutro.
+
+---
+
+### 4. Identificación de conductores
+
+* **Fase (vivo)**: general llega a la bornera de interruptor (marcada o a la derecha).
+* **Retorno**: sale del interruptor a cada lámpara (puede ser del mismo color si no hay otro).
+* **Neutro**: va directo a las lámparas.
+
+---
+
+### 5. Protecciones y nomenclatura
+
+* **Fusible**: alambre calibrado que se funde ante sobrecorriente.
+* **Interruptor termomagnético (térmica)**:
+
+  * **Térmico**: abre por sobrecarga (calor).
+  * **Magnético**: abre por cortocircuito.
+  * Debe elegirse según sección de cable (p. ej. 1,5 mm² → 10 A).
+* **Disyuntor diferencial**: salta por fuga a tierra (protección de personas).
+
+---
+
+### 6. Uso de la pinza amperométrica
+
+* Solo sobre **fase** o **neutro** (medir ambos juntos da 0 A).
+* Mide la corriente sin interrumpir el circuito; útil para verificar consumos en paralelo.
+
+---
+
+### 7. Comportamiento de cables
+
+* **Elasticidad**: cables nuevos, sin uso.
+* **Rigidez**: cables con sobrecarga o envejecidos.
+* Para pasar cables en espacios estrechos puede usarse temporalmente un trozo de tierra (verde-amarillo) como guía.
+
+---
+
+### 8. Problema y solución en instalación domiciliaria
+
+* **Situación**: en la casa de “Alumno” el pilar alimentaba varias derivaciones sin tablero seccional ni diferencial.
+* **Solución propuesta**:
+
+  1. Térmica única en el pilar.
+  2. **Tablero seccional** intermedio para dividir aire, cocina, etc.
+  3. Añadir **disyuntor diferencial** y puerta en el tablero principal.
+
+---
+
+### 9. Serie vs. paralelo: conclusiones prácticas
+
+| Aspecto           | Serie                                      | Paralelo                                 |
+| ----------------- | ------------------------------------------ | ---------------------------------------- |
+| Tensión           | **Variable** en cada lámpara; suma = total | **Constante** (220 V) en todas           |
+| Corriente         | **Constante**                              | **Variable** (se divide entre ramas)     |
+| Al quitar un foco | Se interrumpe todo el circuito             | Las otras lámparas **siguen encendidas** |
+
+---
 

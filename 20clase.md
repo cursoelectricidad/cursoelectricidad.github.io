@@ -25,3 +25,69 @@ electrónicos como las lavadoras.
 ![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgvhmPuvfNN97ZtP8al-wVQu4-DDB0-J7isR0b75lEH8MgCjpNfTPcsonp8_U1zZeHDxh5N-7eFY2I8VqitVodqMZaRiLwIX21hKaTcKMzwVBoJ6GkUvO3t0SrZkJSe_y5Fi3ZVl5HzwiDqSNzyCU51-bup-osBf6Y_6hILUu9D_Y3ZCbtTmMGXIrgQD-k/s4160/IMG_20250429_200006777.jpg)
 ![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj1-U6q8YbxKmPXf6ZMdZ3QlwWsCjeBDxwwzbcIoHi6sFMQdIOrK7VGRAO-VQybwe5Sqstn_aUbyrsbdjWHTSMyTacPr2lGBC2goYmOTLcg1cEk52u8iYe0Zu6l1brjCtzfRYQQhD3TuTejwMCBVzYuBH0PYFsUNKi3ZZD3DmUwXh-J1CbeCD6whpg098g/s4160/IMG_20250429_201858377.jpg)
 
+### 1. Concepto de circuito eléctrico
+
+* **Elementos básicos**:
+
+  1. **Generador/alternador** (o batería en continua)
+  2. **Conductor**
+  3. **Interruptor** (pulsador, contactor)
+  4. **Elemento receptor** (lámpara, motor, estufa…)
+  5. **Protección** (fusible o interruptor termomagnético)
+* **Tipos de conexión**:
+
+  * **Serie**: misma corriente, tensión dividida.
+  * **Paralelo**: misma tensión, corriente dividida.
+
+### 2. Magnitudes eléctricas esenciales
+
+* **Corriente (I)**: flujo de electrones por unidad de tiempo (amper).
+* **Tensión (V)**: fuerza electromotriz que impulsa la corriente (volt).
+* **Resistencia (R)**: oposición al paso de la corriente (ohm).
+* **Ley de Ohm**: V = R × I.
+
+### 3. Conductores y aislantes
+
+* **Conductores**: metales (cobre, aluminio) con electrones libres.
+* **Aislantes**: goma, plástico, madera, cerámica.
+* **Semiconductores**: conducen parcialmente (p. ej. diodos).
+
+### 4. Generación y transporte de energía
+
+* **Corriente alterna**: generada por alternador; en viviendas 220 V a 50 Hz.
+* **Corriente continua**: p. ej. baterías de autos, linternas.
+* **Transporte a alta tensión**: conductores desnudos de mayor diámetro; luego se transforma a media (13,2 kV) y baja tensión.
+* **Neutro**: punto estrella del transformador, conectado a tierra.
+
+### 5. Instrumentos de medición
+
+* **Multímetro / tester**: mide tensión, resistencia, continuidad.
+* **Pinza amperométrica**: mide corriente sin interrumpir el circuito (campo magnético).
+* **Ojo de buey con display**: indicador visual de tensión y corriente.
+
+### 6. Sistemas de alarma y seguridad
+
+* **Circuito de tamper**: normalmente cerrado; al abrirse (desarme), dispara alarma.
+* **Instalación**:
+
+  * Pulsador de emergencia y contactor en tablero (térmica dedicada).
+  * Sensores de movimiento infrarrojos, imanes de puertas/ventanas, detectores de rotura de vidrio.
+  * Sirenas interior y exterior; opcional barreras IR, videovigilancia.
+* **Ajustes**: soportes regulables para ángulo y altura (≈ 2,10 m).
+
+### 7. Protección y dimensionamiento
+
+* **Fusible**: alambre calibrado que se funde a cierta intensidad.
+* **Interruptor termomagnético**: protege por sobrecarga (térmico) y cortocircuito (magnético); categoría de ruptura (p. ej. 6 kA).
+* **Selección de sección de conductor**: según corriente nominal y caída de tensión (máx. 3 %).
+* **Pruebas previas a energizar**: verificar continuidad y ausencia de cortocircuitos (fase-neutro).
+
+### 8. Ahorro energético
+
+* **Lámparas**:
+
+  * Incandescente (45–100 W, filamento de tungsteno)
+  * Bajo consumo (fluorescente)
+  * LED (10–15 W) → ahorro de hasta 90 W por punto de luz.
+* **Cálculo de potencia**: P (W) = V (V) × I (A); 1 kW·h = consumo de 1 kW durante 1 h.
+

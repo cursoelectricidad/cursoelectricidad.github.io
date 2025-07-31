@@ -15,6 +15,92 @@ se utiliza principalmente para líneas aéreas. Acometida medidor línea aérea,
 que le pagó la mitad de lo que habían acordado por las bocas. Caños memoria. Anécdota: Hicieron cielo raso de PVC suspendido sin hacer la instalación eléctrica. Los cables canal también son cañerías. El conductor subterráneo es el conductor que tiene un revestimiento mucho más grueso. Debido al costo que tiene, hoy la gente las cooperativas o EMSA está permitiendo meter conductor tipo taller y son unos prolongadores son y tienen la aislación muy fina entonces no es lo ideal, el conductor subterráneo si es en general para las bandejas.
 
 
+---
+
+## 📌 **PUNTOS DESTACADOS DE LA CLASE**
+
+### ⚡️ **Instalaciones trifásicas vs. monofásicas**
+
+* En una **instalación trifásica**, si se **pierde el neutro** (por ejemplo, por una tormenta), puede ingresar una fase por el neutro, generando **380V en lugar de 220V**, lo que **quema artefactos eléctricos**.
+* La **protección térmica o disyuntor no actúa** en este caso, porque no hay cortocircuito ni sobrecarga al principio, solo **exceso de tensión**.
+* **Monofásico usa solo una fase** y puede generar **desequilibrio** si se carga mucho una sola línea.
+
+---
+
+### 🔧 **Diagnóstico y errores comunes en instalaciones**
+
+* Se relató un caso real en una escuela donde se quemaron equipos por **falta de neutro** en el tablero general.
+* El **neutro estaba recibiendo una fase**, dando como resultado **380V entre fase y neutro**.
+* Se debe **revisar la instalación completa**: desde el medidor, tablero general y seccional, hasta las canalizaciones.
+
+---
+
+### 🧰 **Normas de canalización eléctrica**
+
+* **Máximo 3 circuitos por caño**, siempre y cuando sean de la **misma fase** (ej: solo de la fase R).
+* Si se combinan fases diferentes en un mismo caño, puede haber **problemas electromagnéticos** y de seguridad.
+* En una instalación trifásica deben salir **mínimo 3 caños** del tablero seccional (uno por fase).
+
+---
+
+### 🧩 **Mantenimiento preventivo**
+
+* Ajustar tornillos de los bornes en el tablero, ya que el **efecto Joule** (calor por corriente) **dilata y afloja los terminales**.
+* Falso contacto → salto del disyuntor.
+* Si al conectar algo el disyuntor salta, revisar **tomas y terminales**, no solo el disyuntor.
+
+---
+
+### 💡 **Componentes y materiales**
+
+* **Fusible NH (cerámico)**: revienta en caso de sobrecarga; contiene **sal conductora**. Puede ser **peligroso si se repara mal**.
+* **Conductor preensamblado**: soporta hasta **45A**, mejor que el bipolar (hasta 30A). Se usa hoy en acometidas aéreas.
+* **Antihurto o concéntrico**: conductor con malla que evita robos o conexiones ilegales, al provocar cortocircuitos si se manipula.
+
+---
+
+### 🛠️ **Cañerías: tipos y normas**
+
+* Tipos:
+
+  * **Acero esmaltado**: resistente, debe colocarse con **cemento y arena** (no cal).
+  * **PVC**: más común, especialmente embutido.
+  * **Memoria térmica (caño de PVC con resorte)**: permite doblar sin dañar.
+* Curvas deben ser **mayores a 90°**.
+* **Todas las cañerías vienen de 3 metros**, útil para cálculo y planos.
+
+---
+
+### 📏 **Cálculo de ocupación de caños**
+
+* Diámetro interno del caño (ej: 17 mm) es clave.
+* **Solo se debe ocupar hasta un 35% del caño con conductores**, el resto es aire para **disipar el calor**.
+
+---
+
+### 🛑 **Errores de instalación comunes**
+
+* Unión de conductores en lugares **inhadecuados como bajo tierra**, donde puede entrar agua.
+* **Sobrecarga de bocas** en un solo circuito. Se recomienda dividir (ej: 7 y 8 bocas).
+* Usar marcas de baja calidad (se menciona una que fue descartada).
+
+---
+
+### 📋 **Presupuesto y contratos de obra**
+
+* El precio se calcula **por boca instalada**, no por tiempo de ejecución.
+* Se recomienda dejar todo por escrito (cantidad de bocas, tomas, tablero, etc.).
+* Existen **revistas como "El Instalador" o AAIERIC** que establecen precios de mano de obra por tipo de instalación.
+
+---
+
+### 🔍 **Casos reales y advertencias**
+
+* Alumnos y ayudantes relatan situaciones de **explosión de fusibles NH**, errores en conexiones de viviendas nuevas, instalaciones sin tapas, etc.
+* Se insiste en el valor de la **revisión constante** y **el conocimiento de normas** para evitar errores graves o peligrosos.
+
+---
+
 ![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh_VZJiQqWK2J6F3p2QyYpWQ2CLx2UP7vdBm-bxtJnXOVWxPklRwTUxVk-WXw3pQHrWDtP2ySa-wJ0kKEUqNceSmJthBT6oNobCnhz2TZteFtEptTdUrCsdF_HigKH3IMK2NDqDeq7uEgl1u9KD0RI6_C6yGaJaTUpeVft6u9GxDwGn-xatW8KxdJdfbqU/s4160/IMG_20250407_192928527.jpg)
 ![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiBq_zoR0jNheBUVTFbwAJm863H-mDszdyr5Hu3c0y-cxP7BI9OJKoZiDG5pdglYx1hLTUm8Foo2nQnhE-JGCfKA3M9JAeW98Zp6HIxbQBEEKQmdrNLjeaZNlYM5pxnSfh454TdfUVFAqnfsaL8-HJIimgAZLFssp_RqoyGKV9GaZRbrUkF-sHc2THrzEA/s4160/IMG_20250407_193426081_HDR.jpg)
 ![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhi3EZyNE4lKdifG385eBB3a6JmElpCA7Jota1fw2l7Q9np78U4c0epn8ff0X7Gddnscgs5ndRCh_IzCOFg9BIG6DaregiIU2219L2_MG59GI__kqzub0YlL80IfFQZ3izfnSCYQMEESTyqzcKcIAXjtPSrYSmzq3tsR__M6BGP3fIOLqdZd_jWuYS4BCs/s4160/IMG_20250407_194450899.jpg)
