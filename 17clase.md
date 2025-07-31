@@ -24,10 +24,32 @@
 ![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiwTXttw23odhZRenzZHBZDw5E2ygHu7p9O_x9OGGtM2uZD_CmRqWrQxKjx8wjG2Y2-itsA-cwFVOa5PcSHM7dSW239VIBTXhGIEVRmuCB8IDNRFyegIz8iwql-DZlBA60nL_f0wUZBSD_GyBDqbtiIxiSsUtDVfc-0fClpG6QSkxln21irOZtsDYBy6FQ/s4160/IMG_20250422_194847117.jpg)
 ![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjbZgWpGel-DJMjC6eSJ9MMRp59r-sFfCIGBWwy8jPB_bcXTvq8Oil0bIw0BwJDUdX3FLRE6R-ay5VitXZczg1p8hgacF7HG2AOBgwR0QAyZQs7j2LL0qyJZxRbux8H24vbYd-DIgbjwznIXmlOxLtlp1FJvDmh-2zK2wzYQ40JgdVYVq-sbGViLRblVr8/s4160/IMG_20250422_195630553.jpg)
 
-##### Transcripción 
-Profesor: Siempre digo lo mismo pero es para que tengan idea de que es lo que están por hacer: si yo tengo 1 o 2 bocas arriba probablemente yo necesito en algún lugar una caja de paso, caja de paso esta es de `10x10` lo que encontremos ahí le vamos a dar, si no tenemos cajas de paso vamos a poner una caja octogonal **está siempre está en la pared esta caja** puesta ahí como ustedes ven allá entonces tomo la alimentación y en algún lado esto alimenta esto y acá va a haber otra caja `10x5` rectangular que es eso, y acá las cajas octogonales. 
-Este es el estema que ustedes ven de planta, la idea principalmente **hoy vamos a utilizar cañerías de 3/4** nosotros para poder tener una idea exacta **cualquier esquema va a tener siempre una caja de paso en el medio y ahí podes hacer derivaciones para un lado o para otro, acá ponemos una caja octogonal** y acá vamos a poner una caja `5x10` esto es sencillo ustedes van a tratar de utilizar todo lo que se pueda.
-Vamos a suponer que yo soy ustedes, **yo le voy a dar una caja ustedes van a tener ya sea cable lo que ustedes quieran, como hay caños todavía por suerte compré 2 caños y afané otro ustedes tiene una cierta longitud acá también entonces lo que van a hacer CAJA, CAJA OCTOGONAL y 2 de estos**, no sé donde quedó la otra. Si puedo conseguir todo para que tengan la idea suficiente, ustedes van a hacer la conexión, van a tener los conectores que serán estos, **acá mucho más fácil porque ustedes ya saben que el conector que van a usar es `3/4` el caño que van a usar es `3/4`** entonces tienen que desarrollar lo mismo que está ahí, algo parecido a esto que ustedes van a representarlo sobre este banquito, no sé si él trajo si elemento de corte pero cualquier cosa vamos a facilitar.
-Entonces aplicamos todo lo que vimos, cuando tengan un lápiz ustedes lo único que van a hacer es, no le vamos a abulonar a la mesa pero por lo menos ustedes le marcan donde será fijo esto, capaz **lo máximo le doy un tornillo para que tengan un punto de referencia** a partir de ahí igual que esta, **un tornillo total un tornillo a estas mesas no le va a hacer nada, después sacamos**.
-Cada uno va armar va a poner los conectores, **si quiere puede agrandar y poner una curva**, que hay curvas también, pueden llegar hasta acá poner una curva acá y hacen el sistema acá, cualquier cosa está bien hecha siempre y cuando respeten y tengan idea que esto esta caja es la alimentación principal que viene del tablero principal alimenta la caja y hago la distribución, estamos?
-o
+---
+
+### 🔧 **Resumen y puntos clave de la clase práctica**
+
+* **Esquema general de instalación eléctrica:**
+
+  * Se parte de una **caja de paso** central (`10x10` o caja octogonal en la pared).
+  * Desde esta caja se alimentan otras cajas, por ejemplo una **rectangular `10x5`**.
+  * La **alimentación principal** llega desde el tablero a esta caja, desde donde se hacen derivaciones.
+
+* **Materiales a utilizar:**
+
+  * **Cañerías de 3/4** para toda la instalación.
+  * **Cajas octogonales**, **cajas `5x10`**, conectores de **3/4**.
+  * Se cuenta con **caños comprados y otros recuperados**.
+  * Se pueden usar **curvas** para derivaciones.
+
+* **Práctica en banco de trabajo:**
+
+  * Cada Alumno debe **reproducir el esquema** sobre un banco.
+  * Se permite **marcar con lápiz** la ubicación de las cajas y conectores.
+  * Se puede fijar con un **tornillo como referencia** (no se abulona permanentemente).
+  * Se enfatiza el respeto por el esquema general y su lógica.
+
+* **Objetivo del ejercicio:**
+
+  * Entender el recorrido de la alimentación desde el **tablero principal**, pasando por la **caja de paso**, y luego hacia las distintas salidas.
+  * **Aplicar conocimientos previos**: conexión de caños, uso de conectores, armado de circuitos simples.
+
