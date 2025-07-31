@@ -89,9 +89,9 @@ Pelar cables con pinza y alicate. La acometida puede ser aérea o subterránea, 
 
 * Tomacorrientes:
 
-  * Uso general: módulo de **10A**.
+  * Uso general: ITM **16A**, conductor de **2,5mm²**.
 
-  * Uso especial (AA): **20A**, conductor de **4 mm²**.
+  * Uso especial (AA): ITM **20A**, conductor de **4 mm²**.
 
 ---
 
