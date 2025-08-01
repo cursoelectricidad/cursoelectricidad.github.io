@@ -12,10 +12,6 @@ Profesor: Francisco Espeche. Ingeniero Electromecánico, inspector de obra.
 
 Subscribe to RSS: [/feed.xml](/feed.xml)
 
-[Recompilación de posibles preguntas de examen para auxiliar electricista.](/preguntas_examen.md){.title}
-[13 Junio 2025]{.date}
-
-
 [Clase Nº 3: [FOTOCOPIA] Simbología. Red de distribución. Morceto. Fusible aéreo. Conductor preensamblado y bipolar. Acometida. Línea de distribución principal. Alimentación trifásica. Esquema de la acometida que entra en el examen. Definciones: Línea de alimentación, principal, seccional, etc.](/03clase.md){.title}
 [13 Marzo 2025]{.date}
 
@@ -158,6 +154,10 @@ Subscribe to RSS: [/feed.xml](/feed.xml)
 
 [Clase Nº 38: Puesta a tierra. Bajar sensibilidad disyuntor. Tetrapolar con 2 salidas de circuito. Tipos canalizacion. Descarga rayos. Esquema acometida. Preguntas Examen.](/38clase.md){.title}
 [12 Junio 2025]{.date}
+
+
+[Recompilación de posibles preguntas de examen para auxiliar electricista.](/preguntas_examen.md){.title}
+[13 Junio 2025]{.date}
 
 
 [Clase Nº 39: Examen (17 de Junio). FOTO del Examen teórico.](/39clase.md){.title}

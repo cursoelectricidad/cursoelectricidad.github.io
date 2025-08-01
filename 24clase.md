@@ -112,10 +112,10 @@
 
 ##### Importante.
 Como comprobar que tu llave de 1 punto no sirve.   
-DAME EL PORTALAMPARA ACA. FIJATE QUE YO ESTOY PROBANDO CONTINUIDAD.   
-¿POR QUÉ ERA ESTO?   
-Alumno: Porque falla el interruptor?   
-Profesor: No.   
+DAME EL PORTALAMPARA ACA. Fijate que yo estoy probando continuidad.   
+¿POR QUÉ ERA ESTO?    
+Alumno: Porque falla el interruptor    
+Profesor: No.    
 Alumno2: Porque está en serie   
 Profesor: École, muy bien. Tu problema principal acá es tu llave de punto.   
 Muy bien, está en serie, la tensión es la misma pero como está en serie baja la luminosidad.    
