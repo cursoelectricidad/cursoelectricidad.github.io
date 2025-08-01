@@ -2,6 +2,8 @@
 % Andrés Imlauer
 % 20 Julio 2025
 
+#### [FOTO DE EXAMEN AUXILIAR ELECTRICISTA](/40clase.html)
+
 ### Puntos clave del texto sobre instalación eléctrica residencial y examen
 
 #### 1. Examen y modalidad
