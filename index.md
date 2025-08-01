@@ -3,7 +3,8 @@ title: Curso Electricidad - UOCRA
 x-toc-enable: true
 ...
 
-Curso de Electricidad de la UOCRA que comenzó el 10 de Marzo del año 2025 (mi primera clase fue el 12 de marzo)    
+Curso de Electricidad de la UOCRA.     
+Comenzó el 10 de Marzo del año 2025 (mi primera clase fue el 12 de marzo)    
 Profesor: Francisco Espeche. Ingeniero Electromecánico, inspector de obra.   
 
 -------------------------------------------------------------------------------
@@ -12,7 +13,7 @@ Profesor: Francisco Espeche. Ingeniero Electromecánico, inspector de obra.
 Subscribe to RSS: [/feed.xml](/feed.xml)
 
 [Recompilación de posibles preguntas de examen para auxiliar electricista.](/preguntas_examen.md){.title}
-[20 Julio 2025]{.date}
+[13 Junio 2025]{.date}
 
 
 [Clase Nº 3: [FOTOCOPIA] Simbología. Red de distribución. Morceto. Fusible aéreo. Conductor preensamblado y bipolar. Acometida. Línea de distribución principal. Alimentación trifásica. Esquema de la acometida que entra en el examen. Definciones: Línea de alimentación, principal, seccional, etc.](/03clase.md){.title}

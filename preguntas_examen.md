@@ -1,6 +1,6 @@
 % Recompilación de posibles preguntas de examen para auxiliar electricista.
 % Andrés Imlauer
-% 20 Julio 2025
+% 13 Junio 2025
 
 #### [FOTO DE EXAMEN AUXILIAR ELECTRICISTA](/40clase.html)
 
