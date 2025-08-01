@@ -1,4 +1,4 @@
-% Recompilado de posibles preguntas de examen.
+% Recompilación de posibles preguntas de examen para auxiliar electricista.
 % Andrés Imlauer
 % 20 Julio 2025
 
