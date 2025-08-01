@@ -56,6 +56,7 @@ List of pages:
 * /: [Curso Electricidad - UOCRA](/)
 * /license.md: [License](/license.md)
 * /logo-license.md: [Unlicinsed bunnies](/logo-license.md)
+* /preguntas_examen.md: [Recompilado de posibles preguntas de examen.](/preguntas_examen.md)
 * /suppliers.md: [Buy a bunny](/suppliers.md)
 * /template-license.md: [Template license](/template-license.md)
 </div>

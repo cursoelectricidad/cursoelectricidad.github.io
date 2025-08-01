@@ -67,7 +67,7 @@ distribución. Alumna pregunta sobre como mejorar instalación de su casa. Entra
 
 * **Por toma**: se considera una carga de 400 W.
 * **Por boca de iluminación**: 100 W como referencia (aunque las LED consumen mucho menos).
-* Se utiliza un **factor de simultaneidad** entre 0,6 y 0,7 (no todos los equipos se usan a la vez).
+* Se utiliza un **factor de simultaneidad** entre 0,6 y 0,7 (todos los equipos se usan a la vez).
 * Sección del conductor de acometida: 6 a 10 mm² según la carga.
 * Medidor monofásico: máximo de **5 kW** para usuarios domiciliarios.
 

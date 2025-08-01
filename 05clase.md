@@ -89,9 +89,9 @@ Pelar cables con pinza y alicate. La acometida puede ser aérea o subterránea, 
 
 * Tomacorrientes:
 
-  * Uso general: ITM **16A**, conductor de **2,5mm²**.
+  * Uso general: ITM **16A**, conductor de **2,5mm²** (soporta un máximo de 18 amper).
 
-  * Uso especial (AA): ITM **20A**, conductor de **4 mm²**.
+  * Uso especial (AA): ITM **20A**, conductor de **4 mm²** (soporta un máximo de 24 amper).
 
 ---
 
