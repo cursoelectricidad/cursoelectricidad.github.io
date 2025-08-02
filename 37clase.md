@@ -13,7 +13,7 @@
 Protección contra fugas de corriente:   
 [https://youtube.com/embed/rVYnCUd79dw](https://youtube.com/embed/rVYnCUd79dw)   
    
-###### Interruptor automático   
+#### Interruptor automático   
 [https://www.facebook.com/reel/1248266576913908](https://www.facebook.com/reel/1248266576913908)   
    
 ![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhzjyXh4QGrd76tbKWTcLueQDq9K6yNfpD18B7JtA1zG8rDHwiAskWZJJPWhojzq8I8rWZFziGmUdTkqQex0MikzbcGGeEwixmZ71zJkXadmw946wfdST8RmDGqmKwcSInu4D9BJ4mgfn9-U2Yja5MJDubysEJizftzqIPekU9JnRC0df4s1IKrnkxA0LI/s4160/IMG_20250610_201218076.jpg)   

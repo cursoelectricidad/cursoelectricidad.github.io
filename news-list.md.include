@@ -1,5 +1,5 @@
 ---
-title: Curso Electricidad - UOCRA
+title: Curso Electricidad 
 x-toc-enable: true
 ...
 
