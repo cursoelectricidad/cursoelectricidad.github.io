@@ -14,6 +14,150 @@
 
 [https://www.youtube.com/watch?v=MlWojvyrz4Y](https://www.youtube.com/watch?v=MlWojvyrz4Y)
 
+
+* **Concepto de escala**:
+
+  * Relación aritmética entre medida real y medida de dibujo (numerador \= longitud real, denominador \= medida en el plano).
+
+  * Ejemplos habituales en instalaciones eléctricas: 1:100 (reducción) y 1:50.
+
+* **Unidad de medida**:
+
+  * El metro es la unidad base: 1 m \= 10 dm \= 100 cm \= 1000 mm.
+
+  * En planos de construcción se trabaja normalmente en centímetros (acotaciones) y, para precisión mecánica, en milímetros.
+
+* **Uso de hoja cuadriculada y escalímetro**:
+
+  * Cada 2 cuadritos \= 1 cm en la hoja cuadriculada (facilita dibujar sin regla).
+
+  * El escalímetro permite con solo girarlo cambiar entre diferentes escalas: natural (1:1), reducción (1:50, 1:100) o ampliación (2:1).
+
+* **Tipos de escala**:
+
+  * **Natural (1:1)**: dibujo a tamaño real.
+
+  * **Reducción (1:100, 1:50)**: las más usadas en instalación eléctrica en planta.
+
+  * **Ampliación (2:1)**: para detalles mecánicos o bocetos de elementos grandes.
+
+* **Interpretación de planos**:
+
+  * Los planos en planta muestran la ubicación de cajas, cañerías y conductores según simbología eléctrica.
+
+  * Es clave incluir en el propio plano toda la información (tipo de material, alturas, dimensiones) para evitar referencias externas (pliegos separados).
+
+* **Instalación de cañerías y cinta pasacables**:
+
+  * No dejar más de 3 curvas en la canalización (2 es lo ideal) para que la cinta pasacables o el cable pasante pueda deslizarse sin impedimentos.
+
+  * La canalización debe quedar vacía; la cinta pasacables se usa para tirar los conductores después.
+
+* **Práctica de dibujo y acotaciones**:
+
+  * Para una habitación de, por ejemplo, 4 m × 6 m, en escala 1:100 se dibuja 4 cm × 6 cm y se acota “4 m” y “6 m” (sin repetir unidades).
+
+  * No es necesario indicar la sección de conductores en mm² en el plano; basta el símbolo y la anotación genérica.
+
+* **Contexto constructivo e histórico**:
+
+  * Espesores de muros: 10–15 cm en construcción moderna; hasta 30 cm en edificios antiguos (aislación térmica).
+
+  * Evolución de técnicas: construcción en seco (steel-frame) con capas aislantes; cambio climático y uso de aire acondicionado en escuelas antiguas vs. nuevas.
+
+* **Evolución del uso de climatización**
+
+  * Al principio los departamentos se alquilaban sin aire acondicionado porque por la noche refrescaba.
+
+  * Con el incremento del calor diurno, se masificó la instalación de splits, a veces mal planificados (trayectos de cañería de 5–7 m).
+
+  * Es ideal coordinar desde el proyecto arquitectónico la ubicación de los equipos para facilitar instalaciones y evitar derribos en obra.
+
+* **Representación en planta y corte**
+
+  * La “planta” es la vista sin techo ni cielo raso; el corte se realiza a 1,80 m del nivel de piso para mostrar aberturas (puertas, ventanas).
+
+  * Siempre indicar claramente en el plano la ubicación y dimensiones de esas aberturas.
+
+* **Escalas 1:100 y 1:50 con hoja cuadriculada**
+
+  * En 1:100: 1 cm \= 1 m → 2 cuadritos \= 1 cm.
+
+  * En 1:50: 1 cm \= 0,5 m → 4 cuadritos \= 1 cm (o 1 m).
+
+  * Para dibujar un rectángulo de 4 × 6 m:
+
+    * En 1:100 → 4 cm × 6 cm (8 × 12 cuadritos).
+
+    * En 1:50 → 8 cm × 12 cm (16 × 24 cuadritos).
+
+* **Simbología de aberturas y bocas**
+
+  * Ventanas: se representan con un rectángulo y línea interna según simbología.
+
+  * Puertas dobles o simples de 1,50 m: se acotan igual que ventanas.
+
+  * Bocas de iluminación: marcadas con diagonales; tomacorrientes con semicírculo.
+
+* **Ubicación de bocas y canalizaciones**
+
+  * Para dos bocas en un espacio, trazar diagonales y dividir la línea en mitades para centrar.
+
+  * La canalización debe ir lo más recta posible; evitar más de 2–3 curvas para facilitar el paso de cinta pasacables.
+
+  * Siempre dejar la tubería vacía y usar cinta pasacables para tirar los conductores después.
+
+* **Alturas estándar según normativa**
+
+  * Tomacorrientes: 0,15–0,90 m del piso, usualmente 0,40 m (base de la caja).
+
+  * Cajas de paso: 0,30 m por debajo del nivel del cielo raso (ej. a 2,70 m si el raso está a 3,00 m).
+
+  * Equipos de aire acondicionado: dejar 15–20 cm libres por encima del split respecto al cielo raso, ubicando el centro alrededor de 2,10–2,20 m.
+
+* **Cálculo de materiales y presupuesto**
+
+  * A partir del esquema en planta y las alturas, se calculan longitudes de cañería y número de cajas/bocas.
+
+  * Con esa cuantificación, se elabora el presupuesto de mano de obra y materiales antes de fijar precios al cliente.
+
+* **Circuito especial para aire acondicionado**
+
+  * El aire acondicionado requiere un circuito dedicado, con canalización independiente que parte de la caja de paso.
+
+  * Desde la caja de paso se divide el conducto para llevarlo al tablero de cada aula o al equipo de AA directamente.
+
+* **Ubicación del tomacorriente para AA**
+
+  * El tomacorriente del AA puede colocarse a 0,40 m del piso, justo debajo de la unidad interior, descendiendo por la pared o canalizado por encima y luego bajando.
+
+  * Es decisión del instalador o del proyecto si la tubería va vista por arriba o empotrada.
+
+* **Revisión y práctica de escalas**
+
+  * En escala 1:100 → 2 cuadritos \= 1 m; en 1:50 → 4 cuadritos \= 1 m.
+
+  * Se insiste en rehacer el ejercicio del rectángulo de 4 × 6 m en 1:50 marcando correctamente 16 y 24 cuadritos, y luego ubicar varias bocas mediante diagonales y divisiones por mitades.
+
+* **Diámetro de cañerías**
+
+  * En los planos métricos, se anota el diámetro interno (p. ej. “16” indica 15,4 mm redondeado a 16).
+
+  * Todas las referencias están en milímetros; no se mezclan con pulgadas en los planos.
+
+* **Codificación por color y organización de circuitos**
+
+  * Algunas instalaciones usan color rojo para la canalización eléctrica y otros colores para plomería u otras disciplinas.
+
+  * Se representan montantes principales y derivaciones de circuito en planos, distinguiendo cada circuito en las columnas montantes.
+
+* **Metodología de enseñanza y disciplina en clase**
+
+  * El profesor anima a la participación activa, pide silencio a quienes interrumpen y enfatiza que no es una clase de primaria: se espera oficio y responsabilidad.
+
+  * Se reiteran los plazos para repasar, rehacer ejercicios y entregar fotocopias de simbología al día siguiente.
+
+
 ![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhoShuB3Y8EcKNpIsxVJJO-k4DnJM8I2CuNcRTmLcTs4FskZUdOF__imBcShmB4UAljxEa_exmaq2ehBczbhyphenhyphenc7dzjQh2TAdB4Uf9A07vMfvmz-qky0jqZjY6wTku-FGhvyDkvPSWucqoFBcWwLc-Ne7-LznXN7z1GmxM4oyIRJ3dTVl1Ec8ETMoLj91bE/s4160/IMG_20250729_190746665.jpg)
 ![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhxQBrhtDu0Uk_y3HWqzm-BYtXK44QBkwDcxDqCVxH9HtfZBd27d_U1dbXsnTT7YO8AOpzDKcelnpNLx98bDFKUOLErHpcO7H-EYkusiDlDPCO_ws6ZmZHsFnelJoNCDirOGFCUkioPBsHQtbS0IMO8FM2Oy9HJwFvJ7Nv45C_FUMnu0rNErfV3PHoiNHs/s4160/IMG_20250729_190758060.jpg)
 ![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhmfD8JqobuG2SM7auIMGA-CS2k7OtbxDubT28v06qgiDdgp9AHpm4Ge_YSBGtN7C8cz4kpUvSgKQhWYb-SyqBTD0OGRntsmzwY68KuDDsgfzIHMWKM5iNOGJbx2eJwElwIju457n-OWQdmjRhnIrnnYfrZRI-iNyxxKuWlPxQsdkCrubCeua8VwjJdcqQ/s4160/IMG_20250729_190803303.jpg)

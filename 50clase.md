@@ -1,4 +1,4 @@
-% Clase Nº 50: Continuamos con plano. Dibujo a escala.
+% Clase Nº 50: Continuamos con plano. Dibujo a escala. Repasamos conceptos.
 % Andrés Imlauer
 % 30 Julio 2025
 

@@ -203,7 +203,7 @@ Subscribe to RSS: [/feed.xml](/feed.xml)
 [29 Julio 2025]{.date}
 
 
-[Clase Nº 50: Continuamos con plano. Dibujo a escala.](/50clase.md){.title}
+[Clase Nº 50: Continuamos con plano. Dibujo a escala. Repasamos conceptos.](/50clase.md){.title}
 [30 Julio 2025]{.date}
 
 
