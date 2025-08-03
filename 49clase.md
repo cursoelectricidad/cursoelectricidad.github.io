@@ -1,4 +1,4 @@
-% Clase Nº 49: Plano. Dibujo a escala.
+% Clase Nº 49: [FOTOCOPIA] Plano. Dibujo a escala.
 % Andrés Imlauer
 % 29 Julio 2025
 
