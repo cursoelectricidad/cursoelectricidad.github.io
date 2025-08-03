@@ -1,5 +1,5 @@
 ---
-title: Curso Electricidad 
+title: Curso Electricidad - CFP Nº 17
 x-toc-enable: true
 ...
 
