@@ -4,7 +4,7 @@ x-toc-enable: true
 ...
 
 Comenzó el 10 de Marzo del año 2025 (mi primera clase fue el 12 de marzo)    
-Profesor: Francisco Espeche. Ingeniero Electromecánico, inspector de obra.   
+Profesor: Francisco Salvador Espeche. Ingeniero Electromecánico, inspector de obra.   
 
 -------------------------------------------------------------------------------
 
@@ -199,7 +199,7 @@ Subscribe to RSS: [/feed.xml](/feed.xml)
 [29 Julio 2025]{.date}
 
 
-[Clase Nº 49: Plano. Dibujo a escala.](/49clase.md){.title}
+[Clase Nº 49: [FOTOCOPIA] Plano. Dibujo a escala.](/49clase.md){.title}
 [29 Julio 2025]{.date}
 
 
