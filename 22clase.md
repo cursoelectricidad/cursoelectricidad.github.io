@@ -44,7 +44,7 @@ https://cursosdeelectricidad.blogspot.com/2008/06/tema-14-conexin-de-2-o-ms-lmpa
 1. Tensión en paralelo: es constante.    
 Explicación: en todo su recorrido porque estoy tomando la tensión ahí, **en todo su recorrido la tensión es constante**, mido entre 2 extremos acuérdense fase y neutro va al revés fase y neutro cualquiera que mida me va a indicar la tensión esa tensión es constante en todo su recorrido.    
 2. Corriente: Variable.    
-Sebastián Melgarejo: Se divide entre los 3 artefactos.    
+Alumno: Se divide entre los 3 artefactos.    
 Profesor: Vamos a hacer más sencillo corriente... Porque yo puedo tener acá en este caso distintas potencias: corriente variable.    
 3. Cuando saco un foco qué pasa? En paralelo sigue funcionando.    
     
