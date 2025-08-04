@@ -53,6 +53,7 @@ List of pages:
 * /49clase.md: [Clase Nº 49: [FOTOCOPIA] Plano. Dibujo a escala.](/49clase.md)
 * /50clase.md: [Clase Nº 50: Continuamos con plano. Dibujo a escala. Repasamos conceptos.](/50clase.md)
 * /contact.md: [Contacto](/contact.md)
+* /: [Curso Electricidad - CFP Nº 17](/)
 * /license.md: [License](/license.md)
 * /logo-license.md: [Unlicinsed bunnies](/logo-license.md)
 * /preguntas_examen.md: [Recompilación de posibles preguntas de examen para auxiliar electricista.](/preguntas_examen.md)
