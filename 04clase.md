@@ -1345,3 +1345,4 @@ Aquí tenés un **resumen técnico de los puntos más importantes** de esta part
   * Problemas: mal uso, consumo elevado en picos, baterías descargadas.
 
   * Las **baterías almacenan energía**, pero la corriente alterna **se debe consumir al momento**.
+

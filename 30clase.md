@@ -176,4 +176,6 @@
 
 * Si se achicharra un cable → **exceso de consumo** o sección mal calculada.
 
+---
 
+FIN

@@ -11,6 +11,7 @@
        
 [https://www.energiademisiones.com.ar/planos-del-pilar/](https://www.energiademisiones.com.ar/planos-del-pilar/)    
 
+
 [FOTOCOPIA] Uniones caño caja. Cupla. Curvado caños. Sistema U. Colocación. Planos de pilar EMSA. Leemos fotocopia normas IRAM. Caños 5/8 solo en línea recta. Que hacer cuando no tenes cupla. Hay que llevarse bien con la gente de la obra sino te tapan todo con cemento. Diámetro mínimo de los caños. Ahora piden caño PVC ya no más garbanizado, todo de PVC hasta el gabinete. Como dar alimentacion a un quincho. La sujeción le da el tornillo que está acá abajo. Como calcular la cantidad de cuplas: por cada caño 2 cuplas. Calcular cantidiad caños: divido por 3 (3 metros tiene cada caño). El ayudante habla en portuguez. Pinza cortacaños solo sirve para caños ligeros. Obligatoria la puesta a tierra. En Oberá el gabinete ocupan 2 caños salida es inteligente. 50 mm son más o menos casi 2 pulgadas. Factor de simultaneidad. P=VxIxcos(fi) esto es corriente alterna esto más o menos tiende a 1. Dentro de un caño en un sistema monofásico se puede colocar hasta 3 circuitos. Pinzas de anclaje. La acometida deberá tener una flecha de 30 cm. 
 
 ---
@@ -105,3 +106,7 @@
 
 ![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi5Jw8KZqWXudc27kjzUUdNAVqpG1AhpH1ENMoXKiz4RaBb_ZPcyh8lPJNFKNXW6ulHoEUPHfGPnKoL-8i6h01XKD3CFaOrqpV2m1THdhbXx4JqFcEGXT8HsnZdn4vKAoKrRRaHT1BTX2ERuVdygnWiYyGRQS-x6qlK7BLJoQFLv7vj_tiFM2TKl_6n7-U/s4160/IMG_20250317_190757223_flipped.jpg)    
 ![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiCnB0ZTNIBrFm5aR83YvuEnewl18HPDk1SWlrCPdVpkgnoog-sH7X6WO9al0_QrctyDXwSFpSNCFZ_Z3oluQVrD3lfFrwL10D_RjLiA0V62tCbJqAqJl3iW7PDNDmvhoOGMrcQqKWcXLFVc-MfKYwWbPqHlVKWZbbf2g-aSDgm3v9A5o6lPHQyk3rQW20/s4160/IMG_20250317_190803421_flipped.jpg)    
+
+---
+
+FIN

@@ -23,3 +23,6 @@ Red exterior.
 ![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjU3b44UDyboY1fm1GypoLGfzh5lfnJeNyejHskICKr4ExT2siVNT6vkmDZqh9BMKk8fFfKOuZ1k61NQ9ZOKTKzA0_6vh-qoeNdLFuVRMdsLgaec25hNof-EIpwzTBSlL3XfZ0cLZpGu8fiwdzdS_brWSE_cNwfpDs1gpPiWL4Q9PjsfN3PvfKzMep-yIA/s4160/IMG_20250611_202545439_BURST000_COVER_TOP.jpg)   
 ![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEic6ELOWn3V0M5sd16KUtz_Mcyz5p7_0U0yBIogh83M-GBVTwaWblVabgFG4coohhrjFBbkej38bW8mRsK6_0tqPPuNlmSSSjSpbXG-k_2uG3IlRjaN83HBz54YzkHXOgjsxRdXx9qJJ8UJww8uJPfG4n8cmzkl7Eq2rWrpe6_-wHb-WZt3kuuyMxGYSlU/s4160/IMG_20250611_202545439_BURST001.jpg)   
    
+---
+
+Fin

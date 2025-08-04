@@ -53,3 +53,6 @@
   * Entender el recorrido de la alimentación desde el **tablero principal**, pasando por la **caja de paso**, y luego hacia las distintas salidas.
   * **Aplicar conocimientos previos**: conexión de caños, uso de conectores, armado de circuitos simples.
 
+---
+
+FIN

@@ -91,3 +91,6 @@ electrónicos como las lavadoras.
   * LED (10–15 W) → ahorro de hasta 90 W por punto de luz.
 * **Cálculo de potencia**: P (W) = V (V) × I (A); 1 kW·h = consumo de 1 kW durante 1 h.
 
+---
+
+FIN

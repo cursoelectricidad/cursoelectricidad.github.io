@@ -111,9 +111,9 @@
 * Cortocircuitos por pelos de cables mal cortados.
 
 ##### Importante.
-Como comprobar que tu llave de 1 punto no sirve.   
+¿Cómo comprobar que tu llave de 1 punto no sirve?     
 DAME EL PORTALAMPARA ACA. Fijate que yo estoy probando continuidad.   
-¿POR QUÉ ERA ESTO?    
+¿Para qué era esto?
 Alumno: Porque falla el interruptor    
 Profesor: No.    
 Alumno2: Porque está en serie   
@@ -130,3 +130,7 @@ Muy bien, está en serie, la tensión es la misma pero como está en serie baja 
 ![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiS3jbdIswf9PTtOCBETFHfy4d1_87sIPV28Qv-NFHiQHFsC0g2g4VPAMtWQiyfevZoi075oGfjM6LBZ49TmA5JRkYG2NwesLGv3Wr0PiGlLK_i8B5iO1b5i9DvQfuK54Y8lkN1THPLUbz5lrge-KsR67DoXrMvo-ZdJwNmmsU-KaTWRDr2Hhk52mZse0k/s4160/IMG-20250512-WA0004.jpg)
 ![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgyjtvRLb5ekKLLbka1zaJWL02200BFV6I3Z7fl5KWNHB-kx5r__iyPRn7jxU6NEMa9fegWfB6INaKxBPq_uYvZgsYpllVDY-i4b7Aan1vIlEX6pmflBP33dYTwWaqxAKEoEfHWlzWAbVs5xs1ML9XjhmC-PhI8xFK57mjceJGOTtIQPr-wti0x784USt8/s4160/IMG-20250512-WA0003.jpg)
 ![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi4-vXa14L7n4LQKolCWSdvnHqeMDZhfdqwlPsUKDm2-zjuQ9KV_o51Hpj_G_zGDN4FB3wNrrkSJsVhMOzZB7_SAc4q7OsW4XGx_fLyPdcnnfbsb9MlANpalV-CQlrw8mK_nvE2yraqIDoliMkWGqrMURltTCq9sSeqDH-WimXKu5sW3MFDQFtn3z0p-eg/s4160/IMG-20250512-WA0002.jpg)
+
+---
+       
+FIN.    

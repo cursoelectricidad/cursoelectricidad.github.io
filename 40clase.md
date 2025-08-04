@@ -9,11 +9,11 @@
 **Audio en YouTube**   
 [https://www.youtube.com/embed/a1zj3CIZGeE](https://www.youtube.com/embed/a1zj3CIZGeE)   
    
-![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiuWRc1lbbdIAdWYw1p7C21kzP65ujbt8Q2aTr82t0raGl1whHUu6OYXmXMFnUi6gnQht-wzezpGg4ekgnW8yvEYkCmA28JLVDROZTP6eI1IsqfDJfHNRkUcOS_wy3XmeNiyJFBVHsZEQu6R5CNpHgw84MdTFTrLqCSE2RwHCsA4vGxQV7RJ-lnLZzgBL4/s4160/IMG_20250618_182655540.jpg)   
-![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjurAMLV4NjDARY588PuPotthG3yDYiKn-tZGn-VURI6VFhjHmLkHuR_6uFOBJMRxVyRDJsrFeSrJd2RhLDO9KNwQ0xWrlGy3f4fV0atlhTwWj5OkeSqSmT-_sFuumuvuQyCFvSR2VLk-Up4UOlOpysh0DNyuurzw5pz1lclOLZgymbuguv6-p3uauWeNc/s4160/IMG_20250618_182701194_BURST000_COVER_TOP.jpg)   
-![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgPEcIDq4NxAD6MEb4QVpmkSm7Lx6yKXvkCqPbqUM546nfmOKQmvQ-zVSWTjW4sajRETt5vKsjD6LVWZVqp2PERoLWBSX49l804OARfuOS-im9FG-I4NwCYOE4C-FUh-HOpdur9kWQXktslT1rOO4amEPwyUXlSzX6O28MqaSR0u9Vvi7u0ZPISsa1R0aY/s4160/IMG_20250618_182701194_BURST001.jpg)   
 ![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgT-R206X5j97HRaiFLVogM7Cfe9_Az6oYlPzPv9ak_gJjqYuxBjTXl4Ngf1U4Pa-6IeZHKtUavV44YqvAgfqgjNPAb7cgl5oC1hDT1t2EP1fps-Kz_D0VMdeVTzqv3ffaT1_mFiQ_dlQb4iUh4qeWp_272_imfH-IOPaN7FIIroo9NBKLuymWpB0HTHlI/s4160/IMG_20250618_191359415.jpg)   
 ![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgfYxIWDkggde_iMuu-Kg69GS00Bm1AlOrJDUt2xX3tvLmW31nEnq_JID7DKBoZj5Ye32j4PYohndPrS-SHIt5443Wg2vWnPit73wk1GnxrSIGFLujcH-N4mDzc-RImn3KRwbd3cwfPPar7qs7X9-2MKccPROSZ_EZfnbDUBM2TY3jc1LFp4mgOpqiQNLA/s4160/IMG_20250618_191408248.jpg)   
+
+#### Acá el dibujo del esquema general lo hice mal. Puse mal la línea de alimentación, línea principal (Mirá la 3era la clase es decir la 1era en donde está bien hecho este esquema).
+
 ![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg6yY2NV8oOv-xQUq-zRkvKYGNtLmygXM2uG6T8f7_x4Ir70WDscy1E0GaNtF5LOUEnpCOhRMiYoUDlF2l6NI9BZVglX8dYY29X8HgAljyshv7Mzboutd4Au_F45Uer4BM832KPF2EGo2Bo1lNemSju6526zktYaKRP41wDWaWPGVyqEP8dm7RGvsJx4TY/s4160/IMG_20250618_191415451.jpg)   
 ![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjQeF0VZhCy0s3S8IMh_RGqLljnjrQQfMyjai0Oh23KyM545KUL3rLH8Ycxf8wBLmbakB3oendr1YJcBKXx1XW5EH82GNZ_63H2pa7wTrJnZyLgkX_dENuODsbkzY7PqnpC9jtfY5A-PYRBDoVd8li-uAJS3enAMjMLbjz1QYSm-aKFP3ByDlxQlKF5oiA/s4160/IMG_20250617_202745511.jpg)   
 ![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhr8aETXP-infAv2I3G4ae8bWxbdby-tcj31izTGe13uZYV_KjMKh2lze7VpwYWv7LLWJdViR9gBCWJsPwRFocPaJYEt7K7n9H-qNlEU0FJcxuZw__veYLO179Q1kxZRA6cAK4onkPxKq0a4WJJCXPDlrImbOAuda-vYDnndlSeUv_F9LqKKQpTuzybzxY/s4160/IMG_20250618_191429002.jpg)   
@@ -39,4 +39,11 @@ Para el conductor de fase de las instalaciones monofásicas se podrá utilizar i
 ![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg0ZylVDmil1HdNvoP-atI0Nx8eBJOOCm0QDEG4kdErd_jo5P9RXcLmZaDlmJ60liq231ybKiK9eXGLKfi3kXKagwuFvP5DHvLMu2fwQc_DSuE0BZIuQHOIuapacNRmNR8PXgAKFi1K3z7Jv6lJv6qhUBAQh2Qk336q7QQrdE23kidLoNtrgUJd3N65RlA/s4160/IMG_20250619_025337584.jpg)   
 ![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEic3DOHYJR0JJ25JolLnOQjGN3u8L0Y6RsupqbPl9draqFS03ubS9S_MaNZQ1NeN-drTNpeRhX_0_2nTL3PtpAFA5SAr_-5FMg3ZheF4v7Jr_D7W3YF6cc8S9ZO_twO1Oyo75aq2V9etASrbgWFeJgs-qIA8j9Ab8tJGQycwm2HHb5JVj-ALau5gMHhdg4/s4160/IMG_20250619_025403934.jpg)   
 ![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgTlJwaXFE_ZtvsHxWbs8ltHSTZlTgddlUBCcrWERFwSuLMqCVFwyXQXhB4pBiH3sQGSM79wuQPJA1_67Mnigs05H6Gu7y2zOzSv_s1F0oeAHFwFpZgnoKogGy2hoyQd5ob1FVUSN-OZOl59WSW7Wi-I-PQoX5GIEqnAhiBJP9Q6soQqLj00UmqxcImNYU/s4160/IMG_20250619_025421689.jpg)   
+
+![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiuWRc1lbbdIAdWYw1p7C21kzP65ujbt8Q2aTr82t0raGl1whHUu6OYXmXMFnUi6gnQht-wzezpGg4ekgnW8yvEYkCmA28JLVDROZTP6eI1IsqfDJfHNRkUcOS_wy3XmeNiyJFBVHsZEQu6R5CNpHgw84MdTFTrLqCSE2RwHCsA4vGxQV7RJ-lnLZzgBL4/s4160/IMG_20250618_182655540.jpg)   
+![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjurAMLV4NjDARY588PuPotthG3yDYiKn-tZGn-VURI6VFhjHmLkHuR_6uFOBJMRxVyRDJsrFeSrJd2RhLDO9KNwQ0xWrlGy3f4fV0atlhTwWj5OkeSqSmT-_sFuumuvuQyCFvSR2VLk-Up4UOlOpysh0DNyuurzw5pz1lclOLZgymbuguv6-p3uauWeNc/s4160/IMG_20250618_182701194_BURST000_COVER_TOP.jpg)   
+![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgPEcIDq4NxAD6MEb4QVpmkSm7Lx6yKXvkCqPbqUM546nfmOKQmvQ-zVSWTjW4sajRETt5vKsjD6LVWZVqp2PERoLWBSX49l804OARfuOS-im9FG-I4NwCYOE4C-FUh-HOpdur9kWQXktslT1rOO4amEPwyUXlSzX6O28MqaSR0u9Vvi7u0ZPISsa1R0aY/s4160/IMG_20250618_182701194_BURST001.jpg)   
    
+---
+
+Fin

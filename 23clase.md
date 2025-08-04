@@ -45,6 +45,36 @@ regulador del ventilador) y eso se desformaba y se notaba después cuando vos ve
 * NEUTRO donde termina el neutro en el portalámparas, si o si en el portalámparas, la fase va directamente esto no se deben olvidar siempre va a la llave al interruptor en este caso llave de 1 punto y bueno el de la otra parte directamente para hacer en la realidad el retorno va a la lámpara
 * **El 2do: Vamos a hacer con 1 interruptor todavía.**
 
+
+---
+
+### Ejercicio 1) 1 lámpara vamos a tener y un interruptor, en este caso sería llave de 1 punto.
+![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjRqnfxpsgyeEQNi2oFZ8-3H2_9-lOy-oZi1FSqaVcVEi9yLZHKYuAdcXts-B6IW6NXiiiHej5GPX72n8yqeBOTvacVKkr5ttnNZCTN5KM-3uzwoMwrUlLCZ_ks6nd6uuCvGxW1b8k9AFWCcd8yqjjUy-2Yko4nVjcKk7TQjttiYO5bg1ctPEXMMhj0gs4/s4620/IMG_20250511_181821091.jpg)
+
+### Ejercicio 2) 2 lámparas y 1 interruptor el interruptor sigue siendo el mismo.
+![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEijTte7dBiI6_Z6PEjZ6tK35Vex8o1_OpirgLDwvE3eWR_-gd4dnDD0UNnhpTRm0yALcESySaT0uROOpzmv6k5W_ciNiiy72ZFCaLYoRol3PPEFk35KWsiG2Qvl5gXw-XOPqKD5V7Z2yQFhvm_d22ZJDP_F7F-zDYI_B67zfuYKk5tLkS45V_YwEm3QB8g/s4160/IMG_20250511_181833612.jpg)
+
+### Ejercicio 3) 2 lámparas y 2 interruptores en la misma caja (el profesor no entiende su propia letra leyó 2 lámparas y 2 interruptores el mismo caso)
+![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiAF7zHr0iss704dcyCWPCubYKJniuzXTb18HnsJL8jb5h7EPRBpv_GcLyN0GdZOkAq3r2noJYvt0INgicZKXUAF-cBDz_LRkN18pbTKD4z_XAkyB8fQ3VkEcE-0jFH2r8LAPacBR6CmB3dgrSxUblbbE77ZURWQEcTMSkFacIGeq3IWlyNW7OiKShTKLs/s4160/IMG_20250511_181847728.jpg)
+
+### Ejercicio 4) 2 lámparas y 2 interruptores en distintas cajas.
+El de la izquierda inferior es el esquema elétrico.
+![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiMkRdtDHhNr_VT4DL0Y3ZjdzuyimbZir7xioEgtogVOKabl1pikiliITqeOBbe2FxvAq_gakM74JkinxLELOSdKBBOigJ6c8SdmPs1D1bHU-1HzbkheWhbApTCEu8ayZzSySD9aOTbhDcAPiNgds5L7-vhaliK87k-nmql5HcvO9-ly795GYGvqbr53gQ/s4160/IMG_20250507_201900387.jpg)
+
+**Esquema de montaje**
+
+![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg5czvg-jdLJyS_nk3D8FpD_O2T_docwWG_JMOU0ppLLq1hRZgVBA79suvteIfYyjZJqokYdmP5ZvxIMx3huR-pQmVG6_3z2zjXvv2SPCSrXtjh59bQAH3_sODJKC6SWBumkpIkvzNRV0l2b_Um_6bJBWuu-vyxcwG14zM7BKwiNXgowyJLeKdeGXNtqps/s4160/IMG_20250511_181915788.jpg)
+
+### Ejercicio 5) 1 lámpara con llave combinación
+![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgcbt_KtQ9AhNy2mQwFBQoWRF8_ysx-bkA06W6dH0lpMufPb1AzRm5wwT0nap9IfbvrzBcR0pwtVdaMPFk3lXAJj1hXlNFMt20saZ1PelmdaIfC_EKXxzDiMbpLqP8_wACyuZx2TlIIP3J5PgEEDMan-CZMecI1l0hgNI3dOCb9F62GxsSb6ix9A7Gox_Q/s4160/IMG_20250511_181931404.jpg)
+
+### Ejercicio 6) 2 lámparas con llave combinación
+![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgSrTjf-8wBSVTVGDK_A3RTY5MIieU197-vIR9HX1ws21IBEOAezoquTtiaLVHZkUouq-H6BxFjqar09hxzciCmtEhhD0QaT0mmvqP-6pAK4zERgMV7UYmnNHZeVN8VhTr-D-mj_MmZe6ff_Co5fHFH8im8rcI33zju6om8RO9RZD01ZXd-NfWngITDQuU/s4160/IMG_20250511_181942963.jpg)
+
+
+---
+
+
 ![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhXihLo4TobCR5vUbqEEDnpQtvDfrVOfcdaAUmCZDj2bzuR1An3w5nGMRUD8uVtTr0hWFrf4JucZ-HpSlad-741IFfmxwA6LEE5aaBQqsY99Akhd0AWAyKEVf34mYDrkhn5qbItNZr2i9kkpS-ICnzPe2BNx6G4W1D698Ax9u-k0vNOF5Qd7h9TI7NX1so/s4160/IMG_20250507_191210299.jpg)
 ![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEifWu_YUb-VILvRaRpIQ01DH4vZkVNWrX9zXcNSgdyDWY9l8FAk1BHwlj0sHlIiZ5Qy4gi6bygGuThwNXmUzTNu6gptYP56tPlgsCSx9wk37QtIuOZXdduVKNcy03QJ-sKMX6pEgXMysP5VlnaKduFpSMvXv5ayI4w4JnsuoUUJUrpH5-nSfkKvdcUF3qY/s4160/IMG_20250507_191211516.jpg)
 ![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhkG0UjBqhoCoHHA7csAMc6qJdWYrplyFrXiJbnmoGeD7-oYgdEsGQB_xiEc9KuLzNzEGiUUB5g8UUshyphenhyphenwIAsyn5t7WiEyvbvRKIjzc2OOlXT_JwwUgDGr9dtLjv12t__6ulXNznKTDmauLYsu7mod38lUhWE9D3n719cZmHqpVaIf8eC7sWZduinpD3CY/s4160/IMG_20250507_192258332.jpg)
@@ -91,26 +121,4 @@ regulador del ventilador) y eso se desformaba y se notaba después cuando vos ve
 
 ---
 
-### Ejercicio 1) 1 lámpara vamos a tener y un interruptor, en este caso sería llave de 1 punto.
-![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjRqnfxpsgyeEQNi2oFZ8-3H2_9-lOy-oZi1FSqaVcVEi9yLZHKYuAdcXts-B6IW6NXiiiHej5GPX72n8yqeBOTvacVKkr5ttnNZCTN5KM-3uzwoMwrUlLCZ_ks6nd6uuCvGxW1b8k9AFWCcd8yqjjUy-2Yko4nVjcKk7TQjttiYO5bg1ctPEXMMhj0gs4/s4620/IMG_20250511_181821091.jpg)
-
-### Ejercicio 2) 2 lámparas y 1 interruptor el interruptor sigue siendo el mismo.
-![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEijTte7dBiI6_Z6PEjZ6tK35Vex8o1_OpirgLDwvE3eWR_-gd4dnDD0UNnhpTRm0yALcESySaT0uROOpzmv6k5W_ciNiiy72ZFCaLYoRol3PPEFk35KWsiG2Qvl5gXw-XOPqKD5V7Z2yQFhvm_d22ZJDP_F7F-zDYI_B67zfuYKk5tLkS45V_YwEm3QB8g/s4160/IMG_20250511_181833612.jpg)
-
-### Ejercicio 3) 2 lámparas y 2 interruptores en la misma caja (el profesor no entiende su propia letra leyó 2 lámparas y 2 interruptores el mismo caso)
-![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiAF7zHr0iss704dcyCWPCubYKJniuzXTb18HnsJL8jb5h7EPRBpv_GcLyN0GdZOkAq3r2noJYvt0INgicZKXUAF-cBDz_LRkN18pbTKD4z_XAkyB8fQ3VkEcE-0jFH2r8LAPacBR6CmB3dgrSxUblbbE77ZURWQEcTMSkFacIGeq3IWlyNW7OiKShTKLs/s4160/IMG_20250511_181847728.jpg)
-
-### Ejercicio 4) 2 lámparas y 2 interruptores en distintas cajas.
-El de la izquierda inferior es el esquema elétrico.
-![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiMkRdtDHhNr_VT4DL0Y3ZjdzuyimbZir7xioEgtogVOKabl1pikiliITqeOBbe2FxvAq_gakM74JkinxLELOSdKBBOigJ6c8SdmPs1D1bHU-1HzbkheWhbApTCEu8ayZzSySD9aOTbhDcAPiNgds5L7-vhaliK87k-nmql5HcvO9-ly795GYGvqbr53gQ/s4160/IMG_20250507_201900387.jpg)
-
-**Esquema de montaje**
-
-![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg5czvg-jdLJyS_nk3D8FpD_O2T_docwWG_JMOU0ppLLq1hRZgVBA79suvteIfYyjZJqokYdmP5ZvxIMx3huR-pQmVG6_3z2zjXvv2SPCSrXtjh59bQAH3_sODJKC6SWBumkpIkvzNRV0l2b_Um_6bJBWuu-vyxcwG14zM7BKwiNXgowyJLeKdeGXNtqps/s4160/IMG_20250511_181915788.jpg)
-
-### Ejercicio 5) 1 lámpara con llave combinación
-![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgcbt_KtQ9AhNy2mQwFBQoWRF8_ysx-bkA06W6dH0lpMufPb1AzRm5wwT0nap9IfbvrzBcR0pwtVdaMPFk3lXAJj1hXlNFMt20saZ1PelmdaIfC_EKXxzDiMbpLqP8_wACyuZx2TlIIP3J5PgEEDMan-CZMecI1l0hgNI3dOCb9F62GxsSb6ix9A7Gox_Q/s4160/IMG_20250511_181931404.jpg)
-
-### Ejercicio 6) 2 lámparas con llave combinación
-![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgSrTjf-8wBSVTVGDK_A3RTY5MIieU197-vIR9HX1ws21IBEOAezoquTtiaLVHZkUouq-H6BxFjqar09hxzciCmtEhhD0QaT0mmvqP-6pAK4zERgMV7UYmnNHZeVN8VhTr-D-mj_MmZe6ff_Co5fHFH8im8rcI33zju6om8RO9RZD01ZXd-NfWngITDQuU/s4160/IMG_20250511_181942963.jpg)
-
+FIN

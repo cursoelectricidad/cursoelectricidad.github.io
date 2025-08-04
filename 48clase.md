@@ -123,3 +123,7 @@ Siempre los caños con conectores por más que sea corrugado.
 Profesor armará una carpeta. En 1 mes hay que igualar los conocimientos de los nuevos.   
    
 ![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi0fWnXQ5N6WFLHPbBpqOKokIulC4lLBzYJbNueakllTTi1KR-IAoaa4US-l2sLZENtuXkqVmLjipu2FR0HURepnK8on6eLMqn-fi9BX1QzKXn-2gjuXwLhV0uoOMo-dMQXkHeaYUo19CAe_IhcmleJt-Z82pYqsY7aR7ePp3OBQVzMgEOtaCKdO4YoOR4/s4160/IMG_20250728_202443243.jpg)
+
+---
+   
+Fin

@@ -80,3 +80,6 @@ por abajo del otro. Siempre el mejor electricista tiene que seguir una determina
     * Interpretar planos y simbología antes de canalizar: la canalización correcta es previa al tendido de conductores y armado de circuitos.
     * Contabilizar curvas mínimas y materiales en el proyecto para evitar retrabajos.
 
+---
+        
+FIN    

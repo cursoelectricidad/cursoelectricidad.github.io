@@ -9,6 +9,8 @@
 **Audio en YouTube**  
 [https://www.youtube.com/watch?v=kyLx5aEKcHM](https://www.youtube.com/watch?v=kyLx5aEKcHM)  
   
+##### En la siguiente clase (número 40) corregí algunas respuestas y agregué más información del examen.
+
 ![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgVtdu-bR5rXL_o8M_czmZg261L9xKfHxdj9ZidecChbb8cnkogJyTAFjL4oCdGcZpz4bf992ccZgCxzSTpa8W6vfoNoIReg-XV8RL9mSS3Y5Z4CQr48bJjebw-IbC9lIR4RDdeIxZccOm6S3OtH6KQYue_oKTWhWRS4woJiHMifECcXtB4rwiEH_9qiBc/s4160/IMG_20250617_202722545.jpg)  
 ![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhJ83Wp5cXBSrSdTr3a_SoC3porQBFLwEk5glCTgsfFuE0jpWuZdlXlETJatHtpMzen1Ys3eKbdd3ueF_ZN7xeaf0eghAr1YQyKkTKRl-yZRtgemVWDrCzMY-dRQpnezMtLCI-_T0_a08q7j23sy8AsTADsKWX00e0VqIhlUg3-FPbwg4ZbngM_jr4HvpQ/s4160/IMG_20250617_202729402.jpg)  
 ![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEint2EbxrekZEfF0tCXo9cmnW3bZfdijXKAsqzt8C-ZbzgANgIw-KuF8QJJbEaB77irbHanSvZQSfN9K9fMsePJPdax0jSI6znsjyAXEyJUWlMKcOTo6v0GJR12c5RpiDIhxr0gYkzTXWnIyEveatCBHvbI4kz5lDN_kiYPed7AuLOivqaltyKtQT9aiMI/s4160/IMG_20250617_202736569.jpg)  
@@ -18,3 +20,6 @@
 ![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg5ijH0Xo7z-IVO4ho608RuxfHsQ29lVAZ4b3xtcDmyyJIF_6X3dlVELWSnOCrAC0kqpgo4x_JtsmE_XAmZj64oxqSZjksys6ouMMUVFqGDephikOcDh3yQHd35mEd5W4RcB_ejnDDPb3IKj42Q4tjaOAC5J_pkvW1-_AuqExUjOA7YkiT7oBo-fB340pk/s4160/IMG_20250617_202811500.jpg)  
 ![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhkZWl4jJpXHg2_byHlfMesatUNJuBqnr0yfM-vjnYII_CCr4s6O7pwD68MyX38XrgBzXiSlYfHwtnFjLz_1Qor1Uz_wUteybCswCq-xdVxsL4lRoCwR92Q_GEEq9UTASDHtSjLO7_ZaNzKCn182_fr9G12fJ8hq2OipuOesmYUzofsjCdYLI0c2dhi9hc/s4160/IMG_20250617_202818027.jpg)  
   
+---
+
+Fin

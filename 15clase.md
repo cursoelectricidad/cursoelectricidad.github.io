@@ -86,3 +86,6 @@ Canalización. Leímos catalogo Genrod (Tubeelectric). Exámen entra esquema de 
 * **Piso sin desniveles** y sin obstáculos frente al tablero.
 * **Símbolo de “riesgo eléctrico”** IRAM, mínimo 40 mm sobre fondo amarillo.
 
+---
+
+Fin    

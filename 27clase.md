@@ -37,3 +37,6 @@ El cable de tierra es de 2,5 mm^2 el del neutro y la fase también y el de retor
 
 ![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh9c5ZVsfrrKF9PvoWPhPi-xVB2IOctsbXMRDrzA82FpiDPYm2Fcsjc4dm3sU5CKd7EPTau_FmOsqsD61d0njpwltBA8VWT_AeDKdCuDTVHINclRpxGrlXGTWFQmfUtj6mmJOeTULpNajPofYacLf_Mix6nPdKHZ5mIPKkmJ8kEoEmXkDepNxhG06MeWqU/s4160/IMG_20250519_231731532.jpg)   
 
+---
+
+FIN

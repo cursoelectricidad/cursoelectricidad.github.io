@@ -74,3 +74,7 @@ Alarmas. Guardar cable pasante con manguera o caño corrugado. Página 47 GUIA A
 * Registrar en plano cada zanja, cámara de paso y empalme para facilitar futuras intervenciones.
 * Usar vestimenta y calzado de seguridad en todas las prácticas.
 
+---
+
+FIN.  
+  

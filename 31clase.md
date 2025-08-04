@@ -69,3 +69,6 @@ Hay una parte que se me cortó el audio
 ![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjMa02B3ONUOihC-MNW0OxLJwQEfgCdkQzrH3ak4WMk3mIUXMNGxsPypr6S2Dh4wKrwmgP_aOKkapsB5EulTu8u25JLGP9Wa1nPgjp36TSRpOXU0HGp3Www0MPGhZj9YDs5QIXVfR7idfqub5Lfmaq9kDPdh-A5VqHIHVhN2jW8zT6-sIglA8xeg8Dm49o/s4160/IMG_20250527_200829427.jpg)
 ![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiYHgjFixS-YElyYvHosVaGtdPTwFxIXTGyt2j4Qkx_FPS1OTs8GxcU8UisI0-qByoT8fDUkPgbxtaCmK0rgJzw3wt6JVB1FVlQajhNkV_L5v-4K_7JSgnqOiO_id4lyjKGqll3ZVa_pDpqzpqxeVKzZbVvkzrReC_dNV_ZD4A8PPpBSO5glMITz0ZGTY4/s4160/IMG_20250527_201400244.jpg)
 
+---
+
+FIN

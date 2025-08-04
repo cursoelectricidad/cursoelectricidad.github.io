@@ -200,3 +200,7 @@
 Esto es lo que no se debe hacer en una instalación eléctrica de una casa. **(CIRCUITO EN SERIE)**.
 ![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj7Zce9ZsIhn35EhT2mxAuaL5RHgA9g4hWjWbsjRGnmUWwdwYFxaWU5Yrno9ym4bCE7e92y261FAlLkLNnqEjwAtYuaUJ81mS4tFQY0yIwUKmZnXWcoqFsQnwFqIUMbKs0fQ9wb4xk37DH8vf9Qe4NK7ObsC1uUB5DcogZn8MDrNOHdX79dDKVZvn7TFEE/s311/unnamed.png)
 Al profesor le conectaron un ventilador con una luz 
+
+---
+
+FIN
