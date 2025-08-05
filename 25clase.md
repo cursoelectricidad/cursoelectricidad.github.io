@@ -24,7 +24,6 @@ Aclaración: Todos los ejercicios los venía haciendo con llave combinación per
     
 La fase siempre es recomendable que esté en el medio (Hora 01:28)    
 El circuito que hice no funcionó porque luego de probar el primer ejercicio desarmé el portalámparas cuando saqué el foco y ya no hacía contacto. El profesor en un comienzo pensó que era la llave de punto y me la hizo cambiar pero en realidad era el portalámparas que estaba flojo.    
-Espeche se operó de las cataratas, al principio estaba contento a 1 metro veía bien todas las letras, ahora necesita anteojos.    
 Estaba al reves pero lo importante es que de un lado vos podes manejar 2 bocas diferentes, prendes y apagas. NO te sulfures.    
 Cuando vos tenes un disyuntor vos podes usar el boton de prueba para cortar toda la energía y después ya después bajar los demás.    
 
