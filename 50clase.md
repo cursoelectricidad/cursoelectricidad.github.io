@@ -80,8 +80,6 @@
 
   * Preparar fotocopias de materiales y símbolos eléctricos antes de la próxima clase.
 
-Aquí los puntos más importantes de esta segunda parte, con “Alumno” en lugar de nombres:
-
 * **Ejercicio práctico de escala y dibujo en planta**
 
   * Se propone un rectángulo de 6 × 4 m (o 3 × 3 m, 3 × 4 m) para practicar el trazado en escala.
@@ -148,8 +146,6 @@ Aquí los puntos más importantes de esta segunda parte, con “Alumno” en lug
 
 Con esto, los “Alumnos” tendrán claros tanto el razonamiento para el dibujo en planta como la aplicación de la normativa y las responsabilidades en obra.
 
-Estos son los puntos clave de esta última parte, con “Alumno” en lugar de nombres:
-
 1. **Valor y rol del auxiliar electricista**
 
    * No es “ayudante” pasivo: conoce la normativa, entiende por qué se eligen cañerías, conductores y cajas, y puede llegar a ser montador.
@@ -215,8 +211,6 @@ Estos son los puntos clave de esta última parte, con “Alumno” en lugar de n
    * Distribuir fotocopias y aclarar dudas sobre las prácticas.
 
    * Avanzar con el dibujo en planta, simbología eléctrica y normativa asociada.
-
-Con estos puntos, “Alumnos” tienen claro el valor de su rol, la importancia de la protección, y la metodología para Aquí tienes los puntos más importantes de este fragmento, con “Alumno” en lugar de nombres:
 
 * **Bosquejo arquitectónico y planta eléctrica**
 

@@ -1,4 +1,4 @@
-% Clase Nº 51: Repasamos conceptos. Continuamos con dibujo en escala para calculo de materiales.
+% Clase Nº 51: Repasamos simbología. Continuamos con dibujo en escala para calculo de materiales.
 % Andrés Imlauer
 % 4 Agosto 2025
 

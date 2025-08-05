@@ -207,7 +207,7 @@ Subscribe to RSS: [/feed.xml](/feed.xml)
 [30 Julio 2025]{.date}
 
 
-[Clase Nº 51: Repasamos conceptos. Continuamos con dibujo en escala para calculo de materiales.](/51clase.md){.title}
+[Clase Nº 51: Repasamos simbología. Continuamos con dibujo en escala para calculo de materiales.](/51clase.md){.title}
 [4 Agosto 2025]{.date}
 
 
