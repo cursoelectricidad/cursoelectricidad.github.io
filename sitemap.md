@@ -54,6 +54,7 @@ List of pages:
 * /50clase.md: [Clase Nº 50: Continuamos con plano. Dibujo a escala. Repasamos conceptos.](/50clase.md)
 * /51clase.md: [Clase Nº 51: Electricidad / Clase 50: Repasamos conceptos. Continuamos con dibujo en escala para calculo de materiales.](/51clase.md)
 * /contact.md: [Contacto](/contact.md)
+* /: [Curso Electricidad - CFP Nº 17](/)
 * /license.md: [License](/license.md)
 * /logo-license.md: [Unlicinsed bunnies](/logo-license.md)
 * /preguntas_examen.md: [Recompilación de posibles preguntas de examen para auxiliar electricista.](/preguntas_examen.md)
