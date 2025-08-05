@@ -1,4 +1,4 @@
-% Clase Nº 51: Electricidad / Clase 50: Repasamos conceptos. Continuamos con dibujo en escala para calculo de materiales.
+% Clase Nº 51: Repasamos conceptos. Continuamos con dibujo en escala para calculo de materiales.
 % Andrés Imlauer
 % 4 Agosto 2025
 
