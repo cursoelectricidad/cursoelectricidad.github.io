@@ -1,4 +1,4 @@
-% FIN CURSO AUXILIAR ELECTRICISTA. Clase Nº 47: Chori Final. Charla fin de curso auxiliar electricista.
+% Clase Nº 47: Chori Final. FIN CURSO AUXILIAR ELECTRICISTA. 
 % Andrés Imlauer
 % 08 Julio 2025
 

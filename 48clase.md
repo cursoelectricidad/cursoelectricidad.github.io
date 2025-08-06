@@ -1,4 +1,4 @@
-% COMIENZO MONTADOR ELECTRICISTA. Clase Nº 48: Bienvenida a nuevos alumnos. Repaso conceptos de las primeras clases.
+% Clase Nº 48: Bienvenida a nuevos alumnos. Repaso conceptos de las primeras clases. COMIENZO MONTADOR ELECTRICISTA. 
 % Andrés Imlauer
 % 29 Julio 2025
 
