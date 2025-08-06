@@ -2,12 +2,16 @@
 % Andrés Imlauer
 % 02 Mayo 2025
 
-**Audio en Vocaroo**        
-[https://vocaroo.com/18rfPSWtQmJT](https://vocaroo.com/18rfPSWtQmJT)   
-**Audio en Archive**        
-[https://archive.org/details/record-104](https://archive.org/details/record-104)   
-**Audio en YouTube**        
-[https://www.youtube.com/embed/HXGFTzbrKP8](https://www.youtube.com/embed/HXGFTzbrKP8)   
+#### Audio en Vocaroo:   
+
+[https://vocaroo.com/1apF9nGDzSRW](https://vocaroo.com/1apF9nGDzSRW)
+
+#### Audio en Archive:  
+
+[https://archive.org/details/cut_20250806](https://archive.org/details/cut_20250806)
+
+#### Audio en YouTube:   
+[https://www.youtube.com/embed/MkQ232ifxZg](https://www.youtube.com/embed/MkQ232ifxZg)
         
 **Video mandado por WhatsApp**        
 [https://www.youtube.com/embed/BEFGzbV5SE8](https://www.youtube.com/embed/BEFGzbV5SE8)   
