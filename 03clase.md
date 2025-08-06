@@ -32,7 +32,7 @@
 
 * **Interruptor diferencial**: obligatorio, de **30 mA**, con tiempo de corte \< **200 ms**.
 
-* **Disyuntor termomagnético (curva B)**: protección rápida exigida por EMSA.
+* **Interruptor termomagnético (curva B)**: protección rápida exigida por EMSA.
 
 * **Un disyuntor por circuito** (iluminación, tomacorrientes, artefactos especiales).
 
