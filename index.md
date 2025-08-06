@@ -211,7 +211,7 @@ Subscribe to RSS: [/feed.xml](/feed.xml)
 [4 Agosto 2025]{.date}
 
 
-[Clase Nº 52: Repasamos simbología y un repaso general para nuevos estudiantes. Foto de dibujo a escala.](/52clase.md){.title}
+[Clase Nº 52: [FOTOCOPIA] Repasamos simbología y un repaso general para nuevos estudiantes. Foto de dibujo a escala. Fotocopia anterior estaba mal un concepto: numerador y denominador (escala en plano).](/52clase.md){.title}
 [5 Agosto 2025]{.date}
 
 

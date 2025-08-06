@@ -1,4 +1,4 @@
-% Clase Nº 52: Repasamos simbología y un repaso general para nuevos estudiantes. Foto de dibujo a escala.
+% Clase Nº 52: [FOTOCOPIA] Repasamos simbología y un repaso general para nuevos estudiantes. Foto de dibujo a escala. Fotocopia anterior estaba mal un concepto: numerador y denominador (escala en plano).
 % Andrés Imlauer
 % 5 Agosto 2025
 

@@ -53,7 +53,7 @@ List of pages:
 * /49clase.md: [Clase Nº 49: [FOTOCOPIA] Plano. Dibujo a escala.](/49clase.md)
 * /50clase.md: [Clase Nº 50: Continuamos con plano. Dibujo a escala. Repasamos conceptos.](/50clase.md)
 * /51clase.md: [Clase Nº 51: Repasamos simbología. Continuamos con dibujo en escala para calculo de materiales.](/51clase.md)
-* /52clase.md: [Clase Nº 52: Repasamos simbología y un repaso general para nuevos estudiantes. Foto de dibujo a escala.](/52clase.md)
+* /52clase.md: [Clase Nº 52: [FOTOCOPIA] Repasamos simbología y un repaso general para nuevos estudiantes. Foto de dibujo a escala. Fotocopia anterior estaba mal un concepto: numerador y denominador (escala en plano).](/52clase.md)
 * /contact.md: [Contacto](/contact.md)
 * /license.md: [License](/license.md)
 * /logo-license.md: [Unlicinsed bunnies](/logo-license.md)
