@@ -191,11 +191,11 @@ Subscribe to RSS: [/feed.xml](/feed.xml)
 [05 Julio 2025]{.date}
 
 
-[Clase Nº 47: Chori Final. Charla fin de curso auxiliar electricista.](/47clase.md){.title}
+[FIN CURSO AUXILIAR ELECTRICISTA. Clase Nº 47: Chori Final. Charla fin de curso auxiliar electricista.](/47clase.md){.title}
 [08 Julio 2025]{.date}
 
 
-[Clase Nº 48: Comienzo del curso montador electricista. Bienvenida a nuevos alumnos. Repaso conceptos de las primeras clases.](/48clase.md){.title}
+[COMIENZO MONTADOR ELECTRICISTA. Clase Nº 48: Bienvenida a nuevos alumnos. Repaso conceptos de las primeras clases.](/48clase.md){.title}
 [29 Julio 2025]{.date}
 
 
@@ -209,5 +209,9 @@ Subscribe to RSS: [/feed.xml](/feed.xml)
 
 [Clase Nº 51: Repasamos simbología. Continuamos con dibujo en escala para calculo de materiales.](/51clase.md){.title}
 [4 Agosto 2025]{.date}
+
+
+[Clase Nº 52: Repasamos simbología y un repaso general para nuevos estudiantes. Foto de dibujo a escala.](/52clase.md){.title}
+[5 Agosto 2025]{.date}
 
 
