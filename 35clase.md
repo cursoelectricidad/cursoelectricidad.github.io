@@ -379,6 +379,322 @@
 
 * Las instalaciones se diseñan para una **temperatura ambiente de 40 ºC**, para garantizar que los dispositivos funcionen correctamente.
 
+
+## **⚡ CONTACTO DIRECTO vs INDIRECTO**
+
+### **✅ Contacto Directo**
+
+* Ocurre **cuando una persona toca directamente una parte activa** del sistema eléctrico.
+
+  * Ejemplo: tocar una **fase desnuda**, una ficha pelada, o una línea viva.
+
+  * También si un electrodoméstico tiene **fuga por mal aislamiento interno**, y se toca una parte energizada como un motor defectuoso sin protección.
+
+* Puede haber descarga **incluso sin tocar**, por ejemplo, **al verter agua** sobre un equipo con corriente → **contacto directo** si la persona queda expuesta directamente a esa descarga.
+
+### **✅ Contacto Indirecto**
+
+* Ocurre cuando **una carcasa o parte metálica se energiza por una falla interna**, y **alguien la toca**, recibe la descarga.
+
+  * Ejemplo: tocar una heladera con chasis electrificado por un motor dañado.
+
+  * Otro caso: por **humedad**, se transmite corriente a través de partes metálicas (como marcos de puertas, rejas, etc.).
+
+  * También puede pasar con electrodomésticos con **estructura metálica defectuosa o mal puesta a tierra**.
+
+🧠 **Resumen clave**:
+
+📌 Contacto directo → tocás la **línea activa**.  
+ 📌 Contacto indirecto → tocás una **estructura metálica** que está energizada por una falla.
+
+---
+
+## **🧰 INSTALACIÓN SEGURA**
+
+### **📌 Cables:**
+
+* **Los cables no deben ir por el piso**, especialmente si hay agua, barro o materiales húmedos.
+
+* **Cables unipolares sueltos por el suelo están prohibidos**. Se deben colocar por **arriba o canalizados**.
+
+### **📌 Tableros:**
+
+* Siempre debe haber un **tablero principal con protección adecuada**:
+
+  * **Interruptor termomagnético** (protege la instalación).
+
+  * **Interruptor diferencial** (protege a las personas).
+
+* Si hay máquinas como **mezcladoras, hormigoneras, etc.**, se debe colocar un **tablero secundario cerca** con protecciones, para evitar enchufes largos y riesgosos.
+
+---
+
+## **⚙️ CÁLCULO DE INSTALACIÓN**
+
+### **🧮 Pasos generales:**
+
+1. **Suma de todas las potencias** (luces, tomas, artefactos).
+
+2. Aplicar un **coeficiente de simultaneidad** (ej: 0.8, 0.7 o menos, según el uso).
+
+   * Esto se hace porque no todos los artefactos funcionan al mismo tiempo.
+
+3. Dividir por la tensión (220 V o 380 V).
+
+   * Esto da la **corriente total** que consumirá la instalación.
+
+4. Con esa corriente, se calcula:
+
+   * La **sección del conductor** (cable).
+
+   * Y luego se elige el **interruptor termomagnético adecuado** (ITM).
+
+---
+
+## **🧷 DETALLES ÚTILES**
+
+* Siempre verificar **por dónde entra el neutro** en un interruptor diferencial o termomagnético.
+
+* El neutro muchas veces **está marcado** (por colores o símbolos).
+
+* Los **interruptores bipolares o tetrapolares** deben conectarse correctamente según marca.
+
+---
+
+## **📌 PUNTOS FUNDAMENTALES PARA RECORDAR**
+
+| Tema | Clave |
+| ----- | ----- |
+| Contacto directo | Tocar fase o parte activa |
+| Contacto indirecto | Tocar carcasa energizada por falla |
+| Cables por el suelo | **Prohibido**, especialmente en obra y con agua |
+| Tablero seguro | ITM \+ Diferencial |
+| Calcular ITM | Potencia total efectiva ÷ tensión → da corriente → seleccionás ITM |
+| Neutro | Ver bien dónde entra en el interruptor |
+| Coeficiente simultaneidad | Se aplica para no calcular al 100% de uso de carga |
+
+---
+
+### **📌 PUNTOS CLAVE DE LA CLASE**
+
+#### **🔢 Cálculo de materiales y costos**
+
+* El docente propone una metodología de cálculo:
+
+  * **Primero**: listar materiales (caños, conductores, cajas, etc.).
+
+  * **Después**: estimar precios y calcular el **costo total de la obra**.
+
+  * Luego se pasa al **cálculo de conductores e interruptores** según la **potencia de cada elemento**.
+
+  * Menciona que esto se puede resolver más fácil con **una planilla de cálculo (Excel)**.
+
+  * Este proceso es típico del trabajo técnico en proyectos.
+
+#### **⚡ Interruptor Diferencial (ID)**
+
+* El **ID** aparece en planos con la sigla **“ID”**, y es parte esencial del esquema.
+
+* Se revisa la **simbología normalizada** del ID en planos eléctricos.
+
+#### **⚙️ Características técnicas del ID**
+
+* **Ejemplo común**: `2x25A - 30mA`:
+
+  * **2x25A**: bipolar, soporta hasta 25A.
+
+  * **30mA**: sensibilidad del diferencial (corriente de fuga máxima permitida).
+
+* **Función**: protege a las personas, **detecta fugas de corriente**. Si hay fuga (por ejemplo, por contacto humano), **desconecta el circuito**.
+
+* El valor de **30 mA** es clave porque es la **corriente máxima tolerable por el cuerpo humano** sin causar daño grave.
+
+#### **📐 Corriente y sensibilidad**
+
+* Corrientes mayores a 30 mA **pueden afectar el corazón**.
+
+* Por eso, el diferencial se activa con fugas mayores a ese valor.
+
+* Esta sensibilidad permite identificar pérdidas entre lo que entra (fase) y lo que sale (neutro).
+
+#### **🔘 Botón de prueba**
+
+* Los diferenciales se identifican porque tienen un **pulsador de prueba (botón)**.
+
+* Se recomienda **probar siempre el pulsador** cuando se abre un tablero.
+
+* Si al pulsar **no salta el ID**, **está defectuoso o mal instalado**.
+
+#### **🔌 Tensiones seguras en automatismos**
+
+* En automatismos (como bombas con flotador), se recomienda **usar 24V** como tensión de comando para **evitar riesgos eléctricos**.
+
+  * Se logra con un **transformador de aislamiento**.
+
+  * Se habla de “**tensión de seguridad**”, usada para evitar que el circuito de comando sea peligroso.
+
+#### **🌍 Otros detalles**
+
+* El ID también puede indicar:
+
+  * Tipo de corriente: **alterna**.
+
+  * Tensión máxima de trabajo: **hasta 240V**.
+
+  * Puede haber variantes con **63A, 40A**, etc., dependiendo de la instalación.
+
+---
+
+### **✅ Función y prueba del interruptor diferencial**
+
+* Para probar si un **interruptor diferencial (ID)** funciona correctamente, se debe **presionar el botón de prueba (TEST)**.
+
+  * Esto simula una **fuga de corriente** y hace que el ID se dispare (salte).
+
+  * **No prueba la instalación completa**, sino que **verifica el buen estado del ID**.
+
+---
+
+### **✅ Sensibilidad de los diferenciales (en mA)**
+
+* Los valores comunes de sensibilidad son:
+
+  * **10 mA** → Para **lugares húmedos** (ej: piletas, baños, lavaderos). **Protege la vida humana** con más seguridad.
+
+  * **30 mA** → El más usado en instalaciones comunes. **Protege la vida humana**.
+
+  * **100 mA / 300 mA** → **NO protegen la vida humana**, se usan para **protección de instalaciones** (alimentación entre tableros, fugas a tierra generales, detección de fallas en sistemas grandes).
+
+    * Se pueden usar como **diferencial principal** en tableros secundarios.
+
+---
+
+### **✅ Ubicación y aplicación según normativa**
+
+* **En piletas y lugares húmedos**, la **norma exige diferenciales de 10 mA**.
+
+* La norma actual **exige diferencial bipolar** por cada circuito de tomacorriente e iluminación (según el tipo de obra).
+
+  * En trifásico: se puede usar **un diferencial tetrapolar** o **uno por fase** (cuando se quiere evitar que toda la instalación se apague ante una falla en una sola fase).
+
+* Cuantos más diferenciales se instalen, **mayor es el costo**, pero también **mayor la seguridad**.
+
+---
+
+### **✅ Relación con el interruptor termomagnético**
+
+* El **interruptor diferencial debe ser igual o mayor** al calibre del **termomagnético** asociado.
+
+  * Ejemplo: si el térmico es de **25 A**, el diferencial debe ser de **25 A o más (por ejemplo, 40 A)**.
+
+  * **Nunca menor**, porque el diferencial debe soportar la corriente que atraviesa el térmico.
+
+---
+
+### **✅ Componentes internos**
+
+* El diferencial contiene un **toroide** (transformador de corriente).
+
+  * Detecta el **desequilibrio entre fase y neutro**.
+
+  * Si detecta una fuga (corriente que se va por tierra o por una persona), **interrumpe el circuito**.
+
+---
+
+### **✅ Ubicación en el tablero**
+
+* Siempre se instala **después del interruptor general (termomagnético principal)**.
+
+  * Si hay una **falla desde arriba**, el térmico principal actúa.
+
+  * Si hay una **falla hacia abajo (instalación interna)**, actúa el diferencial.
+
+  * De esta forma, **la protección es completa**.
+
+---
+
+### **✅ Recomendación**
+
+* Aunque **poner un diferencial por cada circuito es más costoso**, se recomienda **convencer al cliente** por la **seguridad que brinda**.
+
+* Es preferible tener **más protección** que ahorrar en un componente que puede **salvar vidas**.
+
+---
+
+### **🔌 Tipos de contacto eléctrico**
+
+* **Contacto directo:** cuando una persona toca directamente un conductor activo.
+
+* **Contacto indirecto:** cuando se toca una carcasa metálica energizada por una falla, por ejemplo, una bobina dañada.
+
+---
+
+### **⚠️ Importancia de los interruptores diferenciales**
+
+* Su función principal es **proteger contra contactos indirectos**, salvando vidas en caso de fuga de corriente.
+
+* El botón de prueba sirve para verificar si el dispositivo funciona correctamente.
+
+* Se deben instalar **correctamente según norma**, dependiendo del tipo de instalación.
+
+---
+
+### **⚙️ Tipos de interruptores diferenciales y sus usos**
+
+* **30 mA (miliamperios):** uso **doméstico estándar**, protege vidas.
+
+* **10 mA:** uso en **lugares húmedos**, como piletas o baños, mayor seguridad.
+
+* **100 mA y 300 mA:** **no protegen la vida humana**, sirven para detectar fugas en instalaciones grandes o alimentar tableros.
+
+* **Superinmunizado:** evita desconexiones innecesarias por pérdidas mínimas en equipos electrónicos (por ejemplo, en ciber o salas informáticas). Es más caro y especializado.
+
+---
+
+### **⚙️ Recomendaciones de instalación**
+
+* **Siempre el interruptor diferencial debe tener un calibre igual o mayor** que el termomagnético asociado (nunca menor).
+
+* En instalaciones trifásicas, se puede usar un interruptor tetrapolar o diferenciales por fase.
+
+* Es preferible **no reconectar** el interruptor diferencial con cargas activas (por ejemplo, computadoras, impresoras, aires acondicionados).
+
+* **Desconectar térmicas primero**, luego reconectar diferencial.
+
+---
+
+### **⚙️ Características técnicas importantes**
+
+* Los diferenciales tienen una **vida útil limitada**, aprox. **800–1000 disparos**.
+
+* Cada vez que se baja y sube el interruptor cuenta como un disparo.
+
+* Es común que se use el disyuntor como **corte general**, pero se debe tener cuidado al reconectar con carga.
+
+---
+
+### **🔐 Riesgos y falsificaciones**
+
+* Se advierte sobre la venta de productos **falsificados**, que ponen en riesgo la seguridad.
+
+* “La vida es preciosa, la falsificación es peligrosa.”
+
+---
+
+### **📆 Organización del curso / clase**
+
+* Se planean ver temas como:
+
+  * Tipos de interruptores diferenciales
+
+  * Sistemas de puesta a tierra
+
+  * Evaluaciones teóricas
+
+  * Preguntas prácticas
+
+* Se menciona la posibilidad de compartir materiales vía WhatsApp e impresos.
+
 ---
 
    
