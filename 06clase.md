@@ -125,9 +125,6 @@ se encuentra. El tema de seguridad: yo detecto con el dedo que conector que est√
 ![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhZBzAZBIeV5kb6yvIk11pfbRG5Ijd9OZJPYvLolcGUrK7bfYNFvTby33atE8biboGHppihqNbTgUYw_Kj4NtOoCGgiGhNFVD6FPkRZKVg8zdbdcxL3dwzYbGzewwLH55U5z0waEce6Lvl8FZ6wA5vJCyUBUMtLUYqvzcCBRPkGk6S1Gw5F6URTePpPuNY/s4160/IMG_20250326_004925040.jpg)   
 ![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgTKTcAcZ_NAC1J4DOTkNi7JXJHfPdHRd8sD4V0AWEVLKPykYKBvtWdk0p6tMnSLAY1yX_WhOivq8qk7yjgUBmlAfFUR8QOAPD_pmBzM4AkscezYxAeiTQdKt3zvNiwIo8gnw-oIIBT13sd6Lcooz6RnhE-kiHv_jxcM9fCu1e6qBK2v1DVlUZkBVNRNWg/s4160/IMG_20250326_004929199.jpg)   
 ![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgYRoPpI8Rf1IPAmvV1leYRDMZgnNp_hRDodAGeb2aEQPWBgRd3xBgtjhj1EX-QyJOMurfZ-xh3JlvTeKTav0i4Ou90w7urADIUgx7U2L9Nt6oN820olM6xXTvl21c4ApS6tNUZjgO1cBF70uR0QXqbO8w2xP3AjALU70LhRzuUsjqwhq-hgBzNDi5CD-o/s4160/IMG_20250326_004941889.jpg)   
-![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgOLJDi2sJ6LI1eYqx5O7dwt3DnMHaJ3tFVtpIh_4AXZM0BTf6lVzHtIpaBJs7NKobs8mMnHPgeRw5dIu_MaX5m8gitgnYbElQkaC1y4utMnYXYy-sivv5C28A1-X-y1-_CccklEo4L5sRijeSeofCJNdwKX6YLqROfhJ7gWI6ebQCM_VTIXirec_mc2mU/s4160/IMG_20250326_004949867.jpg)   
-![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhMf56FWX4zOYrJDCzXqOQOyrPX_t0lD0jMD8I9y2sp69Ep_wASWGs7HH79v1bBzMWJiJkpGF_w4-rywEo0Im5iTdDWMvN9I7x4QfJx60xiOeTj0hFo6uVH7Q6CMA4Ak4ilgGuWJejXjHqLkJSrO_RgFSro1BDbskLCzNwNGddH76rG1_yzCdcuLeUCkMI/s4160/IMG_20250326_004957950.jpg)   
-![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi5zUzqVSsnz_ZWMKudQmnUKnpCyc6c2cdfun99EbE8t0JwaY_r6d-ae3EyWdBrEB4H8VjAVTNpgGGcy70QEJ5CBBq0IfjlyIKRbe4NjkKyY3QM6Sw9TJt2HpJf_qMelMLu2ql6dfi2q8y0zVK2ddZ6qw8craS8FcYaFK-CydfGY4CIxaQnrk_CJ1W3Pl0/s4160/IMG_20250326_005002959.jpg)   
    
 ---
 
