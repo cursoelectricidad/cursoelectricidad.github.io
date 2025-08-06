@@ -199,8 +199,6 @@ Pelar cables con pinza y alicate. La acometida puede ser aérea o subterránea, 
 
 ---
 
-¿Querés que también lo pase en formato de esquema visual o mapa mental?
-
 **Resumen de clase – Introducción a la instalación eléctrica y simbología**
 
 ---
@@ -252,8 +250,6 @@ Pelar cables con pinza y alicate. La acometida puede ser aérea o subterránea, 
 * En etapas más avanzadas (montador), las evaluaciones serán **sin carpeta**, basadas en conocimientos adquiridos.
 
 ---
-
-¿Querés que este resumen lo convierta en un PDF o lo integre con otros temas anteriores del curso?
 
 **Resumen de clase – Simbología, canalización y normas para instalaciones eléctricas domiciliarias**
 
@@ -318,8 +314,6 @@ Pelar cables con pinza y alicate. La acometida puede ser aérea o subterránea, 
 * La simbología debe leerse de forma **estandarizada** para evitar errores en obra (ej. confundir una caja ortogonal con una boca de luz).
 
 ---
-
-¿Querés que lo junte con los resúmenes anteriores en un solo documento o lo querés por separado?
 
 **Resumen de clase – Cajas ortogonales, montaje de artefactos y simbología de llaves eléctricas**
 
@@ -507,12 +501,6 @@ Pelar cables con pinza y alicate. La acometida puede ser aérea o subterránea, 
 
 ---
 
-¿Querés que este resumen lo complete con una tabla de alturas reglamentarias y tipos de cajas? ¿O que te lo pase todo junto con otros apuntes anteriores del curso?
-
-Gracias por compartir otro fragmento de clase. Acá tenés un **resumen técnico con los puntos clave**, redactado de forma clara y útil para tu estudio, respetando tu pedido de anonimato:
-
----
-
 ### **📌 Clase sobre Alturas, Cajas Rectangulares, Nivelación y Consideraciones de Instalación**
 
 #### **📏 Alturas reglamentarias de cajas**
@@ -560,12 +548,6 @@ Gracias por compartir otro fragmento de clase. Acá tenés un **resumen técnico
 * Esta convención ayuda a ver la ubicación de **ventanas, puertas y cajas** en el plano de planta.
 
 * En planos eléctricos, se representan **cajas rectangulares** donde se colocan tomacorrientes de uso general o especial.
-
----
-
-¿Querés que te agrupe este resumen junto a los anteriores para tener un documento completo por clase?
-
-Gracias por compartir otro bloque. Te dejo el **resumen técnico organizado**, siguiendo el estilo de los anteriores:
 
 ---
 
@@ -683,12 +665,6 @@ Gracias por compartir otro bloque. Te dejo el **resumen técnico organizado**, s
 
 ---
 
-¿Querés que este y los anteriores los unifique en un mismo documento por clase? Así podés imprimir o estudiar desde ahí directamente.
-
-Perfecto, aquí te dejo el resumen técnico organizado y claro de esta parte, con lo más importante explicado para que sea fácil de entender y estudiar:
-
----
-
 ### **📏 Espesores y tipos de cañerías de hierro**
 
 * El término **“pesada”, “semipesada” o “liviana”** se refiere al **espesor y resistencia del caño**.
@@ -753,12 +729,6 @@ Perfecto, aquí te dejo el resumen técnico organizado y claro de esta parte, co
 * La elección de tipo y tamaño de cañería depende del proyecto, las condiciones y la experiencia del instalador.
 
 * No hay una única manera correcta, pero sí es fundamental justificar y entender el porqué de cada elección técnica.
-
----
-
-Si querés puedo seguir armando así los resúmenes de la clase o hacerte un documento unificado con todo lo que me fuiste pasando, ¿te parece?
-
-Excelente contenido, muy útil para entender la normativa y las buenas prácticas con cañerías corrugadas. Te hago un resumen ordenado para que quede claro y fácil de repasar:
 
 ---
 
@@ -830,12 +800,6 @@ Excelente contenido, muy útil para entender la normativa y las buenas práctica
 
 ---
 
-¿Querés que prepare un resumen con imágenes o infografías para este tema? ¿O preferís que continúe con los próximos fragmentos?
-
-Muy buen fragmento, lleno de puntos clave para entender las buenas prácticas, la normativa y las posibles complicaciones en instalaciones eléctricas residenciales, especialmente en recableados o mejoras sobre instalaciones antiguas. Te dejo un resumen claro con los puntos más importantes:
-
----
-
 ## **Resumen: Buenas prácticas y problemas comunes en recableado y cañerías antiguas**
 
 ### **📌 Normativa y espacio para disipación de calor**
@@ -891,12 +855,6 @@ Muy buen fragmento, lleno de puntos clave para entender las buenas prácticas, l
 * La normativa eléctrica se actualiza periódicamente, especialmente en temas como puesta a tierra.
 
 * Es importante mantenerse informado y aplicar siempre la última versión vigente.
-
----
-
-Si querés, puedo ayudarte a organizar estos conceptos en un documento o hacer un mapa mental para estudio. ¿Querés que siga con otro fragmento?
-
-¡Muy buen cierre para la clase\! Aquí te dejo un resumen claro con los puntos clave que dejaste para tu repaso o para compartir con tus compañeros:
 
 ---
 

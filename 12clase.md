@@ -128,12 +128,6 @@
 
 ---
 
-¿Querés que convierta esto en un apunte listo para imprimir o estudiar?
-
-Gracias por la información adicional. Acá tenés el **resumen completo y ordenado** de la clase (basado en la transcripción que enviaste), listo para estudiar o imprimir. Está estructurado en secciones para facilitar la lectura y el repaso:
-
----
-
 ## **🧱 1\. Canalización: principios y buenas prácticas**
 
 ### **🔄 Evitar curvas en "S"**
@@ -296,12 +290,6 @@ Gracias por la información adicional. Acá tenés el **resumen completo y orden
 
 ---
 
-¿Querés que lo pase a PDF o te lo preparo como guía visual con íconos y formato para estudiar más fácil?
-
-Gracias por compartir la versión completa. A continuación te dejo el **resumen técnico limpio, corregido y anonimizado** de toda la clase práctica, ideal para estudio o entrega. Está organizado por **temas clave**, usando una estructura clara y profesional:
-
----
-
 # **✅ Resumen clase práctica de electricidad domiciliaria – Canalización, cajas y cañerías**
 
 ---
@@ -438,12 +426,6 @@ Gracias por compartir la versión completa. A continuación te dejo el **resumen
 
 ---
 
-¿Querés que te lo pase a PDF, Word o como infografía? También puedo prepararte una versión de estudio con esquemas y ejemplos.
-
-Gracias por compartir esta extensa transcripción de una clase técnica. A continuación, te hago un **resumen estructurado y ordenado** de los principales temas que abordó el profesor, incluyendo los puntos prácticos, consejos y advertencias para los estudiantes. Esto te puede servir para repasar, armar apuntes o crear material didáctico.
-
----
-
 ## **🛠️ Resumen Clase de Instalaciones Eléctricas (Transcripción Oral)**
 
 ---
@@ -571,12 +553,6 @@ Gracias por compartir esta extensa transcripción de una clase técnica. A conti
 * **Dirección de corte** al usar sierra: los dientes deben apuntar hacia adelante.
 
 * Al colocar cajas, usar referencias manuales (dedos) puede ayudar, pero siempre verificar con **nivel**.
-
----
-
-¿Querés que este resumen lo convierta en un documento PDF o en una presentación de PowerPoint? ¿O preferís una guía paso a paso con imágenes y explicaciones más formales?
-
-Gracias por compartir esta transcripción extensa. Parece ser una clase práctica y bastante rica en experiencias del ámbito de instalaciones eléctricas, probablemente de un curso técnico o de formación profesional. A continuación, te hago un resumen temático para ayudarte a organizar los contenidos clave y facilitar el estudio, comprensión o elaboración de materiales educativos:
 
 ---
 

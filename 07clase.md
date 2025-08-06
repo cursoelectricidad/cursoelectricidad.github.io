@@ -119,8 +119,6 @@ Fin.
 
 * **Diferencias entre modelos de portalámparas:** Se menciona que algunos tienen borneras distintas, lo cual será tenido en cuenta en la práctica.
 
-¿Querés que resuma también lo que venga después del minuto 16?
-
 **Título:** Práctica segura con portalámparas: conexiones, continuidad y normas
 
 **Puntos más importantes:**
@@ -186,8 +184,6 @@ Fin.
 * En este caso, se menciona que la térmica tiene un pasador que falta, por lo que se deben levantar ambas al mismo tiempo para que funcione correctamente.
 
 ---
-
-¿Querés que combine todo esto con el resumen anterior en un solo documento o prefieres que sigamos con la clase a partir del minuto 45?
 
 **Título:** Prácticas seguras con portalámparas: pruebas, detección de fallas y uso de instrumentos
 
@@ -263,8 +259,6 @@ Fin.
 
 ---
 
-¿Querés que te lo deje listo como PDF o documento de texto para imprimir o estudiar?
-
 **Título:** Anécdotas de obra, seguridad en altura y armado de lámpara de prueba
 
 ---
@@ -328,8 +322,6 @@ Fin.
 * “**Hay muchas formas de proteger al trabajador en altura, lo importante es hacerlo bien.**”
 
 ---
-
-¿Querés que combine todo lo resumido hasta ahora (de toda la clase) en un único documento de repaso?
 
 **Título:** Colores de conductores, anécdotas de obra, distancias seguras y conciencia sobre la seguridad eléctrica
 
@@ -437,8 +429,6 @@ Fin.
 
 ---
 
-¿Querés que te compile toda esta clase entera en un único documento para imprimir o estudiar? También puedo generar un resumen temático por partes si preferís.
-
 **Título:** Práctica segura y modernización de instalaciones: desde el pilar hasta la puesta a tierra
 
 ---
@@ -526,8 +516,6 @@ Fin.
 * Aprender con base práctica ayuda luego a ofrecer servicios con mayor seguridad y responsabilidad.
 
 ---
-
-¿Querés que este contenido se sume a los resúmenes anteriores en un único repaso completo de clase?
 
 **Título:** Práctica, experiencia personal y motivación en el aprendizaje del oficio eléctrico
 
@@ -641,8 +629,6 @@ Fin.
 
 ---
 
-¿Querés que te junte esto con los resúmenes anteriores en un solo documento para repasar toda la clase o preferís que te haga una ficha por tema (ej: práctica, normativa, herramientas)?
-
 Resumen técnico – Clase práctica sobre detección de fallas, pruebas de continuidad y conexiones seguras (Hora 02:03 en adelante):
 
 ---
@@ -725,8 +711,6 @@ Resumen técnico – Clase práctica sobre detección de fallas, pruebas de cont
 
 ---
 
-¿Querés que resuma este procedimiento como una guía paso a paso para futuras prácticas?
-
 ### **📚 Resumen técnico – Selección de conductores, protecciones y normativa (con foco en equipos especiales como aires acondicionados)**
 
 ---
@@ -784,12 +768,6 @@ Resumen técnico – Clase práctica sobre detección de fallas, pruebas de cont
 * Al instalar extensiones largas (más de 11 m), **se debe aumentar la sección** para evitar caída de tensión.
 
 * Ejemplo de riesgo: instalar aire de 2000 frigorías con cable de 1,5 mm² en un enchufe → peligroso, aunque funcione momentáneamente.
-
----
-
-¿Querés que te arme una ficha rápida con tabla y esquemas de circuitos para iluminación, tomas y aires según norma AEA?
-
-Perfecto, te hago un resumen puntual con los temas que tocaste, que son clave para entender bien instalación segura y correcta según la normativa y buenas prácticas, especialmente para cargas especiales como duchas y aires acondicionados.
 
 ---
 
@@ -857,12 +835,6 @@ Perfecto, te hago un resumen puntual con los temas que tocaste, que son clave pa
 * Una llave térmica de 20A en un circuito de tomacorrientes generalmente usa conductores de 2,5 mm².
 
 * Pero si se hace una derivación con múltiples tomas, la suma de consumos puede superar esa capacidad y se debe respetar el conductor y la protección.
-
----
-
-¿Querés que te ayude a armar un cuadro resumen con los cálculos típicos de conductores según potencia y distancia, para que puedas usarlo rápido en tus prácticas o presupuestos?
-
-Gracias por compartir toda la transcripción. A continuación, te dejo un **resumen técnico ordenado y claro** sobre los temas clave que se trataron en esa parte de la clase, útil para estudio y repaso de examen:
 
 ---
 

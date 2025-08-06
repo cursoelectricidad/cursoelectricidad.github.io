@@ -265,8 +265,6 @@ Estos puntos condensan lo esencial para comprender la estructura y buenas práct
 
 ---
 
-¿Querés que combine este resumen con los puntos anteriores de la clase 3 para hacer un documento completo?
-
 **Clase 3 – Minuto 32 en adelante: Reglamentación, Protección de Conductores, Lectura de Planos y Rol del Electricista en Obra**
 
 ---
@@ -385,8 +383,6 @@ Esta parte de la clase enfatiza la **importancia de la reglamentación**, la **p
 
 ---
 
-¿Querés que te una esta parte con el resumen anterior y te lo convierta en un único documento?
-
 **Clase 3 – Minuto 40 en adelante: Red de Distribución, Transformadores y Acometida Eléctrica**
 
 ---
@@ -484,8 +480,6 @@ Esta parte de la clase enfatiza la **importancia de la reglamentación**, la **p
 Esta sección de la clase brinda una **visión completa del sistema de distribución eléctrica**, desde la **media tensión urbana** hasta la **acometida domiciliaria**. Se destaca la importancia de **conocer los límites del trabajo del instalador**, aplicar **reglamentación**, y comprender la **estructura física de la acometida**, fundamental para cualquier obra eléctrica segura.
 
 ---
-
-¿Querés que unifique este resumen con los anteriores y te lo entregue como un único documento consolidado de la clase 3?
 
 **Clase 3 – Parte final: Acometida, Puesta a Tierra, Materiales, Canalización y Rol Profesional del Electricista**
 
@@ -615,12 +609,6 @@ Esta parte de la clase refuerza conceptos clave para el examen y para la prácti
 
 ---
 
-¿Querés que te junte los resúmenes de esta tercera clase completa y te los entregue como un solo documento listo para repasar o imprimir?
-
-Gracias, ya tengo toda la información. A continuación, te dejo un resumen con los puntos clave de este tramo de clase:
-
----
-
 ### **📌 Puntos clave – Red de distribución, acometida y canalización subterránea**
 
 #### **🏗️ Compra y provisión de materiales**
@@ -706,12 +694,6 @@ Gracias, ya tengo toda la información. A continuación, te dejo un resumen con 
 * **Preensamblado**: tipo de conductor usado en líneas aéreas urbanas.
 
 * **Morceto**: conector que toma la alimentación de la línea aérea.
-
----
-
-¿Querés que te arme una ficha rápida para repasar estos temas antes del examen?
-
-Gracias por la aclaración. Lo que agregaste refuerza muy bien conceptos fundamentales sobre instalaciones monofásicas vs trifásicas, consumo, secciones de conductores y diseño de tableros. Acá te organizo todo lo que dijiste, integrando lo anterior, para que te quede claro y útil para repasar o usar como apunte:
 
 ---
 
@@ -802,12 +784,6 @@ Gracias por la aclaración. Lo que agregaste refuerza muy bien conceptos fundame
 * Pueden presentar planos o bosquejos al profesor para revisión.
 
 * El aprendizaje se adapta al nivel y conocimientos previos de cada alumno (planos, cálculo, lectura de simbología, etc.).
-
----
-
-¿Querés que esto te lo pase en formato tipo "ficha de repaso" o en PDF para imprimirlo?
-
-Gracias por compartir todo el material. A continuación, te presento un **resumen técnico y ordenado** con los puntos más importantes abordados en este tramo de la clase, especialmente útiles para tu formación como **auxiliar electricista domiciliario**:
 
 ---
 
@@ -923,12 +899,6 @@ Gracias por compartir todo el material. A continuación, te presento un **resume
 
 ---
 
-¿Querés que arme una ficha técnica para repasar estos conceptos antes del examen o práctica?
-
-Gracias por compartir la transcripción. A continuación, te hago un **resumen con los puntos clave** de esta parte de la clase (desde el minuto 22 aprox.), centrado en normativa, instalación segura, simbología, herramientas básicas y conceptos prácticos del oficio de electricista domiciliario:
-
----
-
 ### **✅ Puntos Clave \- Clase 3 (Minuto 22 en adelante)**
 
 #### **📘 1\. Curso, certificación y material**
@@ -1015,12 +985,6 @@ Gracias por compartir la transcripción. A continuación, te hago un **resumen c
 
 Una instalación eléctrica **segura y confiable** requiere materiales normalizados, dispositivos con puesta a tierra o doble aislación, herramientas adecuadas y **apego a la normativa vigente**.  
  El oficio requiere **criterio técnico**, práctica y compromiso con la seguridad de las personas.
-
----
-
-¿Querés que te lo prepare como hoja de estudio o con formato tipo "ficha resumen"?
-
-Gracias, esta parte está muy cargada de contenido práctico y reflexiones importantes. A continuación te presento un **resumen de los puntos más importantes** de esta sección de la clase, dividido por tema, en formato claro y útil para repasar o estudiar.
 
 ---
 
@@ -1143,8 +1107,6 @@ Gracias, esta parte está muy cargada de contenido práctico y reflexiones impor
 
 ---
 
-¿Querés que te lo prepare como ficha imprimible para la carpeta o en un cuadro comparativo?
-
 ### **Puntos clave – Clase sobre simbología eléctrica, seguridad y buenas prácticas**
 
 ---
@@ -1244,12 +1206,6 @@ Gracias, esta parte está muy cargada de contenido práctico y reflexiones impor
   * **Tomacorrientes comunes.**
 
   * **Tomacorrientes especiales**: para artefactos como **aires acondicionados o duchas eléctricas** (generalmente de **20 A**).
-
----
-
-¿Querés que resuma también los símbolos eléctricos en una tabla visual?
-
-Aquí tenés un **resumen técnico de los puntos más importantes** de esta parte de la clase (minutos 22 en adelante). Lo organicé por temas clave para ayudarte a estudiar mejor:
 
 ---
 
