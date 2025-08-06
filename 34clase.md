@@ -371,7 +371,7 @@ El **cálculo con la fórmula P \= V × I** se usa **para verificar**, no para d
 
 ### **🧊Instalación de aires acondicionados**
 
-* Un conductor de **6 mm² puede soportar hasta 2 aires acondicionados pequeños (\~2000 frigorías)** a más de 10 metros de distancia, **si no hay otros consumos fuertes simultáneos**.
+* Un conductor de **6 mm² puede soportar tranquilamente 2 aires acondicionados pequeños (\~2000 frigorías)** a más de 10 metros de distancia, **si no hay otros consumos fuertes simultáneos**.
 
 * **Precaución al usar la ducha eléctrica junto a los aires**, ya que puede generar un **pico de consumo** y disparar la protección.
 
