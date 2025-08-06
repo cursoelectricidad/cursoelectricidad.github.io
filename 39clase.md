@@ -7,7 +7,7 @@
 **Audio en Archive**  
 [https://archive.org/details/record-157](https://archive.org/details/record-157)  
 **Audio en YouTube**  
-[https://www.youtube.com/watch?v=kyLx5aEKcHM](https://www.youtube.com/watch?v=kyLx5aEKcHM)  
+[https://www.youtube.com/embed/kyLx5aEKcHM](https://www.youtube.com/embed/kyLx5aEKcHM)  
   
 ##### En la siguiente clase (número 40) corregí algunas respuestas y agregué más información del examen.
 

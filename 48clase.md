@@ -12,7 +12,7 @@
 
 #### Audio en YouTube:
 
-[https://www.youtube.com/watch?v=NB4SV-JIt1E](https://www.youtube.com/watch?v=NB4SV-JIt1E)
+[https://www.youtube.com/embed/NB4SV-JIt1E](https://www.youtube.com/embed/NB4SV-JIt1E)
 
 #### La clase que viene trabajaremos con hoja cuadriculada.
 

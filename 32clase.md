@@ -7,7 +7,7 @@
 **Audio en Archive**  
 [https://archive.org/details/record-139](https://archive.org/details/record-139)  
 **Audio en YouTube**  
-[https://www.youtube.com/watch?v=K4Vo2P9882Q](https://www.youtube.com/watch?v=K4Vo2P9882Q)  
+[https://www.youtube.com/embed/K4Vo2P9882Q](https://www.youtube.com/embed/K4Vo2P9882Q)  
   
 **Documentos enviados a través de WhatsApp**  
 [https://archive.org/details/2.-diagrmas-de-instalaciones-electricas](https://archive.org/details/2.-diagrmas-de-instalaciones-electricas)  

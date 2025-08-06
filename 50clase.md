@@ -12,7 +12,7 @@
 
 ### Audio en YouTube
 
-[https://www.youtube.com/watch?v=gJ3CSxDxKLw](https://www.youtube.com/watch?v=gJ3CSxDxKLw)
+[https://www.youtube.com/embed/gJ3CSxDxKLw](https://www.youtube.com/embed/gJ3CSxDxKLw)
 
 * **Inicio del curso y organización**
 

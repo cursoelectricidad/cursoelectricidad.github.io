@@ -12,7 +12,7 @@
 
 #### Audio en YouTube:
 
-[https://www.youtube.com/watch?v=bdpokpOHJ4s](https://www.youtube.com/watch?v=bdpokpOHJ4s)
+[https://www.youtube.com/embed/bdpokpOHJ4s](https://www.youtube.com/embed/bdpokpOHJ4s)
 
 
 **Puntos más importantes resumidos**
