@@ -1,4 +1,4 @@
-% Clase Nº 52: Repaso para nuevos alumnos y dibujo en escala.
+% Clase Nº 52: Repaso de simbología y primeras clases para nuevos alumnos y dibujo en escala. Fotocopia de clase 49 estaba mal la definición de numerador/denominador.
 % Andrés Imlauer
 % 5 Agosto 2025
 

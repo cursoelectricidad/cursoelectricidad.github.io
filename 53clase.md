@@ -1,4 +1,4 @@
-% Clase Nº 53: Clase muy importante entra en examen: Calculo de materiales: caja octogonal, caja rect. 5x10, gancho U, caja cuadrada, conectores, curvas, cañerías.
+% Clase Nº 53: Repasamos fotocopia vieja de agrupación de conductores. Clase muy importante entra en examen: Calculo de materiales: caja octogonal, caja rect. 5x10, gancho U, caja cuadrada, conectores, curvas, cañerías.
 % Andrés Imlauer
 % 6 Agosto 2025
 

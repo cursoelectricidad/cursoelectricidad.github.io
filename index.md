@@ -212,11 +212,11 @@ Subscribe to RSS: [/feed.xml](/feed.xml)
 [5 Agosto 2025]{.date}
 
 
-[Clase Nº 52: Repaso para nuevos alumnos y dibujo en escala.](/52clase.md){.title}
+[Clase Nº 52: Repaso de simbología y primeras clases para nuevos alumnos y dibujo en escala. Fotocopia de clase 49 estaba mal la definición de numerador/denominador.](/52clase.md){.title}
 [5 Agosto 2025]{.date}
 
 
-[Clase Nº 53: Clase muy importante entra en examen: Calculo de materiales: caja octogonal, caja rect. 5x10, gancho U, caja cuadrada, conectores, curvas, cañerías.](/53clase.md){.title}
+[Clase Nº 53: Repasamos fotocopia vieja de agrupación de conductores. Clase muy importante entra en examen: Calculo de materiales: caja octogonal, caja rect. 5x10, gancho U, caja cuadrada, conectores, curvas, cañerías.](/53clase.md){.title}
 [6 Agosto 2025]{.date}
 
 
