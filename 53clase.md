@@ -15,7 +15,7 @@
 
 [https://www.youtube.com/embed/ekm_rgaIL4g](https://www.youtube.com/embed/ekm_rgaIL4g)
 
-
+![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgen8l7Ew7bg8ShgqSYVMQEsaz-5bLMzAsC_wZJVS1O3vdUyVVcRldAQ-r-WX22yC2MB_9_ijkpz4SyJEwIxQJVpcN1UTYsyGy-V4V_ZaYu8Efz-m5f0rOtJfRtNSMOeEijTMJn8h_S4xpl-PJI54w5Ev96TH39LgKj9GSQznd6FIFboIA-pNcrHURDEoE/s4160/IMG_20250805_185125382.jpg)
 ![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjf3jfoaXVEDPLHBT8JrTd-1bq5abLKVK7u8GWqEoFMNNOmIFluXh0Ybqxh2aeyEtpgSlpoXFPRfhPN-ygs7ur5vUDlxaz_E5yeE_RxWchv1yJplSTqQqHhEKCtrICkvdSdVj6W7xuWgsrDsf09xlf6jdy2GmS3LPECBxU4wFU4rxY2DasYDYB9l51J980/s4160/IMG_20250806_195752324.jpg)
 ![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi6ZZLCgw-l2EunBsbzlItwBFm1JurnOgQ21VhY0fB9Phyykl-opkV3Kk-pjUnRUeFFLJ5GCEwQvkzfYSPSDwbQtTP8mro83apMY0gnEFe7EyeJrpJaIsU2rpstedZjQwDCDherzPv2nvtfUP8kpnJe-T2s-lXl10keBEdxjUEbUuTZRp1ydfEeqpH4Vgo/s4160/IMG_20250806_195759612.jpg)
 ![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhhWXYt3FU2tMAnuNmSpeOOIa1NIf6tsI73xHSw2Ockk_mNyHLsUNJ_lCgiifHJKk1FzcSpeJySaZ7J7MocZnEbS2PAJvK7yofO6RDdTpx2ZCOToVEtKyUTdnoLvUb2y2CD37XTfRjnyI43M-LudcT8ruMc-_nHjHJVGfjB086v9Plsei2QVlFFPuXkN00/s4160/IMG_20250806_202839333.jpg)
