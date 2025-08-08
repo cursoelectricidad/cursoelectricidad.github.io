@@ -1,4 +1,4 @@
-% Clase Nº 29: [FOTOCOPIA] Tester. Multímetro. Vacunación. Preguntas exámen: 01:55
+% Clase Nº 29: [FOTOCOPIA definición voltaje, corriente, potencia, resistencia] Tester. Multímetro. Vacunación. Preguntas exámen: 01:55
 % Andrés Imlauer
 % 22 Mayo 2025
 

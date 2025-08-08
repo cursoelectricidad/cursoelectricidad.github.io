@@ -30,7 +30,7 @@ List of pages:
 * /26clase.md: [Clase Nº 26: Clase práctica. Armamos tablero: 4) Dos lámparas y 2 interruptores en distintas cajas. 5) Una lámpara con llave combinación](/26clase.md)
 * /27clase.md: [Clase Nº 27: Clase práctica. [LO MAS IMPORTANTE DEL CURSO: LOS ULTIMOS 2 ESQUEMAS DE MONTAJE] 6) Dos lámparas con llave combinación. 7) Dos lámparas. Una con llave combinación y otra con llave de 1 punto. Comenzamos ejercicio 8. En el exámen entra el diagrama unifilar de todo esto.](/27clase.md)
 * /28clase.md: [Clase Nº 28: Clase práctica. [LO MAS IMPORTANTE DEL CURSO: ESQUEMA DE MONTAJE] 8) Llave de 1 punto y toma corrientes 1 lámpara - Baño. Cortamos la luz para probar disyuntor.](/28clase.md)
-* /29clase.md: [Clase Nº 29: [FOTOCOPIA] Tester. Multímetro. Vacunación. Preguntas exámen: 01:55](/29clase.md)
+* /29clase.md: [Clase Nº 29: [FOTOCOPIA definición voltaje, corriente, potencia, resistencia] Tester. Multímetro. Vacunación. Preguntas exámen: 01:55](/29clase.md)
 * /30clase.md: [Clase Nº 30: Protecciones. Instalaciones Electricidad Domiciliaria. Corriente máxima por conductor.](/30clase.md)
 * /31clase.md: [Clase Nº 31: [FOTOCOPIA] Ordenamos. Fusibles. Térmicas. Morceto. Driver. Etc. Día de Lluvia.](/31clase.md)
 * /32clase.md: [Clase Nº 32: [FOTOCOPIA] Protecciones. Interruptor termomagnético. Fusibles. Repaso.](/32clase.md)

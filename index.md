@@ -116,7 +116,7 @@ Subscribe to RSS: [/feed.xml](/feed.xml)
 [21 Mayo 2025]{.date}
 
 
-[Clase Nº 29: [FOTOCOPIA] Tester. Multímetro. Vacunación. Preguntas exámen: 01:55](/29clase.md){.title}
+[Clase Nº 29: [FOTOCOPIA definición voltaje, corriente, potencia, resistencia] Tester. Multímetro. Vacunación. Preguntas exámen: 01:55](/29clase.md){.title}
 [22 Mayo 2025]{.date}
 
 
