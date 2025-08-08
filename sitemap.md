@@ -54,7 +54,7 @@ List of pages:
 * /50clase.md: [Clase Nº 50: Continuamos con plano. Dibujo a escala. Repasamos conceptos.](/50clase.md)
 * /51clase.md: [Clase Nº 51: Repasamos simbología. Continuamos con dibujo en escala para calculo de materiales.](/51clase.md)
 * /52clase.md: [Clase Nº 52: Repaso de simbología y primeras clases para nuevos alumnos y dibujo en escala. Fotocopia de clase 49 estaba mal la definición de numerador/denominador.](/52clase.md)
-* /53clase.md: [Clase Nº 53: Repasamos fotocopia vieja de agrupación de conductores. Clase muy importante entra en examen: Calculo de materiales: caja octogonal, caja rect. 5x10, gancho U, caja cuadrada, conectores, curvas, cañerías.](/53clase.md)
+* /53clase.md: [Clase Nº 53: Repasamos fotocopia vieja de agrupación de conductores. Clase importante entra en examen: Calculo de materiales: caja octogonal, caja rect. 5x10, gancho U, caja cuadrada, conectores, curvas, cañerías.](/53clase.md)
 * /contact.md: [Contacto](/contact.md)
 * /license.md: [License](/license.md)
 * /logo-license.md: [Unlicinsed bunnies](/logo-license.md)

@@ -216,7 +216,7 @@ Subscribe to RSS: [/feed.xml](/feed.xml)
 [5 Agosto 2025]{.date}
 
 
-[Clase Nº 53: Repasamos fotocopia vieja de agrupación de conductores. Clase muy importante entra en examen: Calculo de materiales: caja octogonal, caja rect. 5x10, gancho U, caja cuadrada, conectores, curvas, cañerías.](/53clase.md){.title}
+[Clase Nº 53: Repasamos fotocopia vieja de agrupación de conductores. Clase importante entra en examen: Calculo de materiales: caja octogonal, caja rect. 5x10, gancho U, caja cuadrada, conectores, curvas, cañerías.](/53clase.md){.title}
 [6 Agosto 2025]{.date}
 
 
