@@ -1,4 +1,4 @@
-% Clase Nº 52: Repaso de simbología y primeras clases para nuevos alumnos y dibujo en escala. Fotocopia de clase 49 estaba mal la definición de numerador/denominador.
+% Clase Nº 52: Repaso de simbología y primeras clases para nuevos alumnos y dibujo en escala. Fotocopia de clase 49 estaba mal la definición de numerador/denominador (es al revés): El numerador es el dibujo y el denominador es el tamaño real.
 % Andrés Imlauer
 % 5 Agosto 2025
 

@@ -212,7 +212,7 @@ Subscribe to RSS: [/feed.xml](/feed.xml)
 [5 Agosto 2025]{.date}
 
 
-[Clase Nº 52: Repaso de simbología y primeras clases para nuevos alumnos y dibujo en escala. Fotocopia de clase 49 estaba mal la definición de numerador/denominador.](/52clase.md){.title}
+[Clase Nº 52: Repaso de simbología y primeras clases para nuevos alumnos y dibujo en escala. Fotocopia de clase 49 estaba mal la definición de numerador/denominador (es al revés): El numerador es el dibujo y el denominador es el tamaño real.](/52clase.md){.title}
 [5 Agosto 2025]{.date}
 
 
