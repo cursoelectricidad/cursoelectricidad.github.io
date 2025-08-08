@@ -15,394 +15,157 @@
 
 [https://www.youtube.com/embed/ekm_rgaIL4g](https://www.youtube.com/embed/ekm_rgaIL4g)
 
+### **1. Contexto General**
+La clase se centra en la enseñanza de cómo realizar canalizaciones eléctricas, que son los sistemas de tuberías (caños) utilizados para proteger y guiar los conductores eléctricos en una instalación. El profesor utiliza un plano y una fotocopia de un reglamento técnico (probablemente basado en normas como IRAM 2224 y 2005) para explicar cómo seleccionar, instalar y calcular los materiales necesarios, como caños, curvas, cuplas, conectores y cajas. La discusión incluye tanto aspectos teóricos (normas) como prácticos (cómo medir y calcular en un plano, cómo evitar errores en obra).
 
-# **Accesorios y sección interna**
-
-* **Los accesorios no deben disminuir la sección interna** de la cañería para evitar dificultad en el pasaje de conductores y daño a la aislación.
-
-* Evitar doblar caños a mano; **usar curvas prefabricadas** (≥ 90°).
-
-# **Curvas y trazado**
-
-* **Curvas ≥ 90°** (nunca menores).
-
-* **Máx. 3 curvas entre dos cajas**; lo ideal son **2**.
-
-* Evitar curvas tipo S y tramos con muchas pequeñas curvas — dejan pasar mal la cinta pasacables.
-
-# **Uniones y cuplas**
-
-* **Unión ideal: cupla roscada**; no usar trozos de caño de mayor sección (pueden marcar la aislación).
-
-* En emergencia, se admite usar un **manguito/caño de mayor diámetro** como sleeve (p. ej. usar 7/8 para unir 3/4), fijado y trincado, pero es excepcional.
-
-* **Siempre desbarbar** (interior y exterior) tras cortar caños para evitar rebabas que pelan la aislación.
-
-# **Unión caño — caja**
-
-* Las uniones entre caño y caja deben hacerse con **conectores / tuercas y boquillas**; **tuerca por fuera**, **boquilla por dentro**.
-
-* Cumplir normas (p. ej. IRAM 2224/2005) y **usar conector aunque sea cañería corrugada**.
-
-* Cada caja debe indicar en la lista de materiales su conector correspondiente.
-
-# **Colocación y accesibilidad de cajas**
-
-* Colocar **cajas de paso cada 12 m** en tramos horizontales rectos (sin derivación) y **cada 15 m** en tramos verticales.
-
-* **No más de 3 curvas entre cajas**.
-
-* Las cajas deben ser **accesibles** y **no quedar tapadas por mobiliario fijo**.
-
-* Altura recomendada para caja de paso en pared: **0,30 m por debajo del cielorraso** (mejor ergonomía para conectar).
-
-# **Práctica, organización y seguridad**
-
-* Marcar en el plano dónde van **cajas, curvas y conectores**; incluirlos en la lista de materiales.
-
-* La norma busca **practicidad, seguridad e higiene** (trabajo cómodo y controlable).
-
-* Antes de cortar/usar material prever uniones y reducir desperdicio (impacto económico en obra).
 
 ---
 
-# **Embutido — secuencia y práctica**
 
-* Al picar la pared para cañería **hacerlo de arriba hacia abajo**: es más lógico y facilita el trabajo.
+### **2. Conceptos Clave Explicados**
 
-* Si ya está terminado el fino y hay que agregar una alimentación, a veces se hace una **canalización en U** (bajar, volver a subir); hay que diseñar cómo y con qué material.
 
-# **Materiales y condensación**
+#### **a. Canalizaciones y su propósito**
+- **Definición**: Las canalizaciones son sistemas de caños (metálicos o de PVC) que protegen los cables eléctricos, facilitan su instalación y evitan daños en la aislación.
+- **Normativa**: Según el reglamento (mencionado en la página 32, segundo párrafo), los caños y accesorios deben mantener la misma sección interna a lo largo de todo el recorrido para no dificultar el paso de los cables ni dañar su aislación.
+- **Materiales**: Se utilizan caños de diferentes diámetros (3/4", 7/8", 1") y materiales (hierro o PVC). Los caños de hierro son más resistentes pero propensos a generar rebarbas (que deben eliminarse para no dañar los cables), mientras que los de PVC son más prácticos y no requieren roscado.
 
-* **No usar cañería de hierro en trazados en U embutidos**, porque puede condensarse agua en la curva y mojar la canalización.
 
-* **Preferir PVC** en esos casos; si se usa otra solución, asegurar buen sujetado del conductor.
+#### **b. Accesorios de canalización**
+- **Curvas**: Se usan para cambiar la dirección del caño (generalmente en 90°). El reglamento establece que:
+  - No se deben usar curvas con ángulos menores a 90° para no reducir la sección interna.
+  - Se recomienda un máximo de **3 curvas** entre dos cajas, siendo lo ideal **2 curvas** para facilitar el paso de los cables.
+  - Las curvas deben ser preferentemente compradas (no dobladas en obra), ya que un doblado incorrecto puede aplastar el caño y reducir su sección.
+- **Cuplas**: Son elementos que unen dos caños. Pueden ser roscadas (para caños de hierro) o a presión (para PVC). El profesor enfatiza que:
+  - La cupla ideal es la roscada, ya que garantiza una unión segura sin dañar la aislación.
+  - No se permite usar trozos de caño de mayor sección como unión, ya que pueden marcar o dañar los cables.
+- **Conectores y boquillas**: Se utilizan para unir caños a cajas. Según la norma IRAM, las cajas deben tener:
+  - Una tuerca en el exterior y una boquilla en el interior.
+  - Esto asegura una unión firme y evita daños a los cables al entrar o salir de la caja.
 
-# **Curvas y geometría de trazado**
 
-* **Curvas ≥ 90°** (nunca ángulos menores).
+#### **c. Cajas de paso y derivación**
+- **Función**: Las cajas de paso facilitan la instalación, mantenimiento y reemplazo de conductores. También permiten derivaciones (bifurcaciones) en la instalación.
+- **Normas de instalación**:
+  - No deben colocarse más de **3 curvas** entre dos cajas consecutivas.
+  - En tramos rectos horizontales, se debe instalar una caja cada **12 metros**.
+  - En tramos verticales, una caja cada **15 metros**.
+  - Las cajas deben ser accesibles y no deben quedar tapadas por muebles o estructuras fijas.
+  - La ubicación ideal de las cajas de paso es a **0,30 metros del cielorraso**, para facilitar el acceso y evitar trabajar en posiciones incómodas (como en el cielorraso directamente).
+- **Tipos de cajas**:
+  - **Octogonales**: Usadas comúnmente para empalmes o derivaciones.
+  - **Rectangulares (10x5 cm o 5x10 cm)**: Para tomas o interruptores.
+  - **Cuadradas (10x10 cm)**: Usadas en ciertos casos específicos, como derivaciones principales.
 
-* Evitar **curvas tipo S** (dos curvas contrapuestas): dificultan el pasaje de la cinta pasacables.
 
-* **Máximo 3 curvas** entre cajas (ideal 2).
+#### **d. Cálculo de materiales en un plano**
+El profesor enseña cómo calcular los materiales necesarios (caños, curvas, cuplas, conectores) a partir de un plano en escala (1:50 o 1:100). Los pasos son:
 
-* Cuando haya curvas, **dejar un tramo recto antes/después** para que la cinta gane velocidad y pase mejor.
 
-# **Pasacables y métodos de tirado**
+1. **Identificar tramos**: Dividir el plano en tramos rectos (por ejemplo, de caja a caja o de caja a toma).
+2. **Medir con escalímetro**: Usar un escalímetro para medir las distancias en el plano, considerando la escala (1 cm = 1 metro en escala 1:100, o 1 cm = 0,5 metros en escala 1:50).
+3. **Sumar alturas**: Incluir las distancias verticales (subidas y bajadas desde el cielorraso, que suele estar a 3 metros de altura).
+4. **Calcular caños**: Dividir la longitud total de cada tipo de caño (3/4" o 7/8") por 3 metros (longitud estándar de un caño) y redondear hacia arriba.
+5. **Contar accesorios**:
+   - **Curvas**: Contar las curvas necesarias en cada cambio de dirección (máximo 3 por tramo).
+   - **Cuplas**: Estimar 2 cuplas por caño como regla práctica, aunque puede variar según recortes.
+   - **Conectores**: Contar entradas y salidas de cada caja.
+6. **Lista de materiales**: Crear una planilla con ítems, cantidades, unidades y características (por ejemplo, "caño 3/4", 6 unidades; "curva 3/4", 4 unidades).
 
-* El pasacables (cinta) funciona mejor si hay tramos rectos que aumenten el empuje; en obras a la vista se puede desarmar/ajustar; embutido no.
 
-* Existen máquinas especiales (tiran-cable automáticas) que facilitan mucho el trabajo.
+**Ejemplo del cálculo (basado en el plano del pizarrón)**:
+- **Caño 7/8"** (para alimentación principal):
+  - Tramo: Caja de paso a toma de aire acondicionado.
+  - Medidas: 0,30 m (subida al cielorraso) + 6,50 m (recorrido horizontal) + 1,25 m (bajada al toma, considerando cielorraso a 3 m y toma a 1,75 m del piso) = **8,05 m**.
+  - Caños necesarios: 8,05 m ÷ 3 m = 2,68 → **3 caños**.
+  - Curvas: 2 (una para subir y otra para bajar).
+- **Caño 3/4"** (para circuitos secundarios):
+  - Tramo 1-3: 2 m + 0,30 m (subida) = 2,30 m.
+  - Tramo 3-4: 3 m.
+  - Tramo 4-5: 1,5 m + 1,25 m (bajada) = 2,75 m.
+  - Tramo 3-6: 2,20 m + 2,60 m (bajada) = 4,80 m.
+  - Tramo 3-7: 1,5 m + 1,90 m (bajada) = 3,50 m.
+  - Total: 2,30 + 3 + 2,75 + 4,80 + 3,50 = **16,35 m**.
+  - Caños necesarios: 16,35 m ÷ 3 m = 5,45 → **6 caños**.
+  - Curvas: 4 (contadas según el plano).
+  - Conectores: 12 (entradas y salidas de las cajas).
+  - Cuplas: 12 (2 por caño de 3/4") y 6 (2 por caño de 7/8").
 
-# **Canalización a la vista vs embutida**
 
-* Si se canaliza por afuera (porque no se puede romper), procurar que quede **prolijo** y lo menos aparente posible.
+#### **e. Consideraciones prácticas**
+- **Rebarbas**: Al cortar caños (especialmente de hierro), se generan rebarbas que deben eliminarse (con una lima o pinza) para evitar dañar la aislación de los cables.
+- **Evitar desperdicios**: El profesor enfatiza minimizar recortes innecesarios de caños para ahorrar costos. Por ejemplo, usar caños completos de 3 metros y unirlos con cuplas.
+- **Instalaciones embutidas vs. exteriores**:
+  - **Embutidas**: Caños dentro de la pared, más estéticas pero requieren picar. No se pueden picar columnas estructurales, por lo que se usan caños pasantes (de mayor diámetro, como 1") antes de colar la columna.
+  - **Exteriores**: Más fáciles en obras existentes, pero deben ser prolijas ("regla del buen arte") para no afectar la estética.
+- **Prolijidad**: Las instalaciones deben ser ortogonales (líneas rectas en ángulos de 90°) y estéticamente agradables, especialmente en exteriores o en lugares visibles (como un quincho con ladrillo a la vista).
 
-* Para instalaciones a la vista, las uniones en PVC se pegan con adhesivo; pero tené en cuenta que en embutido no podés desarmar.
 
-# **Agrupación de conductores**
+#### **f. Puesta a tierra**
+- **Sección del conductor**: El conductor de puesta a tierra (verde-amarillo o desnudo) debe tener la misma sección que el conductor de entrada al tablero (por ejemplo, 10 mm² si la entrada es de 10 mm², hasta 16 mm²; para secciones mayores, como 25 mm², puede reducirse).
+- **Jabalinas**: Si hay tableros seccionales a gran distancia (por ejemplo, 25 metros), se puede instalar otra jabalina, pero debe estar conectada (equipotencialidad) para evitar problemas con descargas atmosféricas o cortocircuitos.
+- **Normativa**: La resistencia de la puesta a tierra debe ser menor a 40 ohm (o 5 ohm en casos específicos).
 
-* Las líneas seccionales **deben ir en caños independientes**, salvo que provengan del mismo medidor/fase: **máx. 3 líneas seccionales** en el mismo caño (ver limitaciones de corriente/amperaje y capacidad térmica).
 
-# **Puesta a tierra (PAT) y conductor de protección**
+#### **g. Escalas en planos**
+- **Escala 1:100**: 1 cm en el plano = 1 metro en la realidad.
+- **Escala 1:50**: 1 cm en el plano = 0,5 metros en la realidad.
+- **Escalímetro**: Herramienta para medir directamente en el plano según la escala. Si no se tiene, se puede usar una regla, pero ajustando las medidas según la escala.
 
-* **Conductor de protección (desnudo o verde-amarillo):** norma indica que, cuando acompaña la alimentación, **su sección debe ser igual a la del conductor de entrada** (ej.: si la alimentación es 10 mm², la toma a tierra que acompaña también 10 mm²).
 
-* Hay casos donde la norma fija mínimo **2,5 mm²** para el conductor de protección en circuitos (valor práctico frecuente para tomas).
+#### **h. Lista de materiales**
+- **Formato**: Incluir ítems, cantidades, unidades y características (por ejemplo, "Caño 3/4", 6 unidades, PVC rígido").
+- **Ejemplo práctico** (basado en el plano del pizarrón):
+  - Cajas octogonales: 3 unidades.
+  - Cajas rectangulares 5x10: 5 unidades.
+  - Caja cuadrada 10x10: 1 unidad.
+  - Caños 7/8": 3 unidades (8,05 m).
+  - Caños 3/4": 6 unidades (16,35 m).
+  - Curvas 7/8": 2 unidades.
+  - Curvas 3/4": 4 unidades.
+  - Conectores 7/8": 2 unidades.
+  - Conectores 3/4": 12 unidades.
+  - Cuplas 7/8": 6 unidades.
+  - Cuplas 3/4": 12 unidades.
+  - Ganchos U: 2 unidades.
+- **Precios**: El profesor menciona usar sitios como ElectroMisiones para obtener precios actualizados y códigos de materiales, lo que facilita elaborar presupuestos.
 
-* Para secciones mayores (menciones en clase: hasta 16 mm² igual; a partir de 25 mm² puede admitirse reducción) — **confirmar en la norma aplicable** si vas a diseñar/ejecutar.
 
-# **Jabalinas, equipotencialidad y caída por descargas**
+#### **i. Errores comunes y recomendaciones**
+- **No respetar normas**: Usar más de 3 curvas entre cajas, doblar caños en lugar de usar curvas preformadas, o no eliminar rebarbas.
+- **Mediciones incorrectas**: No considerar subidas/bajadas al cielorraso o usar la escala incorrecta.
+- **Desperdicio de materiales**: Cortar caños innecesariamente, generando pérdidas.
+- **Estética**: No seguir la "regla del buen arte" en instalaciones exteriores, dejando caños o cajas mal alineados.
 
-* El PAT comprende todo: bornera, bajada, cámara de inspección, jabalina, etc.
-
-* Si hay varias jabalinas/tableros, **deben unirse (equipotencial)** para evitar corrientes inversas por descargas (rayos) que dañen tableros.
-
-* Resistencia objetivo: menciones prácticas decían **\< 40 Ω** como referencia; para proyectos especiales se busca mucho menor (ej.: \~5 Ω).
-
-* Las protecciones contra rayos reducen/atenuan descargas, pero **no eliminan totalmente** el riesgo; los dispositivos tienen vida útil.
-
-# **Pararrayos (protección) — apuntes prácticos**
-
-* Diseño y tipos han evolucionado (puntas Franklin vs otras soluciones); actualmente hay alternativas internacionales que permitieron reducir cantidad de puntas.
-
-* **La corriente de un rayo es enorme**; las soluciones atenúan pero no siempre previenen todos los daños.
 
 ---
 
-# **Escalas y cómo medir sin regla**
 
-* **Entender la escala:** el denominador indica cuántas veces está reducida la medida real (ej.: **1:100 → 1 cm en el plano \= 1 m real**; **1:50 → 1 cm \= 0,50 m**; **1:1 → tamaño real**).
+### **3. Resumen de la clase**
+El profesor explica cómo interpretar un plano eléctrico y calcular los materiales necesarios para una canalización, siguiendo normativas técnicas (IRAM). Los puntos principales son:
+- **Canalizaciones**: Deben mantener la misma sección interna, usar curvas de 90° o más, y un máximo de 3 curvas entre cajas.
+- **Accesorios**: Usar cuplas roscadas, conectores y boquillas adecuados. Eliminar rebarbas para proteger los cables.
+- **Cajas**: Colocarlas accesibles, a 0,30 m del cielorraso, cada 12 m (horizontal) o 15 m (vertical).
+- **Cálculo de materiales**: Dividir el plano en tramos, medir con escalímetro, sumar subidas/bajadas, y elaborar una lista detallada.
+- **Práctica**: Minimizar desperdicios, respetar la estética (especialmente en exteriores), y seguir la "regla del buen arte".
+- **Puesta a tierra**: Usar conductores de la misma sección que la entrada y conectar jabalinas para equipotencialidad.
 
-* **Si no tenés regla:** usar hoja cuadriculada y contar las cuadriculas según la escala (asignar cuantas cuadras \= 1 metro según el tamaño del cuadriculado).
-
-* **Aplicar simbología eléctrica** sobre el plano ya escalado (símbolos según la función del elemento).
-
-# **Método práctico para levantar medidas (trabajo con tramos)**
-
-* **Dividir el plano por sectores** y trabajar tramo por tramo (ej.: tramo 1→2, 1→3, 3→4, etc.).
-
-* Marcar hasta dónde mediste para poder retomar después sin perderte.
-
-* Tomar tramos facilita calcular longitudes de cañería, cantidad de cajas, recorridos y evita errores por hacer todo de una vez.
-
-# **Lista de materiales — cómo generar y organizar**
-
-* **Hacer una planilla** con: ítem, descripción, cantidad, características, precio unitario, precio total.
-
-* **Ordenar por ítems (1,2,3...)** para que el proveedor / comprador pueda tachar lo que ya tiene y pedir solo lo necesario.
-
-* Separar listas según necesidad: **solo canalización**, **solo materiales eléctricos**, o **lista total** según lo que te pidan.
-
-# **Presupuesto y compras**
-
-* Obtener **presupuestos** con códigos y precios unitarios (ejemplo práctico: usar catálogos online como ElectroMisiones para referencia de códigos/precios).
-
-* Considerar **descuentos por cantidad** y la posibilidad de condiciones de compra como crédito o devolución (si el proveedor lo permite).
-
-* **Conocer los materiales** (código y apariencia) para pedir exactamente lo que corresponde — evita confusiones en el mostrador.
-
-# **Buenas prácticas en obra y gestión de tiempo**
-
-* Trabajar por **bloques temporales**: hacer pausas (ej.: media hora) para mantener calidad y no cansarse.
-
-* **Revisar y anotar** lo que ya se compró o existe en obra para no duplicar compras.
-
-* Llevar **márgenes razonables** (evitar comprar muchísimo sin cálculo; tampoco quedarse corto) — ajustar según tipo de material (cables, caños, curvas).
-
-# **Consejos prácticos finales**
-
-* Anotar **códigos** y **cantidades exactas** (no “aprox.”) cuando sea posible.
-
-* Preparar la lista como **presupuesto entregable** al propietario con precio unitario y total.
-
-* Guardar comprobantes y anotar devoluciones o sobrantes para futuras obras.
 
 ---
 
-# **Unidades y mediciones**
 
-* **Siempre especificar la unidad correcta**: un cable se pide en **metros**, no “1 unidad de 1 metro”.
+### **4. Respuesta a preguntas implícitas**
+- **¿Por qué es importante la normativa?** Garantiza seguridad, funcionalidad y durabilidad de la instalación, además de cumplir con requisitos legales.
+- **¿Cómo evitar errores en obra?** Planificar con un plano claro, usar herramientas adecuadas (escalímetro), y seguir las normas.
+- **¿Qué hacer si falta un material en obra?** En casos excepcionales (como estar en una zona rural), se pueden usar soluciones temporales (como un caño de mayor diámetro unido con alambre), pero siempre priorizando la normativa y la seguridad.
 
-* En la lista cada ítem debe llevar **unidad**, cantidad y características si corresponde.
-
-# **Especificaciones técnicas (características)**
-
-* Para elementos con prestaciones distintas (interruptores, térmicas, módulos, disyuntores) **indicar capacidad / característica**: capacidad de ruptura (ej. 4kA, 6kA), curva (B, C), amperaje (10A, 20A), etc.
-
-* **Las diferencias técnicas afectan precio y desempeño**: no todo vale igual.
-
-# **Calidad vs precio**
-
-* Poner **mejor calidad en componentes críticos** (interruptor general, disyuntor principal).
-
-* En circuitos secundarios se puede optar por marcas más económicas **siempre que la carga asignada sea menor** (dimensionar para no sobredimensionar el equipo barato).
-
-* La diferencia está en: capacidad de cortocircuito, tiempo de reacción y mecanismos internos (p. ej. cámara apagachispa).
-
-# **Conteo y marcación en el plano**
-
-* **Primero localizar y marcar** en el plano dónde va cada caja, curva y conector (marcar con lápiz).
-
-* Contar cajas (tipos y tamaños: 5x10, 10x10, octogonales) y anotarlas como cantidades exactas.
-
-* Contar **conectores** por **entrada y salida** de cada caño (ej.: conectores 3/4).
-
-* Contar **curvas** por recorrido (anotar curvas de 3/4 y de 7/8 por separado).
-
-* Marcar tramos y llevar control de hasta dónde mediste para retomar después.
-
-# **Cómo contar curvas y conectores**
-
-* Identificar recorrido: cada cambio de dirección y cada entrada/salida a caja representa un **conector**.
-
-* Contar curvas por tramo (ej.: “tengo 4 curvas de 3/4”); traslada eso a la lista.
-
-* Separar conectores/curvas por diámetro (3/4, 7/8, 1 pulgada, etc.).
-
-# **Errores frecuentes y precauciones**
-
-* **No confundir “unidad” con “metro”** al pedir cables.
-
-* No sobrecomprar cajas (son voluminosas y caras) — pero tampoco quedarse corto en cajas de paso.
-
-* En fotocopias distintas: **confrontar tu plano** con el plano que te dieron y anotar diferencias antes de comprar.
-
-# **Organización de la lista**
-
-* Ordenar por ítem (1,2,3...) para que el proveedor pueda tachar lo que ya tiene.
-
-* Incluir **código** y **marca** cuando sea necesario (evita errores en mostrador).
-
-* Colocar columna de características (por ejemplo “usar Cambres en tomas informáticas”).
-
-# **Recomendación práctica final**
-
-* **Marcar el plano** (lápiz) y luego trascribir a la planilla: ítem / código / unidad / cantidad / precio unitario / total.
-
-* Antes de cerrar compra, **verificar** cajas grandes y elementos que no se pueden devolver o cambiar fácilmente.
-
-* Seguir el plano: si el plano manda 3 cajas, pedir 3; si necesitas más por obra, anotar como adicional y avisar.
 
 ---
 
-# **Medición y método**
 
-* **Primero elegir diámetro** a calcular (ej.: **7/8**).
+### **5. Siguientes pasos**
+El profesor menciona que la próxima clase abordará el cálculo de conductores (cables) para el mismo plano, complementando la canalización. También se profundizará en la simbología eléctrica, la domótica y otros sistemas (como telefonía o portero eléctrico).
 
-* **Medir en plano con escalímetro** (o regla) en la escala correspondiente (1:50 o 1:100) tomando la distancia recta entre puntos (ej.: caja → bajada del aire \= **6,50 m**).
-
-* **Medir alturas (cotas)**: caja de paso suele quedar **0,30 m** del cielorraso; el tomacorriente del aire está a **1,75 m** del piso.
-
-* Si el cielorraso está a **3,00 m**, la distancia desde cielorraso hasta el toma \= **3,00 − 1,75 \= 1,25 m** (esa es la bajada).
-
-# **Cálculo de longitud de cañería 7/8**
-
-* Sumar: **caja de paso hasta el cielorraso (0,30) \+ tramo horizontal (6,50) \+ bajada (1,25) \= 8,05 m** (longitud total del recorrido de 7/8).
-
-* Dividir por la longitud útil de cada caño (ej.: **3,00 m**): **8,05 / 3 \= 2,683… → redondear hacia arriba → 3 caños**.
-
-# **Curvas y accesorios**
-
-* Contar curvas del recorrido: en este ejemplo **2 curvas de 7/8** (una para salir de la caja de paso, otra para la bajada).
-
-* Contar conectores/entradas/salidas según cada caja en el plano.
-
-# **Reglas prácticas y recomendaciones**
-
-* **Medir “recto”** el recorrido superior y **sumar** la bajada y las alturas calculada por cotas(alturas) (no medir la bajada sobre el plano horizontal).
-
-* **Medir desde la caja de paso** (siempre referencia desde la caja).
-
-* **Redondear hacia arriba** al comprar caños; considerar siempre **reserva/merma** (por cortes, rebabas, errores) — p. ej. \+1 caño o \+10%.
-
-* Marcar en el plano con lápiz cada tramo, curva y conector antes de pasar a la planilla.
-
-# **Resultado práctico cañería 7/8**
-
-* Longitud total: **8,05 m** → **3 caños de 3 m**.
-
-* Curvas necesarias: **2 curvas de 7/8**.
-
----
-
-* **Herramientas y escala:** usar **escalímetro** para planos en **1:50**; si sólo tenés regla usar **1:100** (1 cm \= 1 m).
-
-* **Medir por tramos y en trayectoria:** dividir el plano en tramos (por ejemplo para calcular cañería de 3/4: 1→3, 3→4, 4→5, 3→6, 3→7) y medir cada tramo en orden (no medir al azar).
-
-* **Referencia de alturas:** las cajas de cielorraso están a **0,30 m** del cielorraso; para la bajada calcular **cielorraso − altura del toma** (ej. 3,00 − 1,75 \= 1,25 m).
-
-* **Medir desde el centro de la caja** (centro de la boca) como referencia habitual.
-
-* **Columnas y caño pasante:** no embutir cajas en columnas; si hay que cruzar columnas poner **caño pasante (de 1 pulgada)** antes de colar la columna.
-
-* **Ortogonalidad y prolijidad (la “regla del buen arte”):** canalizaciones limpias, ortogonales y que no desentonen con terminaciones (especialmente en ladrillo o madera vista).
-
-* **Contar accesorios en el plano:** marcar y contabilizar **curvas, conectores y cajas** en el plano con lápiz antes de pasar la lista de materiales.
-
-* **Calidad y estética:** elegir marca/acabado apropiado cuando la estética importe; en componentes críticos priorizar mejor calidad.
-
-* **Redondeo:** dividir la longitud total por la longitud del caño (3 m) y **redondear hacia arriba**; añadir reserva si se requiere (+1 caño o % según obra).
-
-# **Cálculo cañeria 3/4**
-
-* Tramo 1–3 \= 2,00 → más 0,30 (cielorraso) \= **2,30 m**.
-
-* Tramo 3–4 \= **3,00 m**.
-
-* Tramo 4–5 \= 1,50 \+ bajada 1,25 \= **2,75 m**.
-
-* Tramo 3–6 \= 2,20 \+ bajada 2,60 \= **4,80 m**.
-
-* Tramo 3–7 \= 1,50 \+ bajada 1,90 ≈ **3,50 m** (redondeado).
-
-Suma paso a paso (digit-by-digit):
-
-* 2,30 \+ 3,00 \= 5,30
-
-* 5,30 \+ 2,75 \= 8,05
-
-* 8,05 \+ 4,80 \= 12,85
-
-* 12,85 \+ 3,50 \= **16,35 m** (longitud total de cañería 3/4)
-
-División para caños de 3 m:
-
-* 16,35 ÷ 3 \= **5,45** → **redondear hacia arriba \= 6 caños de 3 m**.
-
-# **Recomendaciones rápidas**
-
-* Marcar todo en el plano antes de confeccionar la lista.
-
-* Comprar **siempre un poco de sobra** por cortes/rebabas/errores.
-
-* Verificar columnas/planos de estructura por si hay desvíos o caños pasantes necesarios.
-
----
-
-# **Plano del pizarrón y derivaciones**
-
-* El plano del pizarrón sirve como **ejemplo de recorrido** y permite discutir variantes (p. ej. poner el tomacorriente en otro punto o derivar dentro de la misma caja).
-
-* **Se puede derivar dentro de una caja** (hacer ramales hacia distintas bocas) si el espacio y la normativa lo permiten.
-
-# **Cantidad de caños ya calculada**
-
-* Resultado mostrado: **16,35 m** de cañería total (3/4) → **16,35 ÷ 3 \= 5,45 → redondeo → 6 caños**.
-
-# **Uniones / cuplas (qué pedir y por qué)**
-
-* **No olvides las cuplas/uniones** al hacer la lista de materiales (3/4 y 7/8 según corresponda).
-
-* Regla práctica explicada: **multiplicar la cantidad de caños por 2** para estimar cuplas (p. ej. 3 caños → 6 cuplas; 6 caños → 12 cuplas).
-
-* Motivo: en roscado no se pueden enroscar dos caños directamente sin una cupla; además los recortes requieren empalmes.
-
-# **Pérdidas y economía en obra**
-
-* **Evitar desperdicio**: cortar mal o dejar sobrantes acumulados supone pérdida económica.
-
-* Planificar cortes y uniones para **minimizar recortes** y pérdida de material — importante si vas a presupuestar con material incluido.
-
-# **Organización y control**
-
-* Antes de comprar: **marcar plano** (cajas, curvas, conectores), listar caños, cuplas, curvas y conectores por diámetro.
-
-* Llevar registro para que el proveedor pueda tachar lo que ya se tiene.
-
-# **Tipos de instalación y estética**
-
-* Diferencia **embutido vs. exterior**: en obra nueva se prefiere embutido; en existente o columnas, usar exterior o caño pasante.
-
-* Si la estética importa (ladrillo o madera a la vista), elegir línea y acabado apropiados (ej. línea “cobre”) y fijaciones prolijas; la instalación debe quedar **discreta y ordenada**.
-
-# **Caño pasante y columnas**
-
-* **No picar columnas**: antes de colar, colocar caños pasantes (p. ej. 1") para permitir futuras pasadas.
-
-* Evitar ubicar cajas sobre columnas; si se debe, usar soluciones previas de pasantes o salidas exteriores bien resueltas.
-
-# **Normas prácticas / simbología / colores**
-
-* En planos eléctricos, se acostumbra **resaltar en rojo** la instalación eléctrica para distinguirla de otros oficios.
-
-* Se mencionan además TV, telefonía, timbre, portero, y la evolución hacia **domótica** (control por celular).
-
-# **Notación y lectura rápida**
-
-* **PR 0,20** → PVC rígido (ejemplo de notación).
-
-* Ejemplo de línea típica: **2×2,5 mm² \+ tierra** o **3 conductores \+ 1 de 1,5 mm² \+ tierra**, según el circuito.
-
-* Si no sabes qué cañería usar podes determinarla mirando la sección del conductor. 3/4 mínima cañería admisible. 7/8 para conductor de 4mm².
-
-# **Consejos prácticos finales**
-
-* Siempre incluir **cuplas** en la lista y prever sobra por recortes.
-
-* Priorizar calidad donde importe (estética, cuadro principal) y usar referencias/códigos para evitar errores en mostrador.
-
-* Mantener el plano y la lista sincronizados; revisar planos de estructura por columnas o vigas que cambien el trazado.
 
 ![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgen8l7Ew7bg8ShgqSYVMQEsaz-5bLMzAsC_wZJVS1O3vdUyVVcRldAQ-r-WX22yC2MB_9_ijkpz4SyJEwIxQJVpcN1UTYsyGy-V4V_ZaYu8Efz-m5f0rOtJfRtNSMOeEijTMJn8h_S4xpl-PJI54w5Ev96TH39LgKj9GSQznd6FIFboIA-pNcrHURDEoE/s4160/IMG_20250805_185125382.jpg)
 ![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjf3jfoaXVEDPLHBT8JrTd-1bq5abLKVK7u8GWqEoFMNNOmIFluXh0Ybqxh2aeyEtpgSlpoXFPRfhPN-ygs7ur5vUDlxaz_E5yeE_RxWchv1yJplSTqQqHhEKCtrICkvdSdVj6W7xuWgsrDsf09xlf6jdy2GmS3LPECBxU4wFU4rxY2DasYDYB9l51J980/s4160/IMG_20250806_195752324.jpg)
