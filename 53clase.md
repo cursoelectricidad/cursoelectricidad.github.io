@@ -118,7 +118,7 @@
 
 * Si hay varias jabalinas/tableros, **deben unirse (equipotencial)** para evitar corrientes inversas por descargas (rayos) que dañen tableros.
 
-* Resistencia objetivo: menciones prácticas decían **\< 40 Ω** como referencia; para proyectos especiales se busca mucho menor (ej.: \~5 Ω) — **ver normativa local**.
+* Resistencia objetivo: menciones prácticas decían **\< 40 Ω** como referencia; para proyectos especiales se busca mucho menor (ej.: \~5 Ω).
 
 * Las protecciones contra rayos reducen/atenuan descargas, pero **no eliminan totalmente** el riesgo; los dispositivos tienen vida útil.
 
@@ -148,7 +148,7 @@
 
 # **Lista de materiales — cómo generar y organizar**
 
-* **Hacer una planilla** con: ítem, descripción, cantidad, observaciones, precio unitario, precio total.
+* **Hacer una planilla** con: ítem, descripción, cantidad, características, precio unitario, precio total.
 
 * **Ordenar por ítems (1,2,3...)** para que el proveedor / comprador pueda tachar lo que ya tiene y pedir solo lo necesario.
 
@@ -184,7 +184,7 @@
 
 * **Siempre especificar la unidad correcta**: un cable se pide en **metros**, no “1 unidad de 1 metro”.
 
-* En la lista cada ítem debe llevar **unidad (m, unid, m², etc.)**, cantidad y observación si corresponde.
+* En la lista cada ítem debe llevar **unidad**, cantidad y características si corresponde.
 
 # **Especificaciones técnicas (características)**
 
@@ -214,11 +214,11 @@
 
 # **Cómo contar curvas y conectores**
 
-* Identificar recorrido: cada cambio de dirección y cada entrada/salida a caja genera **conector**.
+* Identificar recorrido: cada cambio de dirección y cada entrada/salida a caja representa un **conector**.
 
 * Contar curvas por tramo (ej.: “tengo 4 curvas de 3/4”); traslada eso a la lista.
 
-* Separar conectores/curvas por diámetro (3/4, 7/8, 1", etc.).
+* Separar conectores/curvas por diámetro (3/4, 7/8, 1 pulgada, etc.).
 
 # **Errores frecuentes y precauciones**
 
@@ -230,11 +230,11 @@
 
 # **Organización de la lista**
 
-* Ordenar por ítem y subítem (1,2,3...) para que el proveedor pueda tachar lo que ya tiene.
+* Ordenar por ítem (1,2,3...) para que el proveedor pueda tachar lo que ya tiene.
 
 * Incluir **código** y **marca** cuando sea necesario (evita errores en mostrador).
 
-* Colocar columna de observaciones (p. ej. “usar Cambres en tomas informáticas”).
+* Colocar columna de características (por ejemplo “usar Cambres en tomas informáticas”).
 
 # **Recomendación práctica final**
 
@@ -258,19 +258,19 @@
 
 # **Cálculo de longitud de cañería 7/8**
 
-* Sumar: **boca arriba (0,30) \+ tramo horizontal (6,50) \+ bajada (1,25) \= 8,05 m** (longitud total del recorrido de 7/8).
+* Sumar: **caja de paso hasta el cielorraso (0,30) \+ tramo horizontal (6,50) \+ bajada (1,25) \= 8,05 m** (longitud total del recorrido de 7/8).
 
 * Dividir por la longitud útil de cada caño (ej.: **3,00 m**): **8,05 / 3 \= 2,683… → redondear hacia arriba → 3 caños**.
 
 # **Curvas y accesorios**
 
-* Contar curvas del recorrido: en este ejemplo **2 curvas de 7/8** (una para salir de la caja, otra para la bajada).
+* Contar curvas del recorrido: en este ejemplo **2 curvas de 7/8** (una para salir de la caja de paso, otra para la bajada).
 
 * Contar conectores/entradas/salidas según cada caja en el plano.
 
 # **Reglas prácticas y recomendaciones**
 
-* **Medir “recto”** el recorrido superior y **sumar** la bajada calculada por cotas (no medir la bajada sobre el plano horizontal).
+* **Medir “recto”** el recorrido superior y **sumar** la bajada y las alturas calculada por cotas(alturas) (no medir la bajada sobre el plano horizontal).
 
 * **Medir desde la caja de paso** (siempre referencia desde la caja).
 
@@ -288,13 +288,13 @@
 
 * **Herramientas y escala:** usar **escalímetro** para planos en **1:50**; si sólo tenés regla usar **1:100** (1 cm \= 1 m).
 
-* **Medir por tramos y en trayectoria:** dividir el plano en tramos (ej.: 1→3, 3→4, 4→5, 3→6, 3→7) y medir cada tramo en orden (no medir al azar).
+* **Medir por tramos y en trayectoria:** dividir el plano en tramos (por ejemplo para calcular cañería de 3/4: 1→3, 3→4, 4→5, 3→6, 3→7) y medir cada tramo en orden (no medir al azar).
 
 * **Referencia de alturas:** las cajas de cielorraso están a **0,30 m** del cielorraso; para la bajada calcular **cielorraso − altura del toma** (ej. 3,00 − 1,75 \= 1,25 m).
 
 * **Medir desde el centro de la caja** (centro de la boca) como referencia habitual.
 
-* **Columnas y caño pasante:** no embutir cajas en columnas; si hay que cruzar columnas poner **caño pasante (p. ej. 1")** antes de colar la columna.
+* **Columnas y caño pasante:** no embutir cajas en columnas; si hay que cruzar columnas poner **caño pasante (de 1 pulgada)** antes de colar la columna.
 
 * **Ortogonalidad y prolijidad (la “regla del buen arte”):** canalizaciones limpias, ortogonales y que no desentonen con terminaciones (especialmente en ladrillo o madera vista).
 
@@ -302,7 +302,7 @@
 
 * **Calidad y estética:** elegir marca/acabado apropiado cuando la estética importe; en componentes críticos priorizar mejor calidad.
 
-* **Redondeo y merma:** dividir la longitud total por la longitud del caño (3 m) y **redondear hacia arriba**; añadir reserva si se requiere (+1 caño o % según obra).
+* **Redondeo:** dividir la longitud total por la longitud del caño (3 m) y **redondear hacia arriba**; añadir reserva si se requiere (+1 caño o % según obra).
 
 # **Cálculo cañeria 3/4**
 
@@ -393,6 +393,8 @@ División para caños de 3 m:
 * **PR 0,20** → PVC rígido (ejemplo de notación).
 
 * Ejemplo de línea típica: **2×2,5 mm² \+ tierra** o **3 conductores \+ 1 de 1,5 mm² \+ tierra**, según el circuito.
+
+* Si no sabes qué cañería usar podes determinarla mirando la sección del conductor. 3/4 mínima cañería admisible. 7/8 para conductor de 4mm².
 
 # **Consejos prácticos finales**
 
