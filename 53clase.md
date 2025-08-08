@@ -248,7 +248,7 @@
 
 # **Medición y método**
 
-* **Primero elegir diámetro** a calcular (ej.: **7/8**).
+* **Primero elegir diámetro** a calcular (ej.: cañería de **7/8**).
 
 * **Medir en plano con escalímetro** (o regla) en la escala correspondiente (1:50 o 1:100) tomando la distancia recta entre puntos (ej.: caja → bajada del aire \= **6,50 m**).
 
