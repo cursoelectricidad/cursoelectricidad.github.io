@@ -34,7 +34,7 @@
 
 * **Unión ideal: cupla roscada**; no usar trozos de caño de mayor sección (pueden marcar la aislación).
 
-* En emergencia, se admite usar un **manguito/caño de mayor diámetro** como sleeve (p. ej. usar 7/8 para unir 3/4), fijado y trincado, pero es excepcional.
+* En emergencia, se admite usar un **manguito/caño de mayor diámetro** como manga (p. ej. usar 7/8 para unir 3/4), fijado y trincado, pero es excepcional.
 
 * **Siempre desbarbar** (interior y exterior) tras cortar caños para evitar rebabas que pelan la aislación.
 
