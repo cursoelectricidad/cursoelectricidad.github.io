@@ -404,73 +404,13 @@ División para caños de 3 m:
 * Mantener el plano y la lista sincronizados; revisar planos de estructura por columnas o vigas que cambien el trazado.
 
 
-# Grok
-
-### **1. Contexto General**
-La clase se centra en la enseñanza de cómo realizar canalizaciones eléctricas, que son los sistemas de tuberías (caños) utilizados para proteger y guiar los conductores eléctricos en una instalación. El profesor utiliza un plano y una fotocopia de un reglamento técnico (probablemente basado en normas como IRAM 2224 y 2005) para explicar cómo seleccionar, instalar y calcular los materiales necesarios, como caños, curvas, cuplas, conectores y cajas. La discusión incluye tanto aspectos teóricos (normas) como prácticos (cómo medir y calcular en un plano, cómo evitar errores en obra).
-
-
----
-
-
-### **2. Conceptos Clave Explicados**
-
-
-#### **a. Canalizaciones y su propósito**
-- **Definición**: Las canalizaciones son sistemas de caños (metálicos o de PVC) que protegen los cables eléctricos, facilitan su instalación y evitan daños en la aislación.
-- **Normativa**: Según el reglamento (mencionado en la página 32, segundo párrafo), los caños y accesorios deben mantener la misma sección interna a lo largo de todo el recorrido para no dificultar el paso de los cables ni dañar su aislación.
-- **Materiales**: Se utilizan caños de diferentes diámetros (3/4", 7/8", 1") y materiales (hierro o PVC). Los caños de hierro son más resistentes pero propensos a generar rebarbas (que deben eliminarse para no dañar los cables), mientras que los de PVC son más prácticos y no requieren roscado.
-
-
-#### **b. Accesorios de canalización**
-- **Curvas**: Se usan para cambiar la dirección del caño (generalmente en 90°). El reglamento establece que:
-  - No se deben usar curvas con ángulos menores a 90° para no reducir la sección interna.
-  - Se recomienda un máximo de **3 curvas** entre dos cajas, siendo lo ideal **2 curvas** para facilitar el paso de los cables.
-  - Las curvas deben ser preferentemente compradas (no dobladas en obra), ya que un doblado incorrecto puede aplastar el caño y reducir su sección.
-- **Cuplas**: Son elementos que unen dos caños. Pueden ser roscadas (para caños de hierro) o a presión (para PVC). El profesor enfatiza que:
-  - La cupla ideal es la roscada, ya que garantiza una unión segura sin dañar la aislación.
-  - No se permite usar trozos de caño de mayor sección como unión, ya que pueden marcar o dañar los cables.
-- **Conectores y boquillas**: Se utilizan para unir caños a cajas. Según la norma IRAM, las cajas deben tener:
-  - Una tuerca en el exterior y una boquilla en el interior.
-  - Esto asegura una unión firme y evita daños a los cables al entrar o salir de la caja.
-
-
-#### **c. Cajas de paso y derivación**
-- **Función**: Las cajas de paso facilitan la instalación, mantenimiento y reemplazo de conductores. También permiten derivaciones (bifurcaciones) en la instalación.
-- **Normas de instalación**:
-  - No deben colocarse más de **3 curvas** entre dos cajas consecutivas.
-  - En tramos rectos horizontales, se debe instalar una caja cada **12 metros**.
-  - En tramos verticales, una caja cada **15 metros**.
-  - Las cajas deben ser accesibles y no deben quedar tapadas por muebles o estructuras fijas.
-  - La ubicación ideal de las cajas de paso es a **0,30 metros del cielorraso**, para facilitar el acceso y evitar trabajar en posiciones incómodas (como en el cielorraso directamente).
-- **Tipos de cajas**:
-  - **Octogonales**: Usadas comúnmente para empalmes o derivaciones.
-  - **Rectangulares (10x5 cm o 5x10 cm)**: Para tomas o interruptores.
-  - **Cuadradas (10x10 cm)**: Usadas en ciertos casos específicos, como derivaciones principales.
-
-
-#### **d. Cálculo de materiales en un plano**
-El profesor enseña cómo calcular los materiales necesarios (caños, curvas, cuplas, conectores) a partir de un plano en escala (1:50 o 1:100). Los pasos son:
-
-
-1. **Identificar tramos**: Dividir el plano en tramos rectos (por ejemplo, de caja a caja o de caja a toma).
-2. **Medir con escalímetro**: Usar un escalímetro para medir las distancias en el plano, considerando la escala (1 cm = 1 metro en escala 1:100, o 1 cm = 0,5 metros en escala 1:50).
-3. **Sumar alturas**: Incluir las distancias verticales (subidas y bajadas desde el cielorraso, que suele estar a 3 metros de altura).
-4. **Calcular caños**: Dividir la longitud total de cada tipo de caño (3/4" o 7/8") por 3 metros (longitud estándar de un caño) y redondear hacia arriba.
-5. **Contar accesorios**:
-   - **Curvas**: Contar las curvas necesarias en cada cambio de dirección (máximo 3 por tramo).
-   - **Cuplas**: Estimar 2 cuplas por caño como regla práctica, aunque puede variar según recortes.
-   - **Conectores**: Contar entradas y salidas de cada caja.
-6. **Lista de materiales**: Crear una planilla con ítems, cantidades, unidades y características (por ejemplo, "caño 3/4", 6 unidades; "curva 3/4", 4 unidades).
-
-
 **Ejemplo del cálculo (basado en el plano del pizarrón)**:
-- **Caño 7/8"** (para alimentación principal):
+- **Caño 7/8"** (para cable 4mm² aire acondicionado):
   - Tramo: Caja de paso a toma de aire acondicionado.
   - Medidas: 0,30 m (subida al cielorraso) + 6,50 m (recorrido horizontal) + 1,25 m (bajada al toma, considerando cielorraso a 3 m y toma a 1,75 m del piso) = **8,05 m**.
   - Caños necesarios: 8,05 m ÷ 3 m = 2,68 → **3 caños**.
   - Curvas: 2 (una para subir y otra para bajar).
-- **Caño 3/4"** (para circuitos secundarios):
+- **Caño 3/4"** (para 2,5mm²):
   - Tramo 1-3: 2 m + 0,30 m (subida) = 2,30 m.
   - Tramo 3-4: 3 m.
   - Tramo 4-5: 1,5 m + 1,25 m (bajada) = 2,75 m.
@@ -481,27 +421,6 @@ El profesor enseña cómo calcular los materiales necesarios (caños, curvas, cu
   - Curvas: 4 (contadas según el plano).
   - Conectores: 12 (entradas y salidas de las cajas).
   - Cuplas: 12 (2 por caño de 3/4") y 6 (2 por caño de 7/8").
-
-
-#### **e. Consideraciones prácticas**
-- **Rebarbas**: Al cortar caños (especialmente de hierro), se generan rebarbas que deben eliminarse (con una lima o pinza) para evitar dañar la aislación de los cables.
-- **Evitar desperdicios**: El profesor enfatiza minimizar recortes innecesarios de caños para ahorrar costos. Por ejemplo, usar caños completos de 3 metros y unirlos con cuplas.
-- **Instalaciones embutidas vs. exteriores**:
-  - **Embutidas**: Caños dentro de la pared, más estéticas pero requieren picar. No se pueden picar columnas estructurales, por lo que se usan caños pasantes (de mayor diámetro, como 1") antes de colar la columna.
-  - **Exteriores**: Más fáciles en obras existentes, pero deben ser prolijas ("regla del buen arte") para no afectar la estética.
-- **Prolijidad**: Las instalaciones deben ser ortogonales (líneas rectas en ángulos de 90°) y estéticamente agradables, especialmente en exteriores o en lugares visibles (como un quincho con ladrillo a la vista).
-
-
-#### **f. Puesta a tierra**
-- **Sección del conductor**: El conductor de puesta a tierra (verde-amarillo o desnudo) debe tener la misma sección que el conductor de entrada al tablero (por ejemplo, 10 mm² si la entrada es de 10 mm², hasta 16 mm²; para secciones mayores, como 25 mm², puede reducirse).
-- **Jabalinas**: Si hay tableros seccionales a gran distancia (por ejemplo, 25 metros), se puede instalar otra jabalina, pero debe estar conectada (equipotencialidad) para evitar problemas con descargas atmosféricas o cortocircuitos.
-- **Normativa**: La resistencia de la puesta a tierra debe ser menor a 40 ohm (o 5 ohm en casos específicos).
-
-
-#### **g. Escalas en planos**
-- **Escala 1:100**: 1 cm en el plano = 1 metro en la realidad.
-- **Escala 1:50**: 1 cm en el plano = 0,5 metros en la realidad.
-- **Escalímetro**: Herramienta para medir directamente en el plano según la escala. Si no se tiene, se puede usar una regla, pero ajustando las medidas según la escala.
 
 
 #### **h. Lista de materiales**
@@ -556,10 +475,6 @@ El profesor explica cómo interpretar un plano eléctrico y calcular los materia
 
 ### **5. Siguientes pasos**
 El profesor menciona que la próxima clase abordará el cálculo de conductores (cables) para el mismo plano, complementando la canalización. También se profundizará en la simbología eléctrica, la domótica y otros sistemas (como telefonía o portero eléctrico).
-
-
-
-
 
 
 ![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgen8l7Ew7bg8ShgqSYVMQEsaz-5bLMzAsC_wZJVS1O3vdUyVVcRldAQ-r-WX22yC2MB_9_ijkpz4SyJEwIxQJVpcN1UTYsyGy-V4V_ZaYu8Efz-m5f0rOtJfRtNSMOeEijTMJn8h_S4xpl-PJI54w5Ev96TH39LgKj9GSQznd6FIFboIA-pNcrHURDEoE/s4160/IMG_20250805_185125382.jpg)

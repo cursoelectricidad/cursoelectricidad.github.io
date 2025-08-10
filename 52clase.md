@@ -306,10 +306,6 @@ Acá te dejo un resumen con los puntos más importantes:
 
 ---
 
-Claro, acá va un resumen con los puntos más importantes:
-
----
-
 ### **Planificación y uso del escalímetro**
 
 * La cañería debe trazarse en forma recta sobre el plano, sin curvas innecesarias.
