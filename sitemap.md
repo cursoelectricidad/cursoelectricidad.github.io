@@ -53,7 +53,7 @@ List of pages:
 * /49clase.md: [Clase Nº 49: [FOTOCOPIA] Plano. Dibujo a escala.](/49clase.md)
 * /50clase.md: [Clase Nº 50: Continuamos con plano. Dibujo a escala. Repasamos conceptos.](/50clase.md)
 * /51clase.md: [Clase Nº 51: Repasamos simbología. Continuamos con dibujo en escala para calculo de materiales.](/51clase.md)
-* /52clase.md: [Clase Nº 52: Repaso de simbología y primeras clases para nuevos alumnos y dibujo en escala. Fotocopia de clase 49 estaba mal la definición de numerador/denominador (es al revés): El numerador es el dibujo y el denominador es el tamaño real.](/52clase.md)
+* /52clase.md: [Clase Nº 52: Repaso de simbología y primeras clases para nuevos alumnos y dibujo en escala. Fotocopia de clase 49 estaba mal la definición de numerador/denominador (es al revés): El numerador es la medida del segmento a dibujar y el denominador es la longitud real del segmento.](/52clase.md)
 * /53clase.md: [Clase Nº 53: Repasamos fotocopia vieja de agrupación de conductores. Clase importante entra en examen: Calculo de materiales: caja octogonal, caja rect. 5x10, gancho U, caja cuadrada, conectores, curvas, cañerías.](/53clase.md)
 * /contact.md: [Contacto](/contact.md)
 * /license.md: [License](/license.md)

@@ -11,6 +11,7 @@
 **Documento enviado por WhatsApp.**  
 [https://archive.org/download/record-142/interruptores%20termomag.doc](https://archive.org/download/record-142/interruptores%20termomag.doc)  
   
+El profesor Espeche dice que el Interruptor Termomagnético actúa "aguas arriba y aguas abajo", no entiendo bien que quiere decir por "aguas arriba" si se produce un cortocircuito arriba del Interruptor Termomagnético, el ITM no lo protegerá de un cortocircuito arriba, en todo caso el fusible lo protegerá.
 
 ### **✅ Resumen: Interruptores Termomagnéticos y Protección de Instalaciones Eléctricas**
 
