@@ -426,7 +426,7 @@ División para caños de 3 m:
 #### **h. Lista de materiales**
 - **Formato**: Incluir ítems, cantidades, unidades y características (por ejemplo, "Caño 3/4", 6 unidades, PVC rígido").
 - **Ejemplo práctico** (basado en el plano del pizarrón):
-  - Cajas octogonales: 3 unidades.
+  - Cajas octogonales chica: 3 unidades.
   - Cajas rectangulares 5x10: 5 unidades.
   - Caja cuadrada 10x10: 1 unidad.
   - Caños 7/8": 3 unidades (8,05 m).

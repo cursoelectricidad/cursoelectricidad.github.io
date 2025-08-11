@@ -192,7 +192,7 @@ Subscribe to RSS: [/feed.xml](/feed.xml)
 [05 Julio 2025]{.date}
 
 
-[Clase Nº 47: Chori Final. FIN CURSO AUXILIAR ELECTRICISTA. ](/47clase.md){.title}
+[Clase Nº 47: FIN CURSO AUXILIAR ELECTRICISTA. Choris.](/47clase.md){.title}
 [08 Julio 2025]{.date}
 
 

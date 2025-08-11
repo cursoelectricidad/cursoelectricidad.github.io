@@ -48,7 +48,7 @@ List of pages:
 * /44clase.md: [Clase Nº 44: Clase práctica. Como hacer RCP (Posadas Reanima)](/44clase.md)
 * /45clase.md: [Clase Nº 45: Riesgo eléctrico. Elementos de protección. Vimos videos en proyector.](/45clase.md)
 * /46clase.md: [Clase Nº 46: Fin curso de auxiliar electricista. Videos en proyector.](/46clase.md)
-* /47clase.md: [Clase Nº 47: Chori Final. FIN CURSO AUXILIAR ELECTRICISTA. ](/47clase.md)
+* /47clase.md: [Clase Nº 47: FIN CURSO AUXILIAR ELECTRICISTA. Choris.](/47clase.md)
 * /48clase.md: [Clase Nº 48: Bienvenida a nuevos alumnos. Repaso conceptos de las primeras clases. COMIENZO MONTADOR ELECTRICISTA. ](/48clase.md)
 * /49clase.md: [Clase Nº 49: [FOTOCOPIA] Plano. Dibujo a escala.](/49clase.md)
 * /50clase.md: [Clase Nº 50: Continuamos con plano. Dibujo a escala. Repasamos conceptos.](/50clase.md)
