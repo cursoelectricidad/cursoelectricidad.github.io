@@ -413,9 +413,9 @@ División para caños de 3 m:
 - **Caño 3/4"** (para 2,5mm²):
   - Tramo 1-3: 2 m + 0,30 m (subida) = 2,30 m.
   - Tramo 3-4: 3 m.
-  - Tramo 4-5: 1,5 m + 1,25 m (bajada) = 2,75 m.
-  - Tramo 3-6: 2,20 m + 2,60 m (bajada) = 4,80 m.
-  - Tramo 3-7: 1,5 m + 1,90 m (bajada) = 3,50 m.
+  - Tramo 4-5: 1,5 m + 1,25 m (bajada porque el toma está a altura 1,75 metros del piso y el cielo raso está a 3 metros: 3-1,75=1,25m) = 2,75 m.
+  - Tramo 3-6: 2,20 m + 2,60 m (bajada: 3-0,40) = 4,80 m.
+  - Tramo 3-7: 1,5 m + 1,90 m (bajada: 3-1,10) = 3,50 m.
   - Total: 2,30 + 3 + 2,75 + 4,80 + 3,50 = **16,35 m**.
   - Caños necesarios: 16,35 m ÷ 3 m = 5,45 → **6 caños**.
   - Curvas: 4 (contadas según el plano).

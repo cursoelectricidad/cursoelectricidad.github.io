@@ -9,7 +9,6 @@
 **Audio en YouTube**   
 [https://www.youtube.com/embed/AyTuVpk8-Ok](https://www.youtube.com/embed/AyTuVpk8-Ok)   
 
-### Resumen General
 El texto es una transcripción de una conversación informal en un grupo, posiblemente durante una clase o reunión de un curso de electricidad (auxiliar y montador), combinada con un asado o comida compartida. Incluye charlas casuales sobre preparativos para comer, invitados, anécdotas personales (accidentes, lesiones), discusiones técnicas sobre instalaciones eléctricas, evaluaciones del curso, conceptos clave de electricidad y planes futuros. Hay interrupciones con música, aplausos y diálogos cotidianos. El tono es amigable y educativo, con un profesor guiando a alumnos sobre teoría, práctica y seguridad, mientras se comparte comida y se celebra un cumpleaños al final.
 
 
@@ -22,7 +21,7 @@ El texto es una transcripción de una conversación informal en un grupo, posibl
 - **Evaluaciones y Notas**: Hay notas por teoría, trabajo práctico y concepto general (comunicación, entendimiento). El profesor ajusta notas para motivar (ej. regular para no desanimar), pero penaliza faltas o falta de participación. Ejemplos: un alumno con mano lesionada recibe consideración; otros desaprueban por ausencias o no estudiar.
 
 
-- **Anecdotas Personales y Seguridad**: Historias de accidentes graves (motocicleta, coma de 20 días, roturas óseas) ilustran riesgos. Se discute evitar errores como perforar cañerías (ej. plomeros desviados) o instalaciones malas (ej. circuitos bipolares en escuela, sin corte general). Importancia de cuestionar métodos y aprender de videos (YouTube de España, México, Perú) para mejorar.
+- **Anecdotas Personales y Seguridad**: Historias de accidentes graves (auto, coma de 20 días, roturas óseas) ilustran riesgos. Se discute evitar errores como perforar cañerías (ej. plomeros desviados) o instalaciones malas (ej. circuitos bipolares en escuela, sin corte general). Importancia de cuestionar métodos y aprender de videos (YouTube de España, México, Perú) para mejorar.
 
 
 - **Instalaciones y Errores Comunes**: Críticas a malas prácticas: zapatillas sobrecargadas, cables resecos por consumo excesivo, corrugados externos, fases mal distribuidas en trifásicas. Ejemplo: escuela con circuitos bipolares que no cortan todo en sobrecarga, violando normas. Recomendación: tener interruptor principal para corte total.
