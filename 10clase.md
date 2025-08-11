@@ -101,295 +101,290 @@ que le pagó la mitad de lo que habían acordado por las bocas. Caños memoria. 
 
 ---
 
-#### Resumen largo
+### Resumen largo
 
- En la clase se habló sobre los nuevos puestos de medición eléctrica que, desde principios de abril, permiten el uso de PVC además de hierro y chapa. Actualmente se pueden utilizar ambos materiales, lo que facilita a quienes tienen stock de hierro. Se mencionó que esta información se entregará impresa junto con material teórico para complementar lo visto en la práctica, especialmente sobre empalmes eléctricos y mediciones monofásicas y trifásicas.
-El profesor indicó que primero se trabajará con medición monofásica hasta 5 kW y luego con la trifásica, avanzando por etapas para no sobrecargar la información. También habló sobre la importancia de verificar que los materiales exigidos estén disponibles en proveedores como ElectroMisiones antes de iniciar trabajos.
-Se inició el tema de canalización, aunque con demoras por cuestiones logísticas, y se destacó la necesidad de tener copias impresas para todos. Hubo comentarios sobre la experiencia previa con un único proveedor y la llegada de nuevos fabricantes.
-Puntos más importantes
-* Desde abril se pueden usar gabinetes y puestos de medición con PVC además de hierro/chapa.
-
-* Aplicable tanto a mediciones monofásicas como a algunas trifásicas.
-
-* Se comenzará con medición monofásica hasta 5 kW, luego trifásica y mayores potencias.
-
-* Entrega de material teórico para reforzar lo visto en la práctica (empalmes, mediciones).
-
-* Necesidad de verificar disponibilidad de materiales en proveedores antes de comenzar.
-
-* Inicio del tema canalización, con énfasis en tener todo el material preparado.
-
-* Importancia de contar con copias impresas para todos los alumnos.
-
----
-
- El profesor explicó que, para evitar que la teoría sea pesada, se combina con prácticas. Recalcó la importancia de no dejar de hacer la parte práctica, ya que permite evaluar cómo trabajan los alumnos.
-En cuanto a la potencia eléctrica, EMSA permite un máximo de 5 kW en monofásico; a partir de allí, según la red disponible, se puede optar por trifásico.
-Monofásico y trifásico pueden tener la misma potencia total, pero la sección de los conductores varía: en monofásico es mayor porque la corriente circula por un solo conductor de fase, mientras que en trifásico la carga se reparte entre tres fases.
-Se relató un caso de falla en instalación trifásica provocada probablemente por una descarga de rayo que desligó el neutro. Al faltar neutro, una fase ingresó por su lugar, provocando que en vez de 220 V ingresaran 380 V a la vivienda, lo que quemó artefactos eléctricos.
-El profesor explicó que las térmicas y disyuntores no protegen contra este tipo de sobrevoltaje, ya que no se trata de un cortocircuito ni sobrecarga directa, sino de un aumento de tensión que los dispositivos no detectan.
-Puntos más importantes
-* EMSA: máximo de 5 kW en monofásico; para más potencia, se evalúa pasar a trifásico.
-* Misma potencia total posible en monofásico y trifásico, pero cambia la sección del conductor.
-* En trifásico, la carga se reparte en 3 fases; en monofásico, toda la carga va por una sola fase.
-* Caso real: descarga eléctrica / rayo → neutro desligado → ingreso de fase en su lugar → sobrevoltaje de 380 V en equipos de 220 V → quema de artefactos.
-* Protecciones térmicas y diferenciales no evitan daños por sobrevoltaje sin cortocircuito.
-
----
-
- El profesor relató un caso real en una escuela con medidor trifásico donde, por ausencia de neutro, comenzó a ingresar 380 V en lugar de 220 V, provocando la quema de artefactos, incluida una bomba monofásica. El problema se originó en la instalación interna, no en la red de EMSA. Al revisar, se detectó que en un mismo caño se habían colocado conductores de distintas fases, lo que generó el fallo.
-Se explicó la importancia de respetar la normativa: en una instalación trifásica, desde el tablero seccional deben salir como mínimo tres caños, uno por cada fase, y dentro de cada caño pueden ir hasta tres circuitos de la misma fase (fase + neutro + tierra). No se deben mezclar fases diferentes en el mismo caño para evitar riesgos de sobrevoltaje y quemas.
-Puntos más importantes
-* Falla real: neutro convertido en fase → ingreso de 380 V → quema de equipos.
-* El problema estaba dentro de la instalación interna, no en la red de EMSA.
-* Causa probable: mezcla de conductores de distintas fases en el mismo caño.
-* Norma: en tablero seccional trifásico deben salir mínimo 3 caños (uno por cada fase).
-* En cada caño pueden ir hasta 3 circuitos de la misma fase (fase + neutro + tierra).
-* Evitar “ahorrar” caños y meter todas las fases juntas: genera riesgos graves.
-* Ejemplo de consecuencia: bomba monofásica quemada al recibir 380 V en vez de 220 V.
-
----
-
-En la clase, el profesor cuenta un caso real en una escuela con un problema eléctrico complejo: al medir, encontraba 380 V entre fase y neutro, señal de que el neutro se había convertido en fase. Esto provocó que se quemaran equipos como la bomba monofásica.
-Para resolverlo, explicó la metodología de revisión:
-
-1. Revisar desde la fuente hacia adentro (medidor, tablero general, luego tablero seccional).
-2. Bajar térmicas, aislar sectores y medir tensiones por partes.
-3. Dividir instalaciones en sectores para ubicar el área del fallo.
-4. Inspeccionar caños y circuitos, respetando la norma que exige que en un mismo caño solo haya circuitos de la misma fase.
-
-Comentó que errores como poner fase y fase en vez de fase y neutro suelen deberse a descuidos, colores incorrectos en conductores o trabajos sin seguir normas. Estos fallos pueden provocar daños graves, incluso incendios.
-Hizo hincapié en la canalización correcta:
-* En un tablero trifásico deben salir mínimo 3 caños (uno por cada fase).
-* Cada caño puede llevar hasta 3 circuitos de la misma fase.
-* Un circuito siempre es fase + neutro (más tierra para protección).
-
-También subrayó la importancia del mantenimiento:
-* El mantenimiento preventivo evita problemas.
-* El tablero es el “corazón” de la instalación, y hay que revisar y ajustar los bornes.
-* El efecto Joule provoca dilatación y contracción, aflojando tornillos y generando falsos contactos.
-* Muchos disparos de disyuntor no son por fallo del disyuntor sino por falsos contactos o problemas en tomacorrientes.
-
-Puntos clave
-* Problema: neutro convertido en fase → tensión de 380 V entre fase y “neutro”.
-* Revisión paso a paso desde el medidor hasta los tableros seccionales.
-* Dividir la instalación en sectores para aislar el fallo.
-* Norma: en un mismo caño, solo circuitos de la misma fase.
-* Tablero trifásico: mínimo 3 caños (uno por fase), hasta 3 circuitos por caño.
-* Un circuito = fase + neutro (+ tierra).
-* Errores comunes: mala identificación de conductores, mezcla de fases en un mismo caño.
-* Mantenimiento preventivo es clave: revisar, ajustar bornes y evitar falsos contactos.
-* El efecto Joule puede aflojar conexiones con el tiempo.
-* Disyuntor que “salta” a menudo puede deberse a falso contacto, no necesariamente a un fallo del aparato.
-
----
-
-El profesor y el ayudante explican que una instalación puede “andar bien” sin conectar nada al tomacorriente porque el problema aparece solo cuando hay consumo: si existe un falso contacto, al circular corriente se produce calentamiento y disparos de protección. Por eso es clave el mantenimiento preventivo.
-Luego, pasan a hablar sobre tableros de alumbrado público y los fusibles cerámicos NH, que se usan en instalaciones de alto consumo. Estos fusibles:
-* Son de cerámica y contienen una sustancia conductora (sal especial).
-* Se cortan ante sobrecarga, pero si se reparan de forma indebida (poniendo un alambre o cable en lugar del fusible interno) pueden explotar y generar una nube de fuego peligrosa.
-* Incorporan un indicador (puntito o tapita roja) que aparece cuando el fusible se quema.
-* Deben ser usados junto con un seccionador bajo carga (permite accionar el circuito con tensión presente, como una “cuchilla” que hace contacto).
+- **Nuevos puestos de emisión**: Desde abril, se puede usar PVC. Se permiten los viejos (hierro y chapa) por stock existente.
 
 
-El profesor aclara que este tipo de fusibles no se usan en instalaciones domésticas, sino en entornos industriales, alumbrado público o lugares con alto consumo.
-
-Puntos clave
-* Una instalación puede parecer correcta hasta que hay consumo: el falso contacto se manifiesta con carga.
-* Mantenimiento preventivo = clave para evitar fallos y disparos.
-* Tableros de alumbrado público a veces están sin tapa y son peligrosos.
-* Fusible cerámico NH:
-* Uso: alto consumo, no para uso doméstico.
-* Componentes: cerámica + sal conductora.
-* Riesgo: reparaciones caseras (puente con alambre) → explosión.
-* Indicador visual de fusible quemado (puntito/tapita roja).
-* Seccionador bajo carga: dispositivo que permite abrir/cerrar el circuito con corriente; funciona como una cuchilla.
-* En alumbrado público, los NH se montan en paletas que se cierran para hacer contacto.
-
----
-
-El profesor y el ayudante introducen el tema de canalización y hacen énfasis en la verificación de fusibles antes de instalarlos, ya que algunos pueden venir defectuosos. Luego se describe la red de distribución externa, diferenciando entre cables desnudos (aún presentes en algunas zonas) y cables preensamblados (más seguros, con aislamiento reforzado).
-En la alimentación urbana, los cables preensamblados suelen venir en cuaterna (4 conductores) y presentan marcas o estrías para identificar las fases y el neutro incluso sin luz. El cobre se utiliza hasta cierta sección (4x16 mm²), a partir de la cual se emplea aluminio por economía y peso.
-Se habla también de orden y seguridad en la instalación de cañerías: evitar cruces innecesarios entre líneas de 220 V y baja tensión (telefonía, portero eléctrico) para prevenir interferencias y mantener estética y seguridad.
-En instalaciones domiciliarias con acometida aérea, la cooperativa eléctrica exige hoy en día el uso de conductor preensamblado, reemplazando el método antiguo de cables unipolares.
-
-Puntos clave
-* Prueba de fusibles antes de uso: incluso nuevos pueden estar defectuosos.
-* Tipos de cableado en distribución externa:
-* Cables desnudos: aún en uso en algunos lugares, normalmente de aluminio.
-* Cables preensamblados: 4 conductores con aislamiento reforzado, usados para líneas aéreas; identificables por estrías en las fases y superficie lisa en el neutro.
-* Material y secciones:
-* Cobre: hasta 4x16 mm² (cuatro conductores, sección de 16 mm² cada uno).
-* Aluminio: en secciones mayores por menor costo y menor peso.
-* Orden en la canalización:
-* No cruzar innecesariamente cañerías de 220 V con baja tensión.
-* Mantener rutas separadas para cada sistema para seguridad y estética.
-* Exigencias actuales:
-* En acometidas aéreas, uso obligatorio de conductor preensamblado según cooperativas eléctricas.
-
-Si querés, puedo también hacerte un esquema visual que muestre:
-* Diferencias entre cable desnudo y preensamblado.
-* Identificación de fases/neutro por estrías.
-* Correcta disposición de cañerías para evitar cruces.
-
----
-
-Tema: Conductores en acometidas
-1. Tipos de conductores
-* Unipolares simples
-* Necesitan canalización interna obligatoria.
-* Antes se usaban en acometidas: desde la línea aérea, pasando por la pipeta, entrando al medidor.
-* Protección con caño galvanizado.
-* Bipolares
-* Dos conductores (fase y neutro) unidos en un mismo cable.
-* Todavía presentes en instalaciones antiguas.
-* Capacidad menor que el preensamblado (≈30 A para 6 mm²).
-* Preensamblado
-* Hoy exigido por cooperativas y EMSA en acometidas aéreas.
-* Puede ser de cobre hasta 4×16 mm²; secciones mayores, normalmente aluminio.
-* Identificación táctil de fases y neutro (endíduras distintas).
-* Mayor capacidad de corriente: ≈45 A para 6 mm².
-* Requiere morceto para conexión a la línea.
-* Más seguro y resistente que el bipolar.
-* Antihurto / Concéntrico
-* Fase central de cobre con aislante.
-* Malla exterior de aluminio que envuelve el aislante.
-* Si se intenta cortar sin cuidado, provoca cortocircuito.
-* Diseñado para prevenir robos y conexiones clandestinas.
-* Similar al coaxil de TV en su estructura.
-
-2. Criterios de elección
-* Para acometidas aéreas nuevas → Preensamblado.
-* Para acometidas subterráneas → cables con características equivalentes en capacidad.
-* El conductor elegido debe soportar la corriente máxima prevista.
-
-3. Otros detalles
-* El cobre ya no se usa en líneas aéreas de distribución externa por riesgo de robo; se reemplaza por aluminio.
-* En la obra hay que evitar cruces innecesarios de cañerías (220 V con baja tensión, portero, telefonía).
-* Preensamblado y otros cables se piden según sección en mm², que corresponde al área de la parte conductora vista en corte.
-
-Tema: Materialización de circuitos y canalizaciones
-1. Protección de conductores
-* Los conductores unipolares dentro de una vivienda siempre deben estar protegidos por un sistema de canalización para evitar daños en la aislación.
-* Cualquier elemento mecánico (puertas, bordes, etc.) puede dañar el conductor si no está protegido.
-
-2. Tipos de canalización
-* Materiales: hierro o PVC (actualmente el más usado).
-* Ubicación:
-* Embutida (en muros o losas).
-* A la vista (superficie).
-* En obras nuevas, se prefiere canalización embutida.
-
-3. Cañerías y características
-* PVC corrugado:
-* Colores: naranja (común) y blanco ignífugo.
-* Clasificación según espesor:
-* Liviana
-* Semipesada
-* Pesada
-* El blanco ignífugo se usa donde hay riesgo de incendio, pero debe instalarse tensado, no colgando.
-* Si se coloca sobre cielorrasos sin tensar y sin bocas, está mal instalado.
-
-4. Errores comunes
-* Dejar el corrugado suelto sin terminar en una boca o caja.
-* Instalar canalizaciones solo para “pasar cable” sin cumplir normas de fijación o seguridad.
-* Usar materiales de baja calidad únicamente por abaratar costos.
-
-5. Costo vs. seguridad
-* El cliente a veces elige materiales económicos, pero el instalador debe evaluar la seguridad.
-* Ejemplo de marcas de bajo costo: SICA, productos “Made in China”.
-* Estrategia del profesor:
-* Según reglamento, un circuito puede tener hasta 15 bocas.
-* Si el material es dudoso, dividir en 2 circuitos (por ejemplo, 8 y 7 bocas) para reducir la carga por circuito y mejorar la seguridad.
-
----
-
- El profesor explicó que los conductores unipolares necesitan siempre estar protegidos mediante un sistema de canalización para evitar daños en su aislación, incluso por factores simples como una puerta. Esa canalización puede ser de hierro o PVC, embutida o a la vista, según el tipo de obra. El PVC ignífugo viene en versiones liviana, semipesada y pesada, y debe instalarse correctamente (ej. tensado en techos, no colgando).
-Comentó que en trabajos reales muchas veces se abaratan costos sacrificando seguridad, y que como electricista uno debe evaluar ese equilibrio. Recomendó dividir circuitos si se usan materiales de baja calidad para que una falla no deje toda la instalación fuera de servicio.
-Luego, habló de marcas de interruptores: mencionó que dejó de usar ABB porque el sistema de fijación al riel DIN no ajustaba bien y llegó a romper uno. Prefiere otras marcas que encajen firmemente.
-En cañerías, distinguió entre embutidas y a la vista. Las embutidas pueden ser de acero (diamantado) o de PVC. Las cañerías de acero deben colocarse con mortero de cemento y arena (3:1) para evitar corrosión, nunca con cal. El acero puede ser liviano, semipesado o pesado, variando en espesor. Antes se doblaban con la rodilla (solo liviano y semipesado), pero ahora se usan dobladoras de caños. En PVC, los dobleces se hacen con resortes internos o calentado con arena, aunque esto último es más lento.
-Recalcó que la curva debe ser mayor a 90° para evitar daños y que en hierro se usan elementos como curvas roscadas y cuplas para las uniones. También destacó que la eficiencia en el trabajo depende de experiencia, herramientas y técnica, no de “apurar” sin conocimiento.
-
-Puntos más importantes
-* Conductores unipolares siempre deben ir en canalización (hierro o PVC).
-* Canalización puede ser embutida o a la vista.
-* PVC ignífugo: liviano, semipesado, pesado (depende del espesor).
-* En techos, el corrugado debe ir tensado, no colgando.
-* Dividir circuitos si se usan materiales de dudosa calidad para mejorar seguridad.
-* Marca ABB descartada por problema en fijación al riel DIN.
-* Cañerías embutidas de hierro: usar mortero cemento-arena (3:1), nunca con cal.
-* Hierro: liviano, semipesado, pesado (pesado es industrial).
-* Curvas en hierro con cuplas y roscas; en PVC con resorte o calor.
-* Doblar caños correctamente ahorra uso de accesorios y tiempo.
-* La rapidez viene de la experiencia y las herramientas, no solo de “trabajar rápido”.
-
----
-
-El profesor contó una anécdota sobre un electricista que trabajaba para una empresa y fue contratado para hacer una instalación en la casa de un arquitecto encargado de la obra. El electricista cobró por boca (toma), pero al terminar rápido el trabajo, el arquitecto quiso pagarle menos porque pensaba que debía cobrar por horas y no por bocas instaladas. Esto refleja la importancia de tener presupuestos claros y firmados para evitar malentendidos en la obra.
-Se mencionó que a nivel nacional existen tablas oficiales con precios de mano de obra por tipo de instalación (bocas, tableros, ventilación, etc.), como las de la revista del instalador y AAIERIC, que sirven como referencia para cobrar de forma justa y estandarizada.
-Después se retomó el tema de las canalizaciones, explicando que los caños de PVC vienen en tres tipos según su resistencia: liviano, semipesado y pesado. También se habló de los "caños con memoria", que gracias a un resorte interno pueden volver a su forma original después de ser doblados. Los caños estándar vienen de 3 metros, dato útil para hacer cálculos y escalas en planos.
-Respecto a las dimensiones de los caños, se destacó que importan especialmente los diámetros internos (por ejemplo, 19 mm externo y 17 mm interno), ya que el diámetro interno determina cuánto espacio queda para pasar los conductores eléctricos. Según normativa, el espacio ocupado por los conductores debe ser máximo el 35% del diámetro interno para permitir disipación del calor.
-Finalmente, se aclaró que los conductores eléctricos en cañerías metálicas no requieren una aislación especial a menos que estén expuestos a calor intenso (como en chimeneas o parrillas), donde se usan cables con aislantes resistentes a altas temperaturas.
-
-Puntos más importantes
-* Es fundamental contar con presupuestos claros y firmados, especificando cantidad de bocas, tipos y costos, para evitar conflictos en obra.
-* Existen tablas oficiales nacionales (revista del instalador, AAIERIC) para fijar precios de mano de obra y evitar cobros arbitrarios.
-* Los caños de PVC se clasifican en liviano, semipesado y pesado, según su resistencia.
-* Los caños con memoria tienen un resorte que les permite volver a su forma original tras doblarlos.
-* Los caños vienen en tramos de 3 metros, dato importante para cálculo en planos y materiales.
-* En la elección de caños, lo que importa para el paso de cables es el diámetro interno (ejemplo 17 mm interno).
-* Según normativa, la sección ocupada por conductores debe ser máximo un 35% del diámetro interno del caño, dejando espacio para disipar calor.
-* Los cables en canalización metálica no necesitan aislación especial salvo en zonas con temperaturas muy altas, donde se usan cables con aislantes resistentes al calor.
-
-El profesor explica que en instalaciones eléctricas en zonas de calor (como cerca de una parrilla), se debe colocar la cañería en el lado donde hay menos calor, para evitar daños. En estos casos no siempre se requiere conductor especial, aunque hay cables diseñados para altas temperaturas.
-Destaca la importancia fundamental de que toda instalación eléctrica tenga tres elementos de seguridad: interruptor termomagnético, disyuntor y puesta a tierra. Estos protegen ante fallas o pérdidas de corriente, incluso si la cañería es metálica y puede transmitir la corriente de falla.
-Comenta que un buscapolo puede indicar pequeñas pérdidas pero no garantiza la protección en caso de fugas mínimas, para eso está la puesta a tierra y el diferencial.
-Se habla también de instalaciones “vintage” con cables visibles tipo tela o forrados, usados en casos especiales con baja tensión (como 24 V) para iluminación, que pueden ser válidos siempre que tengan protección.
-Finalmente, explica que en obras como escuelas, es muy importante que las canalizaciones estén bien instaladas y accesibles, especialmente en cielorrasos suspendidos de PVC. Critica que en algunos casos se apresuran y colocan el cielorraso sin hacer las canalizaciones correctamente, lo que obliga a improvisar y puede ser peligroso o incumplir normas.
-
-Puntos más importantes
-* Colocar la cañería en el lado con menos calor en zonas como parrillas para evitar daños por temperatura.
-* No siempre se requieren conductores especiales en cañerías metálicas, pero hay cables diseñados para soportar altas temperaturas en casos puntuales.
-* Toda instalación debe contar con interruptor termomagnético, disyuntor diferencial y puesta a tierra para garantizar la seguridad.
-* La cañería metálica puede transmitir pérdidas, pero la protección eléctrica adecuada debe saltar para evitar riesgos.
-* El buscapolo solo indica presencia de tensión o pequeñas fugas, pero no sustituye un sistema de protección completo.
-* Se pueden usar instalaciones visibles tipo "vintage" con cables forrados o de tela en baja tensión, siempre con protección adecuada y dentro de normativa.
-* En obras públicas como escuelas, la canalización debe ser accesible y estar bien hecha antes de colocar cielorrasos suspendidos; no se debe apresurar la obra poniendo cielorraso sin la instalación correcta.
-* La estructura que sostiene la canalización debe soportar peso para permitir inspección y mantenimiento.
-
-El profesor comenta que en obras con cielorrasos suspendidos es importante planificar bien y hacer la instalación eléctrica por etapas. Primero se debe poner la estructura o perfilería y hacer la canalización, para luego cerrar el cielorraso y evitar rehacer trabajos. Las obras deben estar bien planificadas para soportar el peso de la instalación.
-Luego explica el sistema de alimentación eléctrica subterránea, donde el cableado puede salir del poste y entrar subterráneo hasta el medidor o tablero seccional en la casa. Se recomienda que las uniones nunca se hagan bajo tierra o en zonas donde pueda entrar agua, sino dentro de cajas de conexiones adecuadas.
-El profesor describe cómo en algunos lugares, como Itaembé Guazú, la red eléctrica es mayormente subterránea y los cables llegan por cañerías de PVC, incluso dejando caños vacíos para futuras ampliaciones.
-Menciona que la corriente alterna que usamos es difícil de almacenar y que los cables canal también son un tipo de cañería a la vista que debe respetar el porcentaje máximo de ocupación (35%) para evitar calentamientos.
-Explica que las bandejas portacables son estructuras galvanizadas para colocar y guiar cables, que pueden estar en el exterior o interiores, y que permiten ordenar y separar circuitos eléctricos.
-Finalmente, menciona que el conductor subterráneo tiene un aislamiento grueso para protegerlo, pero por costos algunas empresas usan conductores con aislamiento más fino, menos ideales para exteriores o bandejas.
-
-Puntos más importantes
-* La instalación en cielorrasos suspendidos debe hacerse por etapas: primero perfilería y canalización, luego cierre del cielorraso.
-* En instalaciones subterráneas, las uniones no deben hacerse bajo tierra o en zonas húmedas, siempre dentro de cajas y fuera del suelo.
-* En algunos lugares, la alimentación eléctrica es subterránea desde el poste hasta la casa, usando conductores protegidos y cañerías de PVC, con caños adicionales para futuras ampliaciones.
-* La corriente alterna no se almacena fácilmente, a diferencia de sistemas de corriente continua como paneles solares.
-* Los cables canal son una forma de canalización a la vista que debe respetar el 35% de ocupación para disipar el calor.
-* Las bandejas portacables galvanizadas permiten organizar múltiples circuitos y pueden usarse en interior o exterior, sosteniendo el peso de los cables.
-* El conductor subterráneo tiene aislamiento grueso para protección, aunque algunas empresas usan conductores con aislación más fina para abaratar costos, lo cual no es ideal.
+- **Materiales a entregar**: Profesor dará impresiones ahora (monofásico) y trifásico más adelante, para no abrumar.
 
 
-El profesor comenta que en obras con cielorrasos suspendidos es importante planificar bien y hacer la instalación eléctrica por etapas. Primero se debe poner la estructura o perfilería y hacer la canalización, para luego cerrar el cielorraso y evitar rehacer trabajos. Las obras deben estar bien planificadas para soportar el peso de la instalación.
-Luego explica el sistema de alimentación eléctrica subterránea, donde el cableado puede salir del poste y entrar subterráneo hasta el medidor o tablero seccional en la casa. Se recomienda que las uniones nunca se hagan bajo tierra o en zonas donde pueda entrar agua, sino dentro de cajas de conexiones adecuadas.
-El profesor describe cómo en algunos lugares, como Itaembé Guazú, la red eléctrica es mayormente subterránea y los cables llegan por cañerías de PVC, incluso dejando caños vacíos para futuras ampliaciones.
-Menciona que la corriente alterna que usamos es difícil de almacenar y que los cables canal también son un tipo de cañería a la vista que debe respetar el porcentaje máximo de ocupación (35%) para evitar calentamientos.
-Explica que las bandejas portacables son estructuras galvanizadas para colocar y guiar cables, que pueden estar en el exterior o interiores, y que permiten ordenar y separar circuitos eléctricos.
-Finalmente, menciona que el conductor subterráneo tiene un aislamiento grueso para protegerlo, pero por costos algunas empresas usan conductores con aislamiento más fino, menos ideales para exteriores o bandejas.
+- **Hoja de empalme eléctrico**: Se entrega también, similar a prácticos, con parte teórica por si se olvida.
 
 
-Puntos más importantes
-* La instalación en cielorrasos suspendidos debe hacerse por etapas: primero perfilería y canalización, luego cierre del cielorraso.
-* En instalaciones subterráneas, las uniones no deben hacerse bajo tierra o en zonas húmedas, siempre dentro de cajas y fuera del suelo.
-* En algunos lugares, la alimentación eléctrica es subterránea desde el poste hasta la casa, usando conductores protegidos y cañerías de PVC, con caños adicionales para futuras ampliaciones.
-* La corriente alterna no se almacena fácilmente, a diferencia de sistemas de corriente continua como paneles solares.
-* Los cables canal son una forma de canalización a la vista que debe respetar el 35% de ocupación para disipar el calor.
-* Las bandejas portacables galvanizadas permiten organizar múltiples circuitos y pueden usarse en interior o exterior, sosteniendo el peso de los cables.
-* El conductor subterráneo tiene aislamiento grueso para protección, aunque algunas empresas usan conductores con aislación más fina para abaratar costos, lo cual no es ideal.
+- **Puesto de medición**: Es el 5° monofásico. Hay trifásicos hasta cierta potencia, luego medidores.
+
+
+- **Gabinetes**: Monofásicos y algunos trifásicos permiten PVC.
+
+
+- **Dudas sobre nuevo sistema**: Profesor escéptico por costumbre con proveedor EMSA, pero hay nuevos.
+
+
+- **Envío extra**: Mandará por WhatsApp en colores y fuente de fotocopias.
+
+
+- **Fotocopias**: Calcular 15x3=45, pero hacer 16 copias. Llevar 50 hojas para imprimir.
+
+
+- **Propósito general**: Tener recursos para consultar info cuando se necesite, ya que no todo se aprende igual.
+- **Inicio con canalización**: Clase comienza con este tema, enfocándose en práctica para evitar aburrimiento teórico.
+
+
+- **Retrasos en obra**: Profesor menciona retrasos en una obra, prefiere esperar a tener materiales uniformes.
+
+
+- **Incorporación de nuevos**: Gente nueva debía unirse hoy, pero no llegaron, posiblemente por lluvia.
+
+
+- **Material de apoyo**: Hojas de oficio para fotocopias, cortadas después; 16 juegos para 16 personas.
+
+
+- **Práctica y teoría**: Cada práctica incluye teoría para consulta si olvidan; práctica es clave, no debe omitirse.
+
+
+- **Advertencia sobre dengue**: Mosquito presente, se menciona desodorante y casos de dengue en otra escuela.
+
+
+- **Plan de trabajo**: Comenzar con sistemas de 5 kW, luego hasta 10 kW; posibilidad de hacer dos juntos.
+
+
+- **Materiales en ElectroMisiones**: Profesor verificará si todos los materiales exigidos están disponibles.
+
+
+- **Potencia monofásica y trifásica**: Monofásico hasta 5,000 kW; trifásico para mayor consumo, con diferencias en sección de cables.
+
+
+- **Importancia de la práctica**: Última hora del miércoles para quienes falten; profesor evaluará trabajo práctico.
+
+
+- **Instalaciones según potencia**: EMSA define sistemas según potencia y características del inmueble.
+- **Descarga de rayo**: Probablemente entró por puesta a tierra o neutro; causa voltaje alto (380V en lugar de 220V), quemando artefactos como ventiladores (aumenta velocidad hasta quemarse).
+
+
+- **Problema con neutro**: Si se corta el neutro (por rayo o tormenta), una fase puede entrar por él debido a campo magnético; deja de ser neutro y actúa como fase extra.
+
+
+- **Transformador explicado**: Entrada media tensión (13.2 kV), salida baja tensión (380V/220V); neutro se deriva de tierra; similar a adaptadores que bajan de 220V a 24V.
+
+
+- **Consecuencias en vivienda**: Entra 380V, quema todo lo de 220V (artefactos encendidos); olor a quemado; depende de cómo se distribuyen fases y neutro por EMSA para balancear carga.
+
+
+- **Diferencia monofásico vs. trifásico**: Misma potencia (ej. 5500-6500W), pero trifásico usa cables de sección menor (más delgados) porque divide carga en 3 fases; monofásico usa sección mayor y puede desequilibrar la línea si hay alto consumo.
+
+
+- **Ventajas trifásico**: Mejor para alto consumo; equilibra carga en las 3 fases de la línea pública; monofásico ocupa solo 1 fase.
+
+
+- **Protección insuficiente**: Térmicas y disyuntores protegen contra sobrecarga y cortocircuito, no contra sobretensión (solo voltaje alto quema equipos sin activar protección).
+- **Problema en escuela**: Medidor trifásico, sin neutro, daba 380V en lugar de 220V, quemando artefactos (olor a quemado detectado).
+
+
+- **Revisión inicial**: Profesor chequea desde el medidor hacia atrás; confirma 380V entre fase y neutro en tablero general; sospecha de línea o neutro repetido como fase.
+
+
+- **División de sectores**: Escuela con sector nuevo y viejo; desconecta todo, baja térmicas principales y seccionales para aislar el problema.
+
+
+- **Diagnóstico**: Al revisar tablero seccional, encuentra 220V en cada fase con neutro; al conectar sectores, aparece 380V, indicando que el neutro se convierte en fase.
+
+
+- **Causa probable**: Error en instalación; circuitos de distintas fases en el mismo caño, violando norma que exige circuitos de la misma fase por caño.
+
+
+- **Norma de instalación**: En trifásico, mínimo 3 caños en tablero seccional, cada uno con 3 circuitos de la misma fase (fase + neutro + tierra); evita mezclar fases.
+
+
+- **Consecuencia del error**: Bomba monofásica (220V) se quemó por recibir 380V; requiere revisar toda la instalación con paciencia.
+
+
+- **Recomendación**: En trifásico, usar caños separados por fase; un caño grueso con todos los circuitos juntos causa problemas.
+
+
+- **Importancia de la norma**: Cada caño debe tener 2 conductores (fase + neutro) más tierra, formando circuitos cerrados de la misma fase para evitar fallos.
+- **Problema con canalización**: Revisión de instalación trifásica complicada; detectan 380V (en lugar de 220V) por neutro convertido en fase, posiblemente por rayo o mala conexión.
+
+
+- **Revisión exhaustiva**: Hay que abrir todas las bocas, revisar cables y continuidad; difícil trabajar solo, requiere paciencia y escalera para chequear toda la instalación.
+
+
+- **Errores comunes**: Cables tocados por descargas (rayo) o conexiones mal hechas (fase con fase en vez de fase con neutro); en una vivienda, esto causó explosión de artefactos.
+
+
+- **Importancia de normas**: Usar colores correctos en conductores evita confusiones; en trifásico, asignar fases por sectores reduce riesgos de error o incendio.
+
+
+- **Ejemplo de riesgo**: Accidente de camión cisterna causó incendio, quemando 25 autos; destaca peligro de fallos eléctricos (como confusión de fases) que pueden incendiar.
+
+
+- **Solución propuesta**: En casos problemáticos, profesor sugiere usar monofásico (menos complejo) en lugar de trifásico, ej. en aulas con menos carga.
+
+
+- **Práctica obligatoria**: Repite práctica el miércoles, última hora, para quienes faltaron; enfatiza importancia de hacer bien la parte práctica.
+- **Empalmes**: Se entregarán fotocopias sobre empalmes para leer sus usos y características; importante para entender cómo trabajan, aunque la cantidad de estudiantes dificulta supervisión.
+
+
+- **Mantenimiento eléctrico**: Crucial, especialmente preventivo; el tablero es el "corazón" de la instalación; falta de mantenimiento causa problemas como falsos contactos.
+
+
+- **Falsos contactos**: El efecto Joule (calor) dilata y contrae terminales, aflojando tornillos; provoca saltos de disyuntor, no por falla del disyuntor, sino por conexiones sueltas.
+
+
+- **Tableros de alumbrado público**: Muchos sin tapas, en mal estado; riesgo al manipular por posibles chispazos o arcos eléctricos.
+
+
+- **Fusibles NH (cerámicos)**: Usados en instalaciones de alto consumo; contienen sal conductora que, al sobrecargarse, puede explotar, generando nube de fuego si se repara mal (ej. con alambre).
+
+
+- **Riesgo de reparación indebida**: Fusibles NH reparados con cable pelado pueden incendiarse o explotar; tienen un indicador (punto rojo) que muestra si están quemados.
+
+
+- **Seccionadores bajo carga**: Permiten operar con corriente; usados en edificios (ej. gabinetes de medición); fusibles NH se montan en paletas que cierran el circuito.
+
+
+- **Práctica grupal**: Se anima a no tener vergüenza y participar; el ayudante supervisará, aunque con limitaciones por cantidad de estudiantes.
+- **Canalización y fusibles**: Antes de empezar con canalización, se enfatiza probar continuidad en fusibles, ya que algunos vienen fallados; siempre verificar, incluso si parecen nuevos.
+
+
+- **Red de distribución externa**: En áreas urbanas, hay cables desnudos (aluminio) y preensamblados (cuaterna: 4 cables); un conductor de guarda (sin energía) protege contra descargas.
+
+
+- **Líneas aéreas y subterráneas**: La cometida (alimentación a vivienda) puede ser aérea o subterránea; cables desnudos de aluminio están siendo reemplazados por preensamblados.
+
+
+- **Cables preensamblados**: Hasta 4x16 mm² son de cobre; mayores, de aluminio con aislante reforzado. Neutro es liso, fases tienen endiduras distintas para identificarlas (útil en oscuridad).
+
+
+- **Nomenclatura**: “4x16” indica 4 conductores de 16 mm²; en planos eléctricos, se omite “mm²” por convención. Ejemplo: 2x6 son 2 conductores de 6 mm² de cobre en viviendas.
+
+
+- **Problemas prácticos**: Cables de cobre son valiosos y propensos a robos; por eso, en líneas externas se usa aluminio.
+
+
+- **Importancia de compartir soluciones**: Problemas eléctricos encontrados deben documentarse para ayudar a otros; no hay una única forma de resolver, pero se corrige si está mal hecho.
+
+
+- **Errores en instalaciones**: Electricistas desordenados cruzan cañerías de 220V con baja tensión (portero, telefonía), causando interferencias y problemas de seguridad.
+
+
+- **Conductores unipolares vs. preensamblados**: 
+  - **Unipolares**: Simples, usados antes, requieren canalización (caño galvanizado); sección de 6 mm², soportan hasta 30 amperios.
+  - **Preensamblados**: Modernos, ideales para acometidas aéreas; misma sección (6 mm²) soporta hasta 45 amperios por mejor estructura y fabricación.
+
+
+- **Acometida aérea**: EMSA y cooperativas exigen preensamblados (o antihurto) en nuevas instalaciones; unipolares/bipolares obsoletos, menos seguros.
+
+
+- **Sección del conductor**: Área de cobre en mm² (ej. 6 mm²); preensamblados tienen mayor capacidad de corriente aunque misma sección que bipolares.
+
+
+- **Cables desnudos y preensamblados**: En líneas externas, cables desnudos (aluminio) se reemplazan por preensamblados; conductor de guarda protege contra descargas.
+
+
+- **Práctica y orden**: Enfatiza pensar antes de instalar cañerías para evitar cruces; preensamblados son estándar en acometidas nuevas por mayor capacidad y seguridad.
+- **Conductores antihurto (concéntricos)**: Similares a cables coaxiales; fase de cobre rodeada por malla de aluminio; dificultan robos, ya que cortar causa cortocircuito; usados en acometidas.
+
+
+- **Canalización en viviendas**: Todos los conductores unipolares deben estar protegidos por cañerías (hierro o PVC); PVC es común; puede ser embutida (obra nueva) o a la vista (como en el aula).
+
+
+- **Tipos de cañerías**: Liviana, semipesada, pesada (según espesor); corrugado blanco o naranja debe estar tensado y terminar en bocas, no suelto (error común en instalaciones).
+
+
+- **Errores en instalaciones**: Ejemplo de corrugado mal instalado (suelto, sin bocas); puede causar problemas de seguridad; electricistas deben planificar para evitar cruces o fallos.
+
+
+- **Seguridad vs. costo**: Abaratar costos (usar materiales baratos como SICA) compromete seguridad; mejor invertir en calidad para evitar fallos eléctricos.
+
+
+- **Circuitos y bocas**: Norma permite hasta 15 bocas por circuito; para mayor seguridad, dividir en dos circuitos (ej. 7 y 8 bocas) reduce riesgo de fallo total si uno salta.
+
+
+- **Importancia de experiencia práctica**: Soluciones varían según el caso; profesor comparte ejemplos reales (como cañerías mal instaladas) y recomienda videos confiables para aprender, evitando información errónea.
+- **Problemas con marca ABB**: Termomagnéticas ABB no ajustaban bien en riel DIN; al apretar fuerte, se rompió una; profesor prefiere otras marcas (ej. JAILOCK) que encajan mejor y no se sueltan.
+
+
+- **Cañerías en instalaciones**: 
+  - **Tipos**: Embutidas (en obra nueva) o a la vista; materiales: acero (diamantado) o PVC.
+  - **Acero**: Usar mortero (cemento, arena, agua; 3x1), no cal, para evitar corrosión; liviana o semipesada para domiciliarias, pesada para industriales.
+  - **PVC**: Liviano, semipesado, pesado; modernos incluyen “memoria” para doblez.
+
+
+- **Doblado de caños**: 
+  - Antes: Manual (rodilla) para caños livianos/semipesados; curvas >90° sin herramientas.
+  - Ahora: Usar dobladores de caños para evitar curvas auxiliares; PVC se dobla con resorte o calentando (artesanal, pero lento).
+
+
+- **Normas y planos**: Planos indican simbología, distancias y alturas (por reglamento); si no especifica, usar estándares. Cajas esmaltadas evitan óxido; conectar caños con cuplas roscadas.
+
+
+- **Presupuestos y cobros**:
+  - Electricistas deben detallar en presupuesto: cantidad de bocas (iluminación, tomacorrientes, especiales), tablero, costos adicionales; firmar para evitar conflictos.
+  - Ejemplo: Arquitecto quiso pagar menos por trabajo rápido; cobro por bocas, no por tiempo.
+  - Referencias: Revista del Instalador y AAIERIC ofrecen precios estándar nacionales por mano de obra (bocas, tableros); actualizan cada 6 meses, pero varían por región.
+
+
+- **Eficiencia y experiencia**: Trabajo rápido requiere herramientas, conocimiento y experiencia; novatos tardan más. Seguridad y calidad no deben sacrificarse por costos.
+
+
+- **Jabalinas y PVC**: Fotocopia nueva no menciona jabalinas; con PVC, se asume menos necesidad por pérdidas, pero profesor verificará.
+
+
+- **Mantenimiento y seguridad**: Ejemplo de ducha eléctrica; usar buscapolo para identificar fase; resistencias varían por marca, causando problemas si no son compatibles.
+- **Caños de memoria**: Caños de PVC con resorte que vuelven a su forma; todos los caños (hierro/PVC) vienen en 3 metros, útil para calcular cantidad dividiendo longitudes en planos.
+
+
+- **Medidas de caños**: Comercialmente, 3/4” (19 mm externo, 17 mm interno); interesa el diámetro interno (17 mm) para cumplir norma: solo 35% ocupado por conductores, resto aire para disipar calor (efecto Joule).
+
+
+- **Cañerías metálicas vs. PVC**:
+  - **Metálicas**: Embutidas o a la vista; no requieren cables especiales salvo en zonas de calor extremo (ej. parrillas, donde se usa conductor resistente a altas temperaturas).
+  - **PVC**: Liviano, semipesado, pesado; común en instalaciones modernas.
+
+
+- **Seguridad en cañerías a la vista**: Con interruptor termomagnético, disyuntor y puesta a tierra, cualquier pérdida en caño metálico activa protección (diferencial salta); en PVC, un cable pelado no causa problemas, pero igual requiere protección.
+
+
+- **Cables vintage (forrados)**: Usados en iluminación (ej. dicroicas con transformador 220V a 24V); permitidos si protegidos con disyuntores y puesta a tierra.
+
+
+- **Errores en obras**: 
+  - En Brasil, cables sin caño (no permitido en Argentina); en escuelas, cielos rasos de PVC sin canalización previa por apuro, dificultando instalación eléctrica.
+  - Solución: Planificar etapas (canalización antes de cerrar cielo raso); entradas de obra (60x60 cm) para inspección en escuelas.
+
+
+- **Instalación subterránea**: 
+  - Desde poste a medidor/pilar, luego al tablero seccional; conductores subterráneos (2-3 pares, con tierra).
+  - Uniones nunca en el suelo ni en zonas húmedas; mínimo 3 cm sobre suelo, en caja, para evitar agua (gelatina no es suficiente).
+
+
+- **Planificación y seguridad**: Obras deben planificarse por etapas; priorizar canalización antes de cerrar estructuras; empresas deben prever soporte de peso para electricistas en cielos rasos.
+- **Instalación subterránea en Itaembé Guazú**: Ejemplo de locales comerciales con acometida trifásica que se divide en monofásica; requiere caño PVC de 150 mm y caño adicional previsto para ampliaciones.
+
+
+- **Sistemas subterráneos**: Sin cables aéreos (ni eléctricos ni telefónicos); alimentación desde poste o gabinete al medidor/pilar, luego al tablero seccional; uniones elevadas (mínimo 3 cm) en cajas para evitar agua.
+
+
+- **Corriente alterna vs. continua**: Corriente alterna (usada en sistemas normales) no se almacena, a diferencia de corriente continua (ej. sistemas solares).
+
+
+- **Cables canal y bandejas**:
+  - **Cables canal**: Cañerías a la vista; respetar 35% de ocupación por conductores para disipar calor; fijar verticalmente con pegamento o tornillos, no horizontal (se hunde por peso); usar precintos si necesario.
+  - **Bandejas portacables**: Galvanizadas, para exteriores o interiores; suspendidas para llevar conductores a aulas sin acometida aérea; permiten más conductores según superficie, a diferencia de cañerías.
+
+
+- **Conductores en bandejas**: Preferible usar conductores subterráneos (revestimiento grueso); EMSA permite “tipo taller” (aislación fina, menos ideal) por costos; bandejas admiten circuitos de distintas fases.
+
+
+- **Errores en instalaciones**: Cables colgados sin canalización adecuada (incorrecto); bandejas deben instalarse antes de colocar conductores para orden y seguridad.
+
+
+- **Cables canal en piso**: Deben resistir tránsito sin deformarse; ejemplo de instalación con canal grande para computadoras, usando perfil C y barral de chapa para evitar daños por humedad o golpes.
+
+
+- **Planificación**: Canalización debe hacerse antes de cerrar estructuras (cielos rasos); en escuelas, problemas por apuro (ej. cielos rasos sin cañerías); usar entradas de obra para inspección.
+
 
 ![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh_VZJiQqWK2J6F3p2QyYpWQ2CLx2UP7vdBm-bxtJnXOVWxPklRwTUxVk-WXw3pQHrWDtP2ySa-wJ0kKEUqNceSmJthBT6oNobCnhz2TZteFtEptTdUrCsdF_HigKH3IMK2NDqDeq7uEgl1u9KD0RI6_C6yGaJaTUpeVft6u9GxDwGn-xatW8KxdJdfbqU/s4160/IMG_20250407_192928527.jpg)
 ![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiBq_zoR0jNheBUVTFbwAJm863H-mDszdyr5Hu3c0y-cxP7BI9OJKoZiDG5pdglYx1hLTUm8Foo2nQnhE-JGCfKA3M9JAeW98Zp6HIxbQBEEKQmdrNLjeaZNlYM5pxnSfh454TdfUVFAqnfsaL8-HJIimgAZLFssp_RqoyGKV9GaZRbrUkF-sHc2THrzEA/s4160/IMG_20250407_193426081_HDR.jpg)
