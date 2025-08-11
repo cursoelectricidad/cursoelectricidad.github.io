@@ -15,8 +15,6 @@
 
 [https://www.youtube.com/embed/ekm_rgaIL4g](https://www.youtube.com/embed/ekm_rgaIL4g)
 
-# ChatGPT
-
 # **Accesorios y sección interna**
 
 * **Los accesorios no deben disminuir la sección interna** de la cañería para evitar dificultad en el pasaje de conductores y daño a la aislación.
