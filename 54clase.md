@@ -1,4 +1,4 @@
-% Clase Nº 54: Repasamos circuitos eléctricos. Cálculo de cables.
+% Clase Nº 54: Repasamos concepto circuitos eléctricos (que habíamos dado la clase 20). Cálculo de cables.
 % Andrés Imlauer
 % 11 Agosto 2025
 
@@ -14,7 +14,7 @@
 
 [https://www.youtube.com/watch?v=ZySbETHdFSI](https://www.youtube.com/watch?v=ZySbETHdFSI)
 
-Repasamos el dibujo del circuito de la clase número 20: [https://cursoelectricidad.github.io/20clase.html](https://cursoelectricidad.github.io/20clase.html)
+Repasamos el concepto de circuito de la clase número 20: [https://cursoelectricidad.github.io/20clase.html](https://cursoelectricidad.github.io/20clase.html)
 
 ![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjO_TGiXXnDBNi0xLXuJDutUC0BdELQ5f3_syda9ewDFJTyxPG9p6TxhVTXYh_tZkTudZdeky7Bhjt8HHMm1WdSZwXRhCP1sPskVNND7XgrkwjMk7S2igeeD7cesZ4dC7GhZoQcwNnTmPflE6Xu82yj42OXJAMUQfDoHspHZh53dWu23vLfOW9wkGtesyU/s4160/IMG_20250811_194048097.jpg)
 ![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg8ZOw03ik0N3yIsKITpBHn-caU3xK8EFmtHtXEkqacxA_4nf1cOUmlhk1vAfjJAYP1OTLtqoPexT80BorKcnTueXZsNLgTieJrsry6JoTnNP8OsczfbE27XBfv12_2XEDZlkiIxL_epk8LjSe7bKzFGc7J91cp7Q4GTiGCJJEc7WzU0Fyy32w5ScRNpBk/s4160/IMG_20250811_194052073.jpg)
