@@ -80,7 +80,7 @@ Subscribe to RSS: [/feed.xml](/feed.xml)
 [30 Abril 2025]{.date}
 
 
-[Clase Nº 20: Sistema Alarma. Corriente Alterna/Continua. Tester. ](/20clase.md){.title}
+[Clase Nº 20: Átomos. Materia. Electrones. Corriente. Sistema Alarma. Corriente Alterna/Continua. Tester. ](/20clase.md){.title}
 [30 Abril 2025]{.date}
 
 
@@ -218,5 +218,9 @@ Subscribe to RSS: [/feed.xml](/feed.xml)
 
 [Clase Nº 53: Repasamos fotocopia vieja de agrupación de conductores. Clase importante entra en examen: Calculo de materiales: caja octogonal, caja rect. 5x10, gancho U, caja cuadrada, conectores, curvas, cañerías.](/53clase.md){.title}
 [6 Agosto 2025]{.date}
+
+
+[Clase Nº 54: Repasamos circuitos eléctricos. Cálculo de cables.](/54clase.md){.title}
+[11 Agosto 2025]{.date}
 
 

@@ -18,7 +18,7 @@ El texto es una transcripción de una conversación informal en un grupo, posibl
 - **Equilibrio entre Teoría y Práctica**: El curso pasa de auxiliar a montador, con énfasis en conceptos teóricos (como tensión, reglamentación) para explicar "por qué" se hacen las cosas. Se critica a alumnos que solo saben práctica sin teoría (ej. no explicar un plano). Planes futuros incluyen dibujar planos en escala, calcular materiales (longitud de cables, cañerías) y armar tableros (unifilar, con térmicas).
 
 
-- **Evaluaciones y Notas**: Hay notas por teoría, trabajo práctico y concepto general (comunicación, entendimiento). El profesor ajusta notas para motivar (ej. regular para no desanimar), pero penaliza faltas o falta de participación. Ejemplos: un alumno con mano lesionada recibe consideración; otros desaprueban por ausencias o no estudiar.
+- **Evaluaciones y Notas**: Hay notas por teoría, trabajo práctico y concepto general (comunicación, entendimiento). El profesor ajusta notas para motivar (ej. regular para no desanimar), pero penaliza faltas o falta de participación. Ejemplos: un alumno con mano lesionada recibe consideración; otros desaprueban por ausencias o no rendir.
 
 
 - **Anecdotas Personales y Seguridad**: Historias de accidentes graves (auto, coma de 20 días, roturas óseas) ilustran riesgos. Se discute evitar errores como perforar cañerías (ej. plomeros desviados) o instalaciones malas (ej. circuitos bipolares en escuela, sin corte general). Importancia de cuestionar métodos y aprender de videos (YouTube de España, México, Perú) para mejorar.

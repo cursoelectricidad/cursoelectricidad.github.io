@@ -1,4 +1,4 @@
-% Clase Nº 20: Sistema Alarma. Corriente Alterna/Continua. Tester. 
+% Clase Nº 20: Átomos. Materia. Electrones. Corriente. Sistema Alarma. Corriente Alterna/Continua. Tester. 
 % Andrés Imlauer
 % 30 Abril 2025
 

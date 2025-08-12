@@ -289,7 +289,7 @@ que le pagó la mitad de lo que habían acordado por las bocas. Caños memoria. 
 - **Canalización en viviendas**: Todos los conductores unipolares deben estar protegidos por cañerías (hierro o PVC); PVC es común; puede ser embutida (obra nueva) o a la vista (como en el aula).
 
 
-- **Tipos de cañerías**: Liviana, semipesada, pesada (según espesor); corrugado blanco o naranja debe estar tensado y terminar en bocas, no suelto (error común en instalaciones).
+- **Tipos de cañerías**: Liviana, semipesada, pesada (según espesor); corrugado blanco (el naranja está prohibido) debe estar tensado y terminar en bocas, no suelto (error común en instalaciones).
 
 
 - **Errores en instalaciones**: Ejemplo de corrugado mal instalado (suelto, sin bocas); puede causar problemas de seguridad; electricistas deben planificar para evitar cruces o fallos.
