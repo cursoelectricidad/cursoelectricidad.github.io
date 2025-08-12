@@ -220,7 +220,7 @@ Subscribe to RSS: [/feed.xml](/feed.xml)
 [6 Agosto 2025]{.date}
 
 
-[Clase Nº 54: Repasamos concepto circuitos eléctricos (que habíamos dado la clase 20). Cálculo de cables.](/54clase.md){.title}
+[Clase Nº 54: Repasamos concepto circuitos eléctricos (que habíamos dado la clase 20). Clase importante: Cálculo de cables.](/54clase.md){.title}
 [11 Agosto 2025]{.date}
 
 
