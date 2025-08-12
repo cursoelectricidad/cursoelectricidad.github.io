@@ -126,11 +126,11 @@ Aquí tienes el contenido depurado, con los puntos más importantes y sin nombre
 
 * **Caso práctico – conexión indebida:**
 
-  * Un vecino tomó la alimentación **antes del medidor**, usando conectores tipo mordaza para conductores unipolares.
+  * Un vecino tomó la alimentación **antes del medidor**, usando conectores tipo mordaza(morceto) para conductores unipolares.
 
   * Alimentó tres aires acondicionados y una ducha eléctrica directamente, evitando el control del medidor (robo de energía).
 
-  * Problema: el alto consumo de la ducha eléctrica generó calor excesivo, fundiendo los contactos metálicos internos de la mordaza.
+  * Problema: el alto consumo de la ducha eléctrica generó calor excesivo, fundiendo los contactos metálicos internos de la morceto.
 
   * Resultado: pérdida de contacto en parte de los conductores y corte de suministro en la planta alta.
 
@@ -138,7 +138,7 @@ Aquí tienes el contenido depurado, con los puntos más importantes y sin nombre
 
   * Conectar antes del medidor es ilegal y peligroso.
 
-  * Los conectores tipo mordaza no son aptos para todos los tipos de conductores.
+  * Los conectores tipo mordaza(morceto) no son aptos para todos los tipos de conductores.
 
   * Un consumo elevado sin correcta sección de conductor puede generar sobrecalentamiento y daños por fusión.
 
