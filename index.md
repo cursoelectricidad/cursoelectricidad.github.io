@@ -80,7 +80,7 @@ Subscribe to RSS: [/feed.xml](/feed.xml)
 [30 Abril 2025]{.date}
 
 
-[Clase Nº 20: Átomos. Materia. Electrones. Corriente. Sistema Alarma. Corriente Alterna/Continua. Tester. ](/20clase.md){.title}
+[Clase Nº 20: Circuito eléctrico. Magnitudes. Átomos. Materia. Electrones. Corriente. Sistema Alarma. Corriente Alterna/Continua. Tester. ](/20clase.md){.title}
 [30 Abril 2025]{.date}
 
 
