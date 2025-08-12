@@ -391,19 +391,36 @@ Aquí tienes el **resumen depurado** de ese fragmento, ordenado y sin repeticion
 
 ---
 
-Si querés, puedo **armar una tabla de cálculo de conductores** donde se detallen:
+## **📋 Plantilla de cálculo de conductores**
 
-* Longitud por tramo
+| Nº de tramo | Descripción / desde \- hasta | Longitud física (m) | Nº de conductores | Color / función | Sección (mm²) | Chicotes (m) | Longitud total (m) |
+| ----- | ----- | ----- | ----- | ----- | ----- | ----- | ----- |
+| 1 | Tablero → Caja 1 | 2,00 | 3 | Fase (negro) / Neutro (azul) / Tierra (verde-amarillo) | 2,5 / 2,5 / 2,5 | 0,30 (0,15 por extremo) | \= Longitud física \+ Chicotes |
+| 2 | Caja 1 → Llave simple | 1,20 | 2 | Fase (negro) / Retorno (marrón) | 1,5 / 1,5 | 0,30 | ... |
+| 3 | Caja 1 → Luminaria | 1,50 | 3 | Retorno (marrón) / Neutro (azul) / Tierra (verde-amarillo) | 1,5 / 1,5 / 2,5 | 0,30 | ... |
+| ... | ... | ... | ... | ... | ... | ... | ... |
 
-* Número de conductores
+---
 
-* Sección
+### **🛠 Cómo usarla**
 
-* Chicotes incluidos
+1. **Longitud física (m):** medida real del caño entre cajas.
 
-* Longitud total por color
+2. **Nº de conductores:** cuántos cables diferentes pasan por ese tramo.
 
-Así podrías usarla como plantilla para cualquier proyecto.
+3. **Color / función:** anotar color y uso según normativa.
+
+4. **Sección (mm²):** según tipo de circuito (iluminación, tomas, tierra).
+
+5. **Chicotes (m):** agregar 0,15 m por extremo de caja.
+
+6. **Longitud total:** **Longitud física \+ Chicotes**.
+
+💡 Si la usás en Excel, podés automatizar el cálculo de *Longitud total* y sumar por color para saber cuántos metros de cada conductor comprar.
+
+
+
+---
 
 Sí, entiendo lo que compartes: es básicamente una clase práctica de instalaciones eléctricas donde se están viendo tres ejes principales:
 

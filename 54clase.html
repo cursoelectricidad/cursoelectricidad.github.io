@@ -101,6 +101,13 @@ canalizaciones</strong></a></li>
 id="toc-prácticas-recomendadas"><strong>6. Prácticas
 recomendadas</strong></a></li>
 </ul></li>
+<li><a href="#plantilla-de-cálculo-de-conductores"
+id="toc-plantilla-de-cálculo-de-conductores"><strong>📋 Plantilla de
+cálculo de conductores</strong></a>
+<ul>
+<li><a href="#cómo-usarla" id="toc-cómo-usarla"><strong>🛠 Cómo
+usarla</strong></a></li>
+</ul></li>
 <li><a href="#resumen-de-ideas-centrales"
 id="toc-resumen-de-ideas-centrales"><strong>Resumen de ideas
 centrales</strong></a>
@@ -545,16 +552,94 @@ previstos antes del cierre.</p></li>
 normalizados y seguir normativa.</p></li>
 </ul>
 <hr />
-<p>Si querés, puedo <strong>armar una tabla de cálculo de
-conductores</strong> donde se detallen:</p>
-<ul>
-<li><p>Longitud por tramo</p></li>
-<li><p>Número de conductores</p></li>
-<li><p>Sección</p></li>
-<li><p>Chicotes incluidos</p></li>
-<li><p>Longitud total por color</p></li>
-</ul>
-<p>Así podrías usarla como plantilla para cualquier proyecto.</p>
+<h2 id="plantilla-de-cálculo-de-conductores"><strong>📋 Plantilla de
+cálculo de conductores</strong></h2>
+<table>
+<colgroup>
+<col style="width: 12%" />
+<col style="width: 12%" />
+<col style="width: 12%" />
+<col style="width: 12%" />
+<col style="width: 12%" />
+<col style="width: 12%" />
+<col style="width: 12%" />
+<col style="width: 12%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th>Nº de tramo</th>
+<th>Descripción / desde - hasta</th>
+<th>Longitud física (m)</th>
+<th>Nº de conductores</th>
+<th>Color / función</th>
+<th>Sección (mm²)</th>
+<th>Chicotes (m)</th>
+<th>Longitud total (m)</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>1</td>
+<td>Tablero → Caja 1</td>
+<td>2,00</td>
+<td>3</td>
+<td>Fase (negro) / Neutro (azul) / Tierra (verde-amarillo)</td>
+<td>2,5 / 2,5 / 2,5</td>
+<td>0,30 (0,15 por extremo)</td>
+<td>= Longitud física + Chicotes</td>
+</tr>
+<tr class="even">
+<td>2</td>
+<td>Caja 1 → Llave simple</td>
+<td>1,20</td>
+<td>2</td>
+<td>Fase (negro) / Retorno (marrón)</td>
+<td>1,5 / 1,5</td>
+<td>0,30</td>
+<td>…</td>
+</tr>
+<tr class="odd">
+<td>3</td>
+<td>Caja 1 → Luminaria</td>
+<td>1,50</td>
+<td>3</td>
+<td>Retorno (marrón) / Neutro (azul) / Tierra (verde-amarillo)</td>
+<td>1,5 / 1,5 / 2,5</td>
+<td>0,30</td>
+<td>…</td>
+</tr>
+<tr class="even">
+<td>…</td>
+<td>…</td>
+<td>…</td>
+<td>…</td>
+<td>…</td>
+<td>…</td>
+<td>…</td>
+<td>…</td>
+</tr>
+</tbody>
+</table>
+<hr />
+<div class="h"><h3 id="cómo-usarla"><strong>🛠 Cómo usarla</strong></h3><a aria-hidden="true" href="#cómo-usarla">[link]</a></div>
+<ol type="1">
+<li><p><strong>Longitud física (m):</strong> medida real del caño entre
+cajas.</p></li>
+<li><p><strong>Nº de conductores:</strong> cuántos cables diferentes
+pasan por ese tramo.</p></li>
+<li><p><strong>Color / función:</strong> anotar color y uso según
+normativa.</p></li>
+<li><p><strong>Sección (mm²):</strong> según tipo de circuito
+(iluminación, tomas, tierra).</p></li>
+<li><p><strong>Chicotes (m):</strong> agregar 0,15 m por extremo de
+caja.</p></li>
+<li><p><strong>Longitud total:</strong> <strong>Longitud física +
+Chicotes</strong>.</p></li>
+</ol>
+<p>💡 Si la usás en Excel, podés automatizar el cálculo de <em>Longitud
+total</em> y sumar por color para saber cuántos metros de cada conductor
+comprar.</p>
+<hr />
 <p>Sí, entiendo lo que compartes: es básicamente una clase práctica de
 instalaciones eléctricas donde se están viendo tres ejes
 principales:</p>
