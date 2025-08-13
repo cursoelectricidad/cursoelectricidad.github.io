@@ -1048,7 +1048,7 @@ Finalmente, se reforzó la utilidad de tener una **lámpara de prueba** como her
 
 ### **Consejo práctico final**
 
-* El profesor se ofreció a entregar materiales, como riel link, para que el alumno pueda mejorar la fijación de térmicas en tableros y así evitar que queden “colgando”, lo que es un riesgo y está mal instalado.
+* El profesor se ofreció a entregar materiales, como riel DIN, para que el alumno pueda mejorar la fijación de térmicas en tableros y así evitar que queden “colgando”, lo que es un riesgo y está mal instalado.
 
 ---
 
