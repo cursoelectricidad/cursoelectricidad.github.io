@@ -224,7 +224,7 @@ Subscribe to RSS: [/feed.xml](/feed.xml)
 [11 Agosto 2025]{.date}
 
 
-[Clase Nº 55: Repaso de colocación de cajas. Altura cajas. Anecdota: obrero unió 2 caños de hierro con corrugado. Ejercicio: Cálculo de materiales de un aula."](/55clase.md){.title}
+[Clase Nº 55: Repaso de colocación de cajas. Altura cajas. Anecdota: obrero unió 2 caños de hierro con corrugado. Ejercicio: Cálculo de materiales de un aula.](/55clase.md){.title}
 [12 Agosto 2025]{.date}
 
 
