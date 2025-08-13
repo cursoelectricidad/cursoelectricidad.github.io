@@ -9,7 +9,7 @@ Hay una parte que se me cortó el audio
 **Audio en Archive.org**    
 [https://archive.org/details/output_20250528](https://archive.org/details/output_20250528)    
 **Audio en YouTube**    
-[https://www.youtube.com/watch?v=G2pvBLeibvw](https://www.youtube.com/watch?v=G2pvBLeibvw)    
+[https://www.youtube.com/embed/G2pvBLeibvw](https://www.youtube.com/embed/G2pvBLeibvw)    
     
 ![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhUg_dvb22-AKAJ1U8p6_pCXAhdA_PUUT0LWhUk3PppgUbSDV9T5hoFXbGHp6h-o7gNXkzkEmEC9JmQ3SN2Ymza4RGPm72mJHqlkIbRFHp_yFZsPUIuOVYW_vegzE7cyPcJEEejR3hJLIsU1atW-ePCazrcOOrBuhyphenhyphenCDh0UoAqX9DYGoGmXeq8HDZSBv8o/s4160/IMG_20250527_183659536.jpg)
 ![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh-BOW-g0UziTTbP5pWuYhHHD962ZGoe1pY3FeM_d1m9w3bSkmsrYM__Zyf4mccmQrYzOm9-01kCXaibhkanG88D3WUWzwNuyISOr3qh8RgqF8Q0pYobFz44n_j1PpU45L2B9jJ_tST0qt3WEvFC3NpfhMTsyV7PzEklDVdqnBVRx9az4s1_NkDK3qwewc/s4160/IMG_20250527_183703675.jpg)

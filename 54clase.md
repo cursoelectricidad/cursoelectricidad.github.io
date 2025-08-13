@@ -12,7 +12,7 @@
 
 #### Audio en YouTube:
 
-[https://www.youtube.com/watch?v=ZySbETHdFSI](https://www.youtube.com/watch?v=ZySbETHdFSI)
+[https://www.youtube.com/embed/ZySbETHdFSI](https://www.youtube.com/embed/ZySbETHdFSI)
 
 Repasamos el concepto de circuito de la clase número 20: [https://cursoelectricidad.github.io/20clase.html](https://cursoelectricidad.github.io/20clase.html)
 
