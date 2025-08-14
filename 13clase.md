@@ -109,4 +109,391 @@
 
 ---
 
-FIN
+Aquí están los **puntos más importantes** de la transcripción, usando las palabras clave “siempre” y “siempre les” como guía, y destacando los conceptos centrales de la clase:
+
+---
+
+### 1. **Puesta a tierra**
+
+* **Siempre** tiene que ir la puesta a tierra; no es opcional.
+* Incluso en cajas de plástico (PVC), **siempre** debe haber una señal o un tornillo donde conectarla.
+* La conexión a tierra debe colocarse en las cajas de las lámparas y también en el gabinete monofásico y tablero general.
+* La idea es garantizar la seguridad **siempre**, sin importar el material de la caja (PVC o metálico).
+
+---
+
+### 2. **Uso de caños y pinzas**
+
+* Para caños livianos, existe una **pinza cortacaños**, pero:
+
+  * Solo sirve para caños livianos.
+  * Si se usa repetidamente en caños más duros, se rompe.
+* Para caños de mayor espesor, conviene usar **sierra**.
+* Los caños ahora son mayormente **PVC**, antes eran garbanizados.
+* El PVC moderno puede tener un aro metálico interno para dar rigidez, combinando resistencia y facilidad de instalación.
+* Medidas típicas: 3 metros de longitud, diámetro de 1½ pulgada o 50 mm.
+
+---
+
+### 3. **Normativa y material**
+
+* Las nuevas normas exigen **caño PVC** en lugar de garbanizado para acometidas.
+* La instalación debe respetar la longitud mínima para alcanzar la altura requerida (aprox. 4 a 4,10 metros).
+* El material PVC puede soportar la tensión de la acometida gracias a su estructura interna (metal + PVC).
+
+---
+
+### 4. **Práctica y observación**
+
+* Los alumnos deben practicar con caños PVC, ya que es lo que se usa actualmente.
+* Observar y revisar las conexiones en el gabinete monofásico y en el tablero general, asegurando la correcta instalación de puesta a tierra y caños de alimentación.
+* Revisar manuales y especificaciones de herramientas antes de usarlas para evitar accidentes o roturas.
+
+---
+
+Si querés, puedo hacer una **versión resumida tipo “chuleta de estudio”**, con **solo 5 líneas clave** para recordar todo lo esencial de esta clase. ¿Querés que lo haga?
+
+Aquí están los **puntos más importantes** de esta segunda parte de la clase, integrando lo que ya hablamos de PVC y puesta a tierra:
+
+---
+
+### 1. **Cajas y tableros de PVC**
+
+* **Siempre** conviene usar cajas de mayor tamaño (ej. para 4 módulos en monofásico) aunque se necesite menos, para tener espacio y trabajar cómodamente, especialmente si se conecta subterráneo.
+* Los gabinetes de PVC reemplazan a los metálicos; el sistema de instalación es el mismo.
+* Las cajas deben permitir la interconexión de conductores entre medidor y tablero general/seccional.
+
+---
+
+### 2. **Caños y acometidas**
+
+* Se usan **caños de PVC** o sintético rígido (IRAM) para interconectar cajas.
+* Dos caños se instalan para permitir flexibilidad: uno principal y otro de reserva para subida o alimentación adicional.
+* La flecha del conductor (curvatura por tensión) **no debe superar 30 cm** para mantener seguridad y evitar que el conductor quede colgando.
+
+---
+
+### 3. **Medidas y especificaciones**
+
+* Cajas para medidor monofásico: ancho 180 mm × alto 260 mm (aprox. 26 cm).
+* Altura total de la acometida similar a la instalación con gabinete metálico: aprox. 4 metros.
+* Pinzas de anclaje regulan la tensión del conductor según el tipo de poste o soporte.
+* Potencia máxima de acometida monofásica: hasta 5 kW–5,5 kW; a partir de allí ya puede requerirse trifásico.
+
+---
+
+### 4. **Normativa y actualización**
+
+* La empresa EMSA exige PVC para nuevas instalaciones.
+* Los materiales, dimensiones y simbología se pueden consultar en la web de EMSA ([planos del pilar](https://www.energiademisiones.com.ar/planos-del-pilar/)).
+* La información se actualiza periódicamente, y los proveedores como GENROD venden materiales compatibles.
+* Adaptarse a las nuevas normas requiere tiempo; las instalaciones existentes pueden convivir con las antiguas hasta que se renueven.
+
+---
+
+Si querés, puedo hacer un **resumen final combinando ambas clases**, en un esquema súper conciso para estudio rápido, incluyendo **puesta a tierra, PVC, caños, cajas y normas EMSA**. Esto te serviría como guía rápida para el examen. ¿Lo hago?
+
+Aquí están los **puntos más importantes** de esta segunda parte de la clase, integrando lo que ya hablamos de PVC y puesta a tierra:
+
+---
+
+### 1. **Cajas y tableros de PVC**
+
+* **Siempre** conviene usar cajas de mayor tamaño (ej. para 4 módulos en monofásico) aunque se necesite menos, para tener espacio y trabajar cómodamente, especialmente si se conecta subterráneo.
+* Los gabinetes de PVC reemplazan a los metálicos; el sistema de instalación es el mismo.
+* Las cajas deben permitir la interconexión de conductores entre medidor y tablero general/seccional.
+
+---
+
+### 2. **Caños y acometidas**
+
+* Se usan **caños de PVC** o sintético rígido (IRAM) para interconectar cajas.
+* Dos caños se instalan para permitir flexibilidad: uno principal y otro de reserva para subida o alimentación adicional.
+* La flecha del conductor (curvatura por tensión) **no debe superar 30 cm** para mantener seguridad y evitar que el conductor quede colgando.
+
+---
+
+### 3. **Medidas y especificaciones**
+
+* Cajas para medidor monofásico: ancho 180 mm × alto 260 mm (aprox. 26 cm).
+* Altura total de la acometida similar a la instalación con gabinete metálico: aprox. 4 metros.
+* Pinzas de anclaje regulan la tensión del conductor según el tipo de poste o soporte.
+* Potencia máxima de acometida monofásica: hasta 5 kW–5,5 kW; a partir de allí ya puede requerirse trifásico.
+
+---
+
+### 4. **Normativa y actualización**
+
+* La empresa EMSA exige PVC para nuevas instalaciones.
+* Los materiales, dimensiones y simbología se pueden consultar en la web de EMSA ([planos del pilar](https://www.energiademisiones.com.ar/planos-del-pilar/)).
+* La información se actualiza periódicamente, y los proveedores como GENROD venden materiales compatibles.
+* Adaptarse a las nuevas normas requiere tiempo; las instalaciones existentes pueden convivir con las antiguas hasta que se renueven.
+
+---
+
+Si querés, puedo hacer un **resumen final combinando ambas clases**, en un esquema súper conciso para estudio rápido, incluyendo **puesta a tierra, PVC, caños, cajas y normas EMSA**. Esto te serviría como guía rápida para el examen. ¿Lo hago?
+
+Perfecto, aquí están los **puntos clave y enseñanzas prácticas** de esta sección sobre caños y canalizaciones:
+
+---
+
+### 1. **Diámetro mínimo de caños**
+
+* El diámetro interno mínimo depende de **cantidad de conductores, sección y aislación**.
+* Para líneas seccionales y principales: **mínimo 15,3 mm**.
+* Caño de **5/8”** (menor a 15,3 mm) **solo se usa en línea recta**, nunca en bajadas ni curvas.
+
+  * Al hacer curvas verticales, la sección efectiva baja \~30%, dificultando el paso de cables o pasacables.
+* Los planos muestran medidas en **mm**, mientras que en el comercio se compran en **pulgadas**.
+
+  * Uso comercial típico: 3/4” para iluminación y tomacorrientes; 7/8” para servicios especiales (aires, horno).
+  * Ejemplo: 3/4” → 19/16 mm (diámetro externo/interno semipesado), 7/8” → 22/19 mm.
+
+---
+
+### 2. **Cantidad y longitud de caños**
+
+* Para calcular **cantidad de caños**:
+
+  1. Medir distancia entre puntos (bocas, tableros).
+  2. Dividir la longitud por la longitud comercial del caño (PVC 3 m, cable canal 2 m).
+
+  * Siempre trabajar con **metro patrón**.
+* Para casos no previstos en tabla: **conductores + aislación ≤ 35%** de la sección interna del caño.
+
+---
+
+### 3. **Curvas y compatibilidad**
+
+* **No se puede usar curva de mayor diámetro** en caño más chico (ej. curva 3/4” en caño 5/8”).
+* Problemas frecuentes: pasacables puede trabarse o golpear la pared.
+* **Canalización bien hecha = 60% del trabajo hecho**, pasar cableado será mucho más rápido y limpio.
+* Canalización mal hecha puede implicar romper mampostería o gastar el doble de tiempo.
+
+---
+
+### 4. **Recomendaciones de trabajo**
+
+* Planificar la instalación considerando curvas, bajadas y bocas.
+* Trabajar en equipo y mantener buena relación con otras personas en obra evita contratiempos.
+* Experiencia práctica: **pequeños detalles (como caños sobrantes o asados de obra)** influyen en el progreso y calidad de la instalación.
+
+---
+
+Si querés, puedo hacer un **esquema gráfico/chuleta rápida de caños y canalización** que incluya:
+
+* diámetros mínimos,
+* uso por tipo de circuito,
+* cómo calcular cantidad y longitud,
+* restricciones de curvas,
+* porcentaje máximo de ocupación.
+
+Esto sería súper práctico para repasar antes de un examen o de ir a instalar. ¿Lo hago?
+
+Perfecto, acá se pueden resumir **puntos clave y recomendaciones prácticas** sobre la colocación de caños, cajas y uniones:
+
+---
+
+### 1. **Elección de caños**
+
+* Diferencia entre **3/4” y 5/8”**:
+
+  * 3/4” se usa normalmente porque permite curvas sin reducir tanto la sección.
+  * 5/8” solo para **línea recta entre bocas** de iluminación.
+  * Caños de 12,5 mm internos están en reglamento pero **ya no se usan**; solo para conocimiento teórico.
+* **PVC semipesado** es ideal para interiores; exterior, si es posible, usar semipesado también.
+
+---
+
+### 2. **Unión de caños**
+
+* Los caños se unen mediante **cuplas, conectores o tuerca y boquilla** que **no disminuyan la sección interna**.
+* Permite **prolongar caños sin desperdicio**.
+* Si no hay cupla disponible, se puede hacer un **“caño camisa”** de diámetro mayor y fijarlo con alambre/cinta aisladora.
+* Con caños **metálicos**: la cupla roscada asegura continuidad eléctrica; **no se admiten trozos de caños mayores**, para no marcar los conductores ni dañar la aislación.
+* No se sueldan caños; la unión es mecánica (rosca, adhesivo PVC o cinta aisladora para fijar).
+
+---
+
+### 3. **Conectores entre caño y caja**
+
+* Toda unión entre **caño y caja** debe usar **conector o tuerca/boquilla**, según la norma.
+* Permite un buen pasaje de conductores y evita problemas de fijación.
+* Ejemplo: caja octogonal de iluminación → caño de 3/4” o 7/8”, según necesidad; alimentación principal → 1” si la sección de conductor es grande.
+* Escala en el plano: permite proyectar todo en espacio reducido y luego trasladar medidas reales a obra.
+
+---
+
+### 4. **Recomendaciones prácticas**
+
+* Tener siempre en cuenta **longitudes comerciales** de caños y cuplas.
+* Controlar **desperdicio**: pedacitos de caño mal unidos representan pérdida económica importante.
+* Al proyectar: identificar **tipo de caja, diámetro de caño, conectores** para cómputo de materiales eficiente.
+* En obra: fijar bien bajadas, curvas y uniones para evitar desplazamientos o daños durante el paso de hormigón u otras tareas.
+
+---
+
+Si querés, puedo hacer un **diagrama resumido de colocación de caños, cajas y uniones**, mostrando:
+
+* qué diámetro usar según tipo de circuito,
+* cómo unir caños,
+* cómo conectar a cajas,
+* y elementos auxiliares como cinta aisladora o caño camisa.
+
+Esto sería muy práctico para repasar antes de instalar o hacer el cómputo de materiales. ¿Querés que lo haga?
+
+Acá hay varios **conceptos importantes sobre cálculo de materiales, cajas de paso y planificación de circuitos** que conviene resumir y ordenar:
+
+---
+
+### 1. **Cálculo de materiales**
+
+* Para **caños** se calcula la longitud total (subidas, bajadas, derivaciones) y se divide por la longitud comercial de cada caño para saber cuántos caños comprar.
+* Se recomienda **sumar un porcentaje extra (5–20%)** para compensar imprevistos: curvas, distancias mayores, derivaciones.
+* Para **cuplas/uniones**: por experiencia se calcula **2 por caño**. Ejemplo: 7 caños → 14 cuplas. Esto permite cubrir bajadas, empalmes y pedazos cortos.
+
+---
+
+### 2. **Escalas de dibujo**
+
+* Escala típica: **1:100** → 1 cm en plano = 1 m en obra.
+* Permite medir distancias en plano y calcular la cantidad de caños y uniones necesarios.
+
+---
+
+### 3. **Cajas de paso o derivación**
+
+* Se usan para:
+
+  * Facilitar la colocación y reemplazo de conductores.
+  * Hacer derivaciones de circuitos sin hacer longitudes innecesarias.
+* **Ubicación recomendada:**
+
+  * Aprox. 0,30 m del cielorraso.
+  * Sobre pared, según recorrido del cable.
+* **Cantidad de curvas entre cajas:** no más de **3 curvas**.
+* **Tipo de cajas:**
+
+  * Cuadradas → usualmente para derivaciones y empalmes.
+  * Octogonales → iluminación; a veces se usan como caja de paso si el arquitecto no quiere muchas cajas.
+
+---
+
+### 4. **Criterios de diseño de circuitos**
+
+* Alimentación principal → caño más grande (ej.: 1”) para que entren conductores de mayor sección y mantener ocupación <35% de la sección del caño.
+* Derivaciones → cajas de paso intermedias según recorrido y longitud máxima práctica de pasacables (10–15 m; 20 m como máximo).
+* Quinchos o construcciones anexas → alimentación directa desde tablero principal, con **térmica exclusiva**. De ahí se derivan tomas e iluminación a través de cajas de paso.
+
+---
+
+Si querés, puedo hacer un **diagrama práctico de cómo ubicar cajas de paso y calcular caños, cuplas y derivaciones** para que se vea claro visualmente todo esto. Esto ayuda mucho a proyectar y hacer cómputo de materiales rápido.
+
+¿Querés que lo haga?
+Acá la clase aborda **circuitos mixtos, alimentación de anexos y sistemas solares**, y se pueden resumir los puntos clave así:
+
+---
+
+### 1. **Circuito mixto**
+
+* Se utiliza cuando hay **pocas tomas y pocas luces**.
+* Se combinan **tomacorrientes e iluminación en el mismo circuito**.
+* La **protección** se hace según el conductor más pequeño, generalmente **1,5 mm² para iluminación**.
+* Siempre se respeta el **disyuntor diferencial** para protección, incluso en anexos como quinchos.
+
+---
+
+### 2. **Alimentación de quinchos o casas internas**
+
+* Se debe poner **térmica independiente** desde el tablero principal.
+* La sección del conductor depende del consumo esperado; por ejemplo:
+
+  * Conductor 4 mm² → térmica de 20 A.
+* Se pueden instalar **hasta 3 conductores independientes** desde un medidor o instalar medidores independientes según la normativa de la empresa distribuidora.
+* La alimentación debe ser **independiente y segura**, evitando pasar por techos o instalaciones de terceros.
+
+---
+
+### 3. **Paneles solares y termotanques**
+
+* **Paneles solares:**
+
+  * Almacenan energía en baterías, suficiente para cargas **bajas como luces o computadoras**.
+  * No son suficientes para electrodomésticos de alto consumo como heladeras o aires acondicionados sin varios paneles.
+  * Excedentes en algunos países se pueden entregar a la red con un medidor especial.
+* **Termotanques solares:**
+
+  * Funcionan calentando agua con energía solar.
+  * En días nublados o en alto consumo, se puede usar **resistencia eléctrica como respaldo**.
+* La inversión es **alta** y el retorno económico puede tardar **10–15 años**. Se usa más como **respaldo o ahorro parcial**, no para reemplazo total de la red.
+
+---
+
+Si querés, puedo hacer un **esquema visual de un circuito mixto para quincho o casa interna**, incluyendo **disyuntor, diferencial y cajas de paso**, que ayude a proyectar y calcular materiales rápidamente. Esto hace mucho más fácil entender lo que explicaron en clase.
+
+¿Querés que lo haga?
+
+Acá la clase toca varios temas importantes, y se puede resumir y organizar así para que quede claro:
+
+---
+
+### 1. **Sistema monohilo**
+
+* Se usa en zonas rurales o aisladas con **línea única de fase**.
+* Desde la línea principal va **un solo conductor**, llamado “hilo de guardia”.
+* Donde hay consumo (escuelas, viviendas) se coloca un **transformador** que convierte a fase y neutro.
+* Ejemplo: 24 escuelas rurales fueron conectadas así; algunas usaban **paneles solares** como respaldo.
+* Clave: **Capacitación del usuario**. Si no saben usar el sistema, los equipos quedan en desuso o se dañan.
+
+---
+
+### 2. **Cajas de paso y derivación**
+
+* **Distancia máxima entre cajas:**
+
+  * Tramos rectos y horizontales: cada 12 m.
+  * Tramos verticales: cada 15 m.
+* Siempre deben ser **accesibles**, no tapadas por muebles o amoblamientos.
+* Permiten **derivaciones futuras**, evitando tener que picar paredes nuevamente.
+
+---
+
+### 3. **Caños en forma de U**
+
+* Solo se permite cuando **no se puede evitar** (cruces bajo pisos, obstáculos).
+* Deben usarse **conductores subterráneos con doble aislación** según normas IRAM 2220, 2262 y 2268.
+* Precaución: el aire condensado puede generar gotas, por eso el conductor debe soportar **humedad sin riesgos**.
+* Aplicable tanto para tramos bajo piso como en ciertas paredes.
+
+---
+
+### 4. **Curvado de caños**
+
+* Ángulo mínimo: **90°**.
+* Radio de curvatura: según la tabla de normas, depende de la sección del caño.
+* Opciones:
+
+  * Usar **curvas prefabricadas**.
+  * Usar **resorte para doblar** si es necesario.
+* Accesorios como **cuplas y conectores** son específicos para cada sección de caño.
+
+---
+
+### 5. **Colocación de conductores**
+
+* Se coloca **después de definir los circuitos**.
+* Antes de poner los cables, se debe tener un **plano de circuitos completo** para no cometer errores.
+
+---
+
+### 6. **Principio general de instalaciones**
+
+* Una instalación es **segura y confiable** solo si es realizada por un especialista que sigue el **reglamento de la Asociación Electrotécnica Argentina (AEA)**.
+* No se trata de inventar, sino de **aplicar normas correctamente**.
+
+---
+
+Si querés, puedo hacer un **diagrama visual de sistema monohilo con transformador, cajas de paso y caños en U**, que te ayude a **ver cómo se instalan realmente estos elementos y cómo calcular materiales**. Esto facilita mucho entender todo lo que explicó el profesor.
+
+¿Querés que haga ese diagrama?
+
