@@ -1,4 +1,4 @@
-% Clase Nº 56: Electricidad / Clase 55: Repaso uniones, cañeria. Calculo cableado de otro plano. Ayudante trajo plano sin conexionado y hicimos el cableado en clase.
+% Clase Nº 56: Repaso uniones, cañeria. Calculo cableado de otro plano. Ayudante trajo plano sin conexionado y hicimos el cableado en clase.
 % Andrés Imlauer
 % 13 Agosto 2025
 

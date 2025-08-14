@@ -57,7 +57,7 @@ List of pages:
 * /53clase.md: [Clase Nº 53: Repasamos fotocopia vieja de agrupación de conductores. Clase importante entra en examen: Calculo de materiales: caja octogonal, caja rect. 5x10, gancho U, caja cuadrada, conectores, curvas, cañerías.](/53clase.md)
 * /54clase.md: [Clase Nº 54: Repasamos concepto circuitos eléctricos (que habíamos dado la clase 20). Clase importante: Cálculo de cables.](/54clase.md)
 * /55clase.md: [Clase Nº 55: Repaso de colocación de cajas. Altura cajas. Anecdota: obrero unió 2 caños de hierro con corrugado. Ejercicio: Cálculo de materiales de un aula.](/55clase.md)
-* /56clase.md: [Clase Nº 56: Electricidad / Clase 55: Repaso uniones, cañeria. Calculo cableado de otro plano. Ayudante trajo plano sin conexionado y hicimos el cableado en clase.](/56clase.md)
+* /56clase.md: [Clase Nº 56: Repaso uniones, cañeria. Calculo cableado de otro plano. Ayudante trajo plano sin conexionado y hicimos el cableado en clase.](/56clase.md)
 * /contact.md: [Contacto](/contact.md)
 * /license.md: [License](/license.md)
 * /logo-license.md: [Unlicinsed bunnies](/logo-license.md)
