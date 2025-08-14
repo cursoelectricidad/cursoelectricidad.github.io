@@ -19,7 +19,7 @@ List of pages:
 * /15clase.md: [Clase Nº 15: Leímos catalogo Genrod (Tubeelectric). Exámen entra esquema general que vimos en la 3era clase (la primera en mi caso). Recibimos una torta por pascuas.](/15clase.md)
 * /16clase.md: [Clase Nº 16: Doblado de Caños, perfilería y estética de una instalación.](/16clase.md)
 * /17clase.md: [Clase Nº 17: Clase práctica. Armamos distribución](/17clase.md)
-* /18clase.md: [Clase Nº 18: Alarmas. Canalización subterránea. Como enterrar un conductor subterráneo. Guía AEA. Saul Kuperman el director de la escuela nos da la bienvenida al curso.](/18clase.md)
+* /18clase.md: [Clase Nº 18: Alarmas. Canalización subterránea. Como enterrar un conductor subterráneo. Guía AEA. Saul Kuperman el director de la escuela nos da la bienvenida al curso: habla de la vestimenta y tarjeta IERIC.](/18clase.md)
 * /19clase.md: [Clase Nº 19: [FOTOCOPIA] España apagón. Sistemas de alarma. Conocimientos básicos de electricidad y seguridad para obreros. ](/19clase.md)
 * /20clase.md: [Clase Nº 20: Circuito eléctrico. Magnitudes. Átomos. Materia. Electrones. Corriente. Sistema Alarma. Corriente Alterna/Continua. Tester. ](/20clase.md)
 * /21clase.md: [Clase Nº 21: Vimos una instalación mal hecha: Errores y Mejoras. Conexiones en Serie y Paralelo. ](/21clase.md)

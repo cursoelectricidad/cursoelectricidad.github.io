@@ -1,4 +1,4 @@
-% Clase Nº 18: Alarmas. Canalización subterránea. Como enterrar un conductor subterráneo. Guía AEA. Saul Kuperman el director de la escuela nos da la bienvenida al curso.
+% Clase Nº 18: Alarmas. Canalización subterránea. Como enterrar un conductor subterráneo. Guía AEA. Saul Kuperman el director de la escuela nos da la bienvenida al curso: habla de la vestimenta y tarjeta IERIC.
 % Andrés Imlauer
 % 23 Abril 2025
 
@@ -9,7 +9,7 @@
 **Audio en YouTube**      
 [https://www.youtube.com/embed/CjxdRc7iQsw](https://www.youtube.com/embed/CjxdRc7iQsw)   
    
-Alarmas. Guardar cable pasante con manguera o caño corrugado. Página 47 GUIA AEA.  Saul Kuperman (director de la escuela) viene a darnos la bienvenida, habla de la vestimenta, tarjeta ieric. Si yo no tengo un soporte los peer¿? tienen la posibilidad de tener un rango de 90 grados. Profeosr trabajó con alarma X28, trabajó en eso pero no ganaba mucho. Yo se abarataron mucho los precios, la alarma más cara era X28, la gente no quiería pagar. Hay alarmas que graban a partir de algún movimiento y graba todo.
+Alarmas. Guardar cable pasante con manguera o caño corrugado. Página 47 GUIA AEA.  Saul Kuperman (director de la escuela) viene a darnos la bienvenida, habla de la vestimenta, tarjeta ieric. Si yo no tengo un soporte los peer¿? tienen la posibilidad de tener un rango de 90 grados. Profesor trabajó con alarma X28, trabajó en eso pero no ganaba mucho. Yo se abarataron mucho los precios, la alarma más cara era X28, la gente no quiería pagar. Hay alarmas que graban a partir de algún movimiento y graba todo.
 
 ![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg3_u9KfGEhRmDuwewjWzWzeRW_YmS6XZEDRsBw81rVGDPVfTWV5NEuiO_-kJCddTHZnefka1nV3afbgXsmL0ZXEe-Z2sL3Enn1AdUV0PkOfF-ldFzvTXCIDiDnGSLjewUlhBhUHWQjLFKljdHqtoWmla3tPKWF18Y4aowuBiYaOOosjizua8Z03S_7qfg/s4160/IMG_20250423_183942934.jpg)
 ![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhMimx5vj4mcEinTepW0yqxFaa6d8Lx55maTP3XeDlJb538Fx5gJTdy48fkjweRABDnKq7kc-ixf9bxExHrqBAoDrMPPulC5KmJCVyn3sRajTgZzJ50lbGiQ-KqE_nSyInxbyAjRb4gkf0XdVBRwe5RYOWhjFkpTpeGVFZB5V1tlSoMUNmZ2tlYBB3wQTo/s4160/IMG_20250423_192642379.jpg)
