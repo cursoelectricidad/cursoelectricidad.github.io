@@ -411,3 +411,62 @@ Si querés, puedo hacer un **resumen completo de todas tus últimas transcripcio
 
 ¿Querés que lo haga?
 
+# Grok
+
+### Puntos Principales de la Clase Práctica de Instalaciones Eléctricas
+
+A continuación, resumo y destaco los puntos más importantes del transcripto, organizados por temas clave. Me enfoco en los conceptos técnicos, procedimientos prácticos, consejos de seguridad y planes futuros, eliminando repeticiones y partes irrelevantes como música o conversaciones secundarias.
+
+#### 1. **Objetivo General de la Práctica**
+   - La idea principal es crear un sistema de bastidor o tablerito individual para practicar instalaciones eléctricas internas con cañerías, cajas y conexiones.
+   - Se trabaja en grupos (tres filas como simulaciones), uniendo materiales para representar un esquema real: alimentación principal desde un tablero, distribución a cajas de paso y bocas (enchufes o luces).
+   - Enfatiza aplicar todo lo aprendido: curvas, uniones, conectores y mediciones para optimizar materiales.
+
+#### 2. **Materiales y Herramientas Utilizadas**
+   - **Cañerías y Conectores**: Usar cañerías de 3/4" (tres cuartos). Conectores de rosca (rojo para entrada, otro para salida). Curvas y uniones para extensiones cortas.
+   - **Cajas**: 
+     - Cajas de paso (10x10 cm o rectangulares 5x10).
+     - Cajas octogonales para iluminación (en techos o paredes altas).
+     - Cajas cuadradas para tomas o interruptores.
+   - **Herramientas**: Trincheta para cortar cañerías, cinta métrica para medir (ej. 30 cm como referencia), tornillos autoperforantes para fijar, pinza o pico de loro para ajustar.
+   - **Cables**: Fase, neutro, tierra (2.5 mm² o 4 mm²). Pelacables para preparar.
+   - Otros: Cinta aisladora, térmicas (ej. de 40A), cambios (interruptores).
+
+#### 3. **Procedimiento de Montaje**
+   - **Fijación Inicial**: Marcar y fijar cajas a la mesa con tornillos (uno o dos por caja para referencia). No perforar permanentemente.
+   - **Medición y Corte**: Medir distancias (ej. 30-33 cm), cortar cañerías con trincheta (lado interno para evitar rebabas). Usar curvas si es necesario para alinear.
+   - **Conexiones**: 
+     - Insertar cañerías en conectores (hacer tope, ajustar roscas con presión manual).
+     - Si no entra, cortar 1 cm extra o limpiar rebabas. Probar con uniones para extensiones.
+     - Evitar forzar; si se mueve, usar grapas o fijaciones adicionales.
+   - **Distribución**: Alimentación principal en una caja central, derivaciones a bocas laterales. Simular paredes: cajas altas para luces (1.20-1.50 m), bajas para tomas (0.40 m del piso).
+   - **Consejos Prácticos**: 
+     - Optimizar cortes para no desperdiciar (usar uniones para pedazos cortos).
+     - Trabajar en equipo: uno mide/corta, otro ajusta.
+     - Si hay problemas (ej. rosca defectuosa), cambiar conector o cortar ligeramente.
+
+#### 4. **Pasado de Cables**
+   - Pasar cables (fase, neutro, tierra) por cañerías en una sola pasada para evitar enredos.
+   - Técnica: Uno empuja/peina cables, otro tira. Usar cinta pasacables si disponible (pasar al revés para facilitar).
+   - Ejemplos de Circuitos Simples:
+     - Toma + Luz: Fase/neutro/tierra a toma; de fase a interruptor, retorno a lámpara; empalmar neutro en caja.
+     - Evitar mezclar circuitos; priorizar derivaciones lógicas (ej. alimentar toma primero, luego luz).
+   - Puente temporal para probar, pero canalizar cables correctamente.
+
+#### 5. **Normas y Seguridad (Reglamento)**
+   - Niveles Estándar: Interruptores a 1.20 m del piso; tomas a 0.40 m; cajas de paso a 0.30 m; iluminación en techos con cajas octogonales.
+   - Siempre caja de paso en medio para distribuciones.
+   - No mezclar circuitos; respetar calibres de cables (ej. 2.5 mm² para luces/tomas).
+   - Comprar extras (2-3 más) por emergencias. Usar conectores de marcas compatibles.
+   - En obras reales: Fijar en paredes, no mesas; evitar forzar para no dañar roscas o cañerías.
+
+#### 6. **Planes Futuros y Evaluación**
+   - Próximas Clases: Cableado individual (llaves de punto, combinaciones, prolongaciones). Probar circuitos con lámparas.
+   - Temas Avanzados: Transporte de corriente, capacidad de conductores, sistemas automatizados (sensores de movimiento, relés).
+   - Evaluación: Teórica y práctica (conexiones, pruebas). Hasta junio para instalador básico; julio-diciembre para montador (incluye motores, electromecánica).
+   - Sugerencia: Comprar tableros personales (60x50 cm) para práctica en casa. Guardar montajes para continuar.
+
+#### 7. **Anecdotas y Consejos Generales**
+   - Importancia de práctica grupal y observación mutua.
+   - Historias personales: Accidentes en trabajos (ej. ventas de gases, conducción riesgosa) para enfatizar equilibrio vida-laboral y seguridad.
+   - Aprender de familiares (ej. electrónica con Arduino para portones automáticos) y aplicar en proyectos reales.
