@@ -108,3 +108,340 @@ distribución. Alumna pregunta sobre como mejorar instalación de su casa. Entra
 ---        
 
 FIN.    
+
+---
+
+Aquí están los puntos más importantes de la clase, organizados por tema y relevancia:
+
+---
+
+### **1. Equipos y materiales**
+
+* **Proyectores y televisores:** Se están probando distintos equipos para prácticas; se menciona un proyector pequeño que van a usar próximamente.
+* **Pegamento para caños:** Se mostró un caño con pegamento tipo Poxipol; fuerte adhesivo, histórico, reemplazado por otros compuestos actualmente.
+* **Medidores digitales:**
+
+  * Monofásicos y trifásicos, permiten ver tensión y corriente.
+  * Hasta 100 A, monofásico 220 V.
+  * Identificación de neutro y fase con tester.
+  * Uso en cooperativas rurales y medidores prepagos (sistema de crédito en kWh).
+* **Transformadores TI:** Se usan para medir amperaje en conductores de gran sección sin que pase toda la carga al medidor.
+* **Gabinetes y medidores EMSA:** Algunos son internos, otros externos; ahora se utilizan materiales de PVC para mayor seguridad.
+
+---
+
+### **2. Medición y seguridad**
+
+* **Uso del tester:**
+
+  * Para identificar fase y neutro en medidores monofásicos.
+  * Continuidad para comprobar la correcta conexión.
+* **Corriente nominal de interruptores:**
+
+  * Ej.: 25/40 A permite paso sin daño; corrientes mayores pueden quemar el equipo.
+* **Protecciones:**
+
+  * Interruptor diferencial siempre asociado al neutro.
+  * Tablero principal vs seccional: importancia de la distancia desde el pilar (regla de 5 metros).
+  * Para distancias mayores a 5 m, primero interruptor principal y luego disyuntor.
+
+---
+
+### **3. Proyectos y planos eléctricos**
+
+* **Guía AEA y simbología:**
+
+  * Ayuda a proyectar instalaciones en viviendas hasta 10 kW.
+  * Se considera ubicación de muebles y tomas según normas.
+  * Distancias mínimas: bacha/mesada ≥ 40 cm respecto a tomas.
+* **Cañerías y trazado:**
+
+  * Instalaciones subterráneas pueden ir sobre tierra o por caño camisa.
+  * Empalmes deben realizarse en cajas de paso, no directamente en el suelo (antes se hacía con “botella de empalme”).
+* **Tableros:**
+
+  * Tablero principal (detrás del medidor) y seccional (en la casa).
+  * Identificación mediante simbología: cuadradito = tablero general, línea diagonal = seccional.
+
+---
+
+### **4. Puesta a tierra**
+
+* Obligatoria en toda instalación.
+* Componentes: conductor, bornera, jabalina, acople, cámara de inspección.
+* Actualización a normas con materiales de PVC en gabinetes.
+* Importancia de que conductor no tenga pérdidas, pero cumpla función de protección.
+
+---
+
+### **5. Instalaciones públicas**
+
+* Alumbrado público y plazas:
+
+  * Conductores subterráneos llevan cajas de borneras en postes.
+  * Precaución con accesos al público (robos, manipulación).
+  * Dispositivos deben permitir desconexión y seguridad del circuito.
+
+---
+
+Si querés, puedo hacer **un resumen todavía más condensado en una hoja**, resaltando solo lo **estrictamente esencial para estudio o examen**. ¿Querés que haga eso?
+
+Aquí están los puntos más importantes de este fragmento, organizados por tema y relevancia:
+
+---
+
+### **1. Problemas frecuentes en instalaciones**
+
+* **Disyuntores que saltan constantemente:**
+
+  * Ocurre en instalaciones largas con pérdidas o cableado viejo.
+  * Puede requerir “puentear” temporalmente, pero no es solución definitiva.
+* **Tableros mal protegidos o sobrecargados:**
+
+  * Uso de fusibles de amperaje superior al conductor genera riesgo de incendio.
+  * Ejemplo: fusible de 160 A en conductor de 25 mm² → no protege y se quema el cable.
+* **Sobrecarga de fases:**
+
+  * Instalaciones trifásicas mal equilibradas pueden provocar fallas.
+  * Electricistas a veces improvisan soluciones temporales (saltos de fusibles, puentes) que no son seguras ni normativas.
+
+---
+
+### **2. Buenas prácticas y respaldo**
+
+* **Registro fotográfico:**
+
+  * Tomar fotos del tablero antes de hacer modificaciones.
+  * Sirve como respaldo ante reclamos de clientes o problemas futuros.
+* **Documentación y normas:**
+
+  * Revisar normas y fotos de instalaciones anteriores para entender cómo deben distribuirse los circuitos y protecciones.
+  * Conocer agrupación de conductores, canalización y montajes según reglamento.
+
+---
+
+### **3. Protección de conductores**
+
+* **Dimensionamiento correcto:**
+
+  * Conductores 1,5 mm², 2,5 mm² y 4 mm² requieren térmicas apropiadas (10 A, 16 A, etc.).
+  * No usar interruptores o fusibles incorrectos, aunque la empresa los provea.
+* **Interruptores diferenciales y peines:**
+
+  * Diferenciales protegen la vida humana; no se deben hacer salidas múltiples que comprometan su función.
+  * Peines (regletas) permiten alimentar varias térmicas sin sobrecargar el interruptor.
+* **Borneras:**
+
+  * Facilitan conexión y organización, evitan puentes improvisados.
+  * “Ojo de buey”: indica energía presente, previniendo accidentes.
+
+---
+
+### **4. Instalación y planificación**
+
+* **Bucle de alimentación:**
+
+  * Permite distribuir corriente de manera ordenada y segura a varias térmicas.
+* **Orden y seguridad:**
+
+  * Tablero bien organizado facilita futuras ampliaciones y mantenimiento.
+  * Invertir en materiales y componentes adecuados evita problemas futuros.
+
+---
+
+Si querés, puedo hacer un **resumen combinado de este y el anterior fragmento**, resaltando solo lo **crítico para estudio práctico y examen**, en 1 hoja. Esto te dejaría todo lo esencial listo para repasar rápido. ¿Lo hago?
+
+Acá están los puntos más importantes de este fragmento, organizados por tema:
+
+---
+
+### **1. Bucles y borneras**
+
+* **Bucle continuo:**
+
+  * Siempre que se hace un bucle de alimentación, debe ser continuo para asegurar buen contacto.
+  * Bucle flojo puede provocar disparos del interruptor diferencial.
+* **Bornera de distribución:**
+
+  * Sirve para organizar y distribuir la alimentación a varias térmicas.
+  * Alimentación **siempre por abajo y salida por abajo**, respetando las escaleras de la bornera.
+  * Se pueden usar terminales TIF para asegurar el conductor.
+* **Tamaño de conductores:**
+
+  * Cable principal que alimenta todas las térmicas: 4 mm².
+  * Salidas: 2,5 mm² para tomas generales, 1,5 mm² para iluminación, 4 mm² para aires acondicionados.
+
+---
+
+### **2. Distribución y conexión de fases**
+
+* **Monofásico:** fase y neutro.
+* **Trifásico:** tres fases + neutro, se conectan en escalera para mejor distribución y ajuste en borneras.
+* Cada conductor del interruptor diferencial o térmica debe ser **un solo cable**.
+
+---
+
+### **3. Normas de canalización**
+
+* **Montaje previo a mampostería:**
+
+  * Cajas y caños deben fijarse antes de pasar los cables y de terminar la obra.
+  * Permitir 15 cm de sobra para empalmes si se cortan cables.
+* **Empalmes:**
+
+  * Prohibidos dentro de los caños; solo se realizan en cajas o elementos específicos.
+* **Fijación:**
+
+  * Caños pueden tener puntos de sujeción, pero deben estar firmes antes de pasar conductores.
+
+---
+
+### **4. Dimensionamiento de térmicas y conductores**
+
+* **Relación conductor ↔ térmica:**
+
+  * 1,5 mm² → 10 A
+  * 2,5 mm² → 16 A
+  * 4 mm² → 25 A
+* Térmicas mínimas para una vivienda:
+
+  * Iluminación
+  * Toma corriente general
+  * Aires acondicionados / tomas especiales
+  * Ducha eléctrica / cocina
+
+---
+
+### **5. Buenas prácticas**
+
+* Usar cable canal para organizar conductores en tableros más grandes.
+* Siempre verificar grosor del cable antes de hacer bucles o conexiones múltiples.
+* Las fotos y la documentación ayudan a respaldar la instalación ante problemas futuros.
+
+---
+
+Si querés, puedo hacer un **resumen combinado de los dos últimos fragmentos**, que incluya **todo lo esencial sobre tableros, térmicas, bucles y canalización**, en una sola hoja lista para estudiar. Esto te dejaría todo lo clave en un vistazo.
+
+Acá están los puntos clave y la síntesis de esta clase sobre **tableros, canalizaciones y mejoras de instalaciones domésticas**, organizados para estudio:
+
+---
+
+### **1. Tableros y elementos**
+
+* Tablero cerrado: contiene **bornera de distribución**, **contactor**, **seccionador** y térmicas.
+* Dentro de tableros se pueden usar **canales ranurados grises**, que permiten organizar los conductores y asegurar circulación adecuada de cables.
+* Diferencia visual:
+
+  * **Interruptor termomagnético** → protege circuito de sobrecarga y cortocircuito.
+  * **Interruptor diferencial** → protege a las personas ante fugas de corriente.
+
+---
+
+### **2. Problemas comunes en instalaciones domésticas**
+
+* Distribución de térmicas en distintos lugares (ej: iluminación en cielo raso, cocina, baño) provoca **dificultad de acceso y seguridad**.
+* Usar cables de sección insuficiente (ej: 2,5 mm² para ducha) puede causar sobrecarga.
+* Cables **colocados solo sobre machimbre o cielorraso sin protección**: riesgo de incendio, roedores y humedad.
+
+---
+
+### **3. Soluciones y buenas prácticas**
+
+* Centralizar el tablero y las protecciones en un **solo lugar accesible**, cercano a la entrada de la alimentación.
+* Usar **corrugado, cable canal o caño rígido** para proteger los cables y evitar sobrecargas.
+* Cables críticos (ej: ducha, cocina) deben **tener su propia protección térmica** desde el tablero principal.
+* No es necesario cambiar todos los cables a mayor sección si no lo exige la carga; se prioriza proteger los circuitos críticos.
+
+---
+
+### **4. Canalización y seguridad**
+
+* El corrugado debe ir **lo más tensado posible** para evitar “panza” de cables.
+* Para instalaciones existentes, se puede **anular el cableado viejo** y pasar uno nuevo protegido por debajo o exteriormente.
+* Para cielorrasos y machimbres:
+
+  * Distribuir el peso al gatear por clavadores.
+  * Usar **madera entre clavadores** para no dañar la estructura.
+  * Evitar apoyarse directamente sobre el machimbre.
+
+---
+
+### **5. Planificación y dibujo**
+
+* Antes de realizar cambios:
+
+  * Sacar **fotos** y **hacer bosquejo simple** de la casa y la ubicación de tableros, circuitos y tomas.
+  * Identificar **puntos críticos**: ducha, cocina, tablero principal.
+* Objetivo: minimizar costo, mejorar seguridad y accesibilidad, centralizar la protección y evitar cableado expuesto.
+
+---
+
+Si querés, puedo armarte un **diagrama resumido estilo “esquema de instalación doméstica segura”** que combine: tablero principal, térmicas, distribución por corrugado/caño, y señalando circuitos críticos. Esto te serviría como guía visual de estudio y para aplicar en casa. ¿Querés que haga eso?
+
+Aquí está la **síntesis organizada** de esta segunda parte de la clase, centrada en la **protección de circuitos, tableros seccionales y empalmes**:
+
+---
+
+### **1. Problema principal detectado**
+
+* Muchos cables **no están protegidos por térmicas o disyuntores**, especialmente los que alimentan:
+
+  * Cocina (horno, heladera)
+  * Baño (ducha eléctrica)
+  * Lavadero
+* Algunos cables están **empalmados afuera**, expuestos al sol y a riesgos de sobrecarga.
+* Disyuntores o térmicas existentes **no protegen realmente toda la línea**, solo el tramo donde están colocados.
+* Riesgo: **sobrecalentamiento, deterioro de aislación, incendio, choque eléctrico.**
+
+---
+
+### **2. Soluciones planteadas**
+
+* **Centralizar protecciones** en un **tablero seccional o principal** accesible.
+* Cada circuito crítico debe tener su **térmica**:
+
+  * Cocina → 1 o 2 térmicas de 16-25 A según carga.
+  * Baño → 1 térmica de 20-25 A.
+  * Otros sectores → separadas según consumo.
+* Evitar empalmes expuestos; los conductores deben **entrar en la caja seccional/tablero** y conectarse allí.
+* Conductor mínimo recomendado: **4 mm² a 6 mm²** para alimentar los tableros y circuitos críticos.
+
+---
+
+### **3. Prácticas de seguridad**
+
+* **No unir conductores dentro del tablero**; no usar el tablero como caja de paso.
+* **Precintar y acomodar los cables** para que no se muevan y se puedan identificar los circuitos.
+* **Respetar colores** (fase, neutro, tierra) y sentido de entrada/salida de cables.
+* Revisar continuidad y fase con **buscapolo o lámpara de prueba** antes de energizar.
+
+---
+
+### **4. Estrategia práctica de intervención**
+
+* Resolver **primero los circuitos de mayor consumo** (ducha, calefones, cocina).
+* Reestructurar por etapas según presupuesto:
+
+  1. Protecciones principales en tablero.
+  2. Alimentación a baño y cocina con térmicas separadas.
+  3. Redistribuir o anular cables viejos y empalmados.
+* Mantener los **cables protegidos con corrugado o caño** y separados del cielorraso/machimbre.
+
+---
+
+### **5. Observaciones adicionales**
+
+* Las instalaciones “provisionales” pueden funcionar, pero **no están protegidas** → riesgo de incendio.
+* Es clave **detectar problemas a tiempo** (sobrecalentamiento, olor a quemado, cables viejos).
+* Aprender a **diagnosticar con instrumentos** y organizar el trabajo de forma lógica:
+
+  * Fotos → bosquejo → identificación de circuitos → soluciones por prioridad.
+* Práctica y observación: todos pueden aportar soluciones según experiencia, incluso quienes no son expertos.
+
+---
+
+Si querés, puedo hacer un **diagrama de flujo de esta solución** mostrando: tablero principal → seccional → baños/cocina/lavadero con sus térmicas, y donde irían los empalmes y corrugados, **para tener un esquema visual completo de protección doméstica**. Eso resume todo lo que se explicó en estas dos partes.
+
+¿Querés que haga ese diagrama?
+
+
