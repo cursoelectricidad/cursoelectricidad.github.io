@@ -83,3 +83,286 @@ por abajo del otro. Siempre el mejor electricista tiene que seguir una determina
 ---
         
 FIN    
+
+---
+
+Aquí tienes los puntos más importantes de la transcripción:
+
+* **Comparación de materiales de cajas**
+
+  * La caja metálica es más barata que la de PVC.
+  * Elección del material depende de preferencia y uso.
+
+* **Uso y doblado de caños de PVC**
+
+  * Se trabaja con caño liviano (ej. 3/4”) para facilitar el doblez.
+  * Respetar el **radio mínimo de curvatura** para evitar deformaciones.
+  * Métodos: con resorte, con dispositivo especial, o artesanal (arena y calor).
+  * Doblez debe ser de 90° o un poco más, para reemplazar curvas prefabricadas.
+  * El objetivo es ahorrar tiempo en obra.
+
+* **Cajas y fijación**
+
+  * Caja 5x10 puede usarse para tomacorrientes y llaves de punto.
+  * Salidas posibles: 3/4”, 7/8” y hasta 1”.
+  * Todas las cajas deben quedar **firmemente fijas** (en mampostería, pared o aérea) antes de instalar caños.
+  * No sirve fijar caños sin fijar primero la caja.
+
+* **Instalación con ganchos U**
+
+  * Sirven para sujetar cajas; se colocan en los orificios y se ajustan con tuerca y contratuerca.
+  * Permiten orientar la instalación en distintas direcciones.
+
+* **Conectores y herramientas**
+
+  * Elegir conectores según el diámetro del caño.
+  * Uso de trinchetas robustas para cortar; preferir cortar cerca del soporte para mayor facilidad.
+
+* **Cajas de paso**
+
+  * Pueden funcionar como punto de conexión y alimentación.
+  * En algunos casos no se instalan cajas de paso, lo que complica modificaciones.
+
+* **Ejemplos de problemas reales en obra**
+
+  * Artefactos sin cajas de paso, con cables colgando.
+  * Tomas mal ubicados por carpintería, requiriendo romper y fijar cajas.
+  * Anafe eléctrico requiere toma y caja de **20A** obligatoriamente.
+
+Si querés, puedo también **organizar este resumen en un esquema visual** para que te quede como guía rápida de clase.
+
+Aquí te destaco los puntos más importantes de ese tramo de la clase:
+
+---
+
+**1. Actividad práctica de doblado de caños**
+
+* Se armarán grupos de 2 a 4 personas para practicar corte, doblado y colocación de conectores.
+* Se comenzará sobre pupitre y luego se pasará a la pared, simulando una instalación real.
+* Se trabajará principalmente con **caños PVC livianos**, más fáciles de doblar.
+* El caño semipesado o pesado requiere más esfuerzo y en obra normalmente se usa curva prefabricada.
+
+---
+
+**2. Radio mínimo de curvatura**
+
+* Para caño de 3/4” (20 mm), el radio mínimo de doblado es **56 mm** (dato importante para evitar estrangulamiento).
+* El espesor del caño determina la dificultad de doblado: a mayor espesor, más difícil doblar.
+
+---
+
+**3. Uso de resorte para doblar caños**
+
+* Indispensable para evitar que el caño se estrangule o pierda forma.
+* Se dobla en frío (no se calienta) en caños de PVC con “memoria”.
+* Cada diámetro de caño requiere un resorte específico.
+* Los resortes pueden deteriorarse si se llenan de tierra, cal u óxido.
+* Al usar el resorte, se puede ayudar con soga para facilitar su extracción en caños largos.
+
+---
+
+**4. Errores comunes en obra (“vicios ocultos”)**
+
+* Dejar curvas mal hechas y cables colgando sin protección.
+* Problemas que no se ven hasta que se desmontan artefactos o se abre el cielo raso.
+
+---
+
+**5. Herramientas y responsabilidades en obra**
+
+* El electricista profesional debe llevar sus propias herramientas, pero si las pone la empresa debe devolverlas al final de la obra.
+* Si el operario rompe una herramienta (ej. perforadora con percutor) por mal uso, puede ser responsable del daño.
+* Las herramientas se desgastan y el costo debe contemplarse en el precio del trabajo.
+
+---
+
+Si querés, puedo unir este resumen con el anterior para que tengas **una guía completa de toda la clase sobre doblado de caños y fijación de cajas**. Así no se te pierde nada.
+
+
+Aquí tienes el resumen de ese fragmento de la clase:
+
+---
+
+## **1. Cuidado y uso de herramientas**
+
+* Si se rompe por **caso fortuito**, el dueño la repone; si es por **mal uso**, el operario debe pagarla.
+* Ejemplo: perforadoras/percutores automáticos (no empujar, solo apoyar; si se fuerza, se quema el pistón).
+* Malos hábitos: empujar demasiado, palanquear, usar hasta romper.
+* El dueño debe prever un porcentaje de su mano de obra para reposición de herramientas (mechas, hojas de sierra nuevas, etc.).
+* Cada herramienta nueva debe llevar repuestos adecuados antes de iniciar una obra.
+
+---
+
+## **2. Planificación de obra**
+
+* Antes de empezar, definir:
+
+  1. Herramientas necesarias.
+  2. Materiales a usar.
+  3. Quién provee los materiales.
+* Falta de elementos adecuados retrasa trabajos (ej. escalera correcta, andamios).
+* Escalera ideal: doble, con peldaños **horizontales** (mejor apoyo y seguridad).
+* Para electricistas: existen escaleras dieléctricas que aíslan de posibles descargas.
+
+---
+
+## **3. Seguridad en altura**
+
+* No improvisar escaleras de madera inestables o andamios inseguros.
+* Cumplir con normas de higiene y seguridad; registrar con fotos o videos casos peligrosos.
+
+---
+
+## **4. Doblado de caños**
+
+* Siempre usar **cañería liviana** para doblar a mano con resorte.
+* La cañería pesada es difícil de doblar, requiere herramientas auxiliares.
+* Límite de curvas: máximo **2 curvas** por tramo (según lo comentado en clases anteriores).
+* El doblez artesanal permite reemplazar curva + contracurva, útil para salvar diferencias de nivel (doblez en **S**).
+* En caño de hierro, la costura influye en la calidad de la curva.
+
+---
+
+## **5. Conexiones y uniones**
+
+* Caños roscados: llevan **cupla** para unir o agregar curvas.
+* Respetar el **radio mínimo de curvatura**: para caño de 3/4” → **56 mm**.
+
+  * El radio es la distancia desde el centro imaginario de la curva hasta el interior de la cañería.
+  * No confundir con grados: los grados indican el ángulo, el radio indica la suavidad del doblez.
+* Uniones con rebarba deben limarse/ensancharse para facilitar el roscado.
+* Evitar usar piezas oxidadas o deformadas.
+
+---
+
+Si querés, puedo ahora **juntar este resumen con los dos anteriores** para que tengas la **guía completa de toda la clase**, bien ordenada y con subtítulos. Así no se te pierde ningún detalle.
+
+Aquí tienes el resumen de ese fragmento de la clase, organizado por temas:
+
+---
+
+## **1. Ganchos U y soportes**
+
+* Siempre utilizar **gancho U** para fijar bocas de iluminación u otros artefactos suspendidos.
+* No usar alambrón o “fidel 6” como sustituto, aunque algunos lo hagan: **no es correcto**.
+* El gancho U permite colgar artefactos de forma segura y soportar estructuras ligeras (tipo campanas o lamparones).
+* La **primera fijación** siempre debe ser desde la boca de luz.
+
+---
+
+## **2. Uso de soportes y rieles**
+
+* Soportes de diámetro 6 u 8 mm para fijar cañerías.
+* En rieles o tableros con muchas cañerías, usar soportes adecuados para distribuir la carga.
+* Algunos soportes no necesitan tarugo si el roscado y la presión aseguran la fijación; si el agujero es grande, a veces se recurre a cinta aisladora (no recomendable, solo en emergencia).
+* La elección del soporte depende del material de la pared y la cantidad de cañerías a sostener.
+
+---
+
+## **3. Profundidad y preparación de la pared**
+
+* Para **embutir cajas**:
+
+  * Dimensiones ejemplo: 5x10 cm, profundidad 4,5 cm → dejar 1 cm extra → 5,5 cm o 6 cm.
+  * Para cañerías 3/4” (≈20 mm), dejar mínimo **3 cm** de profundidad para incluir conectores.
+  * Siempre preparar la pared **antes de colocar la cañería**: marcar, picar y prever la ubicación de los conectores.
+* Orden recomendado: primero preparar la caja y la pared, luego colocar cañerías y conectores.
+
+---
+
+## **4. Instalación con PVC**
+
+* Evitar mezclar PVC con hierro; usar PVC para sistemas modernos.
+* Los bastidores de las cajas permiten nivelar y fijar correctamente la caja en la pared.
+* Nivelación:
+
+  * Bastidores modernos permiten ajustes mínimos.
+  * Se pueden usar niveles con imán (como los de soportes para TV) para asegurar que la caja esté alineada.
+
+---
+
+## **5. Planificación y ejecución**
+
+* Antes de instalar: proyectar la ubicación de bocas, curvas y conectores.
+* Calcular **curvas mínimas** necesarias y tener repuestos a mano.
+* Colocar gancho U en bocas octogonales permite colgar cualquier elemento; evita que el conductor soporte peso.
+* Conductores **nunca deben soportar carga**, aunque parezca liviano.
+
+---
+
+Si querés, puedo hacer un **resumen unificado de todas tus clases sobre canalización y cañerías**, incluyendo herramientas, doblado, soportes, profundidades, ganchos U y planificación, para tener **una guía completa lista para estudiar o llevar a obra**. Esto sería como un manual condensado de la práctica completa.
+
+
+Aquí tienes un resumen estructurado del segundo fragmento de la clase:
+
+---
+
+## **1. Fijación de ventiladores y artefactos suspendidos**
+
+* Nunca colgar ventiladores de una boca floja.
+* Si hay losa continua, usar soportes tipo **“S”** fijados a la losa.
+* Los soportes modernos incluyen:
+
+  * Lugar para fijar el ventilador.
+  * Buje de goma para absorber vibraciones.
+  * Tornillos para fijación segura.
+* En lugares sin soporte, algunas soluciones improvisadas son poco seguras (ej.: ganchos tipo carnicero).
+* Cuando se instalan ventiladores con luz:
+
+  * Se requieren **4 cables**: fase, retorno, neutro y puesta a tierra.
+
+---
+
+## **2. Estética y recorrido de cañerías a la vista**
+
+* Seguir el **recorrido de las vigas** para cañerías visibles, evitando atravesar vigas innecesariamente.
+* La canalización debe ser **ordenada y ortogonal**, evitando que los caños se crucen.
+* Se pueden pintar las cañerías del mismo color que paredes o cielo raso para que pasen desapercibidas.
+* La estética es importante: un trabajo prolijo puede generar **recomendaciones futuras**.
+
+---
+
+## **3. Canalización con bandejas**
+
+* Evitar **empalmes dentro de bandejas**; las uniones deben hacerse en cajas o bocas específicas.
+* Las bandejas permiten transporte de múltiples conductores, pero hay que respetar reglas de derivación y accesibilidad.
+* Se pueden usar bandejas de colores para coordinar con la estética del espacio.
+
+---
+
+## **4. Planificación de la instalación**
+
+* Antes de instalar conductores: **planificar y ejecutar la canalización**.
+* Toda simbología y plano eléctrico sirve para guiar la instalación.
+* Evitar colocar cañerías de manera improvisada por indicaciones de terceros sin revisar la obra.
+* **Circuitos mixtos**: iluminación y tomas pueden ir en la misma cañería si se planifica correctamente.
+
+---
+
+## **5. Durlock y fijación de cajas**
+
+* En durlock:
+
+  * Primero fijar **perfiles verticales**.
+  * Colocar soportes antes de la placa.
+  * Las cajas se fijan a los perfiles, no directamente a la placa.
+* Evitar pasar corrugado suelto sin soporte dentro de la placa.
+* Si se necesita más seguridad, se pueden fijar varios puntos de soporte.
+
+---
+
+## **6. Experiencias y ejemplos prácticos**
+
+* Profesores muestran cómo en obras reales se deben cuidar:
+
+  * Estética de la instalación.
+  * Correcta fijación de cañerías y artefactos.
+  * Planificación antes de instalar conductores.
+* Importancia de la práctica y observación en obra para comprender la mejor manera de canalizar y fijar.
+
+---
+
+Si querés, puedo **unir ambos resúmenes** en un **manual condensado sobre canalización, fijación, estética y planificación de instalaciones eléctricas**, para que tengas todo en un solo documento listo para estudio y práctica. Esto incluiría ganchos U, ventiladores, cañerías, bandejas, durlock y planificación de circuitos.
+
+¿Querés que haga eso?
+
