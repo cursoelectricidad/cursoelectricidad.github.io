@@ -658,3 +658,453 @@
     
 FIN.    
 
+---
+
+Aquí te resumo los **puntos más importantes** de la transcripción que compartiste:
+
+---
+
+### 1. **Uso del proyector y materiales**
+
+* El profesor comenta que traer un proyector facilitará la explicación.
+* Se mencionan materiales para prácticas de canalización.
+* Algunos materiales no estaban disponibles, como el conductor subterráneo, pero se traerán luego.
+
+---
+
+### 2. **Llave unipolar y conexión fase/neutro**
+
+* La **fase siempre va en la entrada de la llave unipolar**, el neutro va en el retorno.
+* Si el neutro se quema, suele ser por falso contacto o por que el conductor es más fino.
+* Importancia de que **los cables estén bien sujetos** (morcetos correctamente ajustados) para evitar problemas de sobrevoltaje o uniones peligrosas.
+
+---
+
+### 3. **Problemas en instalaciones reales**
+
+* Caso de una escuela: el neutro mal conectado generó 380 V en un equipo de 220 V, causando daño al motor y al térmico.
+* En tormentas, ramas o movimientos de cables pueden inducir fallas o sobrevoltajes.
+* En uniones de cables de aluminio, se puede trabajar con tensión **siempre que haya aislamiento adecuado**, pero es técnico y requiere experiencia.
+* Peligro de descarga eléctrica si no se respetan normas de aislamiento y puesta a tierra.
+
+---
+
+### 4. **Seguridad en media y alta tensión**
+
+* Tener aislamiento total y puesta a tierra es fundamental para evitar descargas por arcos eléctricos.
+* Ejemplo de accidente en Lopez y Planes y Lavalle: persona sufrió descarga porque tenía contacto con muchos elementos de sujeción, reforzando la necesidad de aislamiento y puesta a tierra.
+
+---
+
+### 5. **Gabinetes de medidores y normativa actual**
+
+* Hoy en día se utilizan **gabinetes de PVC** obligatorios, antes solo había chapa y era exclusivo para Buenos Aires.
+* Los gabinetes actuales tienen el medidor en la parte inferior y tableros con térmicas en la parte superior.
+* Tipos de gabinetes: **monofásico 8**, **trifásico 6**.
+* Importancia de los catálogos para entender dimensiones, características de los gabinetes y trazado de cables en instalaciones reales.
+
+---
+
+Si querés, puedo hacer un **esquema visual resumido** de estos puntos, con conexión entre seguridad, instalación y materiales para que te quede más claro y fácil de estudiar.
+
+¿Querés que haga eso?
+
+Acá te hago un **resumen con los puntos más importantes** de la segunda parte de la transcripción:
+
+---
+
+### 1. **Catálogo de PVC y visualización**
+
+* El profesor proporcionó un **catálogo actualizado de PVC** (GENROD) para que los alumnos vean tipos de gabinetes, caños y accesorios.
+* Incluye **características de los caños**, durabilidad, secciones y comparación con caños de hierro.
+* Permite ver **casas o instalaciones completas** hechas con el catálogo, lo que ayuda a planificar la instalación real.
+
+---
+
+### 2. **Tipos de canalización**
+
+* Sistemas de **canalización metálica o PVC**: pueden ser **embutidos** (dentro de la mampostería) o **a la vista** (exteriores).
+* Todos los materiales tienen **accesorios correspondientes**, indispensables para una correcta instalación.
+* La aplicación del **reglamento eléctrico** es obligatoria para cualquier tipo de instalación.
+
+---
+
+### 3. **Interpretación de planos**
+
+* Importancia de **planta**: dibujo de arriba que muestra paredes, aberturas y ubicación de instalaciones.
+* Tomar **puntos fijos de referencia** para dimensionar bocas y trazados de cañerías.
+* Ejemplo: en losa continua, se construyen **cajones de madera y hierro**, con soporte de cartón para que no se derrame el hormigón.
+
+---
+
+### 4. **Fijación de cajas y bocas**
+
+* Las **cajas siempre deben fijarse**, aunque sea sobre madera.
+* Se puede usar **clavo con arandela, alambre entrecruzado, papel de diario o bolsa de cemento** como soporte temporal.
+* La **boca nunca se pone al revés**, siempre hacia abajo.
+* Primer paso: **fijar cajas**, luego tomar medidas con los conectores puestos.
+
+---
+
+### 5. **Instalación de cañerías**
+
+* **Cañería de hierro**: más fácil de trabajar; se fija con un tornillo.
+* **Cañería de PVC**: es **a presión**; requiere sacar un conector para colocar el caño y luego ajustar.
+* Cada elemento (curvas, uniones, sujeciones) tiene **núcleo de cemento o adhesivo** para endurecer y fijar.
+* En **instalaciones exteriores**, no siempre se coloca el adhesivo para permitir ajustes.
+
+---
+
+### 6. **Medición y ajuste**
+
+* No se mide el caño completo; se toman medidas desde **caja a caja** considerando conectores y espacios.
+* Ajuste del caño siempre **de abajo hacia arriba** cuando está en suspensión.
+* La práctica inicial puede ser difícil, pero mejora con la experiencia.
+
+---
+
+Si querés, puedo hacer un **esquema gráfico completo** que conecte: **catálogo → tipo de canalización → fijación de cajas → instalación de cañerías → ajuste y adhesivo** para que tengas todo resumido y visual. Esto hace que sea mucho más fácil de estudiar y recordar.
+
+¿Querés que lo haga?
+
+
+Acá te hago un **resumen organizado de los puntos clave** de esta parte de la transcripción:
+
+---
+
+### 1. **Curvas y contracurvas**
+
+* Lo ideal según reglamento: **máximo 2 curvas** por tramo.
+* Sistemas con **curvas y contracurvas (tipo “S”)** dificultan el paso de la cinta pasacables.
+* Técnicas para facilitar el paso:
+
+  * Dejar un **pedazo de caño adicional** entre curvas.
+  * Uso de un **anzuelo con alambre** para enganchar la cinta y girarla lentamente.
+* Se aplica tanto a **PVC como a caño de hierro**.
+* **Secciones mínimas**:
+
+  * PVC o metálico: mínimo 3/4".
+  * 5/8" solo permitido recto.
+
+---
+
+### 2. **Fijación de cajas**
+
+* Siempre **fijar las cajas primero**, antes de colocar cañerías.
+* Considerar **dirección de la alimentación** y ubicación: difícil modificar después de fijada.
+* Cajas embutidas deben estar **al ras de la pared**.
+* Si la pared no tiene revoque grueso, **usar faja o regleta como guía** para la altura.
+
+---
+
+### 3. **Embutido en pared**
+
+* Ideal que la obra tenga **revoque grueso** para proteger la caja.
+* En ladrillo hueco, sin faja puede deformarse el hueco.
+* Dejar **mínimo 1 cm alrededor de la caja** para que el mortero/fijación adhiera correctamente.
+* Mortero recomendado: **3 partes arena / 1 parte cemento**.
+
+---
+
+### 4. **Colocación de cañerías**
+
+* PVC: respetar **ortogonalidad (90°) y paralelismo** con vigas o columnas.
+* Siempre ajustar **de abajo hacia arriba** cuando está suspendido.
+* Si caño rígido está fijado, no siempre es necesario atarlo con alambre adicional.
+* Para curvas difíciles, la práctica con resorte y técnica artesanal es clave.
+
+---
+
+### 5. **Técnica y planificación**
+
+* Antes de medir o colocar cañerías, **definir puntos de referencia** y tomar medidas con conectores puestos.
+* Curvas y contracurvas requieren planificación: dejar espacio adicional, medir correctamente y considerar la facilidad de paso de la cinta pasacables.
+
+---
+
+Si querés, puedo hacer un **diagrama paso a paso del proceso de embutido y canalización**, que incluya curvas, fijación de cajas, PVC vs hierro y técnicas de cinta pasacables. Esto ayuda mucho para estudio visual y repaso rápido.
+
+¿Querés que haga eso?
+
+Acá está un **resumen técnico y práctico** de la transcripción, concentrado en lo que se debe tener en cuenta para **embutido de cajas y canalización en ladrillo hueco o ladrillo a la vista**:
+
+---
+
+### 1. **Hueco para la caja**
+
+* Hacer un **hueco 1 cm más grande que la caja en todos los lados** (arriba, abajo, laterales) y **1 cm atrás** para que el cemento fije correctamente.
+* En ladrillo hueco: mejor aún, permite mejor fijación.
+* En ladrillo a la vista: el hueco se hace hacia atrás, no hacia arriba, para no romper la estética del frente.
+
+---
+
+### 2. **Fijación de la caja**
+
+* Antes de colocar el cemento, **sacar las pestañas de la caja** que se van a usar, para que el cemento no entre por ahí.
+* Caja puede fijarse **con tornillo y tarugo** si entra justo a presión.
+* Cemento/mortero: debe entrar en las 5 caras para dar soporte.
+* **Espuma de poliuretano** solo se usa para evitar humedad en subterráneos, no como soporte estructural.
+
+---
+
+### 3. **Revoque y faja**
+
+* Ideal que la obra tenga **revoque grueso**.
+* Si no hay revoque, usar **faja, regleta o cinta de guía** para la altura correcta de la caja.
+* Embutir la caja **al ras de la faja**, asegurándose que la pared esté **aplomada**.
+
+---
+
+### 4. **Técnica de embutido**
+
+* Cemento 3:1 (arena\:cemento) para fijar.
+* Ajustar caja dentro del hueco, asegurando que quede fija.
+* Evitar movimientos posteriores que puedan hacer que la caja quede floja.
+* Para ladrillo a la vista, hacer la alimentación hacia atrás y no hacia la cara visible.
+
+---
+
+### 5. **Lecciones prácticas y recomendaciones**
+
+* Primero fijar cajas, luego medir y colocar cañerías.
+* Cada obra tiene sus particularidades: ladrillo prensado a la vista, hueco, revoque, etc.
+* La técnica se aprende con práctica: medir, hueco, fijar, mortero y ajustar.
+* Importancia de la experiencia: un buen trabajo se nota al encender todo y no tener cortos ni problemas eléctricos.
+
+---
+
+Si querés, puedo hacer un **esquema visual paso a paso** mostrando:
+
+1. Hueco para la caja.
+2. Fijación y colocación del cemento.
+3. Colocación de cañería (PVC/metal) y orientación según ladrillo.
+
+Esto sería un resumen **tipo guía de instalación**, muy útil para repaso rápido.
+
+¿Querés que haga ese esquema?
+
+Acá tenemos un **resumen técnico y práctico** de la clase sobre **instalación eléctrica en durlock (tabiques secos)**, centrado en canalización y fijación de cajas:
+
+---
+
+### 1. **Tipos de cañería**
+
+* Se usan **las mismas cañerías que en pared tradicional**: PVC o metal, incluso corrugado.
+* Algunos caños tienen memoria: se deforman si exceden 60°; hay que **fijarlos más cerca** para evitar deformación.
+* La planificación de curvas y diagonales es clave para evitar contracurvas y facilitar el paso de conductores.
+
+---
+
+### 2. **Ubicación de cajas y bocas**
+
+* Cuando no hay medidas precisas, usar **sistema geométrico**:
+
+  * Imaginar la habitación como un rectángulo.
+  * Trazar diagonales y encontrar el **punto medio** para centrar 2 bocas.
+* Para tableros: considerar la **medida interna de la pared**, no el espesor.
+
+  * Paredes comunes: 12–15 cm más revoque.
+  * Tableros domiciliarios: máximo 10 cm de profundidad.
+
+---
+
+### 3. **Fijación de cajas en durlock**
+
+* Las cajas **se fijan directamente al perfil** de durlock (montante o travesaño).
+* Antes de colocar la placa final:
+
+  * Armar la estructura del durlock.
+  * Colocar las cajas y caños.
+  * Asegurarse que la caja esté **nivelada y firme** (tornillos o remaches).
+* No fijar la caja al bastidor de la placa de yeso directamente: es inestable.
+* Usar **lenguetas y tijera cortachapa** para ajustar si es necesario.
+
+---
+
+### 4. **Secuencia de instalación**
+
+1. Armar la estructura metálica (perfiles).
+2. Fijar cajas al perfil.
+3. Colocar caños y curvas según planificación.
+4. Dejar la **instalación lista antes de colocar la placa interna o exterior**.
+5. Evitar tener que cortar o remendar placas después, ya que no queda prolijo.
+
+---
+
+### 5. **Recomendaciones adicionales**
+
+* Para durlock, tener en cuenta la **humedad**: absorbe agua y se hincha.
+* Planificar altura y ubicación de cañerías, curvas y bocas antes de colocar placas.
+* Revisar estructura y nivelación antes de la fijación de cajas.
+* Todo se hace **por adelantado**, siguiendo la lógica de la instalación tradicional pero adaptada a tabiques secos.
+
+---
+
+Si querés, puedo armar un **diagrama paso a paso de instalación eléctrica en durlock**, mostrando:
+
+* Estructura de perfiles.
+* Ubicación y fijación de cajas.
+* Canalización y curvas antes de colocar placas.
+
+¿Querés que haga ese diagrama?
+
+
+Acá tenemos un **resumen estructurado y práctico** de la clase sobre instalación eléctrica embutida, canalización y puesta a tierra:
+
+---
+
+## 1. **Preparación de la pared y colocación de cajas**
+
+* Altura estándar de las cajas: **0,40 m del piso terminado**; rango permitido: 0,15 a 0,90 m según normas.
+
+* Antes de colocar la caja:
+
+  1. Picar la pared (ladrillo hueco, ladrillo común, etc.).
+  2. Limpiar escombros: trabajar limpio evita conflictos con albañiles y facilita el embutido.
+  3. Colocar las cajas y **fijarlas primero**.
+  4. Colocar los caños por partes si el tramo es largo; no es necesario fijar todo de una vez.
+
+* Mortero: hacer un **hueco mayor que la caja** (1 cm alrededor) para que entre el cemento y quede fijo.
+
+---
+
+## 2. **Planificación y coordinación en obra**
+
+* La instalación debe ser **prevista y coordinada**:
+
+  * Entrar después de la estructura del durlock o revoque grueso.
+  * Evitar hacer cañerías después del enduído fino, ya que dejan marcas o debilitan la pared.
+  * Colaboración con albañiles es clave; evitar improvisaciones.
+
+---
+
+## 3. **Canalización**
+
+* Caños habituales:
+
+  * **3/4"**: iluminación y tomacorrientes normales.
+  * **7/8"**: tomas especiales con 4 mm² (horno, cocina, etc.).
+  * **1"**: alimentación entre tableros.
+
+* Herramientas:
+
+  * **Chocla (chalk line)** para alinear cajas en la pared: se toma la primera y última caja y se traza la línea.
+  * Usar nivel para garantizar que la línea quede recta y uniforme.
+
+* Organización:
+
+  * Se puede trazar varias cajas en la misma pared sin medir cada una individualmente; seguir la línea de la chocla.
+
+---
+
+## 4. **Puesta a tierra**
+
+* Siempre obligatoria, incluso con cañería de PVC:
+
+  * Usar **conductor verde-amarillo** para todas las cajas.
+  * No depender de la continuidad de la canalización metálica: puede haber desconexiones o curvas incorrectas.
+  * Ejemplo: en duchas o tomacorrientes, el conductor va desde la jabalina hasta la caja, empalmando allí.
+  * En gabinetes metálicos se puede atornillar a la chapa, pero siempre **debe haber conductor hasta la jabalina**.
+
+---
+
+## 5. **Buenas prácticas**
+
+* Limpiar siempre escombros y restos de mortero.
+* No improvisar con mezcla o instalación: seguir especificaciones y normas.
+* Verificar la continuidad de la puesta a tierra.
+* Documentarse con planos y bosquejos, incluso si la obra no los provee.
+* Controlar que la estructura soporte cajas y caños antes de colocar la placa o el revoque fino.
+
+---
+
+Si querés, puedo armar un **diagrama paso a paso de la instalación eléctrica embutida**, mostrando:
+
+* Colocación de cajas y caños.
+* Línea de chocla para alinear.
+* Conexión del conductor de puesta a tierra a todas las cajas.
+
+¿Querés que haga ese diagrama?
+
+
+Acá tenemos un **resumen organizado y práctico** de la clase sobre acanalado, corte de caños y cableado, con énfasis en técnica y seguridad:
+
+---
+
+## 1. **Uso de la Chocla (Chalk Line)**
+
+* Herramienta para marcar líneas rectas en la pared: **alinear cajas y guiar el recorrido de caños**.
+* Procedimiento:
+
+  1. Colocar la punta en la primera caja y estirar hasta la última.
+  2. Tirar del hilo para dejar la marca de tiza.
+  3. Sirve para trazos **verticales, horizontales o incluso oblicuos**.
+* Permite trabajar con precisión sin necesidad de medir cada caja individualmente.
+
+---
+
+## 2. **Picado de la pared**
+
+* Herramientas:
+
+  * **Masa y cortahierro**: económico y eficaz, recomendable para principiantes y casas particulares.
+  * **Amoladora o acanaladora eléctrica**: rápida y prolija, costosa, útil en edificios o proyectos grandes.
+* Procedimiento:
+
+  1. Marcar la línea con la chocla.
+  2. Picar siempre **de arriba hacia abajo**, nunca al revés.
+  3. Mantener el área limpia, retirar escombros para facilitar el trabajo.
+
+---
+
+## 3. **Corte de caños**
+
+* Herramientas:
+
+  * **Sierra de arco** con hoja de 32 dientes: sirve para metal y PVC.
+  * **Amoladora**: opción rápida, pero requiere electricidad y precaución.
+* Consideraciones:
+
+  * Cortar a medida según plano.
+  * Retirar **rebarbas** del caño antes de pasar cables: evitar que dañen la aislación.
+  * Mejor trabajar de a **dos personas**: uno guía los cables desde arriba, otro peina y acomoda desde abajo.
+
+---
+
+## 4. **Tendido de cables**
+
+* Uso de **cinta pasacables** para guiar conductores dentro de los caños.
+* Procedimiento:
+
+  1. Una persona arriba (en escalera) guía los cables.
+  2. Otra persona abajo desenrolla y acomoda, evitando enredos y esfuerzo innecesario.
+* Evitar trabajar solo: reduce riesgo de dañar la aislación o generar cortocircuitos.
+
+---
+
+## 5. **Buenas prácticas y seguridad**
+
+* Empezar con herramientas manuales y económicas: masa, cortahierro, sierra de arco.
+* No improvisar con electricidad en obra sin tablero de obra correcto.
+* Limpiar escombros constantemente.
+* Revisar que los caños y cajas estén correctamente fijados antes de pasar cables.
+* Trabajar en parejas facilita precisión, seguridad y eficiencia.
+
+---
+
+## 6. **Extras de contexto**
+
+* Profesor comentó sobre métodos de enseñanza en **radio o video**: explicar electricidad requiere adaptar el lenguaje a la audiencia.
+* Historia de cursos prácticos de cerraduras y riesgos de seguridad: la formación técnica depende del lugar y uso responsable.
+
+---
+
+Si querés, puedo hacer un **diagrama paso a paso de acanalado y cableado embutido**, mostrando:
+
+* Trazo con chocla.
+* Picado de la pared.
+* Corte y colocación de caños.
+* Pasaje de cables con guía y peinado.
+
+¿Querés que haga ese diagrama?
+
