@@ -22,9 +22,13 @@
 ![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjBMk3QLXg_DEAhyphenhyphenqX-Hsw03vnh8Uq8fq0WUzBViCyqRIls79zRn3CTcAF_1bGZFJipGyUZ0g4dOvWceTrBmd0s_rmuHanDKs4SY4jzz7TYcBy5umOHgJp3Af8dVs1oSr3wGWk7ufHp7jfYcX_NI1Uni2nkr8ANv0aK2bO4b5G4CyX8FXgc0nFD4gEiNiE/s4160/IMG_20250505_195020932.jpg)
 ![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgMHxssVLIAPOfYaBmf9pbAZpbZWK2bIqAph-Yq0FmAb6hcWjlpNG8jhpMlgn1_pJudL6CK6ndGak_bXtvR10XpenLBAe6n88obwz-Ea6C3X388yqZU6p7Bv9fgYFDpSHXmQjaGQ6_yQZlHhtD54RADlvq4yDzn7D7kymyjqhW-vWiYWOknAmACJoFZZK0/s4160/IMG_20250505_194959606_BURST001.jpg)
 ![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjXoyuokRvr_YVb5_wbf1JrFAl7ojER_Wy2bRLfvGxZwVeLKDoePR_YiEv2H-1PHTlSxfjINIddt2EH8GVAc44RKFRg3rGYmFQc91v24SvEOXOX-2MWF96IPYveuJpJv9Gh2Kv1_-kdmTW3zU2t7mh7Fshs6LLhl0m3yrq-mFRa_9tchIzCZoK8BaJEvDI/s4160/IMG_20250505_194959606_BURST000_COVER_TOP.jpg)
-###### Conexión en paralelo:
+
+#### Conexión en paralelo:
+
 ![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgX8_NnKWWExWH3SnrGv0k8TVXmVbbXxbMS_aG9z_B_LTYRzxKs2xmIyLpkTDl_jjM9kQSGLLCQuig9grq9HBZWHrMWkZrdyZT6A2Q-2KQXAv2xEUBjOVHjySy-9ev3NWY-mrY5vlSAd60p9AuXL9bcURcMAibPCH_tqHXM7YuUb-xb4wDbyPngCmXYAU0/s4160/paralelo.jpg)
-###### Conexión en serie: 
+
+#### Conexión en serie: 
+
 El retorno va a la lámpara, el neutro de la lámpara va a la fase de la otra lámpara y el neutro de esa lámpara va a la fase de la otra lámpara, y así hasta la última lámpara en donde el neutro sale afuera.
 ![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj7Zce9ZsIhn35EhT2mxAuaL5RHgA9g4hWjWbsjRGnmUWwdwYFxaWU5Yrno9ym4bCE7e92y261FAlLkLNnqEjwAtYuaUJ81mS4tFQY0yIwUKmZnXWcoqFsQnwFqIUMbKs0fQ9wb4xk37DH8vf9Qe4NK7ObsC1uUB5DcogZn8MDrNOHdX79dDKVZvn7TFEE/s311/unnamed.png)
 https://cursosdeelectricidad.blogspot.com/2008/06/tema-14-conexin-de-2-o-ms-lmparas-en.html
@@ -36,11 +40,13 @@ https://cursosdeelectricidad.blogspot.com/2008/06/tema-14-conexin-de-2-o-ms-lmpa
 https://cursosdeelectricidad.blogspot.com/2008/06/tema-14-conexin-de-2-o-ms-lmparas-en.html       
        
 #### Este es el circuito que hicimos.       
+
 ![](https://lh3.googleusercontent.com/blogger_img_proxy/AEn0k_sPbK-kXJwSN10GQuSMwCsjWAwQbMmT58_r1IKZUxz62w04ZNHy8hHzqUmisfct_wZTdFtIA33uXgCwwalLPxAV1ckvLEqY7kgjVEMrutatcotQEGeTByGJZizpH-SVXuF3gJXARHgK=s0-d)       
        
 ![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgX8_NnKWWExWH3SnrGv0k8TVXmVbbXxbMS_aG9z_B_LTYRzxKs2xmIyLpkTDl_jjM9kQSGLLCQuig9grq9HBZWHrMWkZrdyZT6A2Q-2KQXAv2xEUBjOVHjySy-9ev3NWY-mrY5vlSAd60p9AuXL9bcURcMAibPCH_tqHXM7YuUb-xb4wDbyPngCmXYAU0/s4160/paralelo.jpg)       
 
 ##### En paralelo.     
+
 1. Tensión en paralelo: es constante.    
 Explicación: en todo su recorrido porque estoy tomando la tensión ahí, **en todo su recorrido la tensión es constante**, mido entre 2 extremos acuérdense fase y neutro va al revés fase y neutro cualquiera que mida me va a indicar la tensión esa tensión es constante en todo su recorrido.    
 2. Corriente: Variable.    
@@ -49,6 +55,7 @@ Profesor: Vamos a hacer más sencillo corriente... Porque yo puedo tener acá en
 3. Cuando saco un foco qué pasa? En paralelo sigue funcionando.    
     
 ##### En serie.     
+
 1. Tensión: Variable.    
 Explicación: Porque varía en cada extremo. La sumatoria de esta acá, es la sumatoria de esta. Acá sería total o va a ser igual a: `V1 V2 y V3`. Esto es tensión o sea la tensión de los extremos acá cuando ustedes midan allá, será igual a la sumatoria de cada esto. Estamos? Entonces acá la tensión es variable.    
 2. Corriente: Constante.    

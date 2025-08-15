@@ -587,9 +587,9 @@ Perfecto, voy a explicarte de forma **clara y organizada cómo usar un tester/mu
 
 * **Circuito en serie** → si falla una lámpara, se interrumpe todo. La intensidad se divide entre los focos.
 * **Circuito en paralelo** → si falla una lámpara, las demás siguen funcionando con normalidad.
-* **Cálculo aproximado de corriente**: $I = \frac{P_\text{total}}{V}$.
+* **Cálculo aproximado de corriente**: I = P/V.
 
-  * Ejemplo 20 lámparas de 100 W a 220 V: $I = \frac{2000}{220} \approx 9,09\,\text{A}$.
+  * Ejemplo 20 lámparas de 100 W a 220 V: I = 2000/220 aproximadamente 9,09A.
 * No sobrepasar la capacidad de la llave o disyuntor (10–15 A típico en iluminación de una vivienda).
 
 ---
