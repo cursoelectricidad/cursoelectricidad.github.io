@@ -160,11 +160,11 @@ Subscribe to RSS: [/feed.xml](/feed.xml)
 [02 Mayo 2025]{.date}
 
 
-[Clase Nº 20: Ley de Ohm. Circuito eléctrico. Magnitudes. Sistema Alarma. Corriente Alterna/Continua. Tester. ](/20clase.md){.title}
+[Clase Nº 20: Ley de Ohm. Circuito eléctrico. Magnitudes. Sistema Alarma. Tester. ](/20clase.md){.title}
 [30 Abril 2025]{.date}
 
 
-[Clase Nº 19: [FOTOCOPIA] España apagón. Átomos. Materia. Electrones. Corriente. Concepto circuito eléctrico. Sistemas de alarma. ](/19clase.md){.title}
+[Clase Nº 19: [FOTOCOPIA] España apagón. Átomos. Materia. Electrones. Corriente. Ley de Watt. Corriente Alterna/Continua. Concepto circuito eléctrico. Sistemas de alarma. ](/19clase.md){.title}
 [30 Abril 2025]{.date}
 
 
