@@ -72,3 +72,74 @@ Hay una parte que se me cortó el audio
 ---
 
 FIN
+
+---
+
+Claro, aquí tienes un resumen extenso de la clase, destacando los puntos clave y componentes discutidos:
+
+La clase es una **sesión práctica e interactiva** donde se examinan y discuten diversos **componentes eléctricos**, su funcionamiento, aplicaciones, problemas comunes y normativas. El objetivo principal es que los estudiantes (especialmente uno, al ser el único presente para un examen) aprendan a identificar, probar y trabajar correctamente con estos elementos.
+
+Se enfatiza la importancia de la **organización** de las herramientas y componentes, así como el **aprovechamiento del conocimiento** y la experiencia práctica para evitar problemas y errores comunes en instalaciones eléctricas.
+
+### Componentes y Conceptos Eléctricos Clave:
+
+*   **Interruptores Termomagnéticos (Termomagnéticas) y Disyuntores:**
+    *   Son elementos de protección que **cortan el circuito** ante sobrecargas o cortocircuitos.
+    *   Se explican sus **capacidades máximas** (ej., 100 Amperios, 40 Amperios) y la importancia de que el disyuntor esté acorde a la carga para evitar que se queme.
+    *   Cuando un interruptor termomagnético actúa por sobrecarga, **es necesario esperar un tiempo** para que el bimetal se enfríe y recupere su posición original.
+    *   Se menciona la dificultad para "levantar" algunos interruptores debido a su diseño y longitud, lo que no necesariamente indica que estén quemados.
+    *   Se muestra cómo se instalan en un riel DIN de 35mm.
+
+*   **Fusibles:**
+    *   Se presenta la **evolución de los sistemas de protección**, desde fusibles antiguos de cerámica ("tapones") hasta los más modernos como los fusibles tipo "tabaquera" o cilíndricos.
+    *   Se explica que los fusibles antiguos eran comunes en las "escuelas quinquenales" y cómo funcionaban para cerrar el circuito.
+    *   Se discute su capacidad (ej., 63 Amperios) y los distintos tamaños y velocidades (GL, GG, NH00).
+    *   **Su función principal es fundirse y cortar el circuito** ante una sobrecarga, protegiendo el sistema. Se usan en farolas públicas y tableros de bombeo.
+
+*   **Contactores y Relés Térmicos (Guardamotores):**
+    *   El **contactor** está formado por un núcleo fijo y uno móvil. Una **bobina** (ej., 220V, 24V, 380V) al energizarse crea un campo magnético que "chupa" la parte móvil, permitiendo el paso de corriente. Es el componente que **recibe toda la carga** en sistemas de bomba y motores.
+    *   El **relé térmico** se instala debajo del contactor y su función es **proteger los motores** de corrientes elevadas (sobrecarga). Permite **regular la corriente** (ej., de 1 a 4 Amperios) a la que se desea que funcione y corte, y tiene un botón de reinicio (reset). Trabaja en conjunto con el contactor.
+
+*   **Capacitores (Condensadores):**
+    *   Son esenciales para el **arranque y la marcha de los motores**, especialmente en sistemas monofásicos.
+    *   El **capacitor de arranque** eleva la corriente inicial y luego se desconecta (para evitar sobrecalentamiento si el motor no arranca).
+    *   El **capacitor de marcha** se mantiene conectado y su función es **disminuir la potencia reactiva** (mejorar el factor de potencia o coseno de fi), lo que optimiza la potencia útil entregada al motor.
+    *   Se mencionan sus aplicaciones en refrigeración y aire acondicionado de gran capacidad.
+
+*   **Fotocélulas:**
+    *   Se utiliza su base para demostrar la **conexión de fase, lámpara y neutro**.
+    *   Se advierte sobre **problemas comunes** como la entrada de agua en el soporte, lo que puede causar cortocircuitos y disparos constantes del interruptor.
+    *   Se recomienda colocar una **llave de punto** debajo de la fotocélula para facilitar el trabajo y desconectar la fase.
+
+*   **Balastos y Arrancadores:**
+    *   Son componentes necesarios para encender y mantener el funcionamiento de **lámparas fluorescentes, halógenas, de mercurio y sodio**.
+    *   Las lámparas de mercurio o sodio no se pueden conectar directamente a 220V porque **revientan**; necesitan un balasto que regule la corriente y el voltaje.
+    *   Se explica que los sistemas antiguos de fluorescentes requerían tanto un balasto como un **arrancador** (el famoso "arrancador blanco").
+
+*   **Electroniveles (Boya de Nivel):**
+    *   Se utiliza dentro de los **tanques de agua** para medir el nivel máximo y controlar el encendido y apagado de las bombas.
+    *   Funciona como un flotador que, al subir o bajar, hace contacto y cierra o abre el circuito, apagando la bomba cuando el tanque está lleno.
+
+*   **Cámaras de Inspección y Jabalinas (Puestas a Tierra):**
+    *   Son elementos a ras de piso que permiten **acceder y conectar la jabalina** (varilla de puesta a tierra).
+    *   La jabalina busca **disminuir la resistencia a tierra** y puede ser "acoplada" (varias conectadas) para mejorar la capacidad.
+    *   Antiguamente eran de cobre; ahora son de hierro bañado en cobre.
+
+*   **Llaves Rotativas:**
+    *   Permiten **cambiar sistemas** (ej., de manual a automático) o seleccionar entre diferentes circuitos o motores.
+    *   Soportan una **determinada cantidad de potencia/corriente** (ej., 6 Amperios, 25 Amperios) y si la carga excede su capacidad, se queman. Pueden hacer un "arranque directo" para motores pequeños.
+
+*   **Protectores de Escalera y Temporizadores:**
+    *   Dispositivos que permiten **regular el tiempo** durante el cual una luz o sistema permanece encendido.
+    *   Pueden ser **analógicos** (ajuste de tiempo) o **digitales** (programación por horario), y algunos tienen batería para mantener la configuración.
+
+### Prácticas y Consejos Generales:
+
+*   **Seguridad y Errores Comunes:** Se muestran ejemplos de malas prácticas, como el uso de **tres enchufes en un mismo tomacorriente** o puentes inadecuados. Se enfatiza la necesidad de **desconectar el cable** para evitar cortocircuitos y patadas.
+*   **Mantenimiento y Detección de Fallas:** Se explica cómo revisar la **continuidad** en los circuitos, identificar componentes defectuosos (ej., fusibles soplados, termomagnéticas sensibles). Se menciona la limpieza de platinas y contactos.
+*   **Instalación:** Se discuten las dimensiones de los componentes y cómo a veces es necesario hacer "muescas" en los tableros para que encajen correctamente debido a su tamaño.
+*   **Reglamentación y Mediciones:** Se hace referencia a **tablas y reglamentos** para determinar capacidades máximas y características de los cables e interruptores.
+    *   Se demuestra el uso de un **luxómetro** para medir la intensidad de la iluminación en espacios deportivos (canchas de fútbol 5), indicando que deben tener entre 300 y 500 lúmenes.
+    *   Se subraya la importancia de la **iluminación uniforme** en estos espacios y la experiencia personal con pliegos de obra que exigían mediciones de iluminación.
+
+En resumen, la clase es un **recorrido exhaustivo por una variedad de elementos eléctricos y electrónicos**, con un enfoque práctico en su identificación, conexión, protección y resolución de problemas, siempre con la seguridad y el cumplimiento de las normativas como pilares fundamentales. El profesor comparte su vasta experiencia, mostrando ejemplos reales de componentes nuevos y viejos, funcionales y dañados, para ilustrar cada concepto.
