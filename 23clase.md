@@ -159,3 +159,318 @@ El de la izquierda inferior es el esquema elétrico.
 ---
 
 FIN
+
+---
+
+## Largo
+
+Aquí tienes un resumen con los **puntos más importantes** de la transcripción que compartiste:
+
+---
+
+### **1. Práctica de instalación eléctrica**
+
+* Cada alumno trabajará de manera individual en su bastidor.
+* La práctica incluye **uso de herramientas, armado de cañerías y circuitos completos**.
+* Se avanzará en **circuitos, fotocélulas y protecciones**.
+* Objetivo: que cada alumno se familiarice con todo lo inherente a una instalación domiciliaria.
+
+---
+
+### **2. Canalización y agrupación de conductores**
+
+* Antes de colocar conductores, **toda la canalización y cajas deben estar instaladas y concluidas**.
+* La **longitud mínima de conductor dentro de cajas** debe ser aproximadamente **15 cm** para permitir empalmes seguros.
+* Empalmes deben ser **confiables y seguros**, evitando cables demasiado cortos o apretados que dificulten conexiones correctas.
+
+---
+
+### **3. Consideraciones de normas y materiales**
+
+* La **normativa exige ciertas longitudes, tipos de cajas y unión de caños**.
+* Algunos equipos importados (ej. ventiladores chinos) pueden no cumplir normas de resistencia del regulador o de materiales.
+* Las **casas y contenedores prefabricados** deben cumplir normas locales: canalización, cajas y artefactos se instalan según el país destino.
+
+---
+
+### **4. Experiencia práctica y seguridad**
+
+* Es **fundamental comprobar que no hay tensión antes de manipular circuitos**.
+* Diferentes circuitos no deben compartirse sin coordinación de térmicas (ej. ventilador y luz en circuitos separados).
+* La correcta instalación garantiza seguridad y funcionamiento confiable.
+
+---
+
+### **5. Instalaciones en contenedores y aulas satélites**
+
+* Contenedores se **preparan con canalización interna y planos de ubicación de cajas y conductores**.
+* Las instalaciones permiten **movilidad**, reubicación de aulas o estructuras según necesidad.
+* Se asegura la protección contra elementos (techos grandes para lluvia) y se respeta normativa interna de la instalación eléctrica.
+
+---
+
+Si quieres, puedo hacer un **resumen aún más condensado**, señalando solo **lo que más probablemente caiga en examen o sea clave para la práctica**. Esto te serviría para estudiar rápido antes de la clase. ¿Quieres que haga eso?
+
+Aquí tienes un **resumen con los puntos más importantes** de esta segunda parte de la transcripción:
+
+---
+
+### **1. Instalaciones en contenedores y prefabricadas**
+
+* Se aprovecha **prearmado y modularidad** para reducir tiempos de instalación.
+* Cada módulo o contenedor llega con la **canalización interna predefinida** y ubicación de cajas.
+* La instalación final se hace en obra, conectando los módulos según planos.
+* La construcción modular permite **adaptarse a medidas, ventilación, ventanas y baños** sin alterar la instalación eléctrica.
+
+---
+
+### **2. Circuitos reales en viviendas**
+
+* Antes de hacer cableado, **planificar la canalización y los conductores según normas**.
+* Para iluminación, **conductores de 1,5 mm²** son suficientes, no usar más gruesos innecesariamente.
+* Cada circuito debe respetar la **normativa de sección y tipo de conductores**, caja mínima y disposición de empalmes.
+* Se deben interpretar los **planos en planta**, considerando la ubicación de interruptores, lámparas y cajas.
+* Cuando no se sabe de dónde proviene la alimentación, **se debe instalar una caja de paso o alimentación**.
+
+---
+
+### **3. Simbología y esquemas eléctricos**
+
+* Importancia de saber leer planos: cajas ortogonales, cajas octogonales, lámparas, interruptores.
+* Una caja de paso mínima es **10x10 cm**, puede aumentar según cantidad de derivaciones.
+* Los esquemas deben indicar claramente **fase, neutro y tierra**.
+* Cada símbolo representa un elemento real: lámpara, interruptor, caja de derivación, etc.
+
+---
+
+### **4. Planificación y práctica**
+
+* Primero se dibuja la planta (vista desde arriba), luego se hace el **esquema eléctrico completo**.
+* Se empieza con circuitos simples (ej. una lámpara con llave de 1 punto) y luego se agrega complejidad.
+* La práctica se hace por partes: canalización → caja → conductores → conexiones.
+
+---
+
+Si quieres, puedo hacer un **resumen combinado de ambas transcripciones**, dejando solo **lo imprescindible para estudio y práctica**, en 1 página para repasar rápido antes del trabajo práctico. Esto te serviría mucho para enfocarte en lo clave. ¿Quieres que lo haga?
+
+Aquí tienes un **resumen con los puntos más importantes de esta última parte**:
+
+---
+
+### **1. Esquema eléctrico de lámpara e interruptor**
+
+* Se trabaja con **lámpara + llave de 1 punto** como primer ejercicio práctico.
+* La **lámpara siempre recibe neutro**, la fase va al interruptor y de allí retorna a la lámpara.
+* Se utilizan **conductores de 1,5 mm²** para iluminación según normativa.
+* **Caja de montaje:** caja rectangular 5x10 cm para interruptor, caja octogonal para portalámparas.
+
+---
+
+### **2. Esquema de montaje**
+
+* Representa cómo se hará la instalación físicamente sobre el **bastidor**.
+* Incluye **nivel de piso y alturas de montaje**:
+
+  * 1,20 m para interruptores empotrados en pared.
+  * 1,90 m altura de portalámparas empotrados en pared.
+  * 2,60 m si la instalación es en cielorraso.
+* Se deben reflejar **cañerías, conectores, cajas y recorrido de conductores** igual que en el esquema eléctrico.
+
+---
+
+### **3. Normativa y seguridad**
+
+* **Tierra obligatoria** aunque el cable sea PVC, para futura adición de tomas.
+* Conductores de **2,5 mm² mínimos** para protección y tomas de uso general; mayores se usan para cargas especiales.
+* Respetar colores de conductores y marcar neutro cuando sea necesario, especialmente si todos los cables son del mismo color.
+
+---
+
+### **4. Desarrollo progresivo de ejercicios prácticos**
+
+* Ejercicio 1: **1 lámpara + 1 interruptor**.
+* Ejercicio 2: **2 lámparas + 1 interruptor**.
+* Ejercicio 3: **2 lámparas + 2 interruptores en misma caja**.
+* Ejercicio 4: **2 lámparas + interruptores en distintas cajas**.
+* Ejercicio 5: **1 lámpara con llave combinación** y **2 lámparas con llave combinación** para controlar desde distintos puntos.
+* Siempre se parte de **planta → esquema eléctrico → esquema de montaje**, aumentando progresivamente la complejidad.
+
+---
+
+### **5. Lectura de planos y planificación**
+
+* La **planta muestra distribución y canalización**.
+* Los **conductores y cajas se colocan según la planta**: fase, neutro y tierra.
+* Es clave **entender el recorrido de conductores y empalmes** antes de iniciar la instalación.
+
+---
+
+Si quieres, puedo hacer un **resumen global unificado de todas las transcripciones** que has compartido, en **una sola guía de estudio práctica para trabajo en bastidor**, listo para repasar antes de las prácticas. Esto te serviría para estudiar rápido sin perder ningún detalle importante.
+
+Perfecto, aquí tienes un **resumen estructurado y claro de lo que explicó el profesor en esta parte sobre los ejercicios prácticos de lámparas e interruptores**, con foco en conceptos y procedimientos importantes:
+
+---
+
+### **1. Rol del alumno y esquema**
+
+* El alumno **debe pensar y planificar** la instalación, no solo seguir órdenes.
+* Se trabaja con **esquema eléctrico y esquema de montaje** para guiar la instalación.
+* El profesor **inspecciona y prueba**, pero no indica dónde colocar cada cable.
+
+---
+
+### **2. Ejercicio 2: 2 lámparas con 1 interruptor**
+
+* Se agrega **una segunda lámpara** con su caja octogonal.
+* La **fase llega al interruptor** y de allí retorna a ambas lámparas.
+* El **neutro puede tomarse de cualquier punto** de la instalación, ya que es el mismo circuito.
+* Se debe **diferenciar fase de retorno**, aunque tengan el mismo color de cable.
+* El **retorno** va únicamente desde el interruptor hasta cada lámpara, siguiendo la ruta planeada.
+
+---
+
+### **3. Uso de cajas de paso**
+
+* Se realizan **empalmes dentro de la caja de paso**; no fuera de ella.
+* La caja de paso sirve para **unir y distribuir conductores** de manera ordenada.
+* El neutro **siempre es continuo** hasta la lámpara.
+* Se pueden colocar **hasta 3 circuitos en una misma cañería**, dependiendo del tipo de conductor.
+
+---
+
+### **4. Ejercicio 3: 2 lámparas y 2 interruptores en la misma caja**
+
+* Cada interruptor se conecta a su respectiva lámpara o al mismo circuito según el esquema.
+* Se pueden usar **puentes dentro de la caja** para alimentar otros módulos sin tener que alargar cables innecesariamente.
+* Se deben seguir los **pasos por etapas**: desconectar, empalmar, unir, verificar.
+* Cada interruptor tiene **1 punto** (módulo), pero si no hay suficientes se puede usar **llave combinada** (1, 2 o 3 puntos).
+* Es crucial **registrar y documentar** cada paso para no perder la trazabilidad del conexionado.
+
+---
+
+### **5. Procedimiento general**
+
+1. Planificar la instalación en **planta → esquema eléctrico → esquema de montaje**.
+2. Marcar y diferenciar **fase, neutro y tierra** en todos los conductores.
+3. Hacer los **empalmes dentro de las cajas de paso**.
+4. Comprobar que **retornos y fases** estén correctamente conectados antes de avanzar.
+5. Seguir **paso a paso**, usando puentes si es necesario, sin alargar innecesariamente los cables.
+6. Mantener **orden y registro**, ya que cada cambio afecta el resto del circuito.
+
+---
+
+Si quieres, puedo hacer un **diagrama visual resumido de los 3 primeros ejercicios**, mostrando cómo se conectan **fase, neutro y retornos**, para que tengas una guía rápida de consulta antes de practicar. Esto hace todo mucho más claro y evita errores de retorno o empalmes. ¿Querés que lo haga?
+
+Perfecto, aquí tienes un **resumen claro y estructurado de la clase sobre el ejercicio 4 (2 lámparas y 2 interruptores en distintas cajas)** y puntos importantes de procedimientos:
+
+---
+
+### **1. Cables y cañerías**
+
+* En el caño pueden **pasar hasta 3 conductores de 1,5 mm² más tierra** (Ejercicio 3 y 4).
+* La **tierra llega a todas las cajas** (octogonales y de paso), aunque sea PVC.
+* **No se hacen empalmes dentro de la cañería**, siempre dentro de las cajas de paso u octogonales según norma.
+
+---
+
+### **2. Ejercicio 4: 2 lámparas y 2 interruptores en distintas cajas**
+
+* Se colocan **lámparas y cajas octogonales en diferentes ubicaciones**.
+* Cada interruptor puede controlar una lámpara o grupo de lámparas según el esquema eléctrico.
+* Se mantiene la regla: **el neutro siempre llega a la lámpara**, la fase va al interruptor y retorna a la lámpara correspondiente.
+* Los **puentes dentro de las cajas** permiten alimentar módulos adicionales sin alargar cables innecesariamente.
+
+---
+
+### **3. Procedimiento de montaje**
+
+* Se trabaja primero en **planta (solo cañerías)**, luego se hace **esquema eléctrico unifilar** y finalmente el **esquema de montaje**.
+* Las etapas se realizan **paso a paso**:
+
+  1. Planificar ubicación de cajas y lámparas.
+  2. Llevar fase, neutro y tierra hasta cada caja según esquema.
+  3. Hacer empalmes dentro de las cajas.
+  4. Conectar retornos a los interruptores correspondientes.
+  5. Revisar y comprobar continuidad con **buscapolo, tester y probador de tensión**.
+
+---
+
+### **4. Buenas prácticas**
+
+* Mantener **registro y orden** del conexionado para poder inspeccionar o corregir después.
+* **Identificar claramente neutro, fase y retorno**, aunque los cables sean del mismo color.
+* Aplicar normas de seguridad: empalmes dentro de cajas, conductor de protección en toda la instalación, evitar empalmes en cañerías.
+* Cada etapa **debe ser probada** antes de pasar a la siguiente.
+
+---
+
+Si querés, puedo hacer un **diagrama resumido de los 4 ejercicios**, mostrando la conexión de fase, neutro, tierra y retornos, para tener una guía visual rápida de todos los casos prácticos hasta ahora. Esto hace que se entienda todo mucho más rápido y evita confusiones. ¿Querés que lo haga?
+
+Perfecto, aquí va un **resumen organizado de los últimos fragmentos** que cubren desde la puesta a tierra hasta los ejercicios 5 y 6:
+
+---
+
+### **1. Puesta a tierra**
+
+* La **tierra siempre llega a la caja octogonal**; no se conecta directamente al portalámparas común.
+* En **cajas metálicas**, se recomienda **atornillar el conductor de tierra** a la carcasa.
+* En **portalámparas LED o plafones modernos**, puede existir una **bornera para tierra, fase y neutro**.
+* La **función principal** es proteger y garantizar que toda la instalación tenga referencia a tierra.
+
+---
+
+### **2. Retornos y fases**
+
+* Cada **retorno va hacia su interruptor correspondiente**, no se mezclan para encender varias lámparas desde la misma línea (Ejercicio 3 y 4).
+* Se recomienda **reutilizar cables existentes** para evitar desperdicio y respetar las etapas de montaje.
+* **No se hacen empalmes dentro de la cañería**: los empalmes siempre en cajas octogonales o de paso.
+* La secuencia correcta:
+
+  1. Mantener neutro y tierra.
+  2. Desconectar retorno de su empalme previo.
+  3. Conectar retorno al interruptor correspondiente.
+  4. Tomar la fase desde la caja de paso según el circuito.
+
+---
+
+### **3. Instrumentos de medición**
+
+* **Buscapolo**: Detecta fase (simple y rápido).
+* **Lámpara de prueba**: Permite medir tensión aproximada en circuitos.
+* **Probador de tensión con LED**: Muestra valores aproximados y detecta continuidad/voltaje.
+* **Práctica de medición**: Se mide tensión en borners de interruptores, termomagnéticas, puntos de derivación o cualquier punto accesible según esquema.
+* Se enseñará también **medición de voltaje de pilas** y conceptos de voltaje alterna/continua para comprensión completa.
+
+---
+
+### **4. Ejercicio 5: Llave combinación**
+
+* Se utiliza **llave combinación (3 tornillos)** para controlar un circuito desde un solo punto o más puntos, según necesidad.
+* Es modular y permite **entrar por un lado y salir por otro**, útil en sistemas compartidos.
+* La práctica se hace **por etapas**, primero planificando y haciendo esquema, luego el conexionado físico.
+
+---
+
+### **5. Ejercicio 6**
+
+* Requiere **llevar cable de cada color**, al menos 1–1,5 m por color para pequeñas prácticas de tablero.
+* El objetivo es **practicar unión de conductores antes de colocar en portalámparas o cajas**.
+* Se enfatiza la importancia de **preparar el cableado de manera ordenada** y probar antes de instalación final.
+
+---
+
+### **6. Buenas prácticas generales**
+
+* Trabajar **por etapas y no apurado**.
+* Cada estudiante debe **entender el procedimiento completo**, no solo colocar cables.
+* Se fomenta **uso racional del cable**, reutilizando retornos y siguiendo el trayecto correcto.
+* La práctica simula **instalaciones reales en vivienda** a pequeña escala.
+* La revisión docente y del ayudante asegura **que se respeten normas y procedimientos**.
+
+---
+
+Si querés, puedo armar un **diagrama completo de los ejercicios 1 a 6**, con fase, neutro, tierra y retornos, que resuma visualmente cómo hacer cada conexión correctamente y cómo se reutilizan los cables. Esto ayuda a que se entienda todo de un vistazo y evita confusiones como las que surgieron con Botolli y el ayudante.
+
+¿Querés que lo haga?
+
+
