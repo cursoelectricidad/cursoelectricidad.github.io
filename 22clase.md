@@ -148,3 +148,128 @@ Explicación: Porque varía en cada extremo. La sumatoria de esta acá, es la su
 ---
 
 FIN.
+
+---
+
+Aquí tienes un resumen con los **puntos más importantes** de la transcripción, organizados por temática:
+
+---
+
+### **1. Conceptos de circuitos eléctricos**
+
+* Diferencia entre **circuito en serie** y **circuito en paralelo**.
+* En **circuitos en paralelo**, el retorno va a todas las lámparas; la fase se conecta al interruptor.
+* **Neutro** debe llegar a todas las bocas/lámparas.
+* Nunca juntar **neutro con fase**, puede generar explosión o cortocircuito.
+* Siempre dejar **bucle de 15 cm** en cajas octogonales.
+* Empalmes **no deben quedar dentro del caño**.
+* Portalámparas siempre independientes.
+
+---
+
+### **2. Herramientas y pruebas eléctricas**
+
+* Orden de uso:
+
+  1. **Buscapolo** – identifica fase y polaridad; no se usa cerca de transformadores ni tableros con múltiples fases.
+  2. **Lámpara de prueba** – indica tensión aproximada.
+  3. **Probador de tensión** – mide voltaje aproximado (\~230V).
+  4. **Tester / multímetro** – mide voltaje exacto y continuidad.
+* Selección correcta en el tester: corriente (A) vs voltaje (V), alterna (\~) o continua (DC).
+* Rango del multímetro debe ser **mayor al voltaje esperado**, ejemplo 220V → rango 750V.
+* Continuidad: pitido indica que circuito cerrado; apagado → cortocircuito.
+* Pinza amperométrica: mide corriente en fase.
+
+---
+
+### **3. Protección de circuitos**
+
+* **Térmica (interruptor termomagnético)**: protege por sobrecarga y corto; valor debe ser proporcional a la sección del cable.
+
+  * 1,5 mm² → 10A
+  * 2,5 mm² → 16A
+* **Disyuntor diferencial**: protege contra fugas a tierra.
+* Fallas: la térmica siempre interrumpe corriente, nunca permite paso si falla.
+
+---
+
+### **4. Procedimientos de instalación**
+
+* Siempre identificar **borneras**: vivo/fase y neutro.
+* No dejar cables sueltos; **cable de tierra obligatorio** en cajas según norma.
+* Retorno siempre con destino a artefacto (interruptor controla circuito).
+* Elasticidad de cables: indica si están “sin uso” o sobrecargados.
+
+---
+
+### **5. Consejos prácticos y experiencias**
+
+* En casas antiguas o mal instaladas:
+
+  * Pilar alimentando múltiples líneas no siempre es correcto.
+  * Se recomienda **tablero seccional** para dividir cargas.
+  * A veces falta interruptor diferencial y puerta en tableros por costo.
+* Nunca trabajar con fase sin verificar con buscapolo o cortando correctamente la energía.
+
+---
+
+### **6. Recordatorios teóricos**
+
+* Conocer de memoria herramientas: **buscapolo, portalámpara, tester, probador de tensión, lámpara de prueba**.
+* Conocer el funcionamiento básico de térmica y disyuntor.
+* Retorno y neutro siempre deben estar correctamente conectados; fase pasa por interruptor para control.
+
+---
+
+Si quieres, puedo hacer una **versión resumida todavía más esquemática tipo “chuleta de examen”**, con lo esencial para no olvidar nada práctico ni teórico. Esto ayuda mucho para estudio rápido antes de clase o práctica.
+
+¿Quieres que haga eso?
+
+Aquí tienes un **resumen de los puntos más importantes** de esta segunda transcripción, enfocado en conceptos y práctica de circuitos eléctricos:
+
+---
+
+### **1. Diferencias entre circuito en paralelo y en serie**
+
+| Concepto                | Paralelo                                                 | Serie                                                                               |
+| ----------------------- | -------------------------------------------------------- | ----------------------------------------------------------------------------------- |
+| **Tensión**             | Constante en todo el recorrido (fase y neutro).          | Variable; la tensión total se divide entre los elementos (V\_total = V1 + V2 + V3). |
+| **Corriente**           | Variable; se divide entre los artefactos según la carga. | Constante; misma corriente pasa por todos los elementos.                            |
+| **Si se quita un foco** | Los demás siguen funcionando.                            | Se corta todo el circuito.                                                          |
+
+* Conclusión: **En viviendas se usa siempre paralelo.**
+
+---
+
+### **2. Procedimiento práctico de instalación**
+
+* Identificar los **elementos disponibles**: portalámparas, llaves de punto, número de lámparas.
+* Saber de dónde llega la **alimentación** (desde tablero principal a cajas de paso o conexión).
+* Cada conexión **debe estar dentro de cañería**; si no, no sirve.
+* Empezar con lo **más simple**: llave de 1 punto y una lámpara.
+* Registrar **cuántos cables van**, qué alimentan, y las combinaciones posibles (1, 2, 3 lámparas, llave combinada).
+
+---
+
+### **3. Trabajo práctico y evaluación**
+
+* Cada estudiante trabajará **individualmente**, aunque se asignen grupos.
+* Se etiquetará cada instalación con **nombre** para control y evaluación.
+* Lo importante es **practicar conexionado correcto**: evitar cortocircuitos y confusión de fase/neutro.
+* La parte de **automatización** (fotoceldas, ventiladores) se hará más adelante.
+* Se fomenta que los estudiantes puedan **armar sus propios equipos** si tienen espacio y cable disponible.
+
+---
+
+### **4. Observaciones generales**
+
+* Antes de hacer cualquier conexión, siempre **verificar qué elementos se van a usar y dónde llega la alimentación**.
+* El profesor enfatiza la importancia de **práctica segura y ordenada**, empezando por casos simples.
+* La práctica sirve para que el estudiante **aprenda a manejar el cableado interno de una vivienda**, incluyendo llaves de 1, 2 o 3 puntos y portalámparas.
+
+---
+
+Si querés, puedo hacer un **resumen integrado de ambas transcripciones**, combinando teoría de serie/paralelo, uso de herramientas, protección y prácticas de instalación, listo para **chuleta de examen o guía de estudio rápida**. Esto te deja todo en una sola hoja de consulta.
+
+¿Querés que haga eso?
+
