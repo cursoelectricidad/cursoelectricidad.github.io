@@ -1,4 +1,4 @@
-% Clase Nº 19: [FOTOCOPIA] España apagón. Sistemas de alarma. Conocimientos básicos de electricidad y seguridad para obreros. 
+% Clase Nº 19: [FOTOCOPIA] España apagón. Átomos. Materia. Electrones. Corriente. Concepto circuito eléctrico. Sistemas de alarma. 
 % Andrés Imlauer
 % 30 Abril 2025
 
@@ -66,9 +66,16 @@ AUTOCAD por más que las bocas sean las mismas, Espeche trabajó con varios. Ami
 ![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjNCsvbiQWsz2PcPnYN_0H2BM7vd0-fM3puhdcgqvG8qN7POePhK203vs1dk_hHxgVymwDIzWqofJjF_4R6dbAsbq6i_7qfgMWduC8_2FtQ5mO4AbQtGMd2MkxSqqo_WoFQ65d79zDse5P3kHk83GBvK6NQXDLpXGpKGs4kfRoy4qkdhHs7qtZkiTycSu8/s4160/IMG_20250428_190203900.jpg)     
 ![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhRRiHA-SB9M_lS4vFs1xQIghRxRqVvgZUHgumbo6LQtPaMLi69OPZ23GMmdavxMDnxrERsFElZsbZeYaElkIVQwcQFFeAL4fWANgsqpEKcREXoT6f_ZkzrVSpoxzSQPM2Az-ivI9LY2NyA0joc8kxMErBnTkFKA_lbffYQbTZq-BWnjI6VBh1LwxX3-08/s4160/IMG_20250428_182315210.jpg)     
 ![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj3ZqTw2G20SYHigoJAbstBxVSKiyK1HTqIbFB_rOZPXHew4b2J5zhYNUoe7D8OqwV5IknbaEWxDJwH6FgvaNU_r-0YxXLIMMArZqQBrNRSWLfdXrDT6q85rYhRIBH8KTMhUsOaCyee8mGMyASc0CcwRsJmZoItjmMU8QszoyUacpeATM7jigjRqXLA8VU/s4160/WhatsApp%20Image%202025-04-28%20at%208.17.05%20PM.jpeg)     
+
+Un circuito eléctrico es el conjunto de elementos eléctricos conectados entre sí que permiten transportar y utilizar la energía eléctrica con la finalidad de transformarla en otro tipo de energía como por ejemplo, energía calórica (estufa), energía lumínica (bombilla) o energía mecánica (motor). Los elementos de un circuito son:
+
+* Generador. Parte del circuito donde se produce la electricidad manteniendo diferencia de tensión entre sus extremos.
+* Conductor. Hilo por donde circulan los electrones impulsados por el generador.
+* Resistencia eléctrica son elementos del circuito que se oponen al paso de la corriente eléctrica.
+* Interruptor: Elemento que permite el paso de la corriente.
      
-Una batería antes nosotros nos gustaba salir de noche con la bici con dinamo entonces ese dinamo generaba energía prendía las luces cuando más pedaleabas más luces tenía.      
 ![](https://www.lecyclo.com/cdn/shop/articles/conseils-installation-dynamo-velo_cf4e5716-30b1-4216-8fdf-fda9ed690403.jpg?v=1746026549)     
+Una batería antes nosotros nos gustaba salir de noche con la bici con dinamo entonces ese dinamo generaba energía prendía las luces cuando más pedaleabas más luces tenía.      
      
 ---      
       

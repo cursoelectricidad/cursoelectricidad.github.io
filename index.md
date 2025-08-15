@@ -76,11 +76,11 @@ Subscribe to RSS: [/feed.xml](/feed.xml)
 [23 Abril 2025]{.date}
 
 
-[Clase Nº 19: [FOTOCOPIA] España apagón. Sistemas de alarma. Conocimientos básicos de electricidad y seguridad para obreros. ](/19clase.md){.title}
+[Clase Nº 19: [FOTOCOPIA] España apagón. Átomos. Materia. Electrones. Corriente. Concepto circuito eléctrico. Sistemas de alarma. ](/19clase.md){.title}
 [30 Abril 2025]{.date}
 
 
-[Clase Nº 20: Circuito eléctrico. Magnitudes. Átomos. Materia. Electrones. Corriente. Sistema Alarma. Corriente Alterna/Continua. Tester. ](/20clase.md){.title}
+[Clase Nº 20: Circuito eléctrico. Magnitudes. Sistema Alarma. Corriente Alterna/Continua. Tester. ](/20clase.md){.title}
 [30 Abril 2025]{.date}
 
 
@@ -220,7 +220,7 @@ Subscribe to RSS: [/feed.xml](/feed.xml)
 [6 Agosto 2025]{.date}
 
 
-[Clase Nº 54: Repasamos concepto circuitos eléctricos (que habíamos dado la clase 20). Clase importante: Cálculo de cables.](/54clase.md){.title}
+[Clase Nº 54: Repasamos concepto circuitos eléctricos (que habíamos dado la clase 19/20). Clase importante: Cálculo de cables.](/54clase.md){.title}
 [11 Agosto 2025]{.date}
 
 

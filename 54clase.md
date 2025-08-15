@@ -1,4 +1,4 @@
-% Clase Nº 54: Repasamos concepto circuitos eléctricos (que habíamos dado la clase 20). Clase importante: Cálculo de cables.
+% Clase Nº 54: Repasamos concepto circuitos eléctricos (que habíamos dado la clase 19/20). Clase importante: Cálculo de cables.
 % Andrés Imlauer
 % 11 Agosto 2025
 
@@ -14,7 +14,19 @@
 
 [https://www.youtube.com/embed/ZySbETHdFSI](https://www.youtube.com/embed/ZySbETHdFSI)
 
-Repasamos el concepto de circuito de la clase número 20: [https://cursoelectricidad.github.io/20clase.html](https://cursoelectricidad.github.io/20clase.html)
+Repasamos el concepto de circuito de la clase número 19/20: [https://cursoelectricidad.github.io/19clase.html](https://cursoelectricidad.github.io/19clase.html)   
+
+[https://cursoelectricidad.github.io/20clase.html](https://cursoelectricidad.github.io/20clase.html)
+
+#### Concepto de circuito:
+
+Un circuito eléctrico es el conjunto de elementos eléctricos conectados entre sí que permiten transportar y utilizar la energía eléctrica con la finalidad de transformarla en otro tipo de energía como por ejemplo, energía calórica (estufa), energía lumínica (bombilla) o energía mecánica (motor). Los elementos de un circuito son:
+
+* Generador. Parte del circuito donde se produce la electricidad manteniendo diferencia de tensión entre sus extremos.
+* Conductor. Hilo por donde circulan los electrones impulsados por el generador.
+* Resistencia eléctrica son elementos del circuito que se oponen al paso de la corriente eléctrica.
+* Interruptor: Elemento que permite el paso de la corriente.
+
 
 ---
 
