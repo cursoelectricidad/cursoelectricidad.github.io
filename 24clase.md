@@ -134,3 +134,202 @@ Muy bien, está en serie, la tensión es la misma pero como está en serie baja 
 ---
        
 FIN.    
+
+---
+
+Aquí están los puntos más importantes del diálogo que pasaste:
+
+**Parte de la clase y práctica eléctrica**
+
+* Repaso de ejercicios anteriores (circuitos en serie y en paralelo).
+* Trabajo a realizar: conectar 2 lámparas y 1 interruptor, siguiendo lo explicado en clases pasadas.
+* Explicación sobre conexión de tierra: siempre debe llegar a las cajas, incluso si queda “suelta”.
+* Diferencias entre bastidor y tablero, y colocación de nombres en los bastidores para identificar trabajos.
+* Práctica con portalámparas y llaves de 1 punto, incluyendo montaje a presión en el bastidor.
+* Descripción de otros circuitos vistos:
+
+  * 1 lámpara con llave de punto.
+  * 2 lámparas y 1 interruptor.
+  * 2 lámparas y 2 interruptores en la misma caja.
+  * Circuito con llave combinada (falta hacer).
+
+**Campaña de salud de la UOCRA**
+
+* Vacunación antigripal (calendario 2025) y dosis de COVID para quienes lleven la libreta.
+* Mensaje central: el capital más importante del trabajador es su cuerpo, por eso hay que cuidarlo.
+* Explicación de la vacuna como “disyuntor” que alerta sobre problemas de salud preexistentes.
+* Caso real de personas que fallecieron por no vacunarse.
+* Importancia de vacunarse: vacunas están testeadas y tienen validez científica.
+* Otros controles disponibles:
+
+  * Hipertensión (asesino silencioso, causa frecuente de infartos y ACV).
+  * Control oftalmológico (visión lejana).
+* Recomendación de controlarse incluso sin síntomas, por la disminución en la edad de aparición de enfermedades.
+
+Si querés, puedo hacerte un **resumen súper condensado en viñetas cortas** para que te sirva como machete rápido antes de clase o examen.
+
+Aquí te destaco los puntos más importantes de esta parte:
+
+**Parte eléctrica y práctica**
+
+* Continuación de la práctica: portalámparas y llave de 1 punto como primer ejercicio.
+* Uso de bastidores con nombre de cada alumno (cinta adhesiva para identificación).
+* Explicación del cableado:
+
+  * Retorno del foco se empalma al interruptor.
+  * La fase va directa al interruptor.
+  * El mismo neutro sirve para todos los módulos.
+* Diferencia entre bastidor y tablero; conexión de módulos según disponibilidad de espacio.
+* Ejercicio actual: llave de 1 punto y una lámpara.
+* Ejercicio siguiente: interruptor de 1 punto controlando 2 lámparas (cambio de retorno).
+* Recomendación de trabajar como si fuera una instalación real en obra.
+* Comentario sobre uso de colores en conductores (fase, retorno, tierra).
+* Profesor aclara que después se trabajará con puesta a tierra.
+
+**Parte de salud y vacunación**
+
+* Campaña preventiva, no diagnóstica (vacunación antigripal, doble adulto/antitetánica, neumonía; dengue no disponible).
+* Controles voluntarios: presión arterial e hipertensión.
+* Varios alumnos se miden la presión (valores de referencia 100–120).
+* Profesor y alumnos bromean sobre efectos de la vacuna y presión arterial.
+
+¿Querés que ahora te unifique **todo lo que vimos en ambas partes de la conversación** para que quede un resumen general de la clase completa con parte eléctrica + parte de salud? Así lo tenés listo para repasar.
+
+Aquí te destaco lo más importante de esta última parte:
+
+**Práctica y conexiones**
+
+* Modificación del circuito para que un solo retorno alimente las dos lámparas.
+* Indicaciones del ayudante: cinta aisladora ajustada, cortar sobrante al ras.
+* Uso correcto del tester para verificar continuidad en el interruptor (preferido sobre el “Tic-Tac”).
+* Explicación de que el interruptor se prueba conectando el tester en sus dos bornes para ver si abre/cierra.
+* Foco incandescente necesario para la prueba de continuidad en portalámparas.
+* Profesor insiste en que los ejercicios se hagan como en una obra real.
+* Pasos de comprobación antes de energizar:
+
+  1. Buscapolo para identificar fase.
+  2. Lámpara de prueba para verificar fase y neutro.
+  3. Probador de tensión para medir voltaje (≈230 V).
+  4. Tester para verificar continuidad.
+* Uso de interruptor principal, disyuntor y última llave para energizar el circuito de prueba.
+* Recomendación: medir siempre primero en escala alta del tester y luego bajar.
+
+**Observaciones y anécdotas**
+
+* Problema detectado: foco incandescente roto impidió medir continuidad.
+* Bromas y comentarios durante la práctica (Chuck Norris, “ganó la lotería”, etc.).
+* Profesor aclara que siempre hay que mantener la referencia de fase y neutro en todo el sistema.
+
+Si querés, ahora puedo juntarte **todo** (las tres partes que me diste) en un único resumen estructurado con **parte eléctrica, parte de salud y anécdotas**, para que tengas la clase entera condensada.
+
+Aquí tienes los puntos más importantes de esta última parte:
+
+**Práctica y correcciones**
+
+* Se rompió un interruptor (“Tic-Tac”), el profesor entrega otro y pide cuidarlo.
+* Foco incandescente se usa para comprobar que hay fase y neutro.
+* Se mide tensión con tester en la escala de voltaje alterno (\~).
+* Se revisa continuidad:
+
+  * Si hay continuidad con el interruptor apagado → está mal.
+  * Uso de la función *HOLD* para mantener medición.
+* Explicación de llave combinada: mientras se mantengan los dos lados correctos, no hay problema.
+* Ejercicio de Rubén Leiva funciona → aplausos.
+* Error detectado: orden incorrecto al energizar el tablero →
+
+  1. Subir térmica principal.
+  2. Subir disyuntor.
+  3. Subir térmica del circuito.
+* Recomendación: así, si hay cortocircuito, salta el interruptor correcto.
+
+**Consejos y anécdotas**
+
+* Profesor comenta experiencia familiar con vacunas e inyecciones.
+* Al usar buscapolo, hay que poner el dedo para que funcione (cierra el circuito capacitivo).
+* Buscapolo solo identifica la fase, no asegura que el otro conductor sea neutro.
+* Adrián Torres describe los pasos de prueba:
+
+  1. Identificar fase y neutro con buscapolo.
+  2. Medir tensión con probador (≈230 V).
+  3. Poner tester en la escala de alterna (\~) y confirmar voltaje.
+  4. Probar continuidad (pitido).
+
+Si querés, ahora te puedo hacer un **resumen único** juntando todo lo que me pasaste de la clase (las cuatro partes), dejando en un lado la parte de **práctica eléctrica** y en otro la de **campaña de salud**, con pasos, errores comunes y consejos del profesor.
+¿Querés que lo arme así?
+
+Ya con este último bloque, el panorama completo de la clase queda bastante claro.
+Te lo puedo dejar en un **resumen global** con la parte técnica, la metodología, y las anécdotas/humor.
+
+---
+
+## **Resumen total de la clase (todas las partes unificadas)**
+
+### **1. Contenido técnico y procedimientos**
+
+* **Instrumentos usados**:
+
+  * **Buscapolo** → identifica la fase (requiere contacto con el dedo para cerrar el circuito interno).
+  * **Lámpara de prueba** → confirma fase y neutro, útil para detectar tensión cuando hay carga.
+  * **Tester/multímetro** →
+
+    * Escala de alterna (\~) para tensión: primero en rango alto (750 V), luego bajar si es necesario.
+    * Escala de continuidad (pitido) para verificar circuitos abiertos/cerrados (sin energía).
+  * **Probador de tensión** → medición rápida del voltaje aproximado.
+
+* **Secuencia correcta para energizar un circuito**:
+
+  1. Subir interruptor general.
+  2. Subir disyuntor/diferencial.
+  3. Subir la térmica del circuito específico.
+     *(Para desenergizar: orden inverso o pulsar botón de prueba del disyuntor)*
+
+* **Pruebas antes de conectar la energía**:
+
+  * Medir continuidad para confirmar que interruptores y portalámparas están correctos.
+  * Confirmar que no haya falsos contactos ni pelos de cable que puedan generar cortos.
+
+* **Conexiones correctas**:
+
+  * Pasar todos los cables antes de unir portalámparas.
+  * Mantener siempre la referencia clara de fase y neutro.
+  * Cables cortados al ras para evitar cortocircuitos.
+  * Respetar colores: rojo/marrón/negro → fase; azul → neutro; verde-amarillo o desnudo → tierra.
+
+* **Situaciones prácticas vistas**:
+
+  * Error: levantar primero la térmica del circuito (debe ser la última).
+  * Portalámparas defectuoso que causaba problemas en la prueba.
+  * Llave de punto conectada en serie reduciendo luminosidad.
+
+---
+
+### **2. Dinámica de clase**
+
+* **Metodología del profesor**:
+
+  * Repetir la misma secuencia de medición en todos los grupos para afianzar el hábito.
+  * Corregir en el momento y mostrar físicamente cómo se debe trabajar “como en obra real”.
+  * Explicar cada paso del uso de instrumentos, con énfasis en seguridad.
+
+* **Participación de los alumnos**:
+
+  * Todos pasan uno por uno a probar su circuito frente a la clase.
+  * El ayudante y los compañeros hacen observaciones y chistes mientras tanto.
+  * Se corrigen errores sobre la marcha y se rearman conexiones cuando es necesario.
+
+---
+
+### **3. Humor y anécdotas**
+
+* Comentarios y bromas constantes entre profesor y alumnos (“Para qué te traje”, “Ganó la lotería”, “El que rompe paga”).
+* Chiste sobre nacionalidades (“Encontré un brasilero acá”).
+* Relato del profesor sobre su abuela aplicando inyecciones sin que el paciente lo sintiera.
+* Conversaciones sobre imanes, parlantes viejos, y herramientas con punta imantada.
+* Menciones a accidentes con tester (fusible quemado por medir mal continua en 220 V).
+* Profesor cantando un fragmento de Bunbury al hablar de “a conciencia”.
+
+---
+
+Si querés, puedo ahora pasarte **un cuadro esquemático** con todos los pasos de prueba, instrumentos y posibles fallos detectados, para que lo tengas como **guía rápida de laboratorio**.
+¿Querés que lo arme?
+
