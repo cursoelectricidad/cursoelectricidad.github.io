@@ -1,4 +1,4 @@
-% Clase Nº 20: Circuito eléctrico. Magnitudes. Sistema Alarma. Corriente Alterna/Continua. Tester. 
+% Clase Nº 20: Ley de Ohm. Circuito eléctrico. Magnitudes. Sistema Alarma. Corriente Alterna/Continua. Tester. 
 % Andrés Imlauer
 % 30 Abril 2025
 

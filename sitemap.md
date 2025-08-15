@@ -21,7 +21,7 @@ List of pages:
 * /17clase.md: [Clase Nº 17: Clase práctica. Armamos distribución](/17clase.md)
 * /18clase.md: [Clase Nº 18: Alarmas. Canalización subterránea. Como enterrar un conductor subterráneo. Guía AEA. Saul Kuperman el director de la escuela nos da la bienvenida al curso: habla de la vestimenta y tarjeta IERIC.](/18clase.md)
 * /19clase.md: [Clase Nº 19: [FOTOCOPIA] España apagón. Átomos. Materia. Electrones. Corriente. Concepto circuito eléctrico. Sistemas de alarma. ](/19clase.md)
-* /20clase.md: [Clase Nº 20: Circuito eléctrico. Magnitudes. Sistema Alarma. Corriente Alterna/Continua. Tester. ](/20clase.md)
+* /20clase.md: [Clase Nº 20: Ley de Ohm. Circuito eléctrico. Magnitudes. Sistema Alarma. Corriente Alterna/Continua. Tester. ](/20clase.md)
 * /21clase.md: [Clase Nº 21: Vimos una instalación mal hecha: Errores y Mejoras. Conexiones en Serie y Paralelo. ](/21clase.md)
 * /22clase.md: [Clase Nº 22: Clase práctica. Armado de Tablero Paralelo. Fundamentos de Electricidad: Paralelo y Serie, Tensión y Corriente.](/22clase.md)
 * /23clase.md: [Clase Nº 23: Esquemas de Montaje. Preguntas de examen. [UNA DE LAS CLASES MÁS IMPORTANTES]](/23clase.md)
