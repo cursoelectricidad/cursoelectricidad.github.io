@@ -145,3 +145,231 @@ En resumen, la clase es un **recorrido exhaustivo por una variedad de elementos 
 FIN
 
 ---
+
+De todo ese diálogo, los puntos más importantes serían:
+
+* Se menciona que la clase de hoy parecía suspendida, pero finalmente se aprovecharía para aprender y repasar.
+* El profesor recalca que hay que aprovechar cada oportunidad de aprender, especialmente pensando en el examen.
+* Importancia de que todos los alumnos tengan las mismas posibilidades para practicar.
+* Se habla de orden y organización del material para evitar problemas en las prácticas.
+* Referencia a tomacorrientes y mediciones de tensión máxima.
+* Comentario sobre problemas comunes en conexiones: piezas que se “negrea” (se carbonizan) y dificultad para insertar en bornes.
+* Recomendación de trabajar en conjunto y balancear cuando las líneas son más largas.
+* Mención del uso de tester para medir continuidad (arriba y abajo).
+* Diferencia entre piezas metálicas y de PVC, aclarando disponibilidad del material.
+
+De ese fragmento, los puntos más importantes serían:
+
+* Uso de **pipetas y piezas** que no están permitidas según normativa, y aclaración sobre su material (PVC vs cerámica).
+* Ejemplo de diagnóstico: equipo desconectado, se prueba continuidad y se detecta que el problema es que el interruptor “saltaba” por sensibilidad o desgaste.
+* Observación de que un interruptor tenía **capacidad máxima de 100 A**, pero el disyuntor instalado era de 40 A, lo que provocó sobrecorriente y daño.
+* Características físicas del interruptor termomagnético: soportes para conductores de **35 mm²** o **50 mm²** según modelo, límite práctico de uso hasta 100 A antes de pasar a interruptor automático.
+* Dificultad mecánica para accionar algunos interruptores por su diseño, lo que puede hacer que se crea erróneamente que están “quemados”.
+* Repaso histórico de protecciones antiguas:
+
+  * Fusibles cerámicos y porta fusibles usados en las “escuelas quinquenales”.
+  * Contactos metálicos internos, tapas de mármol, y soporte fijo.
+  * Problemas comunes: piezas que se caen o rompen, provocando chispazos.
+* Diagnóstico final de un seccionador antiguo: falta de pieza metálica para cerrar el circuito, posible solución improvisada con una moneda para hacer contacto.
+
+Aquí tienes los puntos más importantes de ese fragmento:
+
+* **Fusibles e interruptores antiguos**: antes se usaban fusibles con interruptor en neutro para poder cortar la planta; el interruptor no protegía, solo abría/cerraba el circuito.
+* **Tiempo de reposo tras disparo por sobrecarga**: el par metálico interno se deforma con el calor y hay que dejarlo enfriar antes de rearmar.
+* **Protecciones según reglamento y fabricante**: hay tablas que indican la corriente máxima permitida y deben respetarse ambas.
+* **Malas prácticas en tomacorrientes**: ejemplo de tres tomas en un mismo punto con puentes, algo no permitido.
+* **Causas de daño en conexiones**: sobrecarga por conductores mal calculados o exceso de consumo; riesgo mayor en conductores de la derivación principal hacia la vivienda.
+* **Componentes antiguos para conductores de aluminio**: no eran aislantes, requerían cuidado especial.
+* **Cámara apagachispas**: disipa chispas internas evitando que se proyecten al exterior.
+* **Interruptor para ducha eléctrica**: permite cortar la alimentación y cambiar la bornera sin recortar cable cada vez que se quema.
+* **Contactores**: explicados como un núcleo fijo y otro móvil accionados por bobina que, al energizarse, generan campo magnético y cierran el circuito.
+* **Relé térmico para protección de motores**:
+
+  * Se monta bajo el contactor.
+  * Se regula la corriente de disparo según el consumo nominal del motor (se recomienda 20 % por encima).
+  * Permite reset manual y tiene contactos normalmente abiertos/cerrados para control.
+* **Fotocélulas**:
+
+  * Tienen conexión de fase, salida a lámpara y neutro.
+  * Posibles problemas por pérdidas o filtraciones de agua, lo que puede generar riesgo eléctrico.
+
+Aquí tienes los puntos más importantes de ese fragmento:
+
+* **Corto por 220 V**: si una conexión incorrecta provoca cortocircuito, puede ser difícil localizar la falla; se recomienda instalar llaves seccionadoras para cortar solo el vivo y facilitar el trabajo seguro.
+* **Mini contactor trifásico**:
+
+  * Bornes de entrada L1, L2, L3 y control A1, A2 (bobina).
+  * Funciona como un relé, pero soporta toda la carga del motor.
+  * La bobina puede ser de diferentes tensiones (230 V, 24 V, 380 V, etc.), y debe instalarse la correcta.
+  * Contactos normalmente abiertos/cerrados para controlar el circuito.
+* **Relé térmico de protección**:
+
+  * Se instala junto al contactor.
+  * Regula la corriente de disparo según el consumo nominal del motor (aprox. 20 % por encima).
+  * Permite reset manual cuando actúa por sobrecarga.
+* **Buenas prácticas de montaje y mantenimiento**: limpieza de contactos con limpia-contactos, cuidado al manipular tornillos pequeños, revisión de sellos de seguridad para detectar manipulaciones no autorizadas.
+* **Balastos**:
+
+  * Usados para encender y mantener lámparas de mercurio, halogenuros metálicos o sodio.
+  * Necesitan capacitores para dar el impulso de arranque.
+  * Algunas lámparas pueden conectarse directo a 220 V, pero otras requieren tensión distinta para no dañarse.
+  * Uso frecuente en iluminación de canchas y espacios grandes.
+
+Por lo que describes, el texto es básicamente una charla muy informal —probablemente de un profesor o técnico— sobre distintos componentes eléctricos, con anécdotas y ejemplos prácticos.
+Se mezclan temas como:
+
+* **Contactor y relé**: cómo funcionan, cómo se conectan (L1, L2, L3 para trifásico, A1 y A2 para la bobina).
+* **Bobinas de diferentes tensiones** (220V, 24V, 380V) y cómo elegir la correcta.
+* **Balastos y arrancadores**: para lámparas de sodio, mercurio halogenado o fluorescentes.
+* **Problemas de instalación**: espacio en tableros, muescas para que encaje el equipo.
+* **Interruptores termomagnéticos y fusibles antiguos**.
+* **Electro-nivel o boya** para control de bombas de agua.
+* **Anécdotas personales**: ir a comprar repuestos de chico, problemas con equipos viejos, piezas que ya no se consiguen.
+
+Si quieres, puedo reorganizar todo este material en un **resumen técnico limpio**, manteniendo los conceptos pero sin las repeticiones y frases dispersas, de forma que quede como un apunte claro de electricidad aplicada.
+
+¿Quieres que te lo pase así, como un apunte resumido?
+
+De este fragmento se pueden rescatar varios puntos técnicos importantes, aunque está contado en un tono muy coloquial y mezclado con anécdotas.
+Los principales serían:
+
+* **Cámara de inspección para jabalina de puesta a tierra**
+
+  * Tiene tapa y tornillo; algunas incluyen bornera para conexión del cable.
+  * Permite derivar alimentación o acoplar otra jabalina para reducir resistencia a tierra.
+  * Antes las jabalinas eran de cobre; ahora suelen ser de hierro bañado en cobre.
+
+* **Motores eléctricos monofásicos**
+
+  * Identificación de terminales: común (C), arranque (S) y marcha (R).
+  * Se determina midiendo resistencias:
+
+    * Menor resistencia → bobina de marcha.
+    * Mayor resistencia → bobina de arranque.
+    * El común es el punto compartido entre ambas.
+  * **Capacitor de arranque**: se conecta solo al inicio y luego se desconecta (por relé o dispositivo interno) para evitar sobrecorriente.
+  * **Capacitor de marcha**: permanece conectado, mejora el factor de potencia y reduce potencia reactiva.
+
+* **Refrigeración y compresores**
+
+  * Algunos motores tienen 5 o 6 cables: 3 son para arranque/marcha y el resto para velocidades.
+  * Existen capacitores dobles (arranque y marcha en una sola unidad).
+
+* **Otros elementos eléctricos mencionados**
+
+  * Zócalos para tubos fluorescentes.
+  * Balastos (antes se armaban y probaban manualmente).
+  * Portafusibles calibrados para características específicas.
+
+* **Comentarios generales**
+
+  * Importancia de respetar colores de cables en conexiones de bombas.
+  * La teoría de que las bobinas “adelantan” la corriente y los capacitores la “atrasan” para equilibrar el coseno φ.
+  * La práctica de medir y descartar cables que no intervienen en el arranque/marcha para simplificar conexiones.
+
+Si querés, puedo unificar **este resumen y el del texto anterior** en un solo documento de apuntes de electricidad y motores, organizado por temas. Así quedaría todo más claro y listo para usar como material de estudio.
+
+Por lo que entiendo, el relato es una conversación muy técnica —casi como una clase improvisada— sobre instalación eléctrica, motores monofásicos, sistemas de puesta a tierra y componentes de protección.
+
+En esta parte en particular, están hablando principalmente de:
+
+* **Fusibles NH** (de varios tamaños como NH00 y NH01) con indicadores que “saltan” cuando se funden, para saber visualmente si están abiertos.
+* Diferencias entre fusibles de respuesta **rápida** (GG) y **lenta** (GL) y cómo su tiempo de fusión se asemeja al comportamiento de interruptores magnéticos rápidos o lentos.
+* Usos de estos fusibles en **sistemas de baja y media tensión**, como en bombas, instalaciones industriales o tableros de mando.
+* Mención de **llaves rotativas** que permiten seleccionar manual o automáticamente el funcionamiento de un motor o bomba, evitando el uso de contactores en corrientes bajas (ej. hasta 6 A).
+* Precaución con la **calibración de las llaves**: si se pone una llave que no soporte la corriente del motor, se quema.
+* Comentarios prácticos de herramientas y accesorios para trabajos de perforación, incluyendo soportes que capturan el polvo y bases para amoladoras.
+
+En resumen:
+Se trata de una charla sobre cómo proteger y maniobrar equipos eléctricos, con muchos ejemplos reales y detalles prácticos, mezclando teoría (capacitores, resistencia, arranque de motores) con experiencia de campo (fusibles, llaves selectoras, herramientas).
+
+Si querés, puedo prepararte un **esquema visual** que organice todo este contenido para que se entienda rápido, tipo mapa mental técnico. ¿Te lo preparo?
+
+Este fragmento parece ser otra parte de la misma charla/taller, pero ahora gira más en torno a **fusibles, portafusibles, relés térmicos y protección de circuitos**.
+Te hago un resumen técnico de lo importante que se menciona:
+
+---
+
+**1. Fusibles tipo “tabaquera” (portafusibles cilíndricos)**
+
+* Llamados “tabaqueras” por la forma, pero técnicamente son **portafusibles cilíndricos**.
+* Voltaje típico mencionado: **280 V**.
+* Uso común:
+
+  * Farolas de alumbrado público (fase y neutro).
+  * Sistemas de bombeo con relé.
+* Funcionamiento: al quemarse, se reemplaza solo el cartucho fusible.
+* Son fáciles de cambiar y revisar en mantenimiento de campo.
+
+**2. Guardamotores y contactores**
+
+* Varios modelos, se revisan para ver si funcionan antes de reinstalar.
+* Algunos tienen soportes específicos según la marca para su montaje.
+
+**3. Relé térmico**
+
+* Ejemplo mostrado: tripolar, regulable de **1 a 4 A**.
+* Sirve para proteger motores trifásicos o monofásicos según la configuración.
+* La regulación se ajusta a la potencia y corriente del motor para protegerlo contra sobrecargas.
+
+**4. Prácticas antiguas en instalaciones**
+
+* Antes se montaban lámparas con un “macho” enchufable para mantenimiento rápido.
+* Luego se dejó de usar por normativa de **puesta a tierra** y cambios de reglamentación.
+
+**5. Comentarios sobre materiales**
+
+* Escasez o dificultad para comprar cobre para pararrayos.
+* Conservación de herramientas como sierras y arcos, aunque algunas se pierden prestadas.
+
+**6. Dispositivos de control y temporización**
+
+* “Protector escalera”: temporizador que mantiene encendido un circuito el tiempo ajustado.
+* Puede funcionar como interruptor normalmente cerrado y temporizado.
+* **Protector de sobre y baja tensión**: interrumpe la alimentación si la tensión se sale de los valores seguros.
+
+---
+
+Si querés, puedo unificar **todo lo que venimos extrayendo de los tres textos** en un solo apunte estructurado por categorías:
+
+* Puesta a tierra
+* Motores monofásicos
+* Protección eléctrica (fusibles, guardamotores, relés térmicos)
+* Maniobra y control (llaves, contactores, temporizadores)
+* Herramientas y prácticas de instalación
+
+Así quedaría todo ordenado como un manual de referencia rápida.
+¿Querés que lo arme así?
+
+Este fragmento es una mezcla de recuerdos, explicaciones técnicas y anécdotas del profesor, pero tiene varios puntos técnicos importantes que se pueden rescatar:
+
+**Puntos clave técnicos del contenido:**
+
+1. **Temporizadores de encendido/apagado:**
+
+   * Existen temporizadores mecánicos con palancas para programar horarios y otros digitales (más fáciles de configurar).
+   * Algunos temporizadores tienen batería interna para mantener la programación en caso de corte de energía.
+
+2. **Reglamentación y cálculo:**
+
+   * Se menciona la existencia de tablas normativas (del Reglamento AEA) para determinar cantidad de lámparas y conexiones permitidas.
+   * La documentación técnica incluía explicación de interruptores, cables, envolturas y criterios de corrección.
+
+3. **Medición de iluminación:**
+
+   * Para canchas de fútbol 5, la iluminación recomendada es de **300 a 500 lux**, con distribución uniforme.
+   * Uso de **luxómetro** para verificar niveles de iluminación en instalaciones deportivas y judiciales.
+   * Caso práctico: una cancha medía solo 150 lux, lo cual es insuficiente para un uso seguro y cómodo.
+
+4. **Control de calidad en obras:**
+
+   * En entregas de obra, a veces el pliego exige incluir un luxómetro calibrado como parte de la entrega.
+   * Ejemplo real: en el Poder Judicial de Rivadavia se exigía un modelo específico.
+
+5. **Buenas prácticas en iluminación:**
+
+   * El profesor revisaba la uniformidad lumínica y agregaba luminarias cuando detectaba zonas oscuras.
+   * Importancia de verificar que las conexiones estén correctamente protegidas y aisladas.
+
+Si querés, puedo prepararte **un esquema-resumen visual** con el temporizador, la tabla de reglamentación y el rango de lux para distintas aplicaciones deportivas y de trabajo. Esto te serviría para estudiar iluminación y control en instalaciones eléctricas.
+
