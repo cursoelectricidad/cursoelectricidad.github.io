@@ -258,9 +258,7 @@ Perfecto, en este fragmento se profundiza principalmente en **sistemas trifásic
 * Cada bobinado del generador está separado 120° del otro.
 * La **tensión fase-fase** se calcula con la fórmula:
 
-  $$
-  V_{fase-fase} = V_{fase-neutro} \times \sqrt{3}
-  $$
+  $V_{fase-fase} = V_{fase-neutro} \times \sqrt{3}$
 
   * Con $V_{fase-neutro} = 220\,V$, obtenemos $220 \times 1,73 \approx 380\,V$.
 * Por eso no es la suma simple 220+220=440 V; se debe a la **geometría de fases en un sistema trifásico**.
