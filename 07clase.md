@@ -858,7 +858,7 @@ Resumen técnico – Clase práctica sobre detección de fallas, pruebas de cont
 Fórmula:   
 
 P = VI    
-I= \= P/V    
+I= P/V    
 
 * Donde:
 
