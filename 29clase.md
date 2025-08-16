@@ -492,7 +492,7 @@ Aquí tenés un **resumen claro y estructurado de la clase final sobre medición
 
 ---
 
-### **Comentarios del profesor y Botolli**
+### **Comentarios del profesor y Alumno**
 
 * Evaluación general: el profesor observa la velocidad y claridad de exposición de los estudiantes; algunos hablan muy rápido y otros necesitan más tiempo para procesar.
 * Reconocimiento: algunos alumnos ya conocen conceptos básicos y saben aplicarlos, como el uso de instrumental y simbología.
