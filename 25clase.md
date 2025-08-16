@@ -30,3 +30,104 @@ Cuando vos tenes un disyuntor vos podes usar el boton de prueba para cortar toda
 ---
 
 FIN
+
+---
+
+Puntos más importantes del texto:
+
+* Uso de **pinza especial** para trabajar con cables y probar conexiones.
+* No utilizar la pinza como alicate para apretar; está diseñada para funciones específicas.
+* Prueba de cables con **buscapolo** para identificar la fase y posterior uso de **lámpara de prueba**.
+* Importancia de diferenciar correctamente los cables (fase, neutro, tierra).
+* Mención de tester y mediciones de continuidad y voltaje.
+* Referencia a lámparas con diferentes características (color de luz, tipo de portalámpara).
+* Observación sobre pérdida de neutro y posibles problemas en instalaciones.
+
+Puntos más importantes del texto:
+
+* Recordatorio de **identificar y organizar correctamente los cables por colores** (azul, rojo, neutro, fase).
+* Antes de conectar, **realizar todo el cableado** y verificar que las medidas sean adecuadas.
+* Uso de **pinzas** para pelar y separar cables sin dañarlos.
+* Explicación de cómo hacer una **derivación o empalme**.
+* Importancia de diferenciar correctamente **fase** y **neutro** antes de pelar o conectar.
+* Revisión del circuito con **lámpara de prueba** para confirmar continuidad y funcionamiento.
+* Necesidad de contar con las herramientas adecuadas y pedirlas si faltan.
+* Procedimiento: cableado → conexión → prueba del circuito.
+
+Puntos más importantes del texto:
+
+* En el armado del circuito, cada cable debe **marcarse con tres cintas** para identificarlo.
+* Verificar ubicación y orientación de cada conductor (fase, neutro y tierra) antes de conectar.
+* Conexión de **dos lámparas y dos interruptores**: aclaración sobre el uso de **dos retornos independientes** para que cada llave controle su lámpara.
+* Procedimiento de conexión:
+
+  1. Cableado completo.
+  2. Conexión de conductores en caja de paso y tablero.
+  3. Prueba del circuito con **lámpara de prueba**.
+* Evitar errores como poner **dos puntos y un toma en el mismo circuito** sin cumplir normativa.
+* Uso de caja de paso para derivar fase y neutro de forma ordenada.
+* Explicación del funcionamiento del interruptor: una punta es entrada (fase) y la otra salida (retorno).
+* Medición de tensión con tester en el rango adecuado (200–750 V) para seguridad.
+* Importancia de completar y verificar un circuito antes de pasar al siguiente.
+
+Puntos más importantes del texto:
+
+* Confirmar ubicación de la **alimentación** en el puente y cómo derivar fase y neutro correctamente.
+* No usar **puentes de cable desnudo** (práctica antigua y peligrosa).
+* Identificación de **fase** y **retorno** antes de hacer la conexión.
+* Posible necesidad de agregar un cable extra para completar la alimentación de un punto.
+* Procedimiento de verificación:
+
+  1. Pelar cable y conectar.
+  2. Medir tensión con tester o multímetro.
+  3. Comprobar continuidad con el interruptor apagado y encendido.
+* Diferencia entre medición **aproximada** (probador de tensión) y medición **exacta** (tester en rango adecuado, ej. 720 V).
+* Uso de **módulo combinado** que puede funcionar como llave de un punto utilizando el borne central y uno lateral.
+* Importancia de conocer el **rango de medición** del probador de tensión que se utiliza (ej. 220 V–400 V).
+* Recomendación: mínimo de 230 V para funcionamiento óptimo, pero medir siempre en condiciones reales.
+* Práctica pendiente: **TP7** para completar el entrenamiento.
+
+Puntos más importantes del texto:
+
+* Explicación sobre el uso correcto de la **llave combinada**, aclarando qué borne usar (generalmente el medio y uno lateral para funcionar como llave de un punto).
+* Diferenciación entre **fase** y **retorno**, y cómo unirlos correctamente para el funcionamiento del circuito.
+* Ajuste de longitudes de cable para facilitar el conexionado y evitar errores.
+* Uso de **puentes cortos** para unir retornos o fases según el diseño del circuito.
+* Importancia de medir la **tensión de entrada** para verificar que el circuito recibe el voltaje correcto.
+* Precaución con valores de tensión elevados o inestables; identificación de posibles problemas en la instalación.
+* Señalamiento de errores en la conexión y corrección inmediata para cumplir con la seguridad eléctrica.
+* Observación de **contactos riesgosos** y necesidad de aislarlos correctamente.
+* Recomendación de variar las prácticas diarias para no repetir siempre la misma tarea y favorecer el aprendizaje.
+
+Puntos más importantes del texto:
+
+* **Alternancia en la práctica**: cada alumno realiza el procedimiento en días distintos para reforzar la memoria y la aplicación correcta del procedimiento.
+* **No uso de pistola neumática aún**: primero aprender el procedimiento manual y la conexión correcta.
+* Ajuste de **tensiones de entrada** a aproximadamente 230 V y medición de continuidad para verificar el circuito.
+* **Bajar las térmicas** antes de conectar para trabajar de forma segura.
+* Separación de **retornos individuales** para cada lámpara; no compartir retornos entre dos puntos.
+* Uso correcto de **llave de un punto** y conexiones con los bornes, incluyendo la fase y retorno.
+* Organización de **cables sobrantes**: cortar lo innecesario y ajustar para que no queden conductores expuestos.
+* Medición **paralela de bornes** para comprobar tensión y continuidad.
+* Importancia de **mantener los empalmes prolijos** y evitar que queden cables sueltos que puedan causar descargas.
+* Recordatorio de descansar y alternar prácticas para **evitar cansancio** y errores por fatiga.
+
+Puntos más importantes del texto:
+
+* **Última práctica de iluminación**: se enfoca únicamente en circuitos de iluminación, usando conductores de 1,5 mm² y distintas etapas de
+
+Resumen de los puntos más importantes del texto:
+
+* **Último día de práctica**: se está realizando la última sesión de práctica de iluminación, trabajando con circuitos simples y conductores de 1,5 mm².
+* **Objetivo principal**: práctica de **iluminación**, sin incluir tomas de corriente aún. Se busca que los alumnos manejen correctamente la fase, el retorno y los interruptores.
+* **Uso de lámparas de prueba**: se colocan focos para verificar el correcto funcionamiento de los circuitos antes de la instalación definitiva.
+* **Pruebas de tensión y continuidad**: se enseñó a medir la tensión y verificar la continuidad de los cables para asegurarse de que los circuitos funcionen correctamente.
+* **Interruptores y retornos**: se practicó la correcta conexión de llaves de un punto y combinadas, asegurando que cada retorno vaya a su lugar correspondiente y que la fase esté bien distribuida.
+* **Seguridad**: se enfatizó apagar las térmicas y usar el botón de prueba para cortar la energía antes de manipular los circuitos.
+* **Organización de materiales**: se asignaron nombres a los lugares y bastidores para mantener ordenadas las instalaciones y los materiales durante la práctica.
+* **Corrección de errores**: se revisaron problemas como llaves mal conectadas o portalámparas flojos y se corrigieron para garantizar que todo funcione correctamente.
+* **Práctica repetitiva y alternada**: se recomienda alternar los grupos para que cada alumno adquiera memoria mecánica y mental del procedimiento de instalación y prueba.
+
+Si querés, puedo hacer un **diagrama paso a paso del procedimiento que están practicando** para que quede más visual y claro. ¿Querés que haga eso?
+
+

@@ -789,19 +789,20 @@ Resumen técnico – Clase práctica sobre detección de fallas, pruebas de cont
 #### **2\. Cálculo básico de corriente y sección**
 
 * Para saber el tamaño del conductor:  
-   I=PVI \= \\frac{P}{V}  
+   I=PVI = P/V
+
    Donde:
 
-  * II \= corriente (A)
+  * I \= corriente (A)
 
-  * PP \= potencia del equipo (W)
+  * P \= potencia del equipo (W)
 
-  * VV \= tensión (V) (por ejemplo 220V)
+  * V \= tensión (V) (por ejemplo 220V)
 
-* Ejemplo ducha eléctrica:  
-   P=5500WP \= 5500W,  
-   V=220VV \= 220V,  
-   I=5500220=25AI \= \\frac{5500}{220} \= 25A  
+* Ejemplo ducha eléctrica:     
+   P=5500W   
+   V=220V    
+   I=5500/220 = 5500/220 = 25A     
 * Luego se elige un conductor que soporte esa corriente y la caída admisible (ejemplo 4 mm² o más según tabla).
 
 ---
@@ -854,22 +855,23 @@ Resumen técnico – Clase práctica sobre detección de fallas, pruebas de cont
 
 #### **📐 2\. Cálculo de la corriente (intensidad)**
 
-Fórmula:
+Fórmula:   
 
-I=PVI \= \\frac{P}{V}
+P = VI    
+I= \= P/V    
 
 * Donde:
 
-  * II: corriente en amperios (A)
+  * I: corriente en amperios (A)    
 
-  * PP: potencia en watts (W)
+  * P: potencia en watts (W)   
 
-  * VV: tensión en voltios (V), en general 220V
+  * V: tensión en voltios (V), en general 220V   
 
 **Ejemplo:**
 
-* Ducha eléctrica de 5500 W:  
-   I=5500220=25AI \= \\frac{5500}{220} \= 25 A  
+* Ducha eléctrica de 5500 W:   
+   I=5500/220=25A     
 * Con esa corriente, se busca en una **tabla de conductores** qué sección corresponde (ejemplo: 4 mm² si es un recorrido corto).
 
 ---

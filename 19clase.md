@@ -270,11 +270,9 @@ Aquí tienes los puntos más importantes organizados por tema:
 * **Corriente eléctrica / Intensidad (I)**: medida en amperes.   
 * **Potencia eléctrica (P)**: en watts, fórmula básica en corriente alterna:   
    
-  $$   
-  P = V \times I \times \cos \varphi   
-  $$   
+  P = V x I x cos(phi)
    
-  * Para cálculo rápido en monofásico (220 V), si $\cos \varphi \approx 1$, corriente ≈ $\frac{P}{220}$.   
+  * Para cálculo rápido en monofásico (220 V), si coseno(phi) ≈ 1, corriente ≈ P/220.   
 * **Factor de potencia**: ideal entre **0,95 y 1** para que la potencia consumida sea activa y no reactiva.   
 * **Corriente alterna (CA)**: cambia polaridad y tiene frecuencia.   
 * **Corriente continua (CC)**: flujo constante en un solo sentido.   
