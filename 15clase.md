@@ -1,4 +1,4 @@
-% Clase Nº 15: Leímos catalogo Genrod (Tubeelectric). Exámen entra esquema general que vimos en la 3era clase (la primera en mi caso). Recibimos una torta por pascuas.
+% Clase Nº 15: Leímos catalogo Genrod y Tubeelectric. Exámen entra esquema general que vimos en la 3era clase (la primera en mi caso). Recibimos una torta por pascuas.
 % Andrés Imlauer
 % 18 Abril 2025
 

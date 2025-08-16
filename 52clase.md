@@ -16,6 +16,10 @@
 [https://www.youtube.com/embed/3hw_UM36m9A](https://www.youtube.com/embed/3hw_UM36m9A)
 
 
+
+![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgen8l7Ew7bg8ShgqSYVMQEsaz-5bLMzAsC_wZJVS1O3vdUyVVcRldAQ-r-WX22yC2MB_9_ijkpz4SyJEwIxQJVpcN1UTYsyGy-V4V_ZaYu8Efz-m5f0rOtJfRtNSMOeEijTMJn8h_S4xpl-PJI54w5Ev96TH39LgKj9GSQznd6FIFboIA-pNcrHURDEoE/s4160/IMG_20250805_185125382.jpg)
+![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhnz9etzm9MOk_PHZHVmgc5HDcTovvEOIG07hAu8I8Ftnzq_TlNKdg01yqQY175bMHs9RwbXyzDxqr1WHDat3QKtWz05s5vf8h07csisPjuODRI1Fvh7ypT52-7OGganF0yc_ZXs57okLYINAY0cQWmE1CkiO4vteqV1LkcyvsBgEo9o6xnV9IB2nQgOWQ/s4160/IMG_20250806_182307187.jpg)
+
 **Puntos clave de la explicación**
 
 1. **Sistema trifásico y equilibrio de cargas**
@@ -406,7 +410,3 @@ Por supuesto, acá va un resumen con los puntos más importantes:
 El profesor Espeche llama bastidor al tablero, eso me confundió.
 Qué siginfica 3 circuitos por cañería de igual fase? Qué significa que sea de igual fase?
 
-
-
-![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgen8l7Ew7bg8ShgqSYVMQEsaz-5bLMzAsC_wZJVS1O3vdUyVVcRldAQ-r-WX22yC2MB_9_ijkpz4SyJEwIxQJVpcN1UTYsyGy-V4V_ZaYu8Efz-m5f0rOtJfRtNSMOeEijTMJn8h_S4xpl-PJI54w5Ev96TH39LgKj9GSQznd6FIFboIA-pNcrHURDEoE/s4160/IMG_20250805_185125382.jpg)
-![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhnz9etzm9MOk_PHZHVmgc5HDcTovvEOIG07hAu8I8Ftnzq_TlNKdg01yqQY175bMHs9RwbXyzDxqr1WHDat3QKtWz05s5vf8h07csisPjuODRI1Fvh7ypT52-7OGganF0yc_ZXs57okLYINAY0cQWmE1CkiO4vteqV1LkcyvsBgEo9o6xnV9IB2nQgOWQ/s4160/IMG_20250806_182307187.jpg)

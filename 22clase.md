@@ -12,7 +12,6 @@
 [https://cursosdeelectricidad.blogspot.com/2008/06/tema-14-conexin-de-2-o-ms-lmparas-en.html](https://cursosdeelectricidad.blogspot.com/2008/06/tema-14-conexin-de-2-o-ms-lmparas-en.html)
 
 
-
 ![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgTLymS0kvRzaY5Ud4hPodpOGB_NHrnKCgZonrxtse2aRvShLgNoOk99RhidIk87yziN36gOUSOm8bQ3w1s3itKD-2xTJI-nqcG8QlLsxuy_mUoJEmjdJ9p8ULdvlXG-8ZcGcxA3QWZTN30P5fk81FIFEmgDMo29jdV55BaDbZ0cbLM99cTHdYV5RNH6gk/s4160/IMG_20250505_201932117.jpg)
 ![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh825kacIRprxtquys9M0_TzZBIXeV71_bpS9FYaXbB9FmQ3ejflMRp4-OJDTW4ilq_ZbCPiEfPZwmKjDaXdVs8kMR4rdADw5C_BQRGexiJXSHDrK6kNzzJUqpaasa-EWPgr17YKHFYwjv4ZUOurbu64QqdYPpu6UlboXVvnmVS_Zso5ZnSqQ9h0v5TOg8/s4160/IMG_20250505_201931093.jpg)
 ![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhK_T6tEXsOoCYG4A9YGaxj9umPtd8o0_IHLPUqINluJF8X9z2se-_4bGuJgnDDAiTyJ3SdS6K8X4wsCQVhKgKqbqwtR8dtnsq2X6YRXaynvk4SPc9XMH6T0R_ajUqxhK57CDfDmZSpjbmS9_WKvnSNfYnXe6UsOAT3gqX4MOOWSPT0kSOeCOR8yVYOpTE/s4160/IMG_20250505_201928063_BURST001.jpg)

@@ -16,7 +16,7 @@ List of pages:
 * /12clase.md: [Clase Nº 12: Continuamos canalización. No usar curva y contracurva juntos porque es difícil pasar cinta pasacables, mejor un cañito en el medio. Meter pinza para sacar rebarba adentro y afuera agarrar el caño. Acanaladora.](/12clase.md)
 * /13clase.md: [Clase Nº 13: [FOTOCOPIA Uniones caño caja, sección de conductores]. Cupla. Curvado caños. Sistema U. Colocación. Planos de pilar EMSA. Leemos fotocopia normas IRAM. Caños 5/8 solo en línea recta.](/13clase.md)
 * /14clase.md: [Clase Nº 14: Instalaciones Eléctricas Seguras. Consejos y Precauciones para Electricistas.](/14clase.md)
-* /15clase.md: [Clase Nº 15: Leímos catalogo Genrod (Tubeelectric). Exámen entra esquema general que vimos en la 3era clase (la primera en mi caso). Recibimos una torta por pascuas.](/15clase.md)
+* /15clase.md: [Clase Nº 15: Leímos catalogo Genrod y Tubeelectric. Exámen entra esquema general que vimos en la 3era clase (la primera en mi caso). Recibimos una torta por pascuas.](/15clase.md)
 * /16clase.md: [Clase Nº 16: Doblado de Caños, perfilería y estética de una instalación.](/16clase.md)
 * /17clase.md: [Clase Nº 17: Clase práctica. Armamos distribución](/17clase.md)
 * /18clase.md: [Clase Nº 18: Alarmas. Canalización subterránea. Como enterrar un conductor subterráneo. Guía AEA. Saul Kuperman el director de la escuela nos da la bienvenida al curso: habla de la vestimenta y tarjeta IERIC.](/18clase.md)

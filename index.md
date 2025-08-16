@@ -180,7 +180,7 @@ Subscribe to RSS: [/feed.xml](/feed.xml)
 [22 Abril 2025]{.date}
 
 
-[Clase Nº 15: Leímos catalogo Genrod (Tubeelectric). Exámen entra esquema general que vimos en la 3era clase (la primera en mi caso). Recibimos una torta por pascuas.](/15clase.md){.title}
+[Clase Nº 15: Leímos catalogo Genrod y Tubeelectric. Exámen entra esquema general que vimos en la 3era clase (la primera en mi caso). Recibimos una torta por pascuas.](/15clase.md){.title}
 [18 Abril 2025]{.date}
 
 
