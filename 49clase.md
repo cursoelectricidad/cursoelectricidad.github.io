@@ -181,3 +181,212 @@
 ---
 
 Fin
+
+---
+
+Aquí está un resumen con los **puntos más importantes** del minuto 12 en adelante, con emojis incluidos para hacerlos más visuales:
+
+---
+
+### 📐 Escalas y medidas en planos
+
+* Existen **distintas escalas**: 1:100 y 1:50 son las más comunes en instalaciones eléctricas 🏠.
+* La **escala** es la proporción entre la medida real y la del dibujo 📏.
+
+  * **Natural**: 1:1, tamaño real.
+  * **Reducción**: 1:100, 1:50, usada para planos más manejables.
+  * **Ampliación**: 2:1, usada en mecánica para piezas grandes ⚙️.
+* **Escalímetro**: herramienta para medir en distintas escalas girando el borde 🔄.
+* En construcción e instalaciones, se prioriza la **precisión en centímetros y milímetros**.
+
+  * 1 metro = 100 cm = 1000 mm
+  * 1 cm = 10 mm
+
+### ✏️ Uso de hojas cuadriculadas
+
+* Cada 2 cuadritos = 1 cm = 1 metro real en escala 1:100 📝.
+* Permite dibujar planos sin necesidad de regla.
+* Se pueden representar habitaciones y elementos internos de manera simplificada.
+
+### 🔌 Instalaciones y cañerías
+
+* No más de **3 curvas en un conducto**; 2 es ideal para pasar cables sin problemas ⚡.
+* Dejar un **cable pasante** es útil, pero la cañería debe estar despejada primero.
+* Cada plano indica **tipo de conductor y características básicas**, no se sobrecarga con detalles innecesarios.
+
+### 🏗️ Construcción y características de paredes
+
+* Paredes externas: grosor variable según aislación y época de construcción 🧱.
+
+  * Escuelas antiguas: paredes de 30 cm + cámara de aire para aislación térmica 🌬️.
+  * Construcción moderna: steel frame o paredes de 10–15 cm con aislación interna ♻️.
+* Altura de techos y cielorrasos afecta la aislación y la percepción del espacio.
+
+### 🔢 Conceptos clave
+
+* Escala = fracción matemática: numerador = tamaño real, denominador = medida en plano.
+* Importancia de **medir y dibujar proporcionalmente** para que la obra se ejecute correctamente.
+* El plano es la **guía principal** para ejecutar la instalación eléctrica o construcción correctamente 🛠️.
+
+---
+
+Si querés, puedo hacer un **diagrama visual con escalas, cuadriculado y ejemplo de habitación** para que quede mucho más claro cómo aplicar 1:100 y 1:50 en un plano real. ¿Querés que haga eso?
+
+Aquí tienes un **resumen con los puntos más importantes** de esta parte de la clase, con emojis incluidos para hacerlo más visual:
+
+---
+
+### 🌡️ Aire acondicionado y eficiencia
+
+* Las **construcciones nuevas consumen más energía** ⚡ porque necesitan aire acondicionado; las viejas no lo requerían.
+* Cambio climático aumenta la necesidad de climatización 🌞❄️.
+* Importancia de planificar la ubicación de aires desde el proyecto arquitectónico para optimizar recorrido de cañerías y eficiencia 🏢.
+
+---
+
+### 📐 Escalas y planos
+
+* **Escala 1:100**: 1 cm = 1 m → 2 cuadritos por cm en hoja cuadriculada ✏️.
+* **Escala 1:50**: 1 cm = 0,5 m → 4 cuadritos por cm 📏.
+* La **medida real** se divide según la escala para que el plano sea manejable.
+* Para representar habitaciones, paredes y aberturas se usan los cuadritos como referencia, **sin necesidad de regla** 📝.
+
+---
+
+### 🏠 Representación de aberturas
+
+* Puertas y ventanas: se representan con rectángulos o líneas según simbología.
+* Ejemplo: ventana de 1,50 m → 3 cuadritos en escala 1:100, 6 cuadritos en escala 1:50.
+* Para **colocar bocas de iluminación**, se usan diagonales auxiliares para marcar posiciones fácilmente 🔌.
+* Lo importante es **que la boca sea visible en el plano**, no su tamaño exacto.
+
+---
+
+### 🛠️ Aplicación práctica
+
+* Se usa **hoja cuadriculada** para dibujar habitaciones y planos internos sin regla.
+* Las medidas se toman **desde el interior de la pared**, especialmente para la instalación eléctrica ⚡.
+* El **escalímetro** ayuda a medir proporciones correctas directamente en obra.
+* Caja de paso siempre visible en el plano, aunque el tablero no esté definido.
+
+---
+
+Si querés, puedo armar un **mini esquema visual comparando 1:100 y 1:50 con habitación, ventanas y bocas de iluminación**, así queda mucho más claro cómo trasladar las medidas reales al plano. ¿Querés que haga eso?
+
+Aquí tenés un **resumen con los puntos clave** de esta parte de la clase, con emojis incluidos para destacar lo más importante:
+
+---
+
+### 📝 Representación en planos eléctricos
+
+* Los **elementos eléctricos** en planos no siempre guardan escala exacta; muchas veces es un **bosquejo** para visualizar ubicación 📐.
+* Los **caños pueden representarse rectos o quebrados**, lo importante es saber dónde van las bocas de iluminación y tomacorrientes 💡🔌.
+* La longitud real y eficiencia de material se calculan **cuando se define la instalación** en obra ⚡.
+* Evitar amontonamiento de símbolos y palabras en el plano; claridad es clave ✅.
+
+---
+
+### 🏫 Ejemplo práctico de aula
+
+* Escalas usadas: **1:100 y 1:50**.
+* Dimensiones del aula: aprox. 7x7 m → se ajustan según escala con **escalímetro** 📏.
+* Tipos de canalización: **CU PVC 4x1,5 mm²**, subterráneo o exterior según plano 🔧.
+* Las recomendaciones de instalación a veces se incorporan directamente en el plano para el electricista.
+
+---
+
+### ⚡ Distribución de tomacorrientes y bocas
+
+* Ubicación según necesidades del propietario (TV, equipos, aire acondicionado, etc.) 🏠.
+* Se dibujan **simbolizando tomacorrientes, bocas de iluminación y llaves**, sin necesidad de medidas exactas, solo visualización.
+* Permite calcular **mano de obra y presupuesto** antes de comenzar la obra 💰.
+
+---
+
+### 📏 Alturas y normas
+
+* Tomacorrientes: altura estándar **0,40 m desde el piso** (puede variar 0,15–0,90 m según normativa o decisión del arquitecto).
+* Aire acondicionado: altura variable, indicado como **AA** en el plano 🌬️.
+* Altura de cajas y tableros: mantener **nivel uniforme** para buena estética y funcionalidad ⚖️.
+* Se utiliza **h = altura**, **A = área** para acotación en planos.
+
+---
+
+### 💡 Recomendaciones prácticas
+
+* Primero ubicar **cajas y bocas** según plano antes de pasar caños o conductores.
+* Usar **diagonales auxiliares** para centrar bocas de iluminación.
+* Mantener consistencia y uniformidad en niveles de instalación para evitar errores y problemas estéticos 🛠️.
+
+---
+
+Si querés, puedo hacer un **esquema visual paso a paso** mostrando **ubicación de bocas, tomacorrientes, alturas y caños** en escala 1:100 y 1:50, para que quede super claro cómo trasladar esto a un plano real.
+
+¿Querés que lo haga?
+
+Aquí tenés un **resumen con los puntos clave** de esta sección, enfocado en alturas, cañerías y escala en planos eléctricos, con emojis para que sea más visual:
+
+---
+
+### 🏗️ Instalación sobre cielo raso
+
+* Siempre se hace la **instalación por arriba**, no por el suelo 🚫🪵, para evitar:
+
+  * Humedad en paredes o pisos 💧
+  * Oxidación de elementos de hierro usados antes según normas IRAM y AEA ⚙️
+
+* **Altura de la caja de paso:** 0,30 m por debajo del nivel del cielo raso.
+
+  * Ej.: si el cielo raso está a 2,80 m → base de caja a 2,50 m 📏
+  * Esto permite visibilidad y acceso fácil.
+
+* **Altura de tomacorrientes:** 0,40 m desde el piso, estándar.
+
+* **Altura de aire acondicionado:** entre 2,10 y 2,20 m, dejando 15–20 cm desde el cielo raso 🌬️.
+
+---
+
+### 📐 Escalas y representación
+
+* **Escalas usadas:** 1:50 y 1:100.
+
+  * 1:50 → 1 m = 4 cuadritos
+  * 1:100 → 1 m = 2 cuadritos
+* Se dibujan **bocas, tomacorrientes y cajas de paso** para visualización, no para medir exacto.
+* Se utilizan **diagonales** para centrar bocas en pared o entre dos puntos.
+
+---
+
+### ⚡ Trazado de cañerías
+
+* La cañería **nace desde la caja de paso** y llega a cada boca o equipo.
+* Puede ir **recta o con curvas** según paredes y alturas.
+* Importante tener **paredes y alturas definidas** para calcular longitud de cañería y cantidad de material 🪛.
+* En planos más completos, se indican:
+
+  * **Diámetro del caño:** ej. 16 mm → 3/4”
+  * Tipo de caño: rígido PVC o hierro según necesidad.
+* Para mejorar visualización, se pueden **marcar caños de distintos colores**, especialmente en planos grandes con muchos conductores 🔴🔵.
+
+---
+
+### 💡 Recomendaciones prácticas
+
+* Primero ubicar **cajas y bocas** antes de pasar caños.
+* No dibujar con fuerza, usar **lápiz** para ajustes futuros ✏️.
+* Mantener consistencia en alturas y niveles para que la instalación sea ordenada y funcional ✅.
+* Usar el plano para **presupuesto y cálculo de materiales**, así se evita sobrecostos 💰.
+
+---
+
+Si querés, puedo hacer un **esquema gráfico tipo plano de aula** mostrando:
+
+* Ubicación de tomacorrientes y bocas
+* Alturas desde piso y cielo raso
+* Trazado de cañerías con curvas y rectas
+* Escalas 1:50 y 1:100
+
+Esto te va a ayudar a **visualizar y practicar en la hoja antes de la obra**.
+
+¿Querés que lo haga?
+
