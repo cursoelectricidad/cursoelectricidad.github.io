@@ -47,3 +47,142 @@ Para el conductor de fase de las instalaciones monofásicas se podrá utilizar i
 ---
 
 Fin
+
+---
+
+Aquí te hago un resumen con los puntos más importantes del texto, organizados y con emojis para que se destaquen:
+
+---
+
+### 🔹 Esquemas y montaje
+
+* 📄 Se hicieron **esquemas de montaje** y **cortes de planta** para representar los circuitos.
+* ✏️ Dibujar un esquema rápido ayuda a **mostrar el circuito más rápido que escribirlo todo**.
+* ⚡ Diferencia entre **esquema unifilar** y **circuito eléctrico completo**.
+
+### 🔹 Circuitos y conductores
+
+* 🔌 Uso de **conductor de 2,5 mm²** para tomas de corriente.
+* ⚠️ Cada toma: **10 A máximo**, el conductor soporta hasta 16-18 A, y la térmica es de 16 A.
+* 📝 Se debe **indicar la corriente máxima en cada sección del conductor** y el interruptor correspondiente.
+
+### 🔹 Interruptores y protecciones
+
+* 🛡️ Térmica **bipolar** para proteger el conductor.
+* 🔥 Fusible o interruptor actúa cuando el **filamento se funde o hay sobrecarga**.
+* ✅ Importante calcular y colocar correctamente **corriente máxima y protección en cada tramo**.
+
+### 🔹 Recomendaciones y normas
+
+* 📏 Altura de zócalos: **entre 15 y 90 cm del suelo**, evitando objetos extraños.
+* 📊 Para proteger conductores se debe **respetar la tabla de capacidad de corriente por sección**.
+* 📝 Indicar **corriente máxima y tipo de interruptor** en cada sección del circuito.
+
+### 🔹 Organización y estudio
+
+* 🗂️ Llevar un **cuaderno con bosquejos rápidos** ayuda a organizar ideas y mostrar avances.
+* 💻 Tutoriales por internet pueden ser útiles para entender **montaje y esquemas**.
+
+---
+
+Si querés, puedo hacer una **versión todavía más resumida tipo “chuleta visual” con emojis y lo esencial** para repasar rápido antes del examen.
+¿Querés que haga eso?
+
+Perfecto, acá te hago un **resumen con los puntos más importantes del texto**, resaltando lo clave con emojis para que quede más visual:
+
+---
+
+### 🔹 Instalación segura y reglamentación
+
+* 📜 Una instalación eléctrica confiable **debe cumplir normativa** y usar materiales por norma.
+* 🏠 Se diferencia entre **inmueble** y otros elementos porque la reglamentación incluye distintos ítems.
+
+### 🔹 Esquemas y líneas eléctricas
+
+* ⚡ **Línea municipal:** desde aquí se puede intervenir, el resto queda restringido.
+* 🔹 **Línea de alimentación:** lleva la energía desde la red hacia el medidor.
+* 🔹 **Línea principal:** conecta medidor → tablero general.
+* 🔹 **Línea seccional:** conecta tablero general → tableros seccionales.
+* 📄 Los esquemas ayudan a **visualizar conexiones y distribuciones** antes del montaje.
+
+### 🔹 Llaves y lámparas
+
+* 💡 **Lámpara con llave combinada:** un esquema muestra cómo conectar 1 o 2 lámparas controladas por una o dos llaves.
+* 🔌 Conexión de **fase (rojo), neutro (azul) y tierra (verde/amarillo)**.
+* 🛠️ Cada módulo de interruptor soporta **10 A**, conductor 2,5 mm² soporta hasta **18 A** → **no se debe puentear**.
+
+### 🔹 Toma corriente y ubicaciones
+
+* 📏 Ubicación: **0,15 m a 0,90 m** sobre el nivel de piso terminado.
+* 🔌 Cada toma debe ir conectada correctamente a la fase de alimentación principal para **evitar sobrecarga**.
+* ⚠️ Se debe respetar **corriente máxima** de cada conductor y cada interruptor.
+
+### 🔹 Medición y protección
+
+* 🧰 **Herramientas:** multímetro (tensión, continuidad, resistencia), pinza amperométrica (en serie, rango adecuado).
+* 🛡️ Protección: **interruptor termomagnético, diferencial y puesta a tierra**.
+* 🔹 La cañería protege al conductor, no la carga.
+* 💧 Evitar humedad o agua dentro de la instalación.
+
+### 🔹 Organización del trabajo
+
+* 📝 Usar **cuaderno o carpeta** con esquemas, fecha, número de clase y entrega.
+* 🎨 Escribir de manera clara, aunque la rapidez o ansiedad haga la escritura cursiva.
+* 📂 Mantener registro de clases, esquemas y prácticas para **repaso y examen**.
+
+---
+
+Si querés, puedo hacer **un esquema visual resumido con líneas, cajas y colores** tipo mapa mental para tener todo esto **super claro de un vistazo**. Esto sirve mucho para estudiar rápido antes del examen.
+
+¿Querés que lo haga?
+
+Perfecto, te hago un **resumen de los puntos más importantes del último texto**, con emojis y bien organizado para estudio rápido:
+
+---
+
+### 🔹 Preparación y entrega
+
+* 📝 Siempre poner **fecha y nombre**, y marcar como **“entregado”**.
+* 🛠️ Antes de colocar conductores: usar **herramientas adecuadas**, rotación de pinzas, parte interna y externa, para seguridad.
+* 📂 Mantener todo en un **lugar ordenado** para revisar quién entregó o no.
+
+### 🔹 Canalización y cortes
+
+* 📏 Toda **canalización debe estar terminada y con cortes listos** antes de pasar a la siguiente etapa.
+* 🔧 Evitar trabajar con materiales húmedos o sin secado adecuado.
+
+### 🔹 Corriente máxima y protecciones
+
+* ⚡ Indicar en cada sección del conductor la **corriente máxima según norma** (ej. 1,5 mm² → 13 A, 2,5 mm² → 28 A).
+* 🛡️ **Dispositivos de protección:**
+
+  * Interruptor termomagnético
+  * Diferencial
+  * Fusible (uso único)
+  * Puesta a tierra (mejora funcionamiento del disyuntor)
+  * Cañería (protege al conductor, no a la carga)
+  * Protector de tensión (opcional)
+* ♻️ Diferencia: fusible **se reemplaza** al fundirse, el termomagnético es **reutilizable**.
+
+### 🔹 Medición eléctrica
+
+* 📐 **Voltaje:** se representa con B, medido con **multímetro o probador de tensión**.
+* 📊 **Corriente:** se representa con I (amper), medido con **pinza amperométrica**, en serie sobre **un solo conductor** (fase o neutro, nunca ambos).
+
+### 🔹 Límite de módulos y conductores
+
+* ⚠️ Cada módulo de toma corriente soporta **10 A máximo**.
+* ❌ No se debe puentear, porque puede llegar a 20 A y el conductor de 2,5 mm² solo soporta 18 A → riesgo de sobrecarga.
+
+### 🔹 Organización de clases
+
+* 📆 Guardar esquemas y trabajos prácticos para **repaso o examen**.
+* 🖍️ Intentar escritura clara, aunque a veces la ansiedad haga escribir rápido o en cursiva.
+* 🎯 Revisar siempre que los valores de **corriente y protecciones** estén correctos según norma AEA.
+
+---
+
+Si querés, puedo hacer un **resumen visual completo de todos los puntos que me mandaste** hasta ahora, con emojis y símbolos, tipo **“chuleta para examen”**, para que tengas todo en un solo vistazo.
+
+¿Querés que lo haga?
+

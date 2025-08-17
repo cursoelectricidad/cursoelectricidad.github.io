@@ -40,7 +40,7 @@ List of pages:
 * /36clase.md: [Clase Nº 36: [FOTO DE PUESTA A TIERRA] Partes de un disyuntor. Sistema de puesta a tierra. Preguntas de exámen.](/36clase.md)
 * /37clase.md: [Clase Nº 37: Puesta a tierra. Jabalina. Disyuntor igual o mayor a térmica. Preguntas examen.](/37clase.md)
 * /38clase.md: [Clase Nº 38: Puesta a tierra. Bajar sensibilidad disyuntor. Tetrapolar con 2 salidas de circuito. Tipos canalizacion. Descarga rayos. Esquema acometida. Preguntas Examen.](/38clase.md)
-* /39clase.md: [Clase Nº 39: Examen (17 de Junio). FOTO del Examen teórico.](/39clase.md)
+* /39clase.md: [Clase Nº 39: Examen (17 de Junio). FOTO del Examen teórico. (Incompleto)](/39clase.md)
 * /40clase.md: [Clase Nº 40: [FOTOCOPIA VIEJA DE AGRUPACION DE CONDUCTORES] Foto del examen teórico (Continuación). Foto interruptor. Fotocopia agrupación de conductores normas.](/40clase.md)
 * /41clase.md: [Clase Nº 41: [FOTOCOPIA] Fotocelula. Fotocontrol. Fotocélula siempre mirando al norte.](/41clase.md)
 * /42clase.md: [Clase Nº 42: Clase práctica. Armamos tablero con fotocélula.](/42clase.md)

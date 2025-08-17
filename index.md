@@ -80,7 +80,7 @@ Subscribe to RSS: [/feed.xml](/feed.xml)
 [19 Junio 2025]{.date}
 
 
-[Clase Nº 39: Examen (17 de Junio). FOTO del Examen teórico.](/39clase.md){.title}
+[Clase Nº 39: Examen (17 de Junio). FOTO del Examen teórico. (Incompleto)](/39clase.md){.title}
 [19 Junio 2025]{.date}
 
 

@@ -23,3 +23,190 @@ Un alumno lo hizo por afuera por apuro, pero en realidad debería hacer toda el 
 ---
 
 Fin
+
+---
+
+¡Claro! Te resumí los puntos más importantes del texto y les agregué emojis para que sea más visual y fácil de recordar:
+
+---
+
+### 🔌 Instalaciones y cables
+
+* Identificación de **cables por cantidad**: 2️⃣, 3️⃣, 4️⃣ cables.
+* **Fase y neutro**: el neutro siempre es el mismo; retorno separado. ⚡
+* Uso de **bastidor** (dentro de la cajita) y fijación con tornillos 🛠️.
+* Cálculo de corriente con factor de 0,8 para ajustes ⚖️.
+
+### 🪑 Mobiliario y ergonomía
+
+* Sillas **primaria**: evitar que se recuesten para mayor durabilidad 🪑.
+* Acolchado de sillas para confort y resistencia 💺.
+
+### ❄️🌡️ Climatización
+
+* Termostatos automáticos: ajustan frío/calor sin control manual 🌬️🔥.
+* Temperaturas aproximadas: frío 16–24°C, calor 19–23°C 🌡️.
+
+### 💡 Iluminación y continuidad
+
+* Probador de corriente: verificar continuidad y funcionamiento de lámparas 🔎💡.
+* Instalación correcta de neutro y cables en lámparas y cajas.
+* Importancia de mantener la **normativa** aunque sea una instalación casera 📏📐.
+
+### ⚡ Tablero y protección
+
+* Térmicas unipolares van en **tablero**, no como interruptor individual 🛡️.
+* Posibilidad de **rotocircuito** para cortar corriente total en emergencias 🚨.
+* Separación de neutro y fase evita problemas de funcionamiento.
+
+### 🛠️ Práctica y resolución
+
+* Encontrar continuidad entre interruptor y caja requiere **paciencia** 👷‍♂️.
+* Orden y etiquetado de cables facilita futuras modificaciones 🧵.
+* Experimentos prácticos ayudan a **entender mejor la instalación**.
+
+---
+
+Si querés, puedo hacer otra versión **aún más resumida en bullets súper rápidos con solo emojis y palabras clave**, tipo “chuleta de estudio”. Esto te sirve para repasar antes de un examen práctico.
+
+¿Querés que haga eso?
+
+¡Perfecto! Te hice un **resumen con los puntos más importantes y emojis** para que sea más visual y fácil de estudiar:
+
+---
+
+### 🔌 Instalaciones y cables
+
+* Uso de **cajas grandes** para alojar varios módulos de toma ⚡📦.
+* **Puenteo incorrecto** de cables antiguos: cuidado con fase/verde-amarillo 🚨.
+* Alimentación de electrodomésticos: **cocina, secarropas, computadoras** 🍳🧺💻.
+* Conexiones de **neutro y fase**: siempre respetar diagrama y continuidad 🔄.
+* Preparación de **caja de pasos/distribución** para tomar fase y neutro sin problemas 🛠️.
+
+### 💡 Fotocélulas y automatización
+
+* Fotocélulas de **2 o 3 cables** para luces o sistemas de riego 🌱💡.
+* Sistemas electrónicos programables detectan humedad o controlan portones automáticos 🌦️🚪.
+* Necesitan **conexión a base de datos** para funcionar remotamente 📲🌐.
+
+### 🛠️ Técnicas y práctica
+
+* Antes de conectar, **verificar continuidad** y la correcta posición de cables 👷‍♂️🔎.
+* Fase → llave de punto; retorno → lámpara; neutro → mismo neutro en circuito 🔁.
+* Orden en los cables y uso de cinta para identificar neutro y fase 🧵✅.
+* Aprender a interpretar **diagramas y esquemas** facilita la instalación 📐.
+
+### 🏡 Organización y seguridad
+
+* Planificación de conexiones pensando en **comodidad y futuro uso** 🏠.
+* Evitar “chanchadas” o empalmes improvisados; respetar normas ⚠️.
+* Mantener cajas accesibles y niveladas con pared para instalación estética y segura 🧱👌.
+
+---
+
+Si querés, puedo hacer una **versión súper resumida tipo chuleta**, con solo palabras clave y emojis, para repasar rápido antes de trabajar con cables o hacer la práctica.
+
+¿Querés que haga esa versión?
+
+¡Listo! Te armé un **resumen con los puntos clave y emojis** de esta última parte para que sea más fácil de estudiar y recordar:
+
+---
+
+### 🔌 Cables y conexiones
+
+* **Retorno → lámpara**, Fase → llave de punto, Neutro → neutro del circuito ⚡.
+* Uso de **colores para identificación**: negro (línea/fase), blanco (neutro), rojo (retorno) 🟥⬛⬜.
+* **Cajas de distribución**: sacar alimentación de un lugar donde lleguen los tres cables 🔧📦.
+* Evitar cables colgados: pasar por caños o proteger con **sintal/cinta aislante** 🛡️.
+
+### 💡 Fotocélulas y luces
+
+* La **fotocélula** siempre conectada desde la **caja de paso** 🌞💡.
+* Diferentes modelos: 2, 3 o 4 cables; respetar diagrama de conexión 📊.
+* Retorno de la llave activa la fotocélula/lámpara ⚡🔁.
+
+### 🛠️ Práctica y orden
+
+* Importancia de **mantener orden** en los cables para futuras modificaciones 🔄.
+* Verificar continuidad antes de conectar 👷‍♂️🔎.
+* Posibilidad de reorganizar o rehacer conexiones si algo falla ✂️🔧.
+
+### 🏡 Organización y seguridad
+
+* Cajas grandes permiten alojar varios módulos de tomas y llaves 🏠📦.
+* Identificar correctamente **fase, neutro y retorno** evita problemas ⚠️.
+* Mantener las cajas a nivel de pared y accesibles para **cambios futuros** 🧱👌.
+
+---
+
+Si querés, puedo hacer ahora un **resumen total de todo lo que me mandaste**, juntando las tres partes anteriores en **una sola “chuleta” de estudio**, con emojis, colores y palabras clave, para que tengas todo listo para repasar rápido antes de la práctica.
+
+¿Querés que haga eso?
+
+¡Perfecto! Aquí va un **resumen de esta última parte con los puntos clave y emojis**, centrado en lo práctico y organizativo:
+
+---
+
+### 👩 Personas y comunicación
+
+* La chica se llama **María Eugenia (Maru)** 🧑‍🎓.
+* Coordinación con alumnos: clases especiales si alguien no puede asistir 📅.
+* Planificación de actividades y herramientas disponibles para todos 🛠️.
+
+### 🔌 Instalaciones y práctica
+
+* **Distribución de tareas**: cada alumno trabaja con cables, fotocélulas y lámparas 🟥⬛⬜💡.
+* **Fotocélula**: conectar alimentación desde la **caja de paso**; retorno activo desde la llave ⚡🔄.
+* Uso de **cinta aisladora** y protección de cables para evitar contacto accidental 🛡️.
+* Mantener **orden y colores** de cables: negro (fase/línea), blanco (neutro), rojo (retorno) 🖤🤍❤️.
+
+### 🏡 Organización y seguridad
+
+* Importancia de que la caja de distribución tenga **tres cables** pasando juntos 🔧📦.
+* Posibilidad de reorganizar cables o rehacer conexiones si algo falla ✂️🔄.
+* Verificar continuidad y conexiones antes de energizar el circuito 👷‍♂️🔎.
+
+### 🛠️ Práctica progresiva
+
+* Primero se termina un trabajo antes de empezar otro para mantener **orden y control** ✅.
+* Supervisión y acompañamiento del profesor para guiar la práctica 👨‍🏫.
+* Uso correcto de herramientas y materiales: fotocélulas, llaves de punto, cinta aisladora ⚙️💡.
+
+---
+
+Si querés, puedo **unir los tres resúmenes anteriores y este último en una sola “chuleta completa”**, súper visual, con colores y emojis, para que tengas todo listo para repasar rápido antes de la práctica o examen.
+
+¿Querés que haga eso?
+
+¡Perfecto! Te hago un **resumen con los puntos clave de esta parte**, con emojis y resaltando lo práctico:
+
+---
+
+### 🔀 Llave combinada y control de fotocélula
+
+* La **llave combinada** funciona como un **doble interruptor**:
+
+  * Uno controla la fotocélula ⚡💡.
+  * El otro va **directamente a la lámpara**, permitiendo encenderla aunque la fotocélula falle 🔄💡.
+* **Fase** siempre llega al medio del interruptor 🔴⚫.
+* **Colores de cable**: negro (fase/línea), blanco (neutro), rojo (retorno) 🖤🤍❤️.
+
+### 🔧 Conexiones y práctica
+
+* **Neutro** se toma directamente de la caja de distribución 🔌.
+* **Retorno** del interruptor va a la lámpara o fotocélula según el circuito 🔁.
+* Permite **mantener luz exterior encendida** aunque falle la fotocélula 🌙💡.
+* La llave combinada facilita futuras reparaciones o reemplazos sin cortar toda la instalación 🔧✅.
+
+### 🏡 Seguridad y funcionalidad
+
+* Ideal para **exteriores** donde se necesita luz permanente o automática 🌃.
+* Permite **flexibilidad**: encender manualmente en caso de falla de la fotocélula 👷‍♂️💡.
+* Base para luego implementar **detectores de movimiento** como extensión del sistema 🚶‍♂️💡.
+
+---
+
+Si querés, puedo armar un **resumen final completo**, uniendo todos los fragmentos que me mandaste, con **chuleta visual**, emojis, colores de cables y pasos prácticos, para tener **todo listo para repasar antes de la práctica o examen**.
+
+¿Querés que haga eso?
+
