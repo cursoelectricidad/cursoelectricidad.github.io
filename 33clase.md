@@ -155,3 +155,473 @@ El profesor Espeche dice que el Interruptor Termomagnético actúa "aguas arriba
 ---
     
 FIN    
+
+---
+
+Acá tenés los **puntos más importantes** del resumen que armaste, organizados para que sean fáciles de repasar:
+
+---
+
+### Funcionamiento del **interruptor termomagnético (ITM)**
+
+* Tiene **3 formas de accionamiento**:
+
+  1. Sistema magnético (protege contra **cortocircuitos**).
+  2. Sistema térmico (protege contra **sobrecargas**).
+  3. Sistema manual (apertura/cierre por el usuario).
+* Internamente:
+
+  * **Núcleo de hierro + electroimán** → abre el circuito ante cortocircuito.
+  * **Par bimetálico (2 chapas con distinto coeficiente de dilatación)** → abre ante sobrecarga.
+
+---
+
+### Parámetros clave de un ITM
+
+* **Corriente nominal (In):** corriente de trabajo normal del equipo.
+* **Capacidad de ruptura:** máxima corriente que puede interrumpir sin destruirse (ej. 3000 A).
+* **Categoría 3:** buena calidad y nivel alto de seguridad.
+* **Curvas (B, C, etc.):** definen sensibilidad ante sobrecorrientes.
+
+---
+
+### Relación entre **conductores e ITM**
+
+* La protección siempre debe estar en el “medio”:
+
+  * Corriente nominal del equipo (In).
+  * Corriente máxima admisible del conductor.
+  * ITM debe elegirse **entre esos dos valores**.
+* Tablas de referencia más usadas:
+
+  * 1,5 mm² → 10 A (iluminación).
+  * 2,5 mm² → 16 A (tomacorrientes).
+  * 4 mm² → 20 A (ducha, aire, horno, etc.).
+  * 10 mm² → 40 A.
+
+---
+
+### Cálculo rápido de consumo y protección
+
+* Fórmula base: **P = V × I** (potencia = tensión × corriente).
+* Corriente nominal: **I = P / V**.
+* Ejemplo:
+
+  * Ducha eléctrica: 4500 W / 220 V ≈ 20,5 A → se coloca cable de 4 mm² y térmica de 20 A.
+* Para equipos especiales (duchas, aires, hornos): mínimo **4 mm² y caño 7/8**.
+* Para tomas generales: **2,5 mm² y caño 3/4**.
+
+---
+
+### Casos prácticos y errores comunes
+
+* **No puentear tomas especiales**: salta la térmica por exceso de consumo.
+* **Aires acondicionados**: cada uno debe tener circuito propio desde tablero seccional.
+* En escuelas: recomendable tablero independiente solo para aires.
+* **Caída de tensión**: si el recorrido es mayor a 10–15 m, aumentar sección (ej. de 4 mm² a 6 mm²).
+
+---
+
+### Otros puntos relevantes
+
+* **Normativa:** AEA (Argentina) basada en IEC (internacional).
+* **Imagen y seguridad:** a veces se usan conductores más gruesos “para tranquilidad visual”, aunque técnicamente no sea necesario.
+* **Pinza amperométrica:** permite medir consumo real y verificar si conductor/ITM son correctos.
+
+---
+
+👉 En el examen probablemente te pregunten:
+
+* Diferencia entre protección **térmica** y **magnética**.
+* Cómo elegir un ITM a partir de **potencia, corriente y sección de conductor**.
+* Importancia de la **capacidad de ruptura** y la categoría.
+
+---
+
+¿Querés que te arme un **cuadro comparativo (tipo tabla)** con: *sección de conductor – corriente admisible – térmica recomendada – uso típico* para que lo uses como machete de repaso rápido?
+
+Te destaco los **puntos más importantes** de toda esta transcripción, ordenados y resumidos para repaso:
+
+---
+
+### 🔹 Funcionamiento del **Interruptor Termomagnético (ITM)**
+
+* Tiene **3 formas de actuación**:
+
+  1. **Magnética** → protege ante **cortocircuitos** (corriente muy alta instantánea, electroimán abre el circuito).
+  2. **Térmica** → protege ante **sobrecargas** (par bimetálico se deforma con el calor y abre el circuito).
+  3. **Manual** → el usuario abre o cierra el circuito con la palanca.
+
+* **Parte térmica (bimetálico):**
+
+  * Se deforma por calor al superar la **corriente nominal (In)**.
+  * Al enfriarse, recupera la forma y permite rearmar el interruptor.
+  * Siempre requiere acción manual para reconectar.
+
+---
+
+### 🔹 Aspectos de instalación y normativa
+
+* **Antes**: instalaciones unipolares (solo cortaban fase).
+* **Hoy**: se usan **circuitos bipolares** → cortan fase y neutro.
+* No significa que lo anterior “esté mal”, sino que quedó **obsoleto**; se puede mejorar por etapas.
+
+---
+
+### 🔹 Criterios de diseño y cálculo
+
+* **Caída de tensión admisible**:
+
+  * Vivienda → máx. **3%**.
+  * Industria (motores) → hasta **5%**.
+* El proyectista puede distribuir la caída en distintos tramos de la instalación (ej. acometida vs. circuitos internos).
+* Secciones **a memorizar**:
+
+  * Retorno: **1 mm²**
+  * Iluminación: **1,5 mm²**
+  * Tomas generales: **2,5 mm²**
+  * Tomas especiales (ducha, aire, horno): **4 mm²**
+
+---
+
+### 🔹 Esquema unifilar
+
+* Representa la instalación con **simbología eléctrica**.
+* Sirve para:
+
+  * Seleccionar materiales.
+  * Armar el tablero.
+  * Organizar la cuadrilla de obra (cada obrero sabe qué hacer).
+
+---
+
+### 🔹 Capacidad de ruptura
+
+* ITM debe elegirse también por **poder de corte** (ej. 3000 A, 4500 A, 6000 A).
+* Error común: comprar el más barato (3000 A) aunque el proyecto pedía mayor.
+* Siempre respetar lo que indica el proyecto.
+
+---
+
+### 🔹 Grado de electrificación de viviendas
+
+* **Mínimo** (habitación 3x3): 1 luz, 1 toma.
+* **Medio**: más luces y tomas.
+* **Superior**: 4 luces, 4 tomas o más.
+* Según esto se define la **cantidad de circuitos y protecciones mínimas**.
+
+---
+
+### 🔹 Casos prácticos y problemas reales
+
+* Ejemplos de emergencias:
+
+  * Agua en instalación → salta disyuntor.
+  * Caída de rayo → neutro se desliga y puede entrar 380 V en lugar de 220 V.
+* Vida útil de un ITM limitada: cada maniobra genera desgaste.
+* Fallas comunes:
+
+  * No vuelve a trabar la palanca → daño en la parte magnética/electroimán.
+
+---
+
+👉 En resumen, para el examen y la práctica tenés que dominar:
+
+1. **Cómo funciona el ITM (térmica, magnética, manual).**
+2. **Cómo elegirlo (In, capacidad de ruptura, relación con sección de conductor).**
+3. **Secciones mínimas de conductores según uso.**
+4. **Caída de tensión admisible (3% en viviendas, 5% en industria).**
+5. **Esquema unifilar: simbología y aplicación en tableros.**
+
+---
+
+¿Querés que te arme un **mapa conceptual** (esquema visual) con todo esto resumido para que lo uses como repaso rápido antes del examen?
+
+Perfecto 👌, te armo un **resumen simplificado y ordenado** de todo lo que está en este último texto para que te quede más claro y directo:
+
+---
+
+## 🔹 Interruptor Termomagnético (ITM)
+
+### 1. Funcionamiento interno
+
+* **Parte térmica (sobrecarga):**
+
+  * Consta de un **par bimetálico** (dos chapas con distinto coeficiente de dilatación).
+  * La corriente al pasar genera **calor**.
+  * Un metal se dilata más que el otro → se deforma → abre el circuito.
+  * Actúa con **retardo** (puede tardar hasta 1 hora según la sobrecarga).
+
+* **Parte magnética (cortocircuito):**
+
+  * Corriente muy grande y repentina → pasa por un **bobinado + electroimán**.
+  * El electroimán atrae un mecanismo que **abre instantáneamente** el circuito.
+  * Ejemplos: unión de fase-neutro, o fase-fase en 380 V.
+  * Actúa en **tiempo instantáneo**.
+
+* **Parte manual:**
+
+  * El usuario abre o cierra el circuito con la palanca.
+
+---
+
+### 2. Propósito principal
+
+* **Protege al conductor** (cables), que es lo más costoso y difícil de reemplazar.
+* También protege al equipo receptor (ejemplo: motor, ducha, aire), pero como consecuencia.
+
+---
+
+### 3. Parámetros importantes que “se leen” en un ITM
+
+* **Calibración (corriente nominal In).**
+* **Tensión de trabajo (ej: 220 V o 380 V).**
+* **Capacidad de ruptura (ej: 3000 A, 4500 A, 6000 A).**
+
+  * Indica la máxima corriente de cortocircuito que puede interrumpir sin destruirse.
+* **Categoría (ej: 3 → buena calidad y alto nivel de seguridad).**
+
+---
+
+### 4. Relación con los conductores
+
+* Existe una **tabla normalizada** que indica:
+
+  * Sección del conductor (mm²).
+  * Corriente máxima que soporta (A).
+  * ITM correspondiente (A).
+* Valores más usados en instalaciones domiciliarias:
+
+  * **1 mm²** → retornos.
+  * **1,5 mm²** → iluminación.
+  * **2,5 mm²** → tomacorrientes.
+  * **4 mm²** → tomas especiales (ducha, aire, horno).
+  * **10 mm²** → acometidas o consumos muy grandes.
+
+---
+
+### 5. Conceptos básicos a recordar
+
+* Un circuito eléctrico está formado por:
+
+  * Conductores.
+  * Elementos de consumo (limitados en número).
+  * Dispositivo de protección (fusible o ITM).
+
+* **Magnitudes fundamentales de electricidad:**
+
+  * Corriente (A).
+  * Tensión (V).
+  * Resistencia (Ω).
+  * Potencia (W).
+
+---
+
+👉 En resumen:
+El **ITM protege el conductor** frente a **sobrecarga** (bimetálico, retardo) y **cortocircuito** (electroimán, instantáneo). Para elegirlo, siempre se consulta la **tabla de secciones normalizadas**, respetando **In, tensión y capacidad de ruptura**.
+
+---
+
+¿Querés que te arme un **cuadro comparativo con: sección de cable – corriente máxima – ITM recomendado – uso típico**, como machete rápido para repasar?
+
+Perfecto, de todo este texto se puede **resumir la idea central sobre cómo calcular la corriente nominal y relacionarla con la protección y sección de conductor** de manera ordenada y clara:
+
+---
+
+## 🔹 Magnitudes y unidades fundamentales
+
+1. **Corriente (I)** → Amperes (A)
+2. **Tensión (V)** → Voltios (V)
+3. **Potencia (P)** → Watts (W)
+4. **Resistencia (R)** → Ohms (Ω)
+
+> Estas 4 magnitudes aparecen en la placa de cualquier equipo eléctrico. Por ejemplo, un foco indica: potencia, tensión, corriente y resistencia (o lúmenes en el caso de iluminación).
+
+---
+
+## 🔹 Corriente nominal de un equipo
+
+* **Definición:** Corriente de funcionamiento normal del equipo.
+* Se encuentra en la **placa del artefacto** o se calcula:
+
+$$
+I_n = \frac{P}{V}
+$$
+
+* **Ejemplo:**
+
+  * Ducha eléctrica de 4500 W
+  * Tensión de red: 210 V
+  * Corriente nominal: $I_n = 4500 / 210 = 21,42\,A$
+
+* Para un cálculo rápido se asume **cos φ ≈ 1** (monofásico).
+
+---
+
+## 🔹 Selección de conductor y protección
+
+1. **Corriente nominal → determina la sección del conductor:**
+
+   * Retorno: 1 mm²
+   * Iluminación: 1,5 mm²
+   * Toma general: 2,5 mm²
+   * Toma especial: 4 mm²
+   * Acometidas o cargas grandes: 10 mm²
+
+2. **Corriente máxima admisible del conductor:**
+
+   * Ejemplo: conductor de 4 mm² → máximo 24 A
+
+3. **Interruptor termomagnético (ITM):**
+
+   * La **I del ITM** debe estar entre la corriente nominal del equipo y la corriente máxima del conductor.
+   * Ejemplo: ducha de 21 A → conductor 4 mm² → ITM 20 A.
+
+4. **Distribución de los circuitos:**
+
+   * Cada **toma especial** debe tener su propio ITM (bipolar).
+   * **Iluminación** se puede unir en un solo circuito.
+   * No se permite puentear tomas especiales con otras líneas, para evitar disparos constantes.
+
+---
+
+## 🔹 Resumen práctico
+
+1. Leer la **placa del equipo** → potencia o corriente nominal.
+2. Calcular o verificar la **corriente nominal**: $I_n = P/V$.
+3. Elegir **sección de conductor** según tabla.
+4. Seleccionar **ITM** adecuado: debe proteger el conductor sin disparar por sobrecarga normal.
+5. Cada circuito especial → **térmica independiente**.
+
+---
+
+Si querés, puedo hacerte un **cuadro resumido “equipos comunes – potencia – corriente nominal – sección – ITM recomendado”** para tenerlo como guía rápida de cálculo. Esto te sirve mucho para exámenes o proyectos rápidos.
+
+¿Querés que lo haga?
+
+Perfecto, el contenido que compartiste se puede resumir en **puntos clave de instalación eléctrica en escuelas y protección de circuitos**, enfocado en la práctica y normativa:
+
+---
+
+## 🔹 Principios de protección y conductor
+
+1. **Normativa y estandarización**
+
+   * Se usan normas AEA basadas en IEC (internacionales).
+   * Las secciones de conductor y la calibración de los interruptores son estándar: 2,5 mm² → 16 A, 4 mm² → 20 A, 6 mm² → 31 A, 10 mm² → mayor capacidad.
+   * La corriente máxima admisible del conductor debe coincidir con la capacidad del interruptor que lo protege.
+
+2. **Selección de conductores e interruptores**
+
+   * **La I de protección del ITM** debe estar en el medio: entre la corriente nominal del equipo y la corriente máxima del conductor.
+   * Se puede usar un conductor de mayor sección, pero **lo importante es que el ITM proteja el conductor más chico**.
+   * Ejemplo: si el conductor es 2,5 mm² y la térmica protege 16 A, aunque uses cable de 10 mm² hasta la toma, la protección sigue siendo adecuada.
+
+3. **Instalaciones en escuelas**
+
+   * Cada **aire acondicionado debe tener un circuito independiente**.
+   * Se debe instalar un **tablero seccional para aires**, conectado desde el tablero principal.
+   * Cada circuito: interruptor termomagnético independiente + sección de conductor adecuada.
+   * Para minimizar caños: se pueden agrupar varios circuitos en un caño mayor y dividir en el extremo (trifásico en algunos casos).
+
+4. **Problemas frecuentes**
+
+   * Instalaciones hechas por personal no calificado → riesgo de cortocircuitos, sobrecargas y emergencias.
+   * Tensión elevada (por ejemplo 245 V) → puede requerir estabilizador, especialmente en trifásico.
+   * Uso incorrecto de conductores o tableros → el ministerio solo puede intervenir en emergencias, no reparar instalaciones mal hechas pagadas por terceros.
+
+5. **Cálculo práctico**
+
+   * Corriente nominal: $I_n = P / V$.
+   * Sección mínima según consumo: 4 mm² para tomas especiales/aires.
+   * Si la longitud del cable es larga (>10-15 m) → aumentar sección para compensar caída de tensión (por ejemplo de 4 a 6 mm²).
+
+6. **Recomendaciones**
+
+   * Siempre proteger el conductor más pequeño, aunque uses cable más grueso.
+   * Cada circuito especial debe tener su propia térmica.
+   * Agrupar circuitos cuando sea posible, pero mantener protección adecuada.
+   * Conocer la **norma, sección de conductor y capacidad del interruptor** permite identificar rápidamente problemas y dimensionar correctamente una instalación.
+
+---
+
+Si querés, puedo hacer un **esquema gráfico tipo “mini guía de instalación de aires en escuelas”** que muestre: tablero principal → tablero seccional → conductores → interruptores → aires, con secciones y amperajes recomendados. Esto lo hace mucho más visual y fácil de estudiar para exámenes.
+
+¿Querés que lo haga?
+
+Perfecto, este fragmento agrega **detalles importantes sobre el funcionamiento de los interruptores termomagnéticos, sobrecargas y planificación de instalaciones domiciliarias**. Te hago un resumen estructurado:
+
+---
+
+## 🔹 Interruptores termomagnéticos (ITM) – Funcionamiento
+
+1. **Parte térmica**
+
+   * Funciona **por sobrecarga** del circuito.
+   * Compuesta por un **par bimetálico** (dos metales con coeficientes de dilatación diferentes) y un **contacto móvil**.
+   * La corriente nominal del circuito genera calor que **dilata el bimetal** → se abre el contacto → corta la corriente.
+   * Al enfriarse, el bimetal recupera su forma y el interruptor puede rearmarse manualmente.
+
+2. **Tiempo de disparo**
+
+   * Depende de la **magnitud de la sobrecarga**:
+
+     * Mayor corriente → abre más rápido.
+     * Menor sobrecarga → tarda más en abrirse.
+   * Esto explica que un interruptor “parezca que no funciona” cuando en realidad está operando correctamente según la corriente real del circuito.
+
+3. **Protección correcta**
+
+   * Cada equipo debe tener **su ITM adecuado** según la corriente nominal y la sección del conductor.
+   * No sirve colocar la térmica “cerca del aparato” si protege un circuito que no es exclusivo (por ejemplo, la ducha conectada al circuito general de la casa).
+   * Uso de **circuitos bipolares** modernos: cortan fase y neutro; sistemas unipolares antiguos solo cortaban la fase.
+
+---
+
+## 🔹 Instalaciones domiciliarias – Secciones de conductores normalizadas
+
+| Uso                                       | Sección mínima (mm²) |
+| ----------------------------------------- | -------------------- |
+| Retorno / control                         | 1                    |
+| Iluminación                               | 1,5                  |
+| Toma de uso general                       | 2,5                  |
+| Toma de uso especial (aires, horno, etc.) | 4                    |
+
+* Si el cable es más largo (>10-15 m) → aumentar sección para compensar **caída de tensión**.
+* Caída máxima permitida:
+
+  * Domicilios: 3%
+  * Industria/motores: hasta 5%
+
+---
+
+## 🔹 Proyecto y grado de electrificación
+
+1. **Grado mínimo**
+
+   * Una habitación de 3x3: 1 toma + 1 llave + 1 luz.
+2. **Grado medio**
+
+   * Más tomas y luces (ej: 2 tomas, 2 luces).
+3. **Grado superior**
+
+   * Aún más tomas y luminarias según necesidad.
+
+* Los montadores deben interpretar **diagramas unifilares**, calcular secciones y protecciones, y luego armar el tablero según la planificación.
+* La protección adecuada incluye seleccionar ITM de corriente correcta según el conductor y el consumo del equipo.
+
+---
+
+## 🔹 Recomendaciones prácticas
+
+* Medir corriente con pinza amperométrica para verificar funcionamiento real del ITM.
+* Cada circuito especial (ducha, aire, horno) debe tener **su propio ITM** y sección de conductor correspondiente.
+* La instalación se planifica por **tableros seccionales** y circuitos independientes, especialmente en escuelas o viviendas con varios equipos de alto consumo.
+* El montador debe conocer **protección, cañería, materiales y lectura de planos** antes de iniciar la obra.
+
+---
+
+Si querés, puedo armar un **esquema visual paso a paso del ITM y su relación con la corriente nominal, conductor y consumo del equipo**, que te quede como guía de estudio para exámenes. Esto ayuda a ver de un vistazo cómo se protege cada equipo.
+
+¿Querés que haga ese esquema?
+
