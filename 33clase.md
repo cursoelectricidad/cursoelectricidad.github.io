@@ -445,7 +445,7 @@ Perfecto, de todo este texto se puede **resumir la idea central sobre cómo calc
 * Se encuentra en la **placa del artefacto** o se calcula:
 
 $$
-I_n = \frac{P}{V}
+I_n = P/V
 $$
 
 * **Ejemplo:**
