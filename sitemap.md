@@ -59,6 +59,7 @@ List of pages:
 * /55clase.md: [Clase Nº 55: Repaso de colocación de cajas. Altura cajas. Anecdota: obrero unió 2 caños de hierro con corrugado. Ejercicio: Cálculo de materiales de un aula.](/55clase.md)
 * /56clase.md: [Clase Nº 56: Repaso uniones, cañeria. Calculo cableado de otro plano. Ayudante trajo plano sin conexionado y hicimos el cableado en clase.](/56clase.md)
 * /contact.md: [Contacto](/contact.md)
+* /dudas.md: [Dudas.](/dudas.md)
 * /license.md: [License](/license.md)
 * /logo-license.md: [Unlicinsed bunnies](/logo-license.md)
 * /preguntas_examen.md: [Recompilación de posibles preguntas de examen para auxiliar electricista.](/preguntas_examen.md)
