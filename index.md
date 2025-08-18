@@ -220,11 +220,11 @@ Subscribe to RSS: [/feed.xml](/feed.xml)
 [26 Marzo 2025]{.date}
 
 
-[Clase Nº 5: [FOTOCOPIA de pilar monofásico y requisitos generales] Simbología. Morceto. Normas y Precauciones. Pelar Cables y Conectar Acometidas. Tableros y Sistemas de Medición.](/05clase.md){.title}
+[Clase Nº 5: [FOTOCOPIA de pilar monofásico y requisitos generales] Técnicas para pelar cables (pinza, alicate). Acometida: aérea o subterránea. Simbología. Intervención desde la línea municipal hacia adentro. Gancho U. Cajas y altura de instalación. Módulos tienen 10 amper. Ocupación máxima del 35% en cañerías. Corrugado permitido y prohibido. ](/05clase.md){.title}
 [19 Marzo 2025]{.date}
 
 
-[Clase Nº 4: Simbología. Regleta de sección de cables. Efecto Joule. Sistemas de Puesta a Tierra. Pregunta de examen.](/04clase.md){.title}
+[Clase Nº 4: Regleta de sección de cables. Efecto Joule. Sistemas de Puesta a Tierra. Pregunta de examen. Conductores preensamblados (RETENAX). Diferencial y termomagnético, acometidas.](/04clase.md){.title}
 [19 Marzo 2025]{.date}
 
 

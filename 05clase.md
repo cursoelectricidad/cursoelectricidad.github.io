@@ -1,4 +1,4 @@
-% Clase Nº 5: [FOTOCOPIA de pilar monofásico y requisitos generales] Simbología. Morceto. Normas y Precauciones. Pelar Cables y Conectar Acometidas. Tableros y Sistemas de Medición.
+% Clase Nº 5: [FOTOCOPIA de pilar monofásico y requisitos generales] Técnicas para pelar cables (pinza, alicate). Acometida: aérea o subterránea. Simbología. Intervención desde la línea municipal hacia adentro. Gancho U. Cajas y altura de instalación. Módulos tienen 10 amper. Ocupación máxima del 35% en cañerías. Corrugado permitido y prohibido. 
 % Andrés Imlauer
 % 19 Marzo 2025
 
