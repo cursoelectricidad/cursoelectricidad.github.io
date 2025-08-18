@@ -1,4 +1,4 @@
-% Clase Nº 43: Tableros. Ayudante Alejandro Ramirez abre un candado con 2 clips (agrego video en ingles que explica como hacerlo)
+% Clase Nº 43: Tableros: Buenas prácticas y normas. Dispositivos de protección y comando. Altura: 1,10m y 1,30m desde piso. Ubicación(lugares no-húmedos, a la entrada y de fácil acceso) y accesibilidad. Edificios o instalaciones con varios suministros. Identificación de circuitos debe estar frontal exterior, debe llevar símbolo eléctrico. Tablero PVC se deforma hay que colocar soportes. Gabinetes estancos (IP55 o superior). Cada piso debe tener tablero seccional. Dejar al menos 20% de su capacidad libre: si son de 10 circuitos pedí de 12: 1 módulo = 18 mm. Un interruptor bipolar ocupa 2 módulos = 36 mm. Tableros con puerta acrílico. Ayudante Alejandro Ramirez abre un candado con 2 clips.
 % Andrés Imlauer
 % 25 Junio 2025
 
