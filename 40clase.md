@@ -1,4 +1,4 @@
-% Clase Nº 40: [FOTOCOPIA VIEJA DE AGRUPACION DE CONDUCTORES] Foto del examen teórico (Continuación). Foto interruptor. Fotocopia agrupación de conductores normas.
+% Clase Nº 40: [FOTOCOPIA VIEJA DE AGRUPACION DE CONDUCTORES] FOTO DEL EXAMEN TEÓRICO (CONTINUACIÓN). Foto interruptor. Fotocopia agrupación de conductores normas.
 % Andrés Imlauer
 % 19 Junio 2025
 

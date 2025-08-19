@@ -1,4 +1,4 @@
-% Clase Nº 45: Riesgo eléctrico. Elementos de protección. Vimos videos en proyector.
+% Clase Nº 45: Videos sobre riesgo eléctrico en proyector. Elementos de protección: casco, guantes, calzado, ropa, protección ocular/facial, auditiva. Procedimientos seguros. Buenas prácticas: fijar primero las cajas luego los caños, usar papel de diario proteger cajas y evitar obstrucciones.
 % Andrés Imlauer
 % 05 Julio 2025
 
@@ -15,47 +15,6 @@ Fin
 
 ---
 
-Aquí te hago un resumen con los puntos más importantes y emojis para que sea más claro y visual:
-
----
-
-### ⚡ Puntos importantes de la charla/taller ⚡
-
-* 🪑 **Rotación y movimiento**: Siempre rotar correctamente la mesa, la pierna o el brazo según la práctica.
-* 👶 **Manipulación de bebés**: Tener cuidado con objetos duros, galletitas, confites o semillas al trabajar con niños.
-* 🖊️ **Dibujos y esquemas**: Hacer dibujitos o esquemas para no olvidar pasos y mantener claridad en la práctica.
-* 💡 **Fotocélula + llave combinada**:
-
-  * La fotocélula va en el artefacto.
-  * El retorno va al medio y la fase al centro.
-  * Neutro se une lateralmente.
-  * Permite control combinado automático/manual.
-* 🔌 **Cálculo de conductores**: Saber calcular la sección de los cables según med 1, med 2, med 4/16 y considerar protección y tierra.
-* 🏠 **Tablero y distribución**:
-
-  * Pilar principal con térmica, magnético y llave.
-  * Distribución para cocina, iluminación y consumo general.
-  * Caja de seccionamiento externa para seguridad.
-* 👷 **Montadores y auxiliares**: Organización del curso, quién entra primero, seguimiento de alumnos nuevos.
-* 🔒 **Candados y seguridad**:
-
-  * Alinear perforaciones de candados.
-  * Pin de seguridad puede variar según calidad.
-  * Técnicas para levantar los pines uno por uno.
-* 🛠️ **Herramientas y práctica**:
-
-  * Uso de gato (original o manual).
-  * Cuidado con peso y manejo de objetos pesados.
-* 🖥️ **Revisión de sistemas**: Verificar funcionamiento de equipos y computadoras antes de dar por finalizado.
-
----
-
-Si quieres, puedo hacer **una versión resumida ultra-visual con emojis por sección**, tipo “chuleta rápida” para estudiar más fácil. ¿Querés que haga eso?
-
-Aquí te hago un resumen con los **puntos clave y emojis** para que sea más fácil de visualizar:
-
----
-
 ### ⚡ Resumen charla / taller ⚡
 
 * 👋 **Presentaciones y contexto**:
@@ -68,11 +27,6 @@ Aquí te hago un resumen con los **puntos clave y emojis** para que sea más fá
   * Recomendación de asistir antes para familiarizarse con teoría y práctica.
   * La parte de montadores es más profunda que la domiciliaria.
   * Realizar prácticas previas ayuda a equiparar conocimientos.
-
-* 💻 **Uso de tecnología y equipos**:
-
-  * Pruebas con computadoras y pendrives para visualizar contenidos.
-  * Importancia de equipos adecuados (computadoras con capacidad de video).
 
 * ⚡ **Seguridad eléctrica**:
 
@@ -94,18 +48,12 @@ Aquí te hago un resumen con los **puntos clave y emojis** para que sea más fá
 
 ---
 
-Si querés, puedo hacer **una versión “chuleta rápida” con solo lo más crítico de seguridad eléctrica y práctica**, lista para estudio y repaso rápido. ¿Querés que haga eso?
-
-Aquí te hago un resumen con los **puntos más importantes y emojis** de esta sección:
-
----
-
 ### ⚡ Resumen Seguridad en Obras / Electricidad ⚡
 
 * 🪖 **Casco de seguridad**:
 
   * Protección de cabeza frente a choques, golpes, caídas y riesgos eléctricos.
-  * Fundamental en trabajos en altura, aunque parezca un simple tornillo.
+  * Fundamental en trabajos en altura, aunque caiga un simple tornillo.
 
 * 🧰 **Elementos de protección personal (EPP)**:
 
@@ -135,14 +83,6 @@ Aquí te hago un resumen con los **puntos más importantes y emojis** de esta se
   * Seguridad e higiene laboral son inseparables.
   * Visualizar y planificar antes de actuar evita accidentes.
   * Cada espacio de trabajo tiene riesgos específicos que deben marcarse y respetarse.
-
----
-
-Si querés, puedo hacer un **resumen unificado de todos los textos que me enviaste**, con todos los puntos clave de electricidad, seguridad, práctica y EPP, listo para estudio rápido con emojis. Esto sería como una “chuleta total”.
-
-¿Querés que haga eso?
-
-Aquí te hago un **resumen completo de los puntos clave de seguridad eléctrica y trabajo en obras**, con emojis para facilitar la lectura y estudio rápido:
 
 ---
 
@@ -196,19 +136,11 @@ Aquí te hago un **resumen completo de los puntos clave de seguridad eléctrica 
 
 ---
 
-Si querés, puedo armar **una versión “chuleta total” de todos tus textos anteriores**, con todo lo esencial de **electricidad domiciliaria, tableros, montajes, EPP y riesgos**, en **una sola hoja de repaso rápido con emojis**. Esto sería ideal para estudiar o llevar al taller.
-
-¿Querés que haga eso?
-
-Perfecto, con este último bloque podemos agregar varias **pautas prácticas sobre instalaciones en obra y manejo seguro de materiales y herramientas**. Te hago un **resumen ordenado y claro**:
-
----
-
 ### 🏗️ Seguridad y buenas prácticas en obra eléctrica
 
 #### 🔹 Colocación de cañerías y cajas
 
-* Fijar primero las **cajas** y luego los **caños** antes de reboque grueso.
+* Fijar primero las **cajas** y luego los **caños** antes de reboque fino.
 * Usar **papel de diario** para proteger las cajas durante el revoque y evitar obstrucciones.
 * Evitar obstruir derivaciones; si se tapa, luego habrá que romper la cañería y generar marcas.
 * Una vez fijadas cañerías y cajas, recién hacer el **cableado**.
@@ -251,14 +183,6 @@ Perfecto, con este último bloque podemos agregar varias **pautas prácticas sob
 * Usar siempre EPP: casco, guantes, calzado dieléctrico, protección ocular/facial.
 * Conocer y respetar los **procedimientos de seguridad eléctrica**.
 * Consultar con el encargado y compañeros ante cualquier duda.
-
----
-
-Si querés, puedo **integrar este bloque con todos los anteriores** para hacer **una guía completa de seguridad y prácticas en obras eléctricas**, desde tableros hasta cableado y EPP, todo en **una sola hoja resumida con emojis** lista para repaso rápido.
-
-¿Querés que haga eso?
-
-Perfecto, este relato aporta varias **lecciones prácticas de seguridad, mantenimiento de herramientas y prevención de accidentes** en obra eléctrica. Te hago un **resumen organizado**:
 
 ---
 

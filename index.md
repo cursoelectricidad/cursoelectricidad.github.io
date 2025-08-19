@@ -60,7 +60,7 @@ Subscribe to RSS: [/feed.xml](/feed.xml)
 [05 Julio 2025]{.date}
 
 
-[Clase Nº 45: Riesgo eléctrico. Elementos de protección. Vimos videos en proyector.](/45clase.md){.title}
+[Clase Nº 45: Videos sobre riesgo eléctrico en proyector. Elementos de protección: casco, guantes, calzado, ropa, protección ocular/facial, auditiva. Procedimientos seguros. Buenas prácticas: fijar primero las cajas luego los caños, usar papel de diario proteger cajas y evitar obstrucciones.](/45clase.md){.title}
 [05 Julio 2025]{.date}
 
 
@@ -80,7 +80,7 @@ Subscribe to RSS: [/feed.xml](/feed.xml)
 [25 Junio 2025]{.date}
 
 
-[Clase Nº 40: [FOTOCOPIA VIEJA DE AGRUPACION DE CONDUCTORES] Foto del examen teórico (Continuación). Foto interruptor. Fotocopia agrupación de conductores normas.](/40clase.md){.title}
+[Clase Nº 40: [FOTOCOPIA VIEJA DE AGRUPACION DE CONDUCTORES] FOTO DEL EXAMEN TEÓRICO (CONTINUACIÓN). Foto interruptor. Fotocopia agrupación de conductores normas.](/40clase.md){.title}
 [19 Junio 2025]{.date}
 
 

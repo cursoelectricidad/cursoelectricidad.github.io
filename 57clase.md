@@ -35,3 +35,669 @@ Canalización ladrillo común $33.520
 Cableado por boca $17.800  
 Canalización mampostería $32.603    
 
+
+Aquí te destaco los puntos más importantes con emojis para que quede claro y ordenado:
+
+---
+
+📌 **Tipos de obra**
+
+* Obra completa 🏠
+
+* Refacción 🔧
+
+* Ampliación ➕
+
+📌 **Inspección ocular** 👀
+
+* Solo se mira el problema, sin tocar nada.
+
+* Se hace un diagnóstico y se puede armar un presupuesto.
+
+* Valor aproximado (hasta 31 de mayo, radio 5 km): **$39.400**
+
+📌 **Emergencias** 🚨
+
+* Se cobra distinto si es fuera de horario laboral (domingos/feriados).
+
+* Similar a un cerrajero: se paga el servicio más los materiales si hay que reemplazar algo.
+
+* Valor mínimo por urgencia: **$82.000 – $100.700**
+
+📌 **Trabajo por hora** ⏱️
+
+* Hasta 2 horas: **$36.400**
+
+* Medio día o día completo: mínimo **$24.000 – $25.000**
+
+📌 **Distancia y viáticos** 🚗
+
+* Hasta 5 km está incluido en el valor.
+
+* Más de 5 km: se cobra medio litro de nafta por kilómetro extra.
+
+📌 **Oficial y ayudante electricista** 👷‍♂️👷
+
+* El oficial (electricista montador) cobra por hora.
+
+* El ayudante también tiene su valor diferenciado.
+
+📌 **Otros valores a considerar**
+
+* Colocación de bocas en mampostería (según tipo de ladrillo). 🧱
+
+* Posibilidad de recableado o ampliación según diagnóstico. ⚡
+
+---
+
+¿Querés que te arme una **tabla resumida con valores y conceptos** para que quede más práctico a la hora de repasar? 📊
+
+Perfecto 👍 Te organizo y destaco lo más importante de todo lo que comentaste, con **valores, conceptos y emojis** para que quede claro:
+
+---
+
+📌 **Mano de obra**
+
+* 👷 Oficial electricista (jornal, 8 horas): **$40.000**
+
+* 👷‍♂️ Ayudante electricista (jornal, 8 horas): **$33.000**
+
+📌 **Instalación de ventiladores de techo**
+
+* Sin iluminación: **$59.400** 💨
+
+* Con iluminación \+ interruptor: **$74.340** 💡
+
+📌 **Canalizaciones y bocas**
+
+* Canalización en mampostería ladrillo común/hueco (por boca): **$35.520** 🧱
+
+* Cableado por boca (obra nueva): **$17.800** ⚡
+
+* Boca terminada ≈ **$32.600 – $35.500**
+
+📌 **Otros conceptos**
+
+* Protocolos de puesta a tierra: requieren elementos específicos de seguridad ⚡🌍
+
+* En instalaciones modernas se prioriza **menos cortes de cableado**, optimizando circuitos.
+
+* En sistemas de **alarma**:
+
+  * Antes se usaba cableado telefónico 📞, hoy se usan cables más finos (0,50 o 0,75 mm²).
+
+  * Se recomienda ocultar canalización y dejar plano con ubicación de cajas de paso 📐.
+
+  * Alarmas inalámbricas dependen de baterías 🔋 (riesgo de falla si no se mantienen).
+
+  * Alarmas cableadas con batería de respaldo en central (48h) 🔔.
+
+📌 **Tableros eléctricos**
+
+* Importancia de la **disipación térmica** 🌡️ en tableros (según cantidad de interruptores).
+
+* En tableros grandes/industriales se colocan **ventiladores tipo cooler** para disipar calor. 🌀
+
+* Normativa aplicada: reglamentación técnica argentina (AEA). 📑
+
+---
+
+¿Querés que arme una **tabla comparativa** con los precios (mano de obra, ventiladores, bocas) para que te quede como guía rápida de referencia? 📊
+
+Excelente material 👌. Te destaco lo más importante de esta parte sobre **tableros eléctricos, protecciones y seguridad**, con emojis para que quede claro:
+
+---
+
+📌 **Tableros eléctricos (Gabinetes)**
+
+* 🔒 Pueden tener **puerta con bisagra** → mayor seguridad.
+
+* Albergan: dispositivos de **conexión, maniobra, protección, medición, señalización y distribución**.
+
+* Funcionan como el **corazón de la instalación eléctrica** ❤️⚡.
+
+📌 **Seguridad en tableros**
+
+* Se fabrican con **contrafrente** para evitar contacto con partes activas.
+
+* Previenen el acceso a bornes energizados ⚡.
+
+* Protegen tanto al **operario** como al **usuario común** 👷‍♂️👨‍👩‍👧.
+
+📌 **Funciones principales del tablero**
+
+* Protección de **personas** 🧍🐶
+
+* Protección de **material eléctrico** 🔌
+
+* Protección de **instalaciones y bienes** 🏠
+
+📌 **Normativa**
+
+* Reglamentación técnica argentina (AEA).
+
+* Tableros deben tener **símbolo de riesgo eléctrico ⚠️** en lugares transitables.
+
+📌 **Protecciones incluidas**
+
+* 🔹 **Interruptor termomagnético** → protege de **sobrecarga y cortocircuito**.
+
+* 🔹 **Interruptor diferencial (ID)** → protege a las personas contra **contactos directos e indirectos**.
+
+  * Contacto directo: tocar un conductor activo 🔴.
+
+  * Contacto indirecto: tocar la carcasa metálica de un artefacto con falla ⚡.
+
+  * El ID de **30 mA** es el estándar de seguridad ✅.
+
+📌 **Tensión de seguridad**
+
+* 24 V se considera **muy baja tensión (MBTS)** 🔋.
+
+* Ejemplo: cargadores con transformador → salida segura, no produce descarga peligrosa.
+
+📌 **Efectos de la corriente en el cuerpo humano**
+
+* Depende de la **intensidad (mA)** y del **tiempo de exposición**.
+
+* Hasta 30 mA → generalmente no produce consecuencias graves, pero debe limitarse con diferencial ⚡.
+
+* Valores mayores y tiempos largos → riesgo de fibrilación y muerte ⚠️.
+
+---
+
+👉 ¿Querés que te arme un **esquema gráfico** (tipo diagrama) mostrando el **tablero eléctrico con sus protecciones** y la relación con **contacto directo/indirecto** para que te quede como ficha visual rápida? 📝📊
+
+Veo que lo que compartiste es una transcripción de una clase o explicación sobre **tableros eléctricos, protecciones y normativa de instalación**. El texto tiene repeticiones y frases informales, pero rescato las ideas principales para que quede más claro y ordenado.
+
+---
+
+### **📌 Puntos clave sobre tableros eléctricos:**
+
+#### **1\. Función del tablero eléctrico**
+
+* Es el **corazón de la instalación eléctrica**.
+
+* Alojamiento de dispositivos de:
+
+  * Conexión y maniobra.
+
+  * Protección.
+
+  * Medición.
+
+  * Señalización.
+
+  * Distribución.
+
+* Su objetivo es **proteger instalaciones, materiales, personas y animales**.
+
+#### **2\. Seguridad en el tablero**
+
+* Los gabinetes llevan **puerta con bisagra** y **contrafrente** para evitar el contacto con partes activas.
+
+* Se busca proteger tanto al **operario calificado** como al **usuario sin conocimientos técnicos**.
+
+* Todo tablero debe tener señalización, como el **símbolo de riesgo eléctrico**.
+
+#### **3\. Tipos de contacto eléctrico**
+
+* **Directo**: la persona toca un conductor activo (fase) → riesgo de descarga inmediata.
+
+* **Indirecto**: falla en un artefacto (ej. motor, lavarropas, heladera) → corriente se deriva a la carcasa metálica.
+
+* Protección contra ambos: **interruptor diferencial (RCD)** y **puesta a tierra**.
+
+#### **4\. Normativa y tensiones de seguridad**
+
+* Contacto seguro: tensiones muy bajas, típicamente ≤ 24 V.
+
+* Interruptores diferenciales usualmente calibrados en **30 mA** → valor seguro frente a descargas.
+
+* La normativa establece cómo deben construirse, instalarse y protegerse los tableros.
+
+#### **5\. Tipos de gabinetes/tableros**
+
+* **Gabinete individual de medidor**: acomete la línea de alimentación, ahora usualmente en **PVC** en lugar de chapa.
+
+* **Gabinete colectivo de medidores**: para edificios con varios departamentos.
+
+* **Tablero principal**: recibe la acometida, contiene interruptor general y alimenta tableros seccionales.
+
+* **Tablero seccional general**: distribuye a otros tableros o circuitos finales.
+
+* **Tablero seccional final/terminal**: alimenta directamente los circuitos de uso (iluminación, tomas, etc.).
+
+#### **6\. Aplicaciones en edificios**
+
+* Sistemas monofásicos y trifásicos según necesidades (ascensores, bombas de agua, bombas de incendio).
+
+* Se reemplazan tableros de chapa por **gabinetes prefabricados de PVC** con interruptores termomagnéticos y diferenciales.
+
+* En edificios modernos:
+
+  * Cada departamento → medidor monofásico \+ interruptor termomagnético propio.
+
+  * Tableros colectivos → organizan alimentación trifásica o monofásica.
+
+#### **7\. Protección de materiales eléctricos**
+
+* Correcta canalización de conductores.
+
+* Protección contra:
+
+  * Sobretensiones.
+
+  * Sobrecargas.
+
+  * Cortocircuitos.
+
+  * Maniobras de grandes cargas.
+
+* Importancia de la **puesta a tierra** en todas las instalaciones.
+
+---
+
+👉 En resumen:  
+ El tablero eléctrico **no es solo un conjunto de llaves**, sino la parte central de la instalación. Garantiza la seguridad de personas y equipos mediante gabinetes adecuados, protecciones diferenciales, térmicas y puesta a tierra, todo bajo normas que definen dimensiones, materiales y señalización.
+
+---
+
+¿Querés que te arme un **esquema visual simplificado** (tipo mapa conceptual o diagrama) con la clasificación de tableros y las protecciones principales?
+
+Perfecto 🙌, este bloque de la clase que me pasaste habla de **las condiciones normativas y de seguridad para la instalación de tableros eléctricos**. Te resumo lo más importante, ordenado y sin las repeticiones del relato:
+
+---
+
+## **📌 Normas de instalación de tableros eléctricos**
+
+### **1\. Ubicación**
+
+* Deben instalarse en **lugares secos**, de **fácil acceso** y alejados de otras instalaciones (gas, agua, pluvial, etc.).
+
+* ❌ No se permite instalar tableros:
+
+  * Dentro de muebles.
+
+  * Debajo de mesas o mesadas.
+
+  * En ambientes húmedos o mojados (a menos que el gabinete tenga **grado de protección IP** adecuado).
+
+* Los tableros deben estar **visibles** y accesibles rápidamente en caso de emergencia 🚨.
+
+---
+
+### **2\. Grado de protección (IP)**
+
+* El grado **IP** indica el nivel de protección contra polvo y agua.
+
+* Ejemplo: **IP65** → resistente al polvo y chorros de agua.
+
+* La elección del IP depende del ambiente donde se instale el tablero.
+
+---
+
+### **3\. Tableros en edificios y viviendas**
+
+* En **inmuebles de más de una planta**: debe colocarse **mínimo un tablero seccional por cada piso**.
+
+* El tablero debe estar ubicado en un **recinto adecuado** que cumpla con accesibilidad y seguridad.
+
+---
+
+### **4\. Iluminación del recinto del tablero**
+
+* Debe haber **iluminación artificial suficiente** para operar con seguridad y poder leer instrumentos.
+
+* Nivel mínimo recomendado: **200 lux** (aprox. 250–300 lux es ideal).
+
+* Se aconseja iluminación **asimétrica** o un **punto de luz auxiliar** para evitar que el cuerpo genere sombras sobre el tablero.
+
+* Además, debe existir un **sistema de iluminación de emergencia** (autónomo, fijo o portátil).
+
+  * Hoy en día se usan lámparas de emergencia LED pequeñas y recargables 🔋💡.
+
+---
+
+### **5\. Accesibilidad y seguridad del recinto**
+
+* El piso no debe tener desniveles ⚠️ (para evitar tropiezos durante maniobras de emergencia o trabajo con poca luz).
+
+* Las **puertas del recinto** deben abrir hacia afuera 🚪➡️, facilitando la evacuación en caso de incendio o emergencia.
+
+* Esto aplica también en **escuelas y edificios públicos**, siguiendo criterios de seguridad general.
+
+---
+
+👉 En resumen:  
+ Los tableros eléctricos deben estar **visibles, accesibles, secos, bien iluminados y seguros**. La normativa busca que **cualquier operario o usuario** pueda identificarlos y actuar sin riesgos en situaciones normales o de emergencia.
+
+---
+
+¿Querés que te arme una **chuleta gráfica tipo checklist ✅❌** para que te quede claro cómo debe y cómo NO debe instalarse un tablero?
+
+Genial 🚀, este bloque que me pasaste es más técnico y entra en **la reglamentación sobre el diseño, cálculo e instalación de tableros eléctricos**. Te lo ordeno por puntos clave para que quede claro:
+
+---
+
+## **📌 Dimensionamiento y diseño de tableros**
+
+### **1\. Espacio de reserva**
+
+* La norma exige que los tableros tengan un **20% de espacio libre** como mínimo.
+
+* Ese 20% debe calcularse **por cada tipo de módulo**:
+
+  * Unipolar: **18 mm** de ancho cada uno.
+
+  * Bipolar: **36 mm** (2 × 18 mm).
+
+  * Tetrapolar: **72 mm** (4 × 18 mm).
+
+* Ejemplo:
+
+  * Si tengo 12 módulos → debo prever **al menos 14 módulos** (12 \+ 20%).
+
+  * Esto permite ampliar el tablero en el futuro sin tener que reemplazarlo.
+
+---
+
+### **2\. Protección contra contacto directo**
+
+* Todo tablero debe tener **contrafrente o cubierta aislante** para evitar contacto con partes activas ⚡.
+
+* Ejemplo real: algunos reemplazan con placas plásticas tipo **acrílico**, pero si requiere demasiadas herramientas para abrir, **no es práctico ni seguro**.
+
+* Las **palancas de maniobra** (interruptores) deben quedar **accesibles** al usuario.
+
+---
+
+### **3\. Ubicación de componentes**
+
+* ❌ No está permitido montar dispositivos en la **cara superior, inferior o laterales externos** del tablero.
+
+* Los componentes deben ir en la **cara frontal interna** diseñada para tal fin.
+
+---
+
+### **4\. Cableado interno**
+
+* Se debe prever suficiente **espacio interior** para:
+
+  * Montar componentes.
+
+  * Permitir recorrido de conductores sin doblarlos en ángulo recto forzado ❌.
+
+* Doblar conductores a 90° apretándolos (como estrangular una manguera) → genera **estrangulamiento**, **calentamiento** y riesgo de falla 🔥.
+
+* El reglamento prevé un **cálculo de verificación térmica** para evitar sobrecalentamientos (factor K).
+
+---
+
+### **5\. Dispositivo general de corte**
+
+* Todo tablero principal debe tener en cabecera:
+
+  * 🔹 **Interruptor termomagnético general** (corte y protección).
+
+  * 🔹 Puede estar asociado a un **Interruptor Diferencial (ID)**.
+
+* En sistemas trifásicos → debe ser **tetrapolar**.
+
+* Cada **tablero seccional** también debe contar con su propio dispositivo de corte.
+
+---
+
+### **6\. Montaje de interruptores**
+
+* Deben instalarse en forma **vertical** ⬆️⬇️.
+
+* En algunos países se ven horizontales, pero la norma local no lo permite.
+
+* La alimentación debe ingresar **por arriba** siempre que sea posible.
+
+  * Si se alimenta por abajo (caso especial: cable subterráneo muy corto), debe colocarse un **cartel de advertencia: “Precaución: alimentación inferior”** ⚠️.
+
+* El tablero **no puede usarse como caja de paso** ni de derivación.
+
+---
+
+👉 En resumen:  
+ Los tableros deben diseñarse **sobredimensionados (20% libres), seguros (contrafrente), con interruptores accesibles y montados en vertical, con alimentación superior preferentemente**. Además, el cableado interno debe hacerse prolijo, evitando estrangulamientos para no generar calentamiento.
+
+---
+
+¿Querés que te arme una **tabla comparativa** con dos columnas tipo ✅ Correcto / ❌ Incorrecto para que te quede como guía rápida de instalación de tableros?
+
+¡Muy bien\! 💡  
+ Este bloque que me pasaste mezcla dos temas importantes:
+
+1. **Protecciones y gabinetes de tableros eléctricos (compactos, IP, resistencia, tipos de montaje).**
+
+2. **Sistema de puesta a tierra (componentes, jabalinas, cámaras de inspección, medición).**
+
+Te lo ordeno y destaco lo clave:
+
+---
+
+## **📌 1\. Protecciones y gabinetes de tableros eléctricos**
+
+### **🔹 Interruptores compactos**
+
+* Se usan en lugar de termomagnéticas convencionales.
+
+* Ventajas: **mayor vida útil**, soportan **mayores corrientes**.
+
+* Uso común: en **medidores de edificios**, reemplazando seccionadores bajo carga \+ fusibles.
+
+---
+
+### **🔹 Tableros para intemperie**
+
+* Llevan **burlete de goma** en la tapa → evita ingreso de agua 💧.
+
+* Recomendación:
+
+  * Alimentación **entra por abajo y sale por abajo**, así se evitan perforaciones en la parte superior que permitirían el ingreso de agua.
+
+* Se eligen según **grado de protección IP**:
+
+  * Ejemplo: IP54, IP55, IP65 → mayor resistencia a polvo y agua.
+
+* Normas alternativas: en EE.UU. se usa la **NEMA** (equivalente al IP europeo).
+
+---
+
+### **🔹 Tipos de gabinetes**
+
+* **Para embutir** (empotrados en pared).
+
+* **De sobreponer** (a la vista, exteriores).
+
+* Características posibles:
+
+  * **Resistencia al impacto (IK)** → que no se deforme si recibe un golpe (ej: con madera, herramientas, etc.).
+
+  * Capacidad: de **4 a 48 polos** (≈ 24 interruptores bipolares).
+
+  * Algunos tienen **vidrio en puerta** → permite ver qué interruptor disparó sin abrir el gabinete.
+
+* Cuanto más robusto y estético → **más costoso** 💸.
+
+---
+
+### **🔹 Material y seguridad**
+
+* Tableros modernos de **termoplástico reforzado** → alta resistencia térmica y mecánica.
+
+* Deben tener **contrafrente** para evitar contactos accidentales ⚡.
+
+* Correcta **sujeción** de componentes es clave para seguridad.
+
+---
+
+## **📌 2\. Puesta a tierra**
+
+### **🔹 Componentes principales**
+
+* **Tablero → bajada → caja de inspección → conductor → jabalina → toma cable.**
+
+* Todo esto constituye el **sistema de puesta a tierra** ⚡🌍.
+
+### **🔹 Caja de inspección**
+
+* Se coloca a nivel del piso, con tapa desmontable.
+
+* Permite medir la **resistencia de tierra** con telurómetro (medidor específico).
+
+### **🔹 Jabalinas**
+
+* Pueden ser:
+
+  * **Cobre macizo**.
+
+  * **Cobre revestido con alma de acero** (más resistentes mecánicamente).
+
+* Vienen con distintos **diámetros y longitudes**, según el terreno.
+
+* En algunos casos se colocan **dobles sistemas de jabalina** para reducir la resistencia.
+
+### **🔹 Toma cable**
+
+* Accesorio que asegura la conexión conductor ↔ jabalina.
+
+* Debe ir bien prensado, garantizando **bajo valor óhmico** y sin riesgo de aflojamiento.
+
+---
+
+👉 En resumen:
+
+* Los **interruptores compactos** mejoran la confiabilidad en edificios.
+
+* Los **tableros intemperie** deben estar bien sellados (IP adecuado) y con alimentación inferior para evitar filtraciones.
+
+* Existen **distintos tipos de gabinetes** según uso, impacto y estética.
+
+* La **puesta a tierra** es un sistema completo: tablero, conductor, caja de inspección y jabalina. Se controla con mediciones periódicas para garantizar seguridad.
+
+---
+
+¿Querés que te arme un **esquema gráfico paso a paso** del **sistema de puesta a tierra** (con dibujito tipo diagrama: tablero → bajada → caja → jabalina)? 🤔
+
+Te armo un **resumen con puntos clave y emojis** de lo que se habló en ese fragmento, para que quede claro y ordenado:
+
+---
+
+📌 **Puesta a tierra (jabalinas y acoplamientos)**
+
+* Las **jabalinas vienen por tramos** ➡️ se usan **acoplamientos** para seguir enterrándolas.
+
+* Existen de **cobre macizo** 🔩.
+
+* Se busca siempre buena **dispersión de corriente** ⚡ (terreno húmedo \= mejor).
+
+* Antes se usaba **agua con sal** 🧂💧, ahora se usa un **gel especial** que retiene humedad.
+
+* El gel requiere **mantenimiento periódico** para mantener la conductividad.
+
+📌 **Soldadura exotérmica (soldadura cupro/aluminotérmica)** 🔥
+
+* Se usa en **estaciones transformadoras** y en lugares donde se requiere **muy baja resistencia de puesta a tierra** (torretas de radio, telecomunicaciones, etc.).
+
+* El sistema funciona con **moldes** (en T, derivación, etc.) donde se coloca la jabalina y el conductor de cobre desnudo.
+
+* Se coloca **pólvora especial** que al encenderse funde el cobre con la jabalina, creando una **unión sólida y permanente**.
+
+📌 **Cañerías y materiales** 🛠️
+
+* Existen nuevos sistemas de **PVC de alta resistencia**, algunos reemplazan al hierro.
+
+* Ventajas: más livianos, más fáciles de trabajar, menor costo.
+
+* Recomendación: si se usan caños livianos ➡️ colocar **más puntos de fijación** (mínimo 3).
+
+* Los caños de PVC pesado o reforzado tienen rigidez similar al hierro.
+
+* Tendencia actual: reemplazo del hierro por PVC resistente.
+
+---
+
+👉 En resumen:
+
+* Para la **puesta a tierra**: jabalina \+ acoplamientos \+ gel (mantenimiento) o soldadura exotérmica en instalaciones críticas.
+
+* Para **cañerías**: el PVC está reemplazando al hierro, pero se debe cuidar la fijación y elegir la resistencia adecuada.
+
+---
+
+¿Querés que te arme un **cuadro comparativo** con los sistemas de puesta a tierra (tradicional con jabalina, con gel, y con soldadura exotérmica) para que lo tengas más claro para repasar? 📊
+
+Lo que compartiste ahora es la **segunda parte de la charla/clase**, donde el docente ya se mete en **instalaciones eléctricas en obra** y los problemas que aparecen en la práctica. Te armo un **resumen organizado y claro**:
+
+---
+
+📌 **Cañerías corrugadas y su resistencia**
+
+* Hay distintos tipos: **liviano, semipesado y pesado**.
+
+* El problema principal es que, al hacer la **losa**, los obreros pisan o apoyan cosas y se deforman ➡️ conviene dejar la instalación **fija y protegida** para evitar que se aplaste o que entre hormigón en las cajas.
+
+* Cuando hay curvas o uniones, conviene dejar **bajadas alternativas** para prevenir bloqueos y facilitar el tendido posterior.
+
+📌 **Planificación en obra** 🏗️
+
+* Se recalca la importancia de **coordinar electricidad, plomería y sanitarios**.
+
+* Ejemplo: en un edificio, primero se instaló la electricidad, pero después el plomero necesitó un bajante en la misma pared ➡️ hubo que romper todo y rehacer.
+
+* Otro caso: cambiaron la ubicación de una puerta y justo detrás estaba el tablero principal ➡️ hubo que reubicar y rehacer toda la instalación.
+
+* Conclusión: los problemas vienen de la **falta de planificación conjunta** entre arquitecto, proyectista e instaladores.
+
+📌 **Reutilización de bocas en losa**
+
+* Si cambian la **distribución interna** de un departamento, las bocas embutidas en la losa pueden quedar mal ubicadas (ejemplo: en el medio de un ambiente o en lugares sin función).
+
+* Soluciones: usar **artefactos con rieles** o adaptaciones, pero siempre implica costo extra.
+
+* Discusión recurrente: ¿quién paga esas modificaciones? 👉 no es culpa del instalador, sino de la **planificación**.
+
+📌 **Metodología de enseñanza** 📚
+
+* El docente propone hacer un **esquema paso a paso**:
+
+  1. Definir ubicación de bocas y cañerías.
+
+  2. Simular cableado.
+
+  3. Preparar una síntesis de **cómputo de materiales**.
+
+  4. Relacionar todo con la **reglamentación eléctrica vigente** (normas).
+
+📌 **Otros comentarios**
+
+* Se mencionan **interruptores chinos** ("chin-chín") que a veces fallan.
+
+* Ejemplo humorístico sobre protectores térmicos y motores eléctricos ⚡.
+
+* Avance hacia el tema de **bandejas de cableado** (queda para la práctica).
+
+* Se anuncia que la próxima clase será **práctica**.
+
+---
+
+👉 En resumen:  
+ Esta parte trata sobre la **ejecución en obra**:
+
+* Uso correcto de caños corrugados.
+
+* Problemas habituales por **falta de coordinación entre rubros**.
+
+* Dificultades con cambios de proyecto.
+
+* Importancia de planificar y ajustar con reglamentación.
+
+---
+
+¿Querés que te arme un **mapa conceptual visual** 🗺️ con los 3 ejes de la clase (puesta a tierra, cañerías/corrugados y planificación de obra)? Así lo tenés como esquema rápido para repaso.
+
