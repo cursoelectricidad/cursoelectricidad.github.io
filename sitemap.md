@@ -58,7 +58,7 @@ List of pages:
 * /54clase.md: [Clase Nº 54: Repasamos concepto circuitos eléctricos (que habíamos dado la clase 19/20). Clase importante: Cálculo de cables.](/54clase.md)
 * /55clase.md: [Clase Nº 55: Repaso de colocación de cajas. Altura cajas. Anecdota: obrero unió 2 caños de hierro con corrugado. Ejercicio: Cálculo de materiales de un aula.](/55clase.md)
 * /56clase.md: [Clase Nº 56: Repaso uniones, cañeria. Calculo cableado de otro plano. Ayudante trajo plano sin conexionado y hicimos el cableado en clase.](/56clase.md)
-* /57clase.md: [Clase Nº 57: Valores a cobrar. Repaso de la clase 43 (Tableros). Leimos PDF en proyector de Genrod de Tableros y Puesta a Tierra."](/57clase.md)
+* /57clase.md: [Clase Nº 57: Valores a cobrar. Repaso de la clase 43 (Tableros). Leimos PDF en proyector de Genrod de Tableros y Puesta a Tierra.](/57clase.md)
 * /contact.md: [Contacto](/contact.md)
 * /dudas.md: [Dudas.](/dudas.md)
 * /license.md: [License](/license.md)
