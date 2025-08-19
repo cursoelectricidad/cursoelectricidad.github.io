@@ -648,3 +648,79 @@ Te lo ordeno y destaco lo clave:
 
 * Importancia de planificar y ajustar con reglamentación.
 
+
+# Grok
+
+
+### Puntos Principales de la Clase de Instalaciones Eléctricas ⚡
+
+
+Esta transcripción de una clase sobre instalaciones eléctricas cubre temas como costos de servicios, tipos de trabajos, inspecciones, emergencias, mano de obra, materiales y normas de seguridad. He destacado los puntos clave en una lista, agregando emojis para mayor claridad y dinamismo. Los valores de costos son de fines de mayo (probablemente 2024), pero los he actualizado con datos actuales de Argentina para agosto 2025 donde sea posible, basándome en búsquedas web confiables. Nota: La inflación en Argentina puede variar; usa estos como referencia aproximada.
+
+
+- **Introducción a Conceptos Básicos y Oportunidades Laborales** 📚  
+  Si dominas los conceptos claros, puedes acceder a trabajos fáciles en instalaciones eléctricas. No es difícil, pero requiere conocer valores y normas para evitar errores. (Probabilidad alta de empleo rápido.)
+
+
+- **Tipos de Obras Eléctricas** 🛠️  
+  - Obras completas: Nueva instalación desde cero.  
+  - Refacción: Reparación o modificación de existente.  
+  - Ampliación: Expansión sobre instalación actual (ej. agregar circuitos).  
+  Recomendación: Contrata un electricista para relevamientos iniciales si hay problemas como cortocircuitos.
+
+
+- **Inspección Ocular (Visual)** 👀  
+  Solo mirar y diagnosticar sin tocar nada (ej. revisar tablero, cableado).  
+  Costo hasta mayo: $39,400 dentro de 5 km.  
+  **Actualización 2025**: Alrededor de $39,689 (julio 2025). Incluye evaluación, diagnóstico y presupuesto. Traslado extra: Medio litro de nafta por km adicional (~$1,550/km en 2025).
+
+
+- **Servicios de Emergencia** 🚨  
+  Atención inmediata con herramientas y mediciones (ej. cortocircuito, sector sin luz).  
+  Costo hasta mayo: $82,700 (lunes a sábado; más caro domingos/feriados). Resuelve lo urgente y deja con luz; materiales aparte.  
+  **Actualización 2025**: Similar o superior debido a inflación; consulta local para urgencias.
+
+
+- **Tarifas por Hora o Día de Trabajo** ⏰  
+  - Hasta 2 horas: $36,400.  
+  - Medio/día completo mínimo: $25,000.  
+  - Jornal oficial electricista (8 horas): $40,000 (~$5,000/hora).  
+  - Ayudante: $33,000 (~$4,125/hora).  
+  **Actualización 2025**: Oficial especializado ~$5,335/hora; oficial ~$4,345/hora; ayudante ~$3,723/hora (abril/julio 2025). Se cobra por hora; incluye ayudante en obras grandes.
+
+
+- **Instalación de Ventiladores y Luminarias** 💡  
+  - Ventilador de techo sin luz: $59,400.  
+  - Con luz e interruptor: $74,340 (incluye recableado extra).  
+  No incluye cableado base; enfocado en mano de obra.
+
+
+- **Canalización y Cableado por Boca** 🔌  
+  - Canalización en ladrillo hueco: ~$35,520 por boca (picar pared).  
+  - Cableado obra nueva: $17,800.  
+  - Organización en mampostería hueco: ~$32,613.  
+  Boca terminada: Suma de ambos (~$53,000+).  
+  **Actualización 2025**: Precios similares o ajustados; re-cableado ~$24,500-$60,700 por boca según complejidad.
+
+
+- **Clase Práctica Próxima** 🛠️📐  
+  Armado real: Tomar tablero, caja de paso, 2 bocas + toma corriente. Enfocado en circuito de tomas con mínimo corte de cables. Aplicar teoría en práctica (papel a realidad).
+
+
+- **Sistemas de Alarmas y Seguridad** 🛡️  
+  Usar cables 0.50-0.75 mm² para detectores/movimientos; soldar para ocultar. Evitar inalámbricos (baterías fallan); preferir con batería gel (48h backup). Problemas comunes: Enchufe fácil de desconectar.
+
+
+- **Tableros Eléctricos (de Gerro)** 🔋  
+  Disipación térmica clave en industriales (usa coolers). Protección contra choques directo/indirecto. Normas: IP para humedad (ej. IP65 resistente al agua). Ubicación: Lugares secos, accesibles, no en muebles. Mínimo 20% espacio reserva. Iluminación: 200-300 lux + emergencia.
+
+
+- **Planificación en Construcción** 🏗️  
+  Coordinar con plomeros para evitar conflictos (ej. bajadas de agua vs. eléctricas). En edificios: Piscinas como reserva incendio. Siempre deja backups en losas por pisadas/obras.
+
+
+- **Normas y Seguridad General** ⚠️  
+  Tablero como "corazón" de instalación. Protección personas/animales/bienes. Alimentación interruptores por arriba (ideal). Puertas hacia afuera para emergencias. No usar tableros como cajas de paso.
+
+
+Estos puntos capturan lo esencial; la clase mezcla teoría, costos y anécdotas prácticas. Para valores exactos en 2025, revisa fuentes locales ya que varían por región e inflación.
