@@ -36,8 +36,6 @@ Cableado por boca $17.800
 Canalización mampostería $32.603    
 
 
-Aquí te destaco los puntos más importantes con emojis para que quede claro y ordenado:
-
 ---
 
 📌 **Tipos de obra**
@@ -54,7 +52,7 @@ Aquí te destaco los puntos más importantes con emojis para que quede claro y o
 
 * Se hace un diagnóstico y se puede armar un presupuesto.
 
-* Valor aproximado (hasta 31 de mayo, radio 5 km): **$39.400**
+* Valor aproximado (hasta 31 de marzo, radio 5 km): **$39.400**
 
 📌 **Emergencias** 🚨
 
@@ -87,12 +85,6 @@ Aquí te destaco los puntos más importantes con emojis para que quede claro y o
 * Colocación de bocas en mampostería (según tipo de ladrillo). 🧱
 
 * Posibilidad de recableado o ampliación según diagnóstico. ⚡
-
----
-
-¿Querés que te arme una **tabla resumida con valores y conceptos** para que quede más práctico a la hora de repasar? 📊
-
-Perfecto 👍 Te organizo y destaco lo más importante de todo lo que comentaste, con **valores, conceptos y emojis** para que quede claro:
 
 ---
 
@@ -139,12 +131,6 @@ Perfecto 👍 Te organizo y destaco lo más importante de todo lo que comentaste
 * En tableros grandes/industriales se colocan **ventiladores tipo cooler** para disipar calor. 🌀
 
 * Normativa aplicada: reglamentación técnica argentina (AEA). 📑
-
----
-
-¿Querés que arme una **tabla comparativa** con los precios (mano de obra, ventiladores, bocas) para que te quede como guía rápida de referencia? 📊
-
-Excelente material 👌. Te destaco lo más importante de esta parte sobre **tableros eléctricos, protecciones y seguridad**, con emojis para que quede claro:
 
 ---
 
@@ -203,12 +189,6 @@ Excelente material 👌. Te destaco lo más importante de esta parte sobre **tab
 * Hasta 30 mA → generalmente no produce consecuencias graves, pero debe limitarse con diferencial ⚡.
 
 * Valores mayores y tiempos largos → riesgo de fibrilación y muerte ⚠️.
-
----
-
-👉 ¿Querés que te arme un **esquema gráfico** (tipo diagrama) mostrando el **tablero eléctrico con sus protecciones** y la relación con **contacto directo/indirecto** para que te quede como ficha visual rápida? 📝📊
-
-Veo que lo que compartiste es una transcripción de una clase o explicación sobre **tableros eléctricos, protecciones y normativa de instalación**. El texto tiene repeticiones y frases informales, pero rescato las ideas principales para que quede más claro y ordenado.
 
 ---
 
@@ -303,12 +283,6 @@ Veo que lo que compartiste es una transcripción de una clase o explicación sob
 
 ---
 
-¿Querés que te arme un **esquema visual simplificado** (tipo mapa conceptual o diagrama) con la clasificación de tableros y las protecciones principales?
-
-Perfecto 🙌, este bloque de la clase que me pasaste habla de **las condiciones normativas y de seguridad para la instalación de tableros eléctricos**. Te resumo lo más importante, ordenado y sin las repeticiones del relato:
-
----
-
 ## **📌 Normas de instalación de tableros eléctricos**
 
 ### **1\. Ubicación**
@@ -371,12 +345,6 @@ Perfecto 🙌, este bloque de la clase que me pasaste habla de **las condiciones
 
 👉 En resumen:  
  Los tableros eléctricos deben estar **visibles, accesibles, secos, bien iluminados y seguros**. La normativa busca que **cualquier operario o usuario** pueda identificarlos y actuar sin riesgos en situaciones normales o de emergencia.
-
----
-
-¿Querés que te arme una **chuleta gráfica tipo checklist ✅❌** para que te quede claro cómo debe y cómo NO debe instalarse un tablero?
-
-Genial 🚀, este bloque que me pasaste es más técnico y entra en **la reglamentación sobre el diseño, cálculo e instalación de tableros eléctricos**. Te lo ordeno por puntos clave para que quede claro:
 
 ---
 
@@ -466,11 +434,6 @@ Genial 🚀, este bloque que me pasaste es más técnico y entra en **la reglame
  Los tableros deben diseñarse **sobredimensionados (20% libres), seguros (contrafrente), con interruptores accesibles y montados en vertical, con alimentación superior preferentemente**. Además, el cableado interno debe hacerse prolijo, evitando estrangulamientos para no generar calentamiento.
 
 ---
-
-¿Querés que te arme una **tabla comparativa** con dos columnas tipo ✅ Correcto / ❌ Incorrecto para que te quede como guía rápida de instalación de tableros?
-
-¡Muy bien\! 💡  
- Este bloque que me pasaste mezcla dos temas importantes:
 
 1. **Protecciones y gabinetes de tableros eléctricos (compactos, IP, resistencia, tipos de montaje).**
 
@@ -582,12 +545,6 @@ Te lo ordeno y destaco lo clave:
 
 ---
 
-¿Querés que te arme un **esquema gráfico paso a paso** del **sistema de puesta a tierra** (con dibujito tipo diagrama: tablero → bajada → caja → jabalina)? 🤔
-
-Te armo un **resumen con puntos clave y emojis** de lo que se habló en ese fragmento, para que quede claro y ordenado:
-
----
-
 📌 **Puesta a tierra (jabalinas y acoplamientos)**
 
 * Las **jabalinas vienen por tramos** ➡️ se usan **acoplamientos** para seguir enterrándolas.
@@ -627,12 +584,6 @@ Te armo un **resumen con puntos clave y emojis** de lo que se habló en ese frag
 * Para la **puesta a tierra**: jabalina \+ acoplamientos \+ gel (mantenimiento) o soldadura exotérmica en instalaciones críticas.
 
 * Para **cañerías**: el PVC está reemplazando al hierro, pero se debe cuidar la fijación y elegir la resistencia adecuada.
-
----
-
-¿Querés que te arme un **cuadro comparativo** con los sistemas de puesta a tierra (tradicional con jabalina, con gel, y con soldadura exotérmica) para que lo tengas más claro para repasar? 📊
-
-Lo que compartiste ahora es la **segunda parte de la charla/clase**, donde el docente ya se mete en **instalaciones eléctricas en obra** y los problemas que aparecen en la práctica. Te armo un **resumen organizado y claro**:
 
 ---
 
@@ -696,8 +647,4 @@ Lo que compartiste ahora es la **segunda parte de la charla/clase**, donde el do
 * Dificultades con cambios de proyecto.
 
 * Importancia de planificar y ajustar con reglamentación.
-
----
-
-¿Querés que te arme un **mapa conceptual visual** 🗺️ con los 3 ejes de la clase (puesta a tierra, cañerías/corrugados y planificación de obra)? Así lo tenés como esquema rápido para repaso.
 
