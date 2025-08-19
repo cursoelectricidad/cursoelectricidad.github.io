@@ -737,11 +737,7 @@ Aquí tenés un **resumen organizado** de lo que se habló en tu clase:
 ## 📌 Sección de conductores
 
 * La sección de un cable (ej: 1,5 mm²) corresponde al **área de la circunferencia** de su corte transversal.
-* Fórmula:
-
-  $$
-  S = \pi \cdot r^2 = \frac{\pi \cdot d^2}{4}
-  $$
+* Fórmula: S = pi  x r^2 = (pi x d^2)/4
 * Es importante **saber de dónde sale el valor** para poder calcular y entender.
 
 ---

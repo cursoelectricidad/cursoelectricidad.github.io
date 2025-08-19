@@ -5,15 +5,15 @@
 
 ##### Audio en Vocaroo:
 
-https://vocaroo.com/1hNCYP7Xp7eM
+[https://vocaroo.com/1hNCYP7Xp7eM](https://vocaroo.com/1hNCYP7Xp7eM)
 
 ##### Audio en Archive:
 
-https://archive.org/details/record-224
+[https://archive.org/details/record-224](https://archive.org/details/record-224)
 
 ##### Audio en YouTube:
 
-https://www.youtube.com/watch?v=yvvxzv1NUcw
+[https://www.youtube.com/watch?v=yvvxzv1NUcw](https://www.youtube.com/watch?v=yvvxzv1NUcw)
 
 
 ![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhGGsUU3QtYJWkOaImqOtsuGGuhZf_-QIx2DQEI5mwiiP91bB6Gmd-wV2P1JHS46arOCpddm7dlPvMZCUzrG6MSTdWkcPhMOCGEIqka3atJgWhlLVv3L2z3gH-3Zt9ZKKmpD2gB69hhBBvShxTW_ob5h9selVlqCvKQYB22APH6akwomslUwQci0j4XfuI/s4160/IMG_20250818_201820288.jpg)
