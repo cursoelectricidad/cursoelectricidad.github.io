@@ -12,6 +12,10 @@ El curso de auxiliar electricista finaliza en la clase número 47, y el curso de
 
 Subscribe to RSS: [/feed.xml](/feed.xml)
 
+[Clase Nº 58: [FOTOCOPIA Pasos para el calculo de materiales] Repaso concepto Tableros.](/58clase.md){.title}
+[19 Agosto 2025]{.date}
+
+
 [Clase Nº 57: Valores a cobrar. Repaso de la clase 43 (Tableros). Leimos PDF en proyector de Genrod de Tableros y Puesta a Tierra.](/57clase.md){.title}
 [18 Agosto 2025]{.date}
 
