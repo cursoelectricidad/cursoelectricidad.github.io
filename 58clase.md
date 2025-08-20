@@ -1,4 +1,4 @@
-% Clase Nº 58: [FOTOCOPIA Pasos para el calculo de materiales] Repaso concepto Tableros.
+% Clase Nº 58: [FOTOCOPIA Pasos para el calculo de materiales] Repaso concepto Tableros. Día de lluvia.
 % Andrés Imlauer
 % 19 Agosto 2025
 
@@ -13,6 +13,8 @@
 #### Audio en YouTube:
 
 [https://www.youtube.com/watch?v=sHwNltjbHSc](https://www.youtube.com/watch?v=sHwNltjbHSc)
+
+https://www.youtube.com/watch?v=_z6Pk9juGtY
 
 ![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhXOa40TI1TMvsbisJA8yADrswWjGAPVv-UJoqoSOZ6GdU2pJr6u3GHaN3o0Qu0_MXmSyRMMRKGLgjsKdTBcsIPi7HDYQf3g4GgC6SXjNKLlxlV_xOUorWoUZN8fjR3DoBkdAf38REUaUWLw23U0AsAW5JWblGW4qtcl3fZ2ZvX0h8e-1t3Y2cFNAZppE4/s4160/IMG_20250819_184852889.jpg)
 
