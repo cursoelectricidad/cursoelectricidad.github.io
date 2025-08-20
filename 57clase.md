@@ -655,7 +655,7 @@ Te lo ordeno y destaco lo clave:
 ### Puntos Principales de la Clase de Instalaciones Eléctricas ⚡
 
 
-Esta transcripción de una clase sobre instalaciones eléctricas cubre temas como costos de servicios, tipos de trabajos, inspecciones, emergencias, mano de obra, materiales y normas de seguridad. He destacado los puntos clave en una lista, agregando emojis para mayor claridad y dinamismo. Los valores de costos son de fines de mayo (probablemente 2024), pero los he actualizado con datos actuales de Argentina para agosto 2025 donde sea posible, basándome en búsquedas web confiables. Nota: La inflación en Argentina puede variar; usa estos como referencia aproximada.
+Esta transcripción de una clase sobre instalaciones eléctricas cubre temas como costos de servicios, tipos de trabajos, inspecciones, emergencias, mano de obra, materiales y normas de seguridad. He destacado los puntos clave en una lista, agregando emojis para mayor claridad y dinamismo. Los valores de costos son de fines de marzo (probablemente 2024), pero los he actualizado con datos actuales de Argentina para agosto 2025 donde sea posible, basándome en búsquedas web confiables. Nota: La inflación en Argentina puede variar; usa estos como referencia aproximada.
 
 
 - **Introducción a Conceptos Básicos y Oportunidades Laborales** 📚  
@@ -671,13 +671,13 @@ Esta transcripción de una clase sobre instalaciones eléctricas cubre temas com
 
 - **Inspección Ocular (Visual)** 👀  
   Solo mirar y diagnosticar sin tocar nada (ej. revisar tablero, cableado).  
-  Costo hasta mayo: $39,400 dentro de 5 km.  
+  Costo hasta marzo: $39,400 dentro de 5 km.  
   **Actualización 2025**: Alrededor de $39,689 (julio 2025). Incluye evaluación, diagnóstico y presupuesto. Traslado extra: Medio litro de nafta por km adicional (~$1,550/km en 2025).
 
 
 - **Servicios de Emergencia** 🚨  
   Atención inmediata con herramientas y mediciones (ej. cortocircuito, sector sin luz).  
-  Costo hasta mayo: $82,700 (lunes a sábado; más caro domingos/feriados). Resuelve lo urgente y deja con luz; materiales aparte.  
+  Costo hasta marzo: $82,700 (lunes a sábado; más caro domingos/feriados). Resuelve lo urgente y deja con luz; materiales aparte.  
   **Actualización 2025**: Similar o superior debido a inflación; consulta local para urgencias.
 
 

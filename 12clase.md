@@ -1,4 +1,4 @@
-% Clase Nº 12: Continuamos canalización. No usar curva y contracurva juntos porque es difícil pasar cinta pasacables, mejor un cañito en el medio. Meter pinza para sacar rebarba adentro y afuera agarrar el caño. Acanaladora.
+% Clase Nº 12: Continuamos canalización. No usar curva y contracurva juntos porque es difícil pasar cinta pasacables, mejor un cañito en el medio. Meter pinza para sacar rebarba adentro y afuera agarrar el caño. Fijar cajas aunque sea en madera. El revoque grueso debe estar terminado antes de embutir cajas. 
 % Andrés Imlauer
 % 10 Abril 2025
 
