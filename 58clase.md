@@ -1,4 +1,4 @@
-% Clase Nº 58: [FOTOCOPIA Pasos para el calculo de materiales] Repaso concepto Tableros. Calculo de ganancia sobre materiales. Día de lluvia. 
+% Clase Nº 58: [FOTOCOPIA Pasos para el calculo de materiales] Repaso concepto Tableros. Calculo de ganancia sobre materiales. No usar tablero como caja de paso. Día de lluvia. 
 % Andrés Imlauer
 % 19 Agosto 2025
 
@@ -29,7 +29,7 @@ Aquí te destaco los puntos más importantes de todo lo que se habló y le agreg
 
 * 🔌 **Problemas de señal y equipos**: se mencionó la falta de transformador para el modem/router y que algunos amplificadores ya no sirven.
 
-* ⚡ **Sobrecargas y neutro**: se habló de una sobrecarga que afectó varias casas y de por qué siempre se quema el neutro, destacando que es quien recibe toda la corriente acumulada.
+* ⚡ **Sobrecargas y neutro**: el ayudante habló de una sobrecarga que afectó departamentos y de por qué siempre se quema el neutro, destacando que es quien recibe toda la corriente acumulada.
 
 * 📏 **Planos y organización**: importancia de tener un razonamiento lógico al leer un plano eléctrico y organizar materiales antes de instalar.
 
@@ -69,7 +69,7 @@ Aquí te destaco los puntos más importantes de todo lo que se habló y le agreg
 
 * ⚡ **Tableros eléctricos**:
 
-  * Son envolventes (cajas) que contienen **protección, maniobra, medición y comando**.
+  * Son envolventes (cajas) que contienen **protección, maniobra, medición, barras, comando y alarmas**.
 
   * Deben tener como mínimo:
 
@@ -182,7 +182,7 @@ Aquí te destaco los puntos más importantes de todo lo que se habló y le agreg
 
 ### **1️⃣ Seguridad y tablero seccional/principal**
 
-* 🏗️ Algunas empresas quieren **ahorrarse el interruptor magnético** en tableros seccionales, esto está bien siempre y cuando haya una distancia menor a 2 metros.
+* 🏗️ Algunas empresas quieren **ahorrarse el interruptor magnético** en tableros seccionales, esto está bien siempre y cuando haya una distancia menor a 2 metros al medidor.
 
 ### **2️⃣ Tablero con IP54**
 

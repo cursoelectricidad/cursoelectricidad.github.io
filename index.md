@@ -12,7 +12,7 @@ El curso de auxiliar electricista finaliza en la clase número 47, y el curso de
 
 Subscribe to RSS: [/feed.xml](/feed.xml)
 
-[Clase Nº 58: [FOTOCOPIA Pasos para el calculo de materiales] Repaso concepto Tableros. Calculo de ganancia sobre materiales. Día de lluvia. ](/58clase.md){.title}
+[Clase Nº 58: [FOTOCOPIA Pasos para el calculo de materiales] Repaso concepto Tableros. Calculo de ganancia sobre materiales. No usar tablero como caja de paso. Día de lluvia. ](/58clase.md){.title}
 [19 Agosto 2025]{.date}
 
 
