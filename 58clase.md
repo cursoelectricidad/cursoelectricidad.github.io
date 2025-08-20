@@ -1,4 +1,4 @@
-% Clase Nº 58: [FOTOCOPIA Pasos para el calculo de materiales] Repaso concepto Tableros. Día de lluvia.
+% Clase Nº 58: [FOTOCOPIA Pasos para el calculo de materiales] Repaso concepto Tableros. Calculo de ganancia sobre materiales. Día de lluvia. 
 % Andrés Imlauer
 % 19 Agosto 2025
 
@@ -27,7 +27,7 @@ Aquí te destaco los puntos más importantes de todo lo que se habló y le agreg
 
 ### **📌 Puntos clave:**
 
-* 🔌 **Problemas de señal y equipos**: se mencionó la falta de transformador y que algunos amplificadores ya no sirven.
+* 🔌 **Problemas de señal y equipos**: se mencionó la falta de transformador para el modem/router y que algunos amplificadores ya no sirven.
 
 * ⚡ **Sobrecargas y neutro**: se habló de una sobrecarga que afectó varias casas y de por qué siempre se quema el neutro, destacando que es quien recibe toda la corriente acumulada.
 
@@ -87,7 +87,7 @@ Aquí te destaco los puntos más importantes de todo lo que se habló y le agreg
 
   * Si se hace por abajo, debe quedar indicado el motivo.
 
-  * Dentro del tablero **no se permite usarlo como caja de paso** ❌.
+  * El tablero **no se permite usarlo como caja de paso** ❌.
 
 * 🧰 **Conductores en tableros**:
 
@@ -101,7 +101,7 @@ Aquí te destaco los puntos más importantes de todo lo que se habló y le agreg
 
   * Debe cortar antes de que el conductor llegue a su límite de temperatura.
 
-  * La cooperativa (ej: ENERSA/ENOSA) a veces anula fusibles aéreos porque ya se cuenta con interruptor bipolar en el tablero.
+  * La cooperativa (ej: EMSA) a veces anula fusibles aéreos porque ya se cuenta con interruptor bipolar en el tablero y éste protege aguas arriba y aguas abajo pero no te protege el medidor, aunque el medidor aguante mucho amperage.
 
 * 💡 **Sobre el medidor**:
 
@@ -150,15 +150,15 @@ Aquí te destaco los puntos más importantes de todo lo que se habló y le agreg
 
   * Debe haber **1 m de espacio libre** delante para trabajar cómodo.
 
-  * La tapa siempre puesta (los municipales muchas veces la sacan, mal hecho).
+  * La tapa siempre puesta (los municipales muchas veces la cierran mal, luego con la lluvia y el viento vuela la tapa).
 
   * Símbolo de ⚡ **riesgo eléctrico** visible (mínimo 40 mm de lado).
 
 * 🔌 **Tablero principal y seccionales**:
 
-  * El **tablero principal** va siempre a la entrada de la propiedad, después del medidor.
+  * El **tablero principal** va siempre detrás del medidor.
 
-  * Si la distancia entre **medidor y tablero** es **≤ 2 m**, ese tablero ya cuenta como principal → no hace falta otra térmica adicional.
+  * Si la distancia entre **el tablero principal y tablero seccional** es **≤ 2 m**, no hace falta otra térmica en el tablero seccional.
 
   * Si la distancia es **\> 2 m**, entonces SÍ o SÍ debe haber una **térmica de cabecera** (interruptor principal) para protección de la línea.
 
@@ -182,11 +182,7 @@ Aquí te destaco los puntos más importantes de todo lo que se habló y le agreg
 
 ### **1️⃣ Seguridad y tablero seccional/principal**
 
-* 🏗️ Algunas empresas quieren **ahorrarse el interruptor magnético** en tableros seccionales, pero esto es un error.
-
-* ⚡ Un corto circuito en el trayecto largo puede **no ser detectado** si no hay protección, causando riesgo.
-
-* 🔹 Siempre hay que considerar **diferencial e interruptores** para sobrecarga y cortocircuito.
+* 🏗️ Algunas empresas quieren **ahorrarse el interruptor magnético** en tableros seccionales, esto está bien siempre y cuando haya una distancia menor a 2 metros.
 
 ### **2️⃣ Tablero con IP54**
 
@@ -198,7 +194,7 @@ Aquí te destaco los puntos más importantes de todo lo que se habló y le agreg
 
 * ⚙️ Se usan borneras para empalmar y ajustar cables cortos según la sección.
 
-* 🔢 Identificación clara de **circuitos**: iluminación, tomas, aires, etc.
+* 🔢 Identificación clara de **circuitos** en el tablero(nombrar cada uno): iluminación, tomas, aires, etc.
 
 * 🧩 Dejar **20% del tablero vacío** para futuras ampliaciones.
 
@@ -216,7 +212,7 @@ Aquí te destaco los puntos más importantes de todo lo que se habló y le agreg
 
 * 🔹 Algunos equipos trifásicos pueden conectarse a monofásico usando **cambio de conexionado** (estrella ↔ triángulo) y, si falta fase, un **capacitor** simula la fase faltante.
 
-* ⚠️ Conexión incorrecta → riesgo de quemar equipos, térmicas no protegen correctamente.
+* ⚠️ Conexión incorrecta → riesgo de quemar equipos, térmicas no protegen: Un tipo haciendo una instalación trifásica se equivocó y tomó 2 fases generando 380 voltios y quemó artefactos de la prima de Espeche.
 
 * 🛠️ Siempre revisar esquema y capacidad de corriente antes de alimentar un motor o equipo trifásico.
 
@@ -250,9 +246,9 @@ Aquí te destaco los puntos más importantes de todo lo que se habló y le agreg
 
 ### **3️⃣ Indicadores y “ojos de energía”**
 
-* 💡 Instalar **ojos de energía** (LEDs) en la tapa del tablero para indicar que llega tensión a los circuitos.
+* 💡 Instalar **ojos de energía** (LEDs) (ojos de buey) en la tapa del tablero para indicar que llega tensión a los circuitos.
 
-* 🔌 Para monofásico: un ojo; trifásico: un ojo por fase (3 o 4 según el diseño).
+* 🔌 Para monofásico: un ojo; trifásico: un ojo por fase (3).
 
 * ✅ Evita accidentes al manipular tableros con energía.
 
@@ -303,6 +299,8 @@ Aquí te destaco los puntos más importantes de todo lo que se habló y le agreg
 * Para más de 3 salidas, se requiere **placa colectora o barra interconectada**.
 
 * 🔧 Evitar múltiples puentes en un mismo interruptor, porque soportaría toda la carga y se quemaría.
+
+* Al hacer puentes de cable: El primer interruptor termomagnético soporta la mayor carga por lo tanto tiene que ser el mayor.
 
 ### **3️⃣ Dimensionamiento de conductores**
 
@@ -370,7 +368,7 @@ Aquí te destaco los puntos más importantes de todo lo que se habló y le agreg
 
 ### **4️⃣ Distribución y confianza**
 
-* Para arreglos parciales: demostrar **mejora visible**, por ejemplo, cambiando cables o colocando una caja de paso que centralice la alimentación.
+* Para arreglos parciales: demostrar **mejora visible** en lugar de decir que está todo mal, por ejemplo, cambiando cables o colocando una caja de paso que centralice la alimentación.
 
 * Importancia de **ganar confianza del cliente** antes de cambiar sistemas completos, especialmente si la inversión es alta.
 
@@ -408,14 +406,6 @@ Aquí te destaco los puntos más importantes de todo lo que se habló y le agreg
 
      * Ganancia: 400 \- 300 \= 100 pesos.
 
-4. **Variaciones:**
-
-   * También se puede calcular sumando directamente: Costo \+ (Costo × %Ganancia).
-
-   * Ejemplo: 300 \+ (300 × 0,25) \= 300 \+ 75 \= 375 pesos.
-
-   * La diferencia depende de si se quiere calcular **ganancia sobre costo real** o sobre **precio final**.
-
 ---
 
 ## **📌 Mano de obra**
@@ -447,41 +437,6 @@ Aquí te destaco los puntos más importantes de todo lo que se habló y le agreg
 ---
 
 Puedo hacer un **modelo de tabla en Excel** donde pongas: material, costo, % de ganancia, precio final y mano de obra, para que tengas un **control completo de un proyecto eléctrico pequeño**. Esto sirve tanto para estudio como para trabajos reales.
-
-
-# Resumen por Grok
-
-### Puntos Principales sobre Instalaciones Eléctricas y Reglamentos
-
-
-- **Problemas con Neutro en Circuitos**: El neutro recibe la corriente de retorno de la línea más la generada por los consumidores, lo que lo hace propenso a sobrecargas y quemaduras. Se recomienda usar conductores de mayor sección en el neutro para evitar calentamiento, especialmente en circuitos con múltiples cargas.
-
-
-- **Tableros Eléctricos (Envolventes)**: Deben incluir interruptor termomagnético principal y disyuntor diferencial. Requieren un 20% de espacio de reserva para futuras expansiones. Tamaño de polos: 18 mm por polo. No se deben montar componentes directamente en las paredes laterales o posteriores sin soportes; usar perfiles DIN.
-
-
-- **Conexiones y Protecciones**: Las conexiones en tableros deben usar barras colectoras o borneras para distribuir cargas. Máximo 3 circuitos por puente de cable; para más, usar distribuidores. Interruptor termomagnético protege el conductor cortando antes de la corriente máxima. Conectar siempre por arriba, salvo excepciones justificadas.
-
-
-- **Distancias y Ubicaciones**: Tablero principal debe estar a no más de 2 m del medidor; si excede, se considera seccional y necesita interruptor adicional. Altura de instalación: borde inferior entre 1,20-1,40 m del piso. Espacio libre frontal: al menos 1 m para trabajar. No colocar en muebles, cerca de agua o gas.
-
-
-- **Materiales y Normas Actualizadas**: Usar cajas sintéticas (PVC) en lugar de metálicas. Conductores de alimentación igual o mayor sección que los protegidos (ej. mínimo 4 mm). Grado de protección IP54 para resistencia al agua y polvo. Identificar circuitos claramente (ej. "iluminación cocina") para uso no técnico.
-
-
-- **Medidores y Bajadas**: Puesto de medición monofásico con caño rígido interior metálico para refuerzo. Longitud de conductor: 3 m. Usar conectores bimetálicos antifraude para neutro. Fusibles protegen el medidor; en algunos casos, se reemplazan por termomagnéticos.
-
-
-- **Circuitos y Seguridad**: Todos los circuitos deben ser bipolares para evitar descargas por neutro común. Incluir símbolo de riesgo eléctrico (mínimo 40 mm). En edificios, tablero seccional por piso. Usar ojos de buey para indicar presencia de energía.
-
-
-- **Prácticas y Herramientas**: Calcular materiales lógicamente (conductores, cañerías). Usar herramientas como escaleras de fibra (no aluminio) para seguridad. En prácticas, graficar conexiones, medir alturas (ej. bocas a 1,10-1,30 m) y anotar herramientas necesarias.
-
-
-- **Ganancias y Costos en Trabajos**: Fórmula para precio final: Costo / (1 - % ganancia). Ej. costo 300 con 25% ganancia = venta a 400. Incluir mano de obra por hora (ayudante ~3000/h, oficial ~4200/h) y estudio de tiempos.
-
-
-- **Anecdotas y Lecciones**: Evitar tocar instalaciones ajenas sin fotos antes/después para responsabilidad. Demostrar cambios con evidencia para ganar confianza. Actualizar con reglamentos (ej. 2004, 2017) y anexos.
 
 
 # Clase que viene:

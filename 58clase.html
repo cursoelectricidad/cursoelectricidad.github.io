@@ -5,7 +5,7 @@
   <meta name="generator" content="pandoc">
   <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
   <meta name="author" content="Andrés Imlauer">
-  <title>Curso Electricidad – Clase Nº 58: [FOTOCOPIA Pasos para el calculo de materiales] Repaso concepto Tableros. Día de lluvia.</title>
+  <title>Curso Electricidad – Clase Nº 58: [FOTOCOPIA Pasos para el calculo de materiales] Repaso concepto Tableros. Calculo de ganancia sobre materiales. Día de lluvia.</title>
   <link rel="stylesheet" href="/global.css">
   <link rel="stylesheet" href="">
 <link rel="alternate" type="application/rss+xml" title="RSS Feed" href="/feed.xml"/>
@@ -15,7 +15,8 @@
 <header>
 <div class="title">
 <h1 class="title">Clase Nº 58: [FOTOCOPIA Pasos para el calculo de
-materiales] Repaso concepto Tableros. Día de lluvia.</h1>
+materiales] Repaso concepto Tableros. Calculo de ganancia sobre
+materiales. Día de lluvia.</h1>
 </div>
 <p class="author">Andrés Imlauer</p>
 <p class="date">19 Agosto 2025</p>
@@ -140,14 +141,6 @@ obra</strong></a></li>
 id="toc-planificación-práctica"><strong>📌 Planificación
 práctica</strong></a></li>
 </ul></li>
-<li><a href="#resumen-por-grok" id="toc-resumen-por-grok">Resumen por
-Grok</a>
-<ul>
-<li><a
-href="#puntos-principales-sobre-instalaciones-eléctricas-y-reglamentos"
-id="toc-puntos-principales-sobre-instalaciones-eléctricas-y-reglamentos">Puntos
-Principales sobre Instalaciones Eléctricas y Reglamentos</a></li>
-</ul></li>
 <li><a href="#clase-que-viene" id="toc-clase-que-viene">Clase que
 viene:</a>
 <ul>
@@ -181,8 +174,8 @@ le agrego emojis para hacerlo más claro y dinámico:</p>
 <div class="h"><h3 id="puntos-clave"><strong>📌 Puntos clave:</strong></h3><a aria-hidden="true" href="#puntos-clave">[link]</a></div>
 <ul>
 <li><p>🔌 <strong>Problemas de señal y equipos</strong>: se mencionó la
-falta de transformador y que algunos amplificadores ya no
-sirven.</p></li>
+falta de transformador para el modem/router y que algunos amplificadores
+ya no sirven.</p></li>
 <li><p>⚡ <strong>Sobrecargas y neutro</strong>: se habló de una
 sobrecarga que afectó varias casas y de por qué siempre se quema el
 neutro, destacando que es quien recibe toda la corriente
@@ -250,7 +243,7 @@ DIN.</p></li>
 <li><p>La <strong>alimentación de interruptores</strong> debe entrar
 <strong>por arriba</strong>.</p></li>
 <li><p>Si se hace por abajo, debe quedar indicado el motivo.</p></li>
-<li><p>Dentro del tablero <strong>no se permite usarlo como caja de
+<li><p>El tablero <strong>no se permite usarlo como caja de
 paso</strong> ❌.</p></li>
 </ul></li>
 <li><p>🧰 <strong>Conductores en tableros</strong>:</p>
@@ -266,8 +259,10 @@ nunca directamente dentro del tablero.</p></li>
 cortocircuitos</strong>.</p></li>
 <li><p>Debe cortar antes de que el conductor llegue a su límite de
 temperatura.</p></li>
-<li><p>La cooperativa (ej: ENERSA/ENOSA) a veces anula fusibles aéreos
-porque ya se cuenta con interruptor bipolar en el tablero.</p></li>
+<li><p>La cooperativa (ej: EMSA) a veces anula fusibles aéreos porque ya
+se cuenta con interruptor bipolar en el tablero y éste protege aguas
+arriba y aguas abajo pero no te protege el medidor, aunque el medidor
+aguante mucho amperage.</p></li>
 </ul></li>
 <li><p>💡 <strong>Sobre el medidor</strong>:</p>
 <ul>
@@ -319,18 +314,18 @@ problema lo hereda el que tocó último.</p></li>
 🚫.</p></li>
 <li><p>Debe haber <strong>1 m de espacio libre</strong> delante para
 trabajar cómodo.</p></li>
-<li><p>La tapa siempre puesta (los municipales muchas veces la sacan,
-mal hecho).</p></li>
+<li><p>La tapa siempre puesta (los municipales muchas veces la cierran
+mal, luego con la lluvia y el viento vuela la tapa).</p></li>
 <li><p>Símbolo de ⚡ <strong>riesgo eléctrico</strong> visible (mínimo
 40 mm de lado).</p></li>
 </ul></li>
 <li><p>🔌 <strong>Tablero principal y seccionales</strong>:</p>
 <ul>
-<li><p>El <strong>tablero principal</strong> va siempre a la entrada de
-la propiedad, después del medidor.</p></li>
-<li><p>Si la distancia entre <strong>medidor y tablero</strong> es
-<strong>≤ 2 m</strong>, ese tablero ya cuenta como principal → no hace
-falta otra térmica adicional.</p></li>
+<li><p>El <strong>tablero principal</strong> va siempre detrás del
+medidor.</p></li>
+<li><p>Si la distancia entre <strong>el tablero principal y tablero
+seccional</strong> es <strong>≤ 2 m</strong>, no hace falta otra térmica
+en el tablero seccional.</p></li>
 <li><p>Si la distancia es <strong>&gt; 2 m</strong>, entonces SÍ o SÍ
 debe haber una <strong>térmica de cabecera</strong> (interruptor
 principal) para protección de la línea.</p></li>
@@ -356,13 +351,9 @@ clase y experiencias:</strong></h2>
 <h3 id="seguridad-y-tablero-seccionalprincipal"><strong>1️⃣ Seguridad y
 tablero seccional/principal</strong></h3>
 <ul>
-<li><p>🏗️ Algunas empresas quieren <strong>ahorrarse el interruptor
-magnético</strong> en tableros seccionales, pero esto es un
-error.</p></li>
-<li><p>⚡ Un corto circuito en el trayecto largo puede <strong>no ser
-detectado</strong> si no hay protección, causando riesgo.</p></li>
-<li><p>🔹 Siempre hay que considerar <strong>diferencial e
-interruptores</strong> para sobrecarga y cortocircuito.</p></li>
+<li>🏗️ Algunas empresas quieren <strong>ahorrarse el interruptor
+magnético</strong> en tableros seccionales, esto está bien siempre y
+cuando haya una distancia menor a 2 metros.</li>
 </ul>
 <div class="h"><h3 id="tablero-con-ip54"><strong>2️⃣ Tablero con IP54</strong></h3><a aria-hidden="true" href="#tablero-con-ip54">[link]</a></div>
 <ul>
@@ -375,8 +366,8 @@ conexiones</strong></h3>
 <ul>
 <li><p>⚙️ Se usan borneras para empalmar y ajustar cables cortos según
 la sección.</p></li>
-<li><p>🔢 Identificación clara de <strong>circuitos</strong>:
-iluminación, tomas, aires, etc.</p></li>
+<li><p>🔢 Identificación clara de <strong>circuitos</strong> en el
+tablero(nombrar cada uno): iluminación, tomas, aires, etc.</p></li>
 <li><p>🧩 Dejar <strong>20% del tablero vacío</strong> para futuras
 ampliaciones.</p></li>
 <li><p>📝 Nomenclatura clara para que cualquier persona pueda
@@ -401,7 +392,9 @@ usando <strong>cambio de conexionado</strong> (estrella ↔︎ triángulo) y,
 si falta fase, un <strong>capacitor</strong> simula la fase
 faltante.</p></li>
 <li><p>⚠️ Conexión incorrecta → riesgo de quemar equipos, térmicas no
-protegen correctamente.</p></li>
+protegen: Un tipo haciendo una instalación trifásica se equivocó y tomó
+2 fases generando 380 voltios y quemó artefactos de la prima de
+Espeche.</p></li>
 <li><p>🛠️ Siempre revisar esquema y capacidad de corriente antes de
 alimentar un motor o equipo trifásico.</p></li>
 </ul>
@@ -444,10 +437,11 @@ que dificulta la instalación y mantenimiento.</p></li>
 <h3 id="indicadores-y-ojos-de-energía"><strong>3️⃣ Indicadores y “ojos de
 energía”</strong></h3>
 <ul>
-<li><p>💡 Instalar <strong>ojos de energía</strong> (LEDs) en la tapa
-del tablero para indicar que llega tensión a los circuitos.</p></li>
-<li><p>🔌 Para monofásico: un ojo; trifásico: un ojo por fase (3 o 4
-según el diseño).</p></li>
+<li><p>💡 Instalar <strong>ojos de energía</strong> (LEDs) (ojos de
+buey) en la tapa del tablero para indicar que llega tensión a los
+circuitos.</p></li>
+<li><p>🔌 Para monofásico: un ojo; trifásico: un ojo por fase
+(3).</p></li>
 <li><p>✅ Evita accidentes al manipular tableros con energía.</p></li>
 <li><p>⚠️ Asegurarse que el ojo sea compatible con el voltaje del
 circuito (220 V, 24 V, etc.).</p></li>
@@ -509,6 +503,8 @@ salida</strong>.</p></li>
 barra interconectada</strong>.</p></li>
 <li><p>🔧 Evitar múltiples puentes en un mismo interruptor, porque
 soportaría toda la carga y se quemaría.</p></li>
+<li><p>Al hacer puentes de cable: El primer interruptor termomagnético
+soporta la mayor carga por lo tanto tiene que ser el mayor.</p></li>
 </ul>
 <h3 id="dimensionamiento-de-conductores"><strong>3️⃣ Dimensionamiento de
 conductores</strong></h3>
@@ -597,8 +593,9 @@ actualizar instalaciones existentes.</p></li>
 confianza</strong></h3>
 <ul>
 <li><p>Para arreglos parciales: demostrar <strong>mejora
-visible</strong>, por ejemplo, cambiando cables o colocando una caja de
-paso que centralice la alimentación.</p></li>
+visible</strong> en lugar de decir que está todo mal, por ejemplo,
+cambiando cables o colocando una caja de paso que centralice la
+alimentación.</p></li>
 <li><p>Importancia de <strong>ganar confianza del cliente</strong> antes
 de cambiar sistemas completos, especialmente si la inversión es
 alta.</p></li>
@@ -642,15 +639,6 @@ pesos</strong></p>
 <li>Ganancia: 400 - 300 = 100 pesos.</li>
 </ul></li>
 </ul></li>
-<li><p><strong>Variaciones:</strong></p>
-<ul>
-<li><p>También se puede calcular sumando directamente: Costo + (Costo ×
-%Ganancia).</p></li>
-<li><p>Ejemplo: 300 + (300 × 0,25) = 300 + 75 = 375 pesos.</p></li>
-<li><p>La diferencia depende de si se quiere calcular <strong>ganancia
-sobre costo real</strong> o sobre <strong>precio
-final</strong>.</p></li>
-</ul></li>
 </ol>
 <hr />
 <div class="h"><h2 id="mano-de-obra"><strong>📌 Mano de obra</strong></h2><a aria-hidden="true" href="#mano-de-obra">[link]</a></div>
@@ -689,61 +677,6 @@ pongas: material, costo, % de ganancia, precio final y mano de obra,
 para que tengas un <strong>control completo de un proyecto eléctrico
 pequeño</strong>. Esto sirve tanto para estudio como para trabajos
 reales.</p>
-<div class="h"><h1 id="resumen-por-grok">Resumen por Grok</h1><a aria-hidden="true" href="#resumen-por-grok">[link]</a></div>
-<h3
-id="puntos-principales-sobre-instalaciones-eléctricas-y-reglamentos">Puntos
-Principales sobre Instalaciones Eléctricas y Reglamentos</h3>
-<ul>
-<li><p><strong>Problemas con Neutro en Circuitos</strong>: El neutro
-recibe la corriente de retorno de la línea más la generada por los
-consumidores, lo que lo hace propenso a sobrecargas y quemaduras. Se
-recomienda usar conductores de mayor sección en el neutro para evitar
-calentamiento, especialmente en circuitos con múltiples cargas.</p></li>
-<li><p><strong>Tableros Eléctricos (Envolventes)</strong>: Deben incluir
-interruptor termomagnético principal y disyuntor diferencial. Requieren
-un 20% de espacio de reserva para futuras expansiones. Tamaño de polos:
-18 mm por polo. No se deben montar componentes directamente en las
-paredes laterales o posteriores sin soportes; usar perfiles
-DIN.</p></li>
-<li><p><strong>Conexiones y Protecciones</strong>: Las conexiones en
-tableros deben usar barras colectoras o borneras para distribuir cargas.
-Máximo 3 circuitos por puente de cable; para más, usar distribuidores.
-Interruptor termomagnético protege el conductor cortando antes de la
-corriente máxima. Conectar siempre por arriba, salvo excepciones
-justificadas.</p></li>
-<li><p><strong>Distancias y Ubicaciones</strong>: Tablero principal debe
-estar a no más de 2 m del medidor; si excede, se considera seccional y
-necesita interruptor adicional. Altura de instalación: borde inferior
-entre 1,20-1,40 m del piso. Espacio libre frontal: al menos 1 m para
-trabajar. No colocar en muebles, cerca de agua o gas.</p></li>
-<li><p><strong>Materiales y Normas Actualizadas</strong>: Usar cajas
-sintéticas (PVC) en lugar de metálicas. Conductores de alimentación
-igual o mayor sección que los protegidos (ej. mínimo 4 mm). Grado de
-protección IP54 para resistencia al agua y polvo. Identificar circuitos
-claramente (ej. “iluminación cocina”) para uso no técnico.</p></li>
-<li><p><strong>Medidores y Bajadas</strong>: Puesto de medición
-monofásico con caño rígido interior metálico para refuerzo. Longitud de
-conductor: 3 m. Usar conectores bimetálicos antifraude para neutro.
-Fusibles protegen el medidor; en algunos casos, se reemplazan por
-termomagnéticos.</p></li>
-<li><p><strong>Circuitos y Seguridad</strong>: Todos los circuitos deben
-ser bipolares para evitar descargas por neutro común. Incluir símbolo de
-riesgo eléctrico (mínimo 40 mm). En edificios, tablero seccional por
-piso. Usar ojos de buey para indicar presencia de energía.</p></li>
-<li><p><strong>Prácticas y Herramientas</strong>: Calcular materiales
-lógicamente (conductores, cañerías). Usar herramientas como escaleras de
-fibra (no aluminio) para seguridad. En prácticas, graficar conexiones,
-medir alturas (ej. bocas a 1,10-1,30 m) y anotar herramientas
-necesarias.</p></li>
-<li><p><strong>Ganancias y Costos en Trabajos</strong>: Fórmula para
-precio final: Costo / (1 - % ganancia). Ej. costo 300 con 25% ganancia =
-venta a 400. Incluir mano de obra por hora (ayudante ~3000/h, oficial
-~4200/h) y estudio de tiempos.</p></li>
-<li><p><strong>Anecdotas y Lecciones</strong>: Evitar tocar
-instalaciones ajenas sin fotos antes/después para responsabilidad.
-Demostrar cambios con evidencia para ganar confianza. Actualizar con
-reglamentos (ej. 2004, 2017) y anexos.</p></li>
-</ul>
 <div class="h"><h1 id="clase-que-viene">Clase que viene:</h1><a aria-hidden="true" href="#clase-que-viene">[link]</a></div>
 <h3 id="ejercicio-práctico-para-la-próxima-clase">Ejercicio Práctico
 para la Próxima Clase</h3>
