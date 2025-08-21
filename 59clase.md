@@ -4,15 +4,15 @@
 
 #### Audio en Vocaroo:
 
-https://voca.ro/12ALfghCID5h
+[https://voca.ro/12ALfghCID5h](https://voca.ro/12ALfghCID5h)
 
 #### Audio en Archive:
 
-https://archive.org/details/record-228
+[https://archive.org/details/record-228](https://archive.org/details/record-228)
 
 #### Audio en YouTube:
 
-https://www.youtube.com/embed/siIzbl0KN5s
+[https://www.youtube.com/embed/siIzbl0KN5s](https://www.youtube.com/embed/siIzbl0KN5s)
 
 ![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiBJZozPnQlIzxv9AjLWiAPGInZioMSyF2HUm2GQuXPmABod7c8UoAc-bcYVzbeJvuGeGd1uLFDZP25ciGukQErk6bYcNq6O7o1GXkKE_Aqn8SVKKHuSGa3Altm_8OpyAtXlTvwmhqQbjm_Z8k3-t6yWzJ1a3oMsP-CwalwHK0UgXZl5DzkuhdjjMRgHaU/s4160/IMG_20250820_185833264.jpg)
 ![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiE7t3SvmXNQJ9NbDZK5yS1vpgUmC5nT2YKWAf6Uyi3LtC-CCR08JSvCiYPis9kAR2ZpXbhMLp-l4O0uSGBzqnYtVZ8F30cTS9idLj3-Kz4G1Nh5qJV02Fu_fVz36_lcfjAnZTb4JcL32qUXBl03vtKrnpIhVo3e_6jwIeiu4Vc2Erfpv5GfAdA9uCZJOU/s4160/IMG_20250820_191415894.jpg)
