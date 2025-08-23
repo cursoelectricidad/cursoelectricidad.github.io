@@ -13,7 +13,7 @@
 
 ##### Audio en YouTube:
 
-[https://www.youtube.com/watch?v=yvvxzv1NUcw](https://www.youtube.com/watch?v=yvvxzv1NUcw)
+[https://www.youtube.com/embed/yvvxzv1NUcw](https://www.youtube.com/embed/yvvxzv1NUcw)
 
 #### Los 2 PDFs que leímos en el proyector: 
 

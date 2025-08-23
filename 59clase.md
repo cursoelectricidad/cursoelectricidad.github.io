@@ -32,750 +32,742 @@
 # ChatGPT
 
 
-Perfecto 💡 Te resumo los **puntos más importantes** de lo que compartiste y te los destaco con emojis:
+Te destaco los puntos más importantes de la transcripción, separando lo técnico de lo anecdótico:
 
 ---
 
-### **📌 Puntos clave de la clase/notas:**
+### **📌 Puntos técnicos clave**
 
-* 🔲 **Primero se colocan las bocas** (tomacorrientes, interruptores, etc.) y después se hace la **canalización**.
+1. **Orden de trabajo en una instalación**
 
-* 📏 Las bocas se ubican **a 1 metro de la pared** y se distribuyen de manera uniforme.
+   * Primero se hace la **canalización**.
 
-* 🧰 Se trabajan **módulos (ej. 3 módulos)** para organizar tomas y llaves.
+   * Después se colocan los **conductores**.
 
-* 📐 Importante: **tomar medidas por tramo**, del inicio al final o viceversa.
+2. **Conocimiento previo necesario**
 
-* 🔌 En cada **caja de paso o toma** debe quedar conductor sobrante (el famoso **“puño” de cable** 👉 una vuelta de la mano).
+   * Antes de calcular conductores hay que **conocer los circuitos** (función, recorrido y derivaciones).
 
-* 🧮 Se debe **verificar la cantidad de conductores** en cada caño, ya que en los planos puede haber errores.
+3. **Recorrido por tramos**
 
-* 📊 Antes de calcular conductores es fundamental **conocer los circuitos** y su recorrido.
+   * Se debe planificar el cableado **por tramos** (ejemplo: 1-2, 2-3, 3-4…) para no perderse en el recorrido.
 
-* 📝 Se hace un **borrador del plano** antes de definir la instalación definitiva.
+4. **Errores en planos**
 
-* 🎯 El objetivo no es solo “saber de memoria” sino **entender la información** (evaluación oral \> copia escrita).
+   * Aunque los planos indiquen caños y conductores, pueden tener errores.
 
-* 💸 Se habló también del cálculo de **ganancia en materiales/obras** (ejemplo con 25%).
+   * Ejemplo: en un circuito con llave combinación deben ser **3 conductores** (no 2).
 
-* ⚠️ Problema común: **falta de coordinación entre rubros** (ej. aire acondicionado cambia tomas y desagües).
+5. **Bucle en las cajas (15 cm de reserva)**
 
-* ✅ Regla práctica: “Si querés cambiar algo fuera del proyecto original, **lo paga el que lo pide**”.
+   * En cada caja (paso, toma, etc.) hay que dejar **15 cm de conductor** como reserva para poder trabajar y hacer uniones cómodamente.
 
----
+   * Se hace un **bucle** con la mano como referencia.
 
-¿Querés que te arme un **mapa visual/esquema gráfico con emojis y flechas** para que te quede como chuleta rápida de repaso? 🔌📏📦
+6. **Colores y secciones de conductores**
 
-Perfecto 💡 Te resumo los **puntos más importantes** de lo que compartiste y te los destaco con emojis:
+   * **Rojo**: fase.
 
----
+   * **Azul**: neutro.
 
-### **📌 Puntos clave de la clase/notas:**
-
-* 🔲 **Primero se colocan las bocas** (tomacorrientes, interruptores, etc.) y después se hace la **canalización**.
-
-* 📏 Las bocas se ubican **a 1 metro de la pared** y se distribuyen de manera uniforme.
-
-* 🧰 Se trabajan **módulos (ej. 3 módulos)** para organizar tomas y llaves.
-
-* 📐 Importante: **tomar medidas por tramo**, del inicio al final o viceversa.
-
-* 🔌 En cada **caja de paso o toma** debe quedar conductor sobrante (el famoso **“puño” de cable** 👉 una vuelta de la mano).
-
-* 🧮 Se debe **verificar la cantidad de conductores** en cada caño, ya que en los planos puede haber errores.
-
-* 📊 Antes de calcular conductores es fundamental **conocer los circuitos** y su recorrido.
-
-* 📝 Se hace un **borrador del plano** antes de definir la instalación definitiva.
-
-* 🎯 El objetivo no es solo “saber de memoria” sino **entender la información** (evaluación oral \> copia escrita).
-
-* 💸 Se habló también del cálculo de **ganancia en materiales/obras** (ejemplo con 25%).
-
-* ⚠️ Problema común: **falta de coordinación entre rubros** (ej. aire acondicionado cambia tomas y desagües).
-
-* ✅ Regla práctica: “Si querés cambiar algo fuera del proyecto original, **lo paga el que lo pide**”.
-
----
-
-¿Querés que te arme un **mapa visual/esquema gráfico con emojis y flechas** para que te quede como chuleta rápida de repaso? 🔌📏📦
-
-Perfecto ⚡ Te destaco los **puntos más importantes** de este tramo de clase y te los ordeno con emojis:
-
----
-
-### **📌 Puntos técnicos:**
-
-* 🔄 **Dejar bucle de cable en cada caja** → siempre conviene dejar cable sobrante para futuras derivaciones o reparaciones.
-
-* 🔌 **Ejemplo de conductores**:
-
-  * 1,5 mm² 👉 iluminación (fase 🔴, neutro 🔵, tierra 🟢🟡).
-
-  * 2,5 mm² 👉 tomas (fase, neutro y tierra).
-
-* 🧩 **Identificación por colores**: rojo \= fase, azul \= neutro, verde/amarillo \= tierra.
-
-* 📐 **Trabajar por tramos**: medir y anotar desde la boca 1 → 2, de la 2 → 3, etc. para no perderse.
-
-* 📏 **Dejar 15 cm de cable sobrante** en cada caja para poder trabajar cómodos con uniones y cinta aisladora.
-
-* 🛠️ **Uniones seguras**:
-
-  * Hacerlas dentro de la caja de paso.
-
-  * Sujetar bien con cinta aisladora firme.
-
-  * Agregar cinta de protección por encima.
-
-* 🗂️ **Armar lista de materiales**: caños, cajas, conductores, conectores, herramientas.
-
-* 🏗️ **Trabajo práctico grupal**:
-
-  * Medir y marcar con tiza dónde va cada boca.
-
-  * Definir distancias y recorridos de canalización.
-
-  * Preparar lista de materiales antes de ejecutar.
-
-* 📋 **Organización**:
-
-  * Dividirse en grupos (2-3 personas trabajan, otros observan y luego rotan).
-
-  * Evitar que todos trabajen amontonados.
-
-* 🔲 **Uso de caja de paso grande** → facilita derivaciones y acomodo de conductores.
-
-* 🎯 Objetivo: **aprender paso a paso** a partir de práctica real, no solo teoría.
-
----
-
-¿Querés que te arme una **chuleta rápida con esquema visual de colores y medidas** 📐🔌📦 para que la uses de referencia cuando armes tus circuitos?
-
-Genial ⚡ Te resumo esta parte con los **puntos clave** y le agrego emojis para que quede más claro:
-
----
-
-### **📌 Puntos técnicos de la clase:**
-
-* 📏 **Cables sobrantes**: siempre dejar **15 cm extra** en cada caja para poder trabajar cómodo y hacer uniones seguras.
-
-* 🔌 **Conductores según uso**:
-
-  * 1,5 mm² 👉 iluminación (fase 🔴, neutro 🔵, tierra 🟢🟡).
-
-  * 2,5 mm² 👉 tomacorrientes.
-
-* 🎨 **Identificación por colores**:
-
-  * Rojo \= fase
-
-  * Azul \= neutro
-
-  * Verde/amarillo \= tierra
-
-* 🧮 **Cálculo por tramos**: anotar qué tipo, color y sección de conductor va en cada tramo de caño.
-
-* 🗂️ **Cajas de paso**: se usan para derivaciones y uniones, pero 🚫 el **tablero no puede usarse como caja de paso** (según reglamento AEA).
-
-* 🛠️ **Orden de instalación**:
-
-  * Fijar la caja 📦
-
-  * Medir 📏
-
-  * Definir recorrido de canalización ➡️
-
-  * Recién después pasar conductores.
-
-* 🏗️ **Ubicación de bocas**:
-
-  * Se colocan de manera **equidistante (mitad entre una y otra)**.
-
-  * Ejemplo: si hay tres bocas → una en cada extremo y otra justo en el medio.
-
-* 🧰 **Trabajo práctico grupal**:
-
-  * Tomar medidas en obra real con metro.
-
-  * Marcar en pared con tiza la posición de cada boca.
-
-  * Hacer lista de materiales (caños, cajas, conectores, conductores).
-
----
-
-👉 En síntesis: **primero cajas, luego medidas, después canalización y al final conductores**, siempre respetando colores, secciones y normativa.
-
-¿Querés que te arme un **mini esquema gráfico con dibujo de cajas, caños y colores de cables** para que te quede como guía visual rápida? 🎨📐🔌
-
-Perfecto ⚡ Te destaco los **puntos clave** de esta parte y le agrego emojis para que quede claro y fácil de repasar:
-
----
-
-### **📌 Puntos importantes:**
-
-* 📏 **Altura de bocas**:
-
-  * Se colocan a **1,10 m desde el piso** (altura estándar sobre mesada).
-
-  * En otros casos, se puede trabajar con **2,35 m** o medidas específicas según proyecto.
-
-* 🔄 **Regla de las curvas**:
-
-  * 🚫 No se permiten más de **3 curvas de 90°** seguidas en una misma canalización (dificulta el paso de conductores).
-
-  * ✅ Alternativa: usar **curvas de 45°** → dos de 45° equivalen a una de 90°, y se facilita el recorrido.
-
-* 🧱 **Obstáculos (columnas, vigas, paredes)**:
-
-  * Se deben sortear con curvas y canalización **respetando normativa AEA**.
-
-  * Evitar soluciones “estéticas” que compliquen el paso de cables.
-
-* 🛠️ **Técnica de instalación**:
-
-  * Marcar con tiza ✏️ la ubicación de bocas y canalizaciones.
-
-  * Tomar siempre medidas exactas y trabajar con referencias de centro/mitad.
-
-  * Verificar alineación de bocas y artefactos ⚖️ (tomas, interruptores, luminarias).
-
-* 📐 **Planificación**:
-
-  * Se puede trabajar con **plano en escala** o un croquis a mano ✍️ siempre que se tengan medidas reales.
-
-  * El objetivo es que las bocas queden **alineadas y proporcionadas**.
-
----
-
-👉 En síntesis:  
- **Colocación de bocas a alturas correctas \+ respeto de la norma de curvas \+ medir y alinear siempre antes de ejecutar la canalización.**
-
-¿Querés que te prepare una **chuleta visual de la norma de curvas (90° vs 45°)** con dibujitos y flechas? 🔄📏
-
-Perfecto ⚡ Te armo el **resumen con puntos clave** de este tramo, porque hay varias cosas mezcladas (mediciones, materiales y planificación). Te lo dejo ordenado con emojis:
-
----
-
-### **📌 Puntos importantes:**
-
-* 📏 **Mediciones y distancias**:
-
-  * Se midió la distancia entre placas: **84 \+ 85 \= 169 cm** (aprox).
-
-  * Otro tramo sumó valores hasta dar **335 cm**.
-
-  * Se ajustan medidas pensando en la ubicación de cajas y canalización.
-
-* 🗂️ **Materiales identificados**:
-
-  * 🔲 **Cajas octogonales** → varias, usadas para iluminación.
-
-  * ⬛ **Cajas rectangulares (5×10 cm)** → se mencionan **3 unidades**.
-
-  * 🔲 **Caja 10×10 cm** → ya existente (se marca como *“existente”* para no volver a comprar).
-
-  * 🧩 **Conectores** → se cuentan **3 unidades** (para unir caños).
-
-  * 🪝 **Ganchos** → también mencionados para fijar cañería.
-
-* 🔌 **Ubicación y existencia**:
-
-  * Todo lo que ya está instalado (caja, tablero, canalización previa) se marca como **“existente”** en la lista de materiales.
-
-  * Esto evita comprar doble y ayuda a identificar de dónde sale la alimentación.
-
-* 🔄 **Curvas y recorrido**:
-
-  * Se mencionan **4 curvas** en un tramo de 2,65 m (límite permitido según AEA es 3 curvas de 90° → si hay más, conviene usar de 45°).
-
-  * La caja octogonal (8 lados) permite derivaciones sin necesidad de tantas curvas.
-
-* 🛠️ **Orden de trabajo**:
-
-  * Ubicar conectores (caño de ¾”).
-
-  * Luego definir las curvas necesarias.
-
-  * Colocar las cajas (octogonales y rectangulares).
-
-  * Señalar en plano o lista lo que está **existente** y lo que falta comprar.
-
-* 🧠 **Objetivo de la práctica**:
-
-  * Activar el razonamiento y planificación antes de la ejecución.
-
-  * Practicar mediciones, cálculos y listado de materiales para proyectos más grandes.
-
----
-
-👉 En resumen:  
- Se midieron tramos, se identificaron cajas (octogonales y rectangulares), se listaron conectores y ganchos, se marcaron elementos **existentes**, y se planificó el recorrido respetando curvas y normativa.
-
-¿Querés que te arme un **esquema de lista de materiales tipo tabla** 📋 (con columnas: cantidad, tipo de caja, conectores, curvas, estado “existente/nuevo”)?
-
-Buenísimo, este tramo suma muchos detalles prácticos 👷⚡. Te lo ordeno en un **resumen con puntos clave** para que quede claro:
-
----
-
-### **📌 Puntos importantes:**
-
-* 🔽 **Bajada**:
-
-  * Se planifica una bajada desde la caja hasta una caja de paso/rectangular (5×10).
-
-  * Altura del toma: **1,10 m del piso**.
-
-  * Desde el techo (2,65 m) → resta 1,10 m → bajada de **1,55 m aprox.**
-
-* 🔲 **Cajas**:
-
-  * **Octogonales** (para iluminación).
-
-  * **Rectangulares 5×10** (para tomacorriente a 1,10 m).
-
-  * Tablero ya colocado con **2 termomagnéticas** (una para iluminación y otra para tomas).
-
-* ➰ **Curvas**:
-
-  * Se contaron **4 curvas de caño de ¾”** para resolver la bajada y el recorrido.
-
-  * Comentario del profe: conviene no exceder el uso de curvas de 90°, preferir usar recursos como uniones o derivaciones.
-
-* 🔗 **Conectores**:
-
-  * Al inicio había confusión (3, 4, 11, 12…).
-
-  * Se aclaró que **cada unión caño–caja necesita un conector**.
-
-  * Recuento final: entre **10 y 12 conectores** aprox.
-
-  * También se mencionó el uso de **coplas/uniones** para aprovechar recortes de caños.
-
-* ⚡ **Interruptores / llaves**:
-
-  * Se reafirma la nomenclatura:
-
-    * “Interruptores de un punto” \= lo que comúnmente llaman “llave de un punto”.
-
-* 📏 **Mediciones clave**:
-
-  * De la caja al primer octogonal: **0,75 m**.
-
-  * Bajada al toma: **2,65 – 1,10 \= 1,55 m**.
-
-  * Se ajustan medidas según disposición de paredes y tableros.
-
-* 🛠️ **Trabajo y práctica**:
-
-  * Se sugiere **reutilizar recortes de caños** para practicar con uniones.
-
-  * La idea es simular instalación completa: canalización, unión, conexión y puesta en marcha.
-
-  * Bromas de taller: *“el que conecte mal el tablero va a ser el responsable cuando explote”* → ejercicio para practicar responsabilidad en el conexionado.
-
----
-
-👉 En resumen:  
- Se planificó la **bajada al toma (1,10 m)**, se contaron **4 curvas** y unos **10–12 conectores**, se repasó la altura del tablero y las cajas, y se aclaró la nomenclatura de interruptores. Se enfatizó la importancia de reutilizar materiales, reflejar todo en el croquis y practicar uniones.
-
----
-
-¿Querés que te arme un **croquis esquemático** 📝 con las medidas (2,65 m techo, bajada 1,10 m, curvas, conectores, caja octogonal y 5×10) para que lo visualices mejor?
-
-Lo que estás repasando es una clase práctica sobre **tomas de medidas y ubicación de cajas** en instalaciones eléctricas. Te resumo los puntos clave para que quede más claro y no se mezcle la explicación:
-
-* Siempre se toma como referencia una **pared existente** porque no se va a modificar, y desde ahí se acotan las distancias.
-
-* La medida de referencia suele ser desde el **nivel de piso terminado hasta la base de la caja**.
-
-* Para interruptores se suele trabajar con **1,35 m de altura** desde el piso hasta la base de la caja.
-
-* Cuando se habla de 135 a la base, hay que restar el espesor de la caja (por ejemplo 10 cm) si se dan medidas hasta la parte superior.
-
-* Si la caja de paso está a 30 cm del techo y la caja mide 10 cm, se suman o restan esas distancias según se acote desde arriba o desde abajo.
-
-* Estéticamente, las cajas deben quedar alineadas con las ya existentes (misma altura y misma distancia a la pared lateral).
-
-* Antes de fijar la caja conviene colocar el **conector** y preparar los ganchos o soportes.
-
-* En canalizaciones embutidas, hay que prever curvas y conectores adicionales para llegar a las cajas de paso o tableros.
-
-* La práctica ayuda a fijar las medidas porque en papel puede parecer confuso, pero en obra se entiende mejor al presentar la caja físicamente.
-
-¿Querés que te arme un esquema gráfico simple con medidas de referencia para cajas de interruptores y de paso?
-
-Perfecto 👍 lo que estás transcribiendo es el **cálculo de canalización y metros lineales de cañería** con sus curvas y derivaciones. Te lo ordeno para que quede claro el procedimiento que se está usando:
-
----
-
-### **📐 Procedimiento paso a paso**
-
-1. **Medición de distancias**
-
-   * Se toman medidas entre cajas, bajadas y derivaciones (ej.: 0,75 m \+ 1,55 m, etc.).
-
-   * Si la medida da “rara” (ej. 1,13 m), se **redondea hacia arriba** (ej. 1,15 m) para que sobre material y no falte.
-
-2. **Suma de tramos lineales**
-
-   * Se suman todos los tramos (rectos \+ bajadas).
+   * **Verde-amarillo**: tierra.
 
    * Ejemplo:
 
-     * 0,75 m \+ 1,55 m \= 2,30 m
+     * Iluminación: 1,5 mm².
 
-     * más otra bajada de 0,30 m → total 2,60 m.
+     * Tomas: 2,5 mm².
 
-   * Ese cálculo se repite entre cada caja o tramo de caño.
+7. **Importancia de la longitud suficiente**
 
-3. **Consideración de cañería**
+   * Si los cables quedan muy cortos, los empalmes serán incómodos y peligrosos.
 
-   * Generalmente se usa **3/4” de PVC** (es estándar para tomas y luces).
+   * Siempre es mejor tener **longitud extra** para trabajar seguro.
 
-   * A veces desde el **tablero hasta la primera caja** se recomienda poner un diámetro mayor (ej. 1”) porque ahí van todos los cables juntos, y recién después se pasa a 3/4”.
+8. **Forma correcta de las uniones**
 
-4. **Curvas y conectores**
+   * Primero fijar bien el empalme con cinta aisladora con fuerza.
 
-   * Cada cambio de dirección \= una curva.
-
-   * Se anotan para saber cuántas comprar.
-
-   * Ejemplo: “4 curvas y 3 conectores de 3/4””.
-
-5. **Sección de conductores**
-
-   * Línea principal hasta las bocas: **2,5 mm²** (tomacorrientes).
-
-   * Derivaciones de iluminación: **1,5 mm²**.
-
-   * O sea:
-
-     * El 2,5 va desde tablero → cajas principales → se va ramificando.
-
-     * El 1,5 sólo recorre desde la caja hasta el punto de luz o la última octogonal.
+   * Luego aplicar otra vuelta de cinta para la aislación.
 
 ---
 
-👉 En resumen: lo que se estaba haciendo era un **relevamiento de canalización**, sumando **metros lineales de caño, número de curvas/conectores y longitudes de cable por sección (2,5 mm² y 1,5 mm²)**.
+### **📌 Puntos contextuales (comentarios del profesor)**
 
-¿Querés que te arme una **tabla de materiales estimados** con caños, curvas, conectores y cables en función de lo que estás copiando?
+* Dificultades de coordinación en obra con otros gremios (ej. aire acondicionado que quiere cambiar tomas).
 
-Perfecto, lo que estás transcribiendo ahora corresponde al **recorrido de los conductores dentro de la canalización**, sumando tramos y considerando empalmes. Te lo resumo y lo organizo para que quede claro:
+* El que solicita cambios debe hacerse cargo de los costos.
 
----
+* Reclamos a los alumnos por inasistencias y desorganización.
 
-### **🔹 Recorrido y cálculo de cables**
-
-1. **Inicio del recorrido**
-
-   * Se empieza desde la **última caja o tablero**, dependiendo de dónde se tome la alimentación.
-
-   * Para **tomas de corriente**, se usa cable de **2,5 mm²** (fase y neutro) \+ **tierra**.
-
-2. **Suma de tramos lineales**
-
-   * Ejemplo:
-
-     * Primer tramo: 0,15 m para empalme
-
-     * Segundo tramo: 1,55 m hasta la siguiente caja
-
-     * Tercer tramo: 0,15 m para empalme  
-        → Total: 0,15 \+ 1,55 \+ 0,15 \= 1,85 m
-
-   * Se repite este procedimiento entre cada caja o derivación.
-
-3. **Cables de colores y secciones**
-
-   * **2,5 mm²**: fase (rojo) y neutro (azul)
-
-   * **Tierra**: 2,5 mm² verde/amarillo
-
-   * Para iluminación se usaría **1,5 mm²**, pero en este tramo principal solo entra el 2,5 mm².
-
-4. **Empalmes y holguras**
-
-   * Siempre se dejan **0,15 m adicionales** en cada tramo para empalmes y conexiones dentro de la caja.
-
-   * Esto asegura que haya suficiente cable para conectar portalámparas o tomas sin tensión.
-
-5. **Repetición de tramos**
-
-   * Cuando un tramo es igual al anterior (misma distancia y cajas), se puede **multiplicar por dos** y anotarlo entre paréntesis.
-
-   * Esto facilita llevar el **total de metros de cable necesario** sin repetir todo manualmente.
+* Necesidad de organizarse mejor para avanzar en el curso.
 
 ---
 
-✅ En resumen: se están sumando **tramos lineales \+ empalmes \+ derivaciones**, organizando los cables por **sección y color**, asegurando holgura y anticipando empalmes.
+¿Querés que te arme un **resumen esquemático tipo apunte de clase** con numeración (ejemplo: 7\. Conductores → reglas principales) para que te quede listo para repaso de examen?
 
-Si querés, puedo hacer un **esquema gráfico del recorrido de los 2,5 mm²** con tramos y empalmes, que te permita visualizar todo como un croquis práctico. Esto ayuda mucho para calcular **metros totales y planificar la obra**.
-
-¿Querés que haga ese esquema?
-
-Perfecto, acá se está detallando **cómo calcular los recorridos de los cables** en una instalación doméstica considerando tramos, empalmes y holguras. Te lo organizo y aclaro paso a paso:
+Perfecto, esta parte de la transcripción se centra en un **trabajo práctico de instalación domiciliaria**. Te destaco lo más importante y lo paso a **formato de apunte** para que te quede claro:
 
 ---
 
-### **🔹 Recorrido y cálculo de cableado (resumen)**
+### **📌 Puntos técnicos principales de la clase**
 
-1. **Tipo de cable y secciones**
+1. **Objetivo del trabajo práctico**
 
-   * **2,5 mm²**: para tomacorrientes (fase y neutro) \+ tierra.
+   * Armar **lista de materiales** (canalización \+ conductores).
 
-   * **1,5 mm²**: para iluminación.
+   * Hacer **croquis** con medidas y ubicación de bocas, tomas y tablero.
 
-2. **Sumatoria de tramos**
+   * Ejecutar la **instalación práctica**: canalización, paso de conductores, derivaciones, tableros y portalámparas.
 
-   * Se suman **tramos lineales** entre cajas, incluyendo empalmes:
+2. **Secuencia de trabajo**
 
-     * Ejemplo: 0,15 m (holgura empalme) \+ 0,75 m (tramo hasta la caja siguiente) \= 0,90 m.
+   * Croquis → tomar medidas.
 
-   * Cada tramo que se repite (misma bajada o mismo recorrido) se **multiplica por la cantidad de tramos idénticos**.
+   * Marcar en la pared con **tiza** la ubicación de bocas y tomas.
 
-3. **Holguras y empalmes**
+   * Definir **distancias**.
 
-   * Siempre se dejan **0,15 m adicionales** para empalmes dentro de cada caja.
+   * Hacer la **lista de materiales** (caños, curvas, conectores, cajas, conductores, etc.).
 
-   * En tablero principal también se deja **sobrante de 0,15 m** para conexiones seguras.
+   * Comprar o conseguir materiales.
 
-4. **Recorridos múltiples y colores**
+   * Dividirse en grupos: algunos trabajan y otros observan → todos deben practicar.
 
-   * Para tomacorrientes: fase (rojo), neutro (azul) y tierra (verde/amarillo).
+3. **Elementos de la práctica**
 
-   * Cuando se repite la bajada para más tomas, se **multiplica el tramo lineal** por la cantidad de conductores.
+   * **Tablero seccional** ya existente.
 
-   * Para iluminación, se hace un cálculo similar pero con cable de **1,5 mm²**.
+   * Una **caja de paso**.
 
-5. **Cálculo final del cable**
+   * Una **caja con 3 llaves de 1 punto** (para 3 bocas de iluminación).
 
-   * Se suman **todos los tramos lineales \+ empalmes \+ holguras**.
+   * Tomas a diferentes alturas, uno con **derivación** hacia otro.
 
-   * Esto da la **longitud total de cable necesaria** por circuito.
+   * Portalámparas (hechos por alumnos nuevos).
 
-   * Ejemplo: un tramo principal de tomacorrientes puede ser:
+4. **Conductores (ítem 7 de la lista de materiales, faltante en el apunte anterior)**
 
-     * 0,15 \+ 0,75 \+ 0,15 \= 1,05 m
+   * Deben calcularse **por tramos** \+ **15 cm extra en cada caja**.
 
-     * Repetido para otra toma: 1,05 × 2 \= 2,10 m
+   * Especificar **sección y color**:
 
-     * Agregar cable sobrante en el tablero: \+0,15 m
+     * 1,5 mm² → iluminación.
 
-     * Total: 2,25 m.
+     * 2,5 mm² → tomas.
 
-6. **Consideraciones prácticas**
+     * Colores: rojo (fase), azul (neutro), verde-amarillo (tierra).
 
-   * Se toma como referencia **la pared existente** para medir las distancias y asegurar que las cajas queden alineadas.
+   * Hacer el recorrido completo y **sumar tramos** para saber cuánto comprar de cada conductor.
 
-   * Siempre redondear **hacia arriba** si queda un tramo intermedio (ej: 0,13 → 0,15 m).
+5. **Organización de la práctica**
 
-   * Cada tramo se documenta para que el croquis refleje la realidad de la instalación.
+   * Trabajo en grupos de 3-4 personas.
 
----
+   * No todos al mismo tiempo para evitar desorden.
 
-Si querés, puedo armarte **un esquema tipo croquis con todos los tramos de 2,5 mm² y 1,5 mm²**, incluyendo empalmes, holguras y multiplicaciones, para que tengas una **guía visual completa de la instalación**. Esto facilita mucho la planificación y compra de materiales.
-
-¿Querés que haga ese croquis?
-
-Perfecto, te hago un **resumen organizado de todo lo que se estaba explicando**, porque la clase tiene mucho contenido práctico y no siempre se entiende al vuelo. Lo voy a dividir en **secciones clave**:
+   * Objetivo: que **todos los alumnos sepan hacer cada parte** del proceso.
 
 ---
 
-## **1️⃣ Recorrido de cables y cálculo de tramos**
+👉 En síntesis, lo más importante es:
 
-* **Cables utilizados**:
+* **Saber armar la lista de materiales completa (incluyendo conductores).**
 
-  * **2,5 mm²**: tomacorrientes (fase, neutro y tierra).
+* **Hacer croquis con medidas y marcas en pared.**
 
-  * **1,5 mm²**: iluminación (fase y neutro, tierra compartida).
+* **Ejecutar la instalación por tramos, dejando siempre 15 cm de reserva en cajas.**
 
-* **Holguras y empalmes**:
-
-  * Siempre dejar **0,15 m** de sobrante para empalmes dentro de cada caja.
-
-  * Sobrar **0,15 m en el tablero** también para conexiones.
-
-* **Suma de tramos**:
-
-  * Se suman todos los tramos lineales entre cajas y empalmes.
-
-  * Si se repite un tramo (misma bajada para varios cables), **se multiplica por la cantidad de conductores** que pasan por ahí.
-
-  * Ejemplo: tramo de 2,35 m × 2 (dos retornos) \+ empalmes 0,15 m cada uno \= longitud final para ese tramo.
+* **Aplicar colores y secciones de conductores según normativa.**
 
 ---
 
-## **2️⃣ Organización de la instalación**
+¿Querés que te prepare un **modelo de lista de materiales tipo plantilla** (con caños, cajas, conductores, etc.) para que solo le completes cantidades según cada práctica?
 
-* **Secuencia**:
-
-  * Colocar cajas en las alturas y distancias correctas.
-
-  * Fijar la canalización (caños) antes de pasar los cables.
-
-  * Añadir curvas y uniones según el recorrido.
-
-  * Verificar que haya **soportes y rampas** para que los caños queden fijos y no se muevan.
-
-* **Distancias de referencia**:
-
-  * Se toma siempre la **pared existente** como base para medir.
-
-  * Se asegura que las cajas estén alineadas y a la altura correcta (ej: 135 cm desde el piso para interruptores).
-
-* **Fijación**:
-
-  * Tornillos, tarugos y brocas adecuados según el tipo de pared o madera.
-
-  * Rampas cada tramo para sostener caños, sobre todo en bajadas y curvas.
+Buenísimo. Esta parte de la clase se enfoca mucho en **normativa, canalización y criterios de instalación práctica**. Te destaco lo más importante como **apunte técnico resumido**:
 
 ---
 
-## **3️⃣ Alimentaciones y retornos**
+## **📌 Puntos técnicos clave**
 
-* **Tomacorrientes**:
+### **1\. Tablero seccional**
 
-  * Fase (rojo), neutro (azul), tierra (verde/amarillo).
+* **No se puede usar como caja de paso** (reglamentación).
 
-  * Los retornos se suman al calcular la longitud del cable.
+* En el tablero solo:
 
-  * El cable principal 2,5 mm² llega hasta cada caja, de ahí salen los retornos.
+  * Se hace la **derivación de alimentación**.
 
-* **Iluminación**:
+  * Se conecta la **fase inicial** para los circuitos.
 
-  * Cable 1,5 mm², se repite el mismo cálculo con empalmes y sobrantes.
-
-  * Tierra compartida con el circuito de tomacorrientes.
-
-* **Tablero**:
-
-  * Dejar holgura extra de 0,15 m.
-
-  * La alimentación puede salir de un tramo independiente para diferenciar lo existente de lo nuevo.
+* Los empalmes se hacen en **cajas de paso u octogonales**, nunca dentro del tablero.
 
 ---
 
-## **4️⃣ Materiales y herramientas**
+### **2\. Uso de cajas**
 
-* **Materiales**: caños, curvas, uniones, cajas, conectores, portalamparas, tomacorrientes, interruptores de un punto o dobles, tapas y bastidores.
+* **Caja de paso**: se usa para hacer las derivaciones.
 
-* **Herramientas**: alicate, pinza, cuchillo, taladro, broca, tarugo, tornillos, escalera.
+* **Cajas octogonales**: sirven como cajas de paso en el techo para empalmes.
 
-* **Recomendación práctica**:
-
-  * Primero colocar cajas y canalización.
-
-  * Luego fijar curvas, uniones y rampas.
-
-  * Finalmente pasar cables y hacer conexiones.
+* **Primero se fijan todas las cajas** → recién después se planifica la canalización y conductores.
 
 ---
 
-## **5️⃣ Consejos generales de la práctica**
+### **3\. Canalización**
 
-* Hacer **todo despacio** y verificar medidas antes de cortar cables.
+* Se debe buscar el recorrido más **práctico, seguro y reglamentario**.
 
-* Seguir la **normativa de distancia entre soportes y canalizaciones**.
+* Aplicar criterio para que la instalación quede ordenada y funcional.
 
-* Documentar recorridos y longitudes para **hacer el croquis y cotizado**.
-
-* La práctica refuerza la comprensión de por qué se coloca cada caja y cable en su posición.
+* **Regla importante:** no más de **3 curvas por caño** (si se supera, es incorrecto según normativa y dificulta el cableado).
 
 ---
 
-Si querés, puedo hacer un **diagrama paso a paso tipo croquis**, con **las cajas, bajadas, curvas, caños y longitud de cables**, tal como lo explica el profesor, para que tengas una guía visual clara para la práctica.
+### **4\. Empalmes y derivaciones**
 
-¿Querés que haga ese croquis?
+* Los empalmes van en **cajas de paso/octogonales**.
 
+* Del tablero solo se toma **fase y alimentación general**.
+
+* Se deben dejar **15 cm de reserva en cada caja** para trabajar con comodidad.
+
+---
+
+### **5\. Ubicación de bocas y tomas**
+
+* Se marcan con **medidas y referencias** (mitades de paños, machimbres, alineaciones).
+
+* Tomas a altura estándar → aprox. **1,10 m** (como una mesada).
+
+* Bocas distribuidas de manera equidistante para iluminación pareja.
+
+---
+
+### **6\. Organización del trabajo práctico**
+
+1. Medir y marcar (con metro, tiza o referencias de obra).
+
+2. Fijar las cajas.
+
+3. Definir el recorrido de caños.
+
+4. Revisar que no haya más de 3 curvas en cada tramo.
+
+5. Recién después pasar conductores.
+
+---
+
+👉 En resumen:
+
+* **Nunca usar tablero como caja de paso.**
+
+* **Primero cajas → después canalización.**
+
+* **Empalmes en cajas de paso/octogonales, con reserva de 15 cm.**
+
+* **Máximo 3 curvas por caño.**
+
+* **Tomas a 1,10 m de altura aprox.**
+
+* **Bocas distribuidas con criterio ortogonal y referencias claras.**
+
+---
+
+¿Querés que te arme un **esquema visual simple en un croquis** (tablero → caja de paso → llaves → bocas) para que te quede como ejemplo gráfico de esta parte de la clase?
+
+Excelente aporte 👌.  
+ Esta parte de la clase se concentra en **normativa de curvas, medidas, croquis y lista de materiales**. Te lo sintetizo en **apunte técnico con puntos clave**:
+
+---
+
+## **📌 Puntos principales de la clase**
+
+### **1\. Normativa sobre curvas en canalización**
+
+* **Prohibido hacer más de 3 curvas por tramo de caño** (reglamento).
+
+* Ejemplo incorrecto: 4 curvas de 90°.
+
+* Solución alternativa: usar **curvas de 45°** → dos de 45° equivalen a una de 90°.
+
+* Aunque queda menos estético, cumple norma y facilita el cableado.
+
+---
+
+### **2\. Alturas y distancias de referencia**
+
+* Tomas de uso general: **1,10 m desde el piso** (altura tipo mesada).
+
+* Medidas de bocas y distancias tomadas con metro → ejemplo:
+
+  * Boca a pared: 0,40 m.
+
+  * Entre cajas: 2,50 m → ajustado a 3,35 m para evitar curvas extra.
+
+* **Criterio ortogonal**: se busca que los recorridos y cajas queden alineados.
+
+---
+
+### **3\. Croquis y planificación**
+
+* Siempre hacer un **croquis a mano con medidas reales**.
+
+* Se puede usar plano en escala, pero el croquis práctico sirve para definir distancias y materiales.
+
+* **Primero ubicar las cajas**, luego planificar caños, curvas y conectores.
+
+---
+
+### **4\. Lista de materiales (ejemplo práctico armado en clase)**
+
+* **Cajas octogonales:** 3 (en cielorraso).
+
+* **Ganchos U:** para fijar las cajas en el cielorraso.
+
+* **Cajas rectangulares 5x10:** 3 (2 tomacorrientes \+ 1 llave de 3 puntos).
+
+* **Caja 10x10:** existente.
+
+* **Tablero seccional:** existente (se aclara en ampliaciones para no duplicar compra).
+
+* **Curvas de ¾”:** 4 (según recorrido).
+
+* **Conectores de ¾”:** 12\.
+
+* **Caños de ¾”:** calcular el total según tramos medidos.
+
+---
+
+### **5\. Método de trabajo en práctica**
+
+1. **Medir y marcar** en obra (altura, distancias, referencias).
+
+2. **Ubicar las cajas** (octogonales y rectangulares).
+
+3. **Contar accesorios**: conectores, curvas, ganchos.
+
+4. **Calcular longitud de caños**.
+
+5. **Armar lista de materiales completa**.
+
+---
+
+👉 En síntesis:
+
+* **No más de 3 curvas por tramo (usar 45° si es necesario).**
+
+* **Altura de tomas estándar: 1,10 m.**
+
+* **Primero cajas → después canalización.**
+
+* **Croquis con medidas reales \= base de la lista de materiales.**
+
+* **Ejemplo práctico dado: 3 cajas octogonales \+ 3 rectangulares \+ 4 curvas ¾ \+ 12 conectores ¾.**
+
+---
+
+¿Querés que te arme un **modelo de croquis esquemático en dibujo simple** (tablero → caja de paso → bocas y tomas) para que visualices este ejemplo práctico de clase?
+
+Vale, te armo un **resumen técnico con medidas y puntos clave** de lo que se conversó en la clase para que quede claro:
+
+---
+
+## **📐 Medidas y alturas de referencia**
+
+* **Altura del cielo raso**: 2,65 m.
+
+* **Altura tomacorriente**: 1,10 m desde el piso.
+
+  * Distancia desde toma hasta cielo raso: 2,65 – 1,10 \= **1,55 m**.
+
+* **Altura tablero**: 1,35 m desde el piso (se mide desde la base).
+
+* **Altura caja de interruptores (5x10)**: 1,35 m (igual al tablero).
+
+* **Caja de paso 10x10**: ubicada a 0,30 m del cielo raso.
+
+  * Distancia desde techo hasta base de caja: 0,30 \+ 0,10 \= **0,40 m**.
+
+* **Distancias laterales de referencia**:
+
+  * De pared a caja: 0,35 m ≈ 0,40 m (se redondea).
+
+  * De caja a primera octogonal: 0,75 m.
+
+  * De boca a pared hay que sumar \+0,30 m.
+
+---
+
+## **🔧 Conectores y cañerías**
+
+* Cada caja (octogonal, cuadrada, de paso) se conecta siempre con **1 conector por caño**.
+
+* En el pizarrón: **12 conectores de 3/4”**.
+
+* Se usan **caños nuevos**, excepto el caño existente del tablero que ya tiene alimentación.
+
+* Importante: antes de fijar la caja hay que colocar los **conectores** (arriba, abajo y laterales según corresponda).
+
+---
+
+## **📦 Cajas y canalización**
+
+* **Octogonales**: instaladas en cielo raso, desde ahí bajan caños a tomas e interruptores.
+
+* **Caja 5x10 de interruptores**: se coloca a 1,35 m de altura.
+
+* **Caja de paso 10x10**: a 0,30 m del cielo raso → 0,40 m desde techo hasta la base.
+
+* Conexiones con curvas de 90° y uso de **cuplas/uniones** para aprovechar recortes de caño.
+
+---
+
+## **⚡ Circuitos**
+
+* Tablero existente con **2 termomagnéticos**:
+
+  * 1 para iluminación.
+
+  * 1 para tomacorrientes.
+
+* Alimentación **sube desde el tablero a la caja de paso** y desde ahí se distribuyen los circuitos.
+
+* Los **retornos** se derivan desde la caja de paso.
+
+---
+
+## **📏 Recomendaciones de trabajo**
+
+* Siempre tomar como **base una pared existente** para medir.
+
+* Antes de pasar cables:
+
+  1. Colocar cajas con conectores.
+
+  2. Armar canalización con curvas/uniones.
+
+  3. Sujetar con **gancho U**.
+
+* Luego: pasar conductores → hacer uniones → armar portalámpara.
+
+---
+
+¿Querés que te organice esto en un **esquema de plano simplificado con cotas** (tipo dibujo en cuadriculado con medidas y cajas), o preferís que lo deje como lista de pasos para que lo uses en tu cuaderno?
+
+¡Perfecto\! Te dejo un **apunte técnico súper claro** con lo esencial y un mini-método de cálculo para que lo puedas repetir en obra o examen.
+
+---
+
+# **📌 Regla de oro (normativa)**
+
+* **El tablero seccional NO es caja de paso.**  
+   Alimentás desde el tablero hacia la **caja de paso** y todas las derivaciones/empalmes se hacen en **cajas de paso u octogonales**.
+
+* **Máx. 3 curvas por tramo** de caño. Si necesitás más, reemplazá 90° por **dos de 45°** (cumple norma, aunque estética discutible).
+
+---
+
+# **📐 Alturas y distancias usadas**
+
+* **Cielorraso:** 2,65 m
+
+* **Toma:** 1,10 m → bajada \= 2,65 − 1,10 \= **1,55 m**
+
+* **Tablero / Llaves 5×10:** 1,35 m
+
+* **Caja de paso 10×10:** 0,30 m bajo el cielorraso → base a 0,40 m del techo
+
+* **Distancias laterales típicas:** pared ↔ caja 0,40 m (redondeo), caja ↔ 1ª octogonal 0,75 m
+
+* **Ejemplo entre octogonales:** 2,35 m y 3,35 m (ajuste para evitar curvas extra)
+
+---
+
+# **🛠️ Materiales (ejemplo del ejercicio)**
+
+* **Caños ¾"**: recorrido total ≈ **11,35 m** → redondeo a **12 m** → **4 caños** (de 3 m c/u).
+
+* **Curvas ¾"**: **4** (considerando las dos bajadas a tomas y otras dos en recorrido).
+
+* **Conectores ¾"**: **12** (1 por cada entrada de caño en caja).
+
+* **Cajas**:
+
+  * Octogonales: 3
+
+  * Rectangulares 5×10: 3 (2 tomas \+ 1 llave de 3 puntos)
+
+  * 10×10 (de paso): existente
+
+  * Tablero seccional: existente
+
+* **Fijación**: ganchos “U” para cielorraso.
+
+---
+
+# **⚡ Conductores (criterio y colores)**
+
+* **Iluminación:** 1,5 mm² (rojo \= fase/retornos, azul \= neutro, verde/amarillo \= tierra).
+
+* **Tomas:** 2,5 mm² (rojo/azul/verde-amarillo).
+
+* **Reserva en cajas:** **15 cm** en TODAS las cajas (aunque sea la última octogonal).
+
+**Idea de reparto (lo visto en clase):**
+
+* Del tablero sube **alimentación** a caja de paso.
+
+* A tomas va el **2,5 mm²** a lo largo del recorrido (la iluminación 1,5 mm² solo hasta donde corresponde; no siempre sigue todo el tramo).
+
+* **Retornos** de iluminación: se agregan por tramos (p.ej., “2×1,5 mm²”, luego “3×1,5 mm²” cuando se suma otro retorno), siempre respetando capacidad del caño según tabla.
+
+---
+
+# **🧮 Método rápido para calcular caños (plantilla)**
+
+1. **Listá tramos** en metros (sumá horizontales \+ bajadas):
+
+   * Caja de paso → llave 5×10: **1,00**
+
+   * Caja de paso → Octogonal 1: **0,75**
+
+   * Octogonal 1 → Octogonal 2: **2,35**
+
+   * Octogonal 2 → Octogonal 3: **3,35**
+
+   * Ajustes a pared/alineación: **0,40 \+ 0,40**
+
+   * Bajadas a tomas: **1,55 \+ 1,55**  
+      **Total** \= **11,35 m** → redondeá **12 m**
+
+2. **Dividí por 3** (largo de cada caño) → **4 caños**.
+
+3. **Contá curvas** (ojo con el máximo) → en el ejemplo, **4**.
+
+4. **Conectores**: 1 por entrada del caño en cada caja → **12**.
+
+✔️ **Regla de seguridad**: si una medida te queda “en el medio”, **redondeá para arriba** (ej.: 0,13 → 0,15). Siempre dejá margen.
+
+---
+
+# **✅ Pasos de ejecución (orden recomendado)**
+
+1. **Croquis con cotas** (tomá pared como referencia).
+
+2. **Fijá todas las cajas** (colocando previamente los **conectores** necesarios).
+
+3. **Canalización**: caños, curvas, uniones/cuplas, ganchos U.
+
+4. **Verificá curvas** (≤ 3 por tramo).
+
+5. **Pasá conductores por tramos**, dejando 15 cm en cada caja.
+
+6. **Empalmes** en cajas (no en tablero), armá portalámparas y probá.
+
+---
+
+Si querés, te preparo una **planilla imprimible** para que completes: tramos, longitudes, caños, curvas, conectores y conductores (con colores y secciones), así la usás cada vez que hagas listas de materiales.
+
+¡Bien ahí\! La cuenta y el método están **correctos**. Te lo dejo ordenado para que quede como apunte final del **cable 2,5 mm² (tomas)**:
+
+---
+
+# **📐 Cálculo de longitud para 2,5 mm² (fase, neutro y tierra)**
+
+**Datos base**
+
+* Cielorraso: 2,65 m
+
+* Toma: 1,10 m → bajada \= 1,55 m
+
+* Reserva por caja: **0,15 m** (en TODAS las cajas)
+
+* Recorridos horizontales dados: 0,75; 2,35; 3,35; 0,40; 0,40 m
+
+* Tramo caja de paso ⇄ tablero: 1,00 m (en el pizarrón dio 0,95 m; se permite margen)
+
+**Estructura del cálculo (un solo conductor):**
+
+(0,15+1,55+0,40+0,15)×2  +  3,35+0,15+2,35+0,15+0,75+0,30+0,15+1,00+0,15=12,85  m(0{,}15 \+ 1{,}55 \+ 0{,}40 \+ 0{,}15)\\times 2 \\;+\\; 3{,}35 \+ 0{,}15 \+ 2{,}35 \+ 0{,}15 \+ 0{,}75 \+ 0{,}30 \+ 0{,}15 \+ 1{,}00 \+ 0{,}15 \= \\mathbf{12{,}85\\; m}
+
+* El **×2** al inicio es por las **dos bajadas** iguales (cada una con reserva arriba y abajo).
+
+* El resto son los tramos horizontales \+ reservas en cada caja que toca el recorrido.
+
+**Conclusión:**
+
+* **Longitud por color (rojo / azul / verde-amarillo):** **12,85 m** cada uno.
+
+* **Compra práctica (con margen):** **15 m por color** está perfecto (sobrante útil para correcciones y reservas).
+
+Nota: Esto aplica solo al **circuito de tomas (2,5 mm²)**. El **1,5 mm² (iluminación)** se calcula aparte, por tramos y retornos, y **no** siempre recorre todo como el 2,5.
+
+---
+
+## **✅ Checklist rápido para no olvidarte**
+
+* Contar **todas las reservas** (0,15 m) por cada caja involucrada.
+
+* Duplicar los tramos que **se repiten** (p. ej., dos bajadas iguales → ×2).
+
+* Sumar horizontales \+ bajadas.
+
+* Redondear **hacia arriba** para compra.
+
+* Repetir la misma longitud para **rojo, azul y tierra** en 2,5 mm².
+
+Si querés, te armo una **plantilla imprimible** donde solo completes los tramos y te calcula automáticamente los metros por conductor y la cantidad a comprar.
+
+Perfecto 🙌. Lo que tenés es casi la transcripción completa de la **clase práctica de cálculo de caños, bocas y cableado**. Te lo ordeno en forma de **apunte/resumen** para que quede claro qué salió del cálculo y qué es lo que hay que llevar como materiales y herramientas:
+
+---
+
+# **📘 Apunte de clase – Cálculo de cableado**
+
+## **🔌 Cables de 2,5 mm² (tomacorrientes)**
+
+* Se calcularon **todos los tramos con reservas de 0,15 m** en cada caja y tablero.
+
+* Fórmula completa:
+
+(0,15+1,55+0,40+0,15)×2+3,35+0,15+2,35+0,15+0,75+0,30+0,15+1,00+0,15=12,85 m(0,15 \+ 1,55 \+ 0,40 \+ 0,15) \\times 2 \+ 3,35 \+ 0,15 \+ 2,35 \+ 0,15 \+ 0,75 \+ 0,30 \+ 0,15 \+ 1,00 \+ 0,15 \= 12,85 \\, m
+
+👉 **Resultado por conductor**: **12,85 m**  
+ 👉 **Compra práctica**: **15 m de rojo, 15 m de azul, 15 m de verde/amarillo (tierra)**.  
+ *(no sumar todo junto, se piden por separado en la lista de materiales)*
+
+---
+
+## **💡 Cables de 1,5 mm² (iluminación)**
+
+* El neutro (azul) recorre una sola vez.
+
+* La fase (rojo) se duplica porque incluye **retornos** de interruptores.
+
+* Tierra se mantiene con el **verde/amarillo de 2,5 mm²**.
+
+**Cálculos:**
+
+* **Rojo 1,5 mm²:**
+
+0,15+3,35+0,15+2,35+2,35+0,15+0,15+1+0,30+0,75=10,70 m0,15 \+ 3,35 \+ 0,15 \+ 2,35 \+ 2,35 \+ 0,15 \+ 0,15 \+ 1 \+ 0,30 \+ 0,75 \= 10,70 \\, m
+
+* **Azul 1,5 mm²:**
+
+0,15+3,35+0,15+2,35+0,15+0,15+1+0,30+0,75=8,35 m0,15 \+ 3,35 \+ 0,15 \+ 2,35 \+ 0,15 \+ 0,15 \+ 1 \+ 0,30 \+ 0,75 \= 8,35 \\, m
+
+👉 **Compra práctica**:
+
+* **Rojo 1,5 mm²:** 12 m
+
+* **Azul 1,5 mm²:** 10 m
+
+---
+
+## **🧰 Herramientas necesarias**
+
+* Alicate y pinza
+
+* Taladro \+ mechas
+
+* Tarugos y tornillos (tarugo Ø8 con tornillo 8 mm)
+
+* Tornillos de madera (para cielorraso/madera)
+
+* Prolongador (alargue)
+
+* Abrazaderas / grampas (mínimo 1 por metro de caño y en cada curva/bajada)
+
+* Destornilladores
+
+* Escalera chica
+
+---
+
+## **⚡ Material eléctrico**
+
+* Caños \+ curvas/uniones
+
+* Cajas 5×10, cajas octogonales
+
+* Bastidores \+ tapas \+ módulos (tomacorrientes, teclas, puntos ciegos)
+
+* Interruptores de 1 y 3 puntos
+
+* Tomacorrientes simples y dobles
+
+* Cable 2,5 mm² (rojo, azul, verde/amarillo) – 15 m c/u
+
+* Cable 1,5 mm² (rojo 12 m, azul 10 m)
+
+---
+
+## **📌 Notas del profesor**
+
+* Siempre dejar **0,15 m de reserva por cada boca y tablero**.
+
+* No sumar todos los colores en una sola medida: se compran **por conductor y color**.
+
+* Entender el **croquis** antes de calcular: la práctica es lo más importante.
+
+* Cuando se haga presupuesto: si falta cable o caño, la pérdida es de uno mismo.
+
+* Los **circuitos son independientes** (tomas en 2,5 mm², iluminación en 1,5 mm²).
+
+---
+
+¿Querés que te arme este mismo resumen en una **planilla Excel** para que vos (o los alumnos) vayan cargando distancias y automáticamente calcule metros de cable y lista de materiales?
 
 # Grok
 
-
-- 📏 **Medidas iniciales para colocación de bocas (outlets):** Comenzar midiendo 1 metro de la pared, colocar la primera boca en la mitad de un espacio (ej. 20 cm), y agregar tres bocas más. Ajustar para cambiar de lado, asegurando 2 metros entre puntos clave. Usar módulos para visualización.
-
-
-- 🔌 **Canalización y conductores:** Todo es canalización, incluyendo conductores. Verificar circuitos y planos por errores comunes (ej. combinaciones graves que requieren más conductores). Buscar recorrido por tramos, desde final al inicio o viceversa.
+### Puntos Principales de la Clase de Instalaciones Eléctricas
 
 
-- 🛠️ **Verificación y conocimiento previo:** Antes de calcular conductores, entender circuitos. Asumir proyección correcta, pero verificar. Por cada caja (de paso o toma), dejar sobra de cable (15 cm por lado) para uniones seguras (bucle o puño).
+La transcripción describe una clase práctica sobre planificación y cálculo de materiales para una instalación eléctrica, enfocada en iluminación y tomacorrientes. El profesor enfatiza la importancia de seguir reglamentos, medir con precisión, calcular por tramos y agregar márgenes (como 15 cm para bucles y empalmes). A continuación, los puntos más importantes destacados por secciones:
 
 
-- 🎨 **Secciones y colores de conductores:** Iluminación: 1.5 mm² (rojo fase, azul neutro, verde-amarillo tierra). Tomas: 2.5 mm². Anotar por tramo: tipo, sección, color, cantidad.
+#### 1. **Planificación y Diseño Inicial**
+   - **Colocación de Bocas y Cajas**: Se planean 3 bocas de iluminación en el techo, alineadas y a distancias específicas (ej.: 0,75 m de la pared, 2,35 m entre bocas, ajustado a 3,35 m para evitar curvas extras). Las bocas se marcan con tiza, priorizando ortogonalidad y estética.
+   - **Cajas y Tableros**: Usar caja de paso arriba del tablero seccional (no usar el tablero como caja de paso, según reglamento). Cajas octogonales (3), rectangulares 5x10 (3: para tomacorrientes y llaves de 3 puntos). Tablero existente con termomagnéticas para iluminación y tomas.
+   - **Medidas Clave**: Altura del cielo raso: 2,65 m. Altura de tomas: 1,10 m. Altura de cajas/interruptores: 1,35 m. Distancias horizontales: 0,40 m de paredes, 2,50 m + 0,85 m ajustado.
+   - **Reglamento Importante**: No más de 3 curvas de 90° por tramo (usar curvas de 45° si es necesario para equivaler a 90°). No pasar conductores por el tablero salvo derivaciones. Evitar empalmes incómodos; dejar 15 cm para trabajar.
 
 
-- 📐 **Cálculos por tramos:** Dividir en segmentos (ej. 1-2, 2-3). Sumar longitudes + sobras (15 cm por caja). Redondear hacia arriba (ej. 0.13 a 0.15 m). Multiplicar por colores si aplica.
+#### 2. **Canalización (Caños y Accesorios)**
+   - **Cálculo de Caños**: Total de metros lineales: ~11,35 m, redondeado a 12 m. Dividido por 3 m por caño: 4 caños de 3/4". Incluir márgenes para errores y curvas.
+   - **Curvas y Conectores**: 4 curvas de 3/4" (para bajadas y cambios de dirección). 12 conectores de 3/4" (uno por conexión a cajas).
+   - **Otros Accesorios**: Ganchos U para fijar cajas octogonales al techo (madera). Cuplas de unión para extender caños. Grampas/abrazaderas (1 por metro aprox.) para sujetar caños. Evitar sobrecargar caños (ver tablas de capacidad).
+   - **Proceso**: Fijar cajas primero, luego canalizar por tramos (del inicio al final o viceversa). Buscar rutas prácticas, evitando curvas innecesarias y respetando normas.
 
 
-- ⚠️ **Reglamentación clave:** No usar tablero como caja de paso. Máximo 3-4 curvas de 90°; usar curvas de 45° para equivaler a 90° sin exceder. Alimentación no pasa por tablero sin protección.
+#### 3. **Conductores (Cables)**
+   - **Secciones y Colores**: Iluminación: 1,5 mm² (rojo para fase/retornos, azul para neutro). Tomacorrientes: 2,5 mm² (rojo fase, azul neutro, verde-amarillo tierra). Tierra compartida en 2,5 mm².
+   - **Cálculo por Tramos**: Agregar 15 cm por caja/boca para bucles y empalmes (para uniones seguras con cinta aisladora). Calcular por colores separados, no totalizar.
+     - **2,5 mm² (Tomas)**: ~12,85 m redondeado a 15 m por color (rojo, azul, verde-amarillo). Incluye bajadas (1,55 m + 0,15 m = 1,70 m) y tramos horizontales (3,35 m, 2,35 m, etc.).
+     - **1,5 mm² (Iluminación)**: Rojo: ~10,70 m (más retornos). Azul: ~8,35 m. Incluir alimentación desde tablero (~1 m) y empalmes en cajas octogonales.
+   - **Consejos**: Calcular por circuitos independientes (no mixtos). Empalmar neutros en cajas octogonales. Verificar capacidad de caños (no sobrecargar). Dejar bucles para derivaciones futuras.
 
 
-- 🧰 **Lista de materiales:** Cajas octogonales/rectangulares, caños (3/4"), curvas, conectores, rampas, bastidores, tapas, interruptores (llaves de punto). Conductores: calcular metros por color (ej. 15 m rojo, azul, verde-amarillo para 2.5 mm²).
+#### 4. **Lista de Materiales (Resumen)**
+   - **Cajas**: 3 octogonales, 3 rectangulares 5x10 (para llaves y tomas), 1 de paso 10x10 (existente).
+   - **Caños y Accesorios**: 4 caños 3/4" (12 m total), 4 curvas 3/4", 12 conectores 3/4", ganchos U, grampas.
+   - **Cables**: 15 m rojo/azul/verde-amarillo 2,5 mm²; 11 m rojo y 9 m azul 1,5 mm² (aprox., redondear arriba).
+   - **Otros**: Llaves de 3 puntos, portalámparas, módulos de tomas (con ciegos si es necesario), bastidores y tapas.
+   - **Existente**: Tablero seccional con termomagnéticas. No comprar duplicados en ampliaciones.
 
 
-- 🛡️ **Seguridad y práctica:** Trabajar cómodo (longitudes mayores para uniones). Usar cinta aisladora con fuerza. Herramientas: alicate, pinza, cuchillo, taladro, mecha, tornillos, escalera. Fijar cajas primero, luego caños.
+#### 5. **Herramientas y Práctica**
+   - **Herramientas**: Metro, tiza, taladro, mechas, tarugos (8), tornillos (madera y 8), prolongador, alicate, pinza, escalera. Cinta aisladora para empalmes (primero para fijar, luego aislar).
+   - **Trabajo Práctico**: Armar croquis con medidas, lista de materiales, instalar (grupos de 3-4, rotando). Cablear, derivar sin cortar cables innecesarios, probar funcionamiento. Programado para martes; comprar materiales basados en lista de alumnos.
+   - **Errores Comunes**: Olvidar márgenes (15 cm), sobrecargar caños, usar tablero como paso, no redondear para arriba, no verificar reglamento.
 
 
-- 📝 **Trabajo práctico:** Armar croquis con medidas reales (ej. alturas 1.35 m para cajas, 1.10 m para tomas). Grupos de 3-4 para instalación. Verificar coordinación para evitar cambios costosos.
+#### 6. **Consejos Generales y Problemas en Obras**
+   - **Coordinación**: Evitar cambios de último momento (ej.: aire acondicionado afectando tomas). Si cambian, el responsable paga extras.
+   - **Aprendizaje**: Verificar planos por errores (ej.: conductores en llaves combinadas: 3 en vez de 2). Calcular por tramos para no perderse. Práctica es clave; teórica sola no basta.
+   - **Asistencia**: Importancia de asistir regularmente (al menos 2 veces al mes) para no atrasar grupo.
+   - **Reglamento**: Consultar secciones sobre tableros, canalización, curvas, puestas a tierra. No improvisar; aplicar normas para seguridad y estética.
 
 
-- 💡 **Evaluación y aprendizaje:** Enfatizar entender información, no solo memorizar. Práctica real para retener (ej. no apurarse, observar). Lectura de reglamento sobre distancias e intervalos.
-
-
-### Cómo Calcular la Longitud de Caño para Montar Bocas en la Clase Práctica
-
-
-Basado en la transcripción de la clase, el cálculo de la longitud de caño (tubería o canalización) se hace de manera similar al de los conductores, pero enfocado en el recorrido físico de la instalación. El objetivo es sumar los tramos lineales, agregar márgenes para uniones, curvas y cajas, y redondear hacia arriba para evitar faltantes. Recuerda que el caño es el "esqueleto" de la canalización, y se calcula por secciones (tramos) para no perderte.
-
-
-Aquí te explico paso a paso cómo hacerlo, usando los ejemplos y medidas de la transcripción (como alturas de 2.65 m para cielo raso, 1.35 m para cajas, distancias como 3.35 m entre puntos, etc.). El proceso es práctico y se basa en medir en sitio, dibujar un croquis y sumar.
-
-
-#### 1. **Planifica el Recorrido y Toma Medidas Iniciales**
-   - **Fija posiciones de bocas y cajas primero:** Como dice el profe, "primero poner las bocas" a 1 metro de la pared, en la mitad de espacios (ej. mitad + 20 cm), y agregar 3 bocas más. Marca con tiza dónde van las bocas, cajas de paso y tablero. Usa referencias como paredes existentes (no se cambian).
-     - Ejemplo: Boca a 0.75 m de la pared, altura 1.10 m del piso para tomas, 1.35 m para interruptores.
-   - **Divide en tramos:** Busca el recorrido desde el inicio (tablero o caja de paso) hasta el final (última boca). Hazlo por secciones: de caja a boca 1, boca 1 a boca 2, etc. Considera bajadas, subidas y cambios de lado.
-     - Mide horizontal y vertical: Usa metro para distancias reales (ej. 2.65 m de cielo raso a piso, 3.35 m entre cajas, 0.40 m de pared a caja).
-     - Nota curvas: Máximo 4 curvas de 90° por tramo (規lamento). Si exceden, usa curvas de 45° (2 de 45° = 1 de 90°). No cuentes curvas en el cálculo de longitud, pero ajusta el camino para minimizarlas.
-
-
-#### 2. **Suma las Longitudes por Tramos**
-   - **Mide cada sección lineal:** Suma las distancias rectas. No incluyas sobras aquí (eso va después).
-     - Ejemplo de la transcripción:
-       - De caja de paso a primera octogonal: 0.75 m (bajada).
-       - Entre octogonales: 3.35 m horizontal.
-       - Bajada a toma: 1.55 m (2.65 m cielo - 1.10 m altura toma).
-       - Total base: Suma tramos como (0.15 + 1.55) + 3.35 + (0.40 + 0.15), etc.
-   - **Agrega ajustes por curvas y uniones:** El caño se corta para fitting (conectores, curvas). Agrega 5-10 cm por curva o unión para solape (el profe menciona usar cup-uniones para recortes).
-     - Si hay columna o viga: Mide el rodeo (ej. 4 curvas = suma extra de ~0.50 m por desvío).
-   - **Considera el diámetro:** Todo en 3/4" (tres cuartos), pero la primera sección puede ser más grande si salen muchos cables (ej. de tablero a primera caja).
-
-
-#### 3. **Agrega Márgenes y Sobras**
-   - **Por caja o unión:** Agrega 0.15 m (15 cm) por lado de cada caja para trabajar cómodo (no cortado justo). Ej.: Por caja, +0.30 m total (15 cm entrada + 15 cm salida).
-     - Ejemplo: "015 01 155 01 155" = 0.15 + 1.55 por tramo, repetido.
-   - **Redondea hacia arriba:** Si queda 0.13 m, pon 0.15 m. Para totales, agrega 1-2 m extra (ej. calculado 13 m, compra 15 m para errores).
-     - Razón: "Siempre redonde para arriba" para comprar y no faltar.
-   - **Multiplica por repeticiones:** Si hay bajadas iguales (ej. 2 bocas con misma distancia), pon en paréntesis y x2: (0.15 + 1.55) x 2 = 3.40 m.
-
-
-#### 4. **Calcula el Total y Verifica**
-   - **Suma todo:** Usa calculadora o papel. Ejemplo aproximado de transcripción para 3 bocas + cajas:
-     - Tramo 1 (caja paso a boca 1): 1.55 m + 0.30 m sobra = 1.85 m.
-     - Tramo 2 (boca 1 a 2): 3.35 m + 0.30 m = 3.65 m.
-     - Tramo 3 (boca 2 a 3): 3.35 m + 0.30 m = 3.65 m.
-     - Bajadas extras: (0.40 m x 3) + curvas (0.20 m x 4) = 1.20 + 0.80 = 2.00 m.
-     - Total crudo: ~11.15 m. Redondea a 13 m, compra 15 m (por 3 caños si paralelos, pero aquí es uno principal).
-   - **Verifica con croquis:** Dibuja a escala o mano alzada con medidas (ej. 2.35 m altura útil = 2.65 - 0.30 techo). Asegúrate no pase por tablero como caja de paso (reglamento).
-   - **Errores comunes:** No multiplicar bien (ej. olvidar x2 en bajadas iguales), no agregar sobras, o contar mal curvas (máx 4).
-
-
-#### 5. **Consejos para la Práctica del Martes**
-   - **Herramientas:** Metro, tiza, nivel. Fija cajas primero, luego caños.
-   - **Materiales:** Caños 3/4", conectores (10-12), curvas (4), rampas (por metro), uniones.
-   - **Seguridad:** Trabaja tranquilo, deja sobras para uniones seguras. Verifica circuitos antes.
-   - **Si hay error:** Permitido (profe dice "tener un error"), ajusta en sitio.
-
-
-Este método asegura que el caño cubra el recorrido sin desperdicio excesivo. Si necesitas calcular un ejemplo específico con medidas exactas, dame más detalles del croquis. ¡Éxito en la práctica! 🔧
-
+El enfoque principal es la preparación meticulosa (medidas, croquis, cálculos) para evitar desperdicios y errores en obra. La clase combina teoría con práctica para reforzar conceptos.
