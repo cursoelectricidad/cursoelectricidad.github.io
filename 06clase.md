@@ -71,7 +71,8 @@ se encuentra. El tema de seguridad: yo detecto con el dedo que conector que est�
 #### 🔌 Electricidad e instalación
 
 * **Tomacorrientes deben usar conductores de 2,5 mm²**, según normativa.
-* **Iluminación utiliza conductores de 1,5 mm²**.
+* **Iluminación utiliza conductores de 1,5 mm²**
+* **Cuando se habla de 1,5mm² o 2,5 mm² o 4mm² nos estamos refiriendo al cable sin considerar la aislación**.
 * No se pueden **colocar dos circuitos diferentes en la misma caja**.
 * Para instalaciones combinadas (toma + llave), se utiliza **puenteo con cable de 1,5 mm² para iluminación** y **2,5 mm² para toma**.
 * El **interruptor termomagnético (ITM)** debe proteger el conductor más chico (ej. 2x10A si hay conductores de 1,5 mm²).

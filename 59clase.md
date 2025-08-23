@@ -40,7 +40,9 @@ Te destaco los puntos más importantes de la transcripción, separando lo técni
 
 1. **Orden de trabajo en una instalación**
 
-   * Primero se hace la **canalización**.
+   * Primero se colocan las **cajas**.
+
+   * Después se hace la **canalización**.
 
    * Después se colocan los **conductores**.
 
@@ -101,12 +103,6 @@ Te destaco los puntos más importantes de la transcripción, separando lo técni
 * Reclamos a los alumnos por inasistencias y desorganización.
 
 * Necesidad de organizarse mejor para avanzar en el curso.
-
----
-
-¿Querés que te arme un **resumen esquemático tipo apunte de clase** con numeración (ejemplo: 7\. Conductores → reglas principales) para que te quede listo para repaso de examen?
-
-Perfecto, esta parte de la transcripción se centra en un **trabajo práctico de instalación domiciliaria**. Te destaco lo más importante y lo paso a **formato de apunte** para que te quede claro:
 
 ---
 
@@ -179,12 +175,6 @@ Perfecto, esta parte de la transcripción se centra en un **trabajo práctico de
 * **Ejecutar la instalación por tramos, dejando siempre 15 cm de reserva en cajas.**
 
 * **Aplicar colores y secciones de conductores según normativa.**
-
----
-
-¿Querés que te prepare un **modelo de lista de materiales tipo plantilla** (con caños, cajas, conductores, etc.) para que solo le completes cantidades según cada práctica?
-
-Buenísimo. Esta parte de la clase se enfoca mucho en **normativa, canalización y criterios de instalación práctica**. Te destaco lo más importante como **apunte técnico resumido**:
 
 ---
 
@@ -274,13 +264,6 @@ Buenísimo. Esta parte de la clase se enfoca mucho en **normativa, canalización
 
 ---
 
-¿Querés que te arme un **esquema visual simple en un croquis** (tablero → caja de paso → llaves → bocas) para que te quede como ejemplo gráfico de esta parte de la clase?
-
-Excelente aporte 👌.  
- Esta parte de la clase se concentra en **normativa de curvas, medidas, croquis y lista de materiales**. Te lo sintetizo en **apunte técnico con puntos clave**:
-
----
-
 ## **📌 Puntos principales de la clase**
 
 ### **1\. Normativa sobre curvas en canalización**
@@ -367,12 +350,6 @@ Excelente aporte 👌.
 
 ---
 
-¿Querés que te arme un **modelo de croquis esquemático en dibujo simple** (tablero → caja de paso → bocas y tomas) para que visualices este ejemplo práctico de clase?
-
-Vale, te armo un **resumen técnico con medidas y puntos clave** de lo que se conversó en la clase para que quede claro:
-
----
-
 ## **📐 Medidas y alturas de referencia**
 
 * **Altura del cielo raso**: 2,65 m.
@@ -450,12 +427,6 @@ Vale, te armo un **resumen técnico con medidas y puntos clave** de lo que se co
   3. Sujetar con **gancho U**.
 
 * Luego: pasar conductores → hacer uniones → armar portalámpara.
-
----
-
-¿Querés que te organice esto en un **esquema de plano simplificado con cotas** (tipo dibujo en cuadriculado con medidas y cajas), o preferís que lo deje como lista de pasos para que lo uses en tu cuaderno?
-
-¡Perfecto\! Te dejo un **apunte técnico súper claro** con lo esencial y un mini-método de cálculo para que lo puedas repetir en obra o examen.
 
 ---
 
@@ -567,12 +538,6 @@ Vale, te armo un **resumen técnico con medidas y puntos clave** de lo que se co
 
 ---
 
-Si querés, te preparo una **planilla imprimible** para que completes: tramos, longitudes, caños, curvas, conectores y conductores (con colores y secciones), así la usás cada vez que hagas listas de materiales.
-
-¡Bien ahí\! La cuenta y el método están **correctos**. Te lo dejo ordenado para que quede como apunte final del **cable 2,5 mm² (tomas)**:
-
----
-
 # **📐 Cálculo de longitud para 2,5 mm² (fase, neutro y tierra)**
 
 **Datos base**
@@ -616,10 +581,6 @@ Nota: Esto aplica solo al **circuito de tomas (2,5 mm²)**. El **1,5 mm² (ilumi
 * Redondear **hacia arriba** para compra.
 
 * Repetir la misma longitud para **rojo, azul y tierra** en 2,5 mm².
-
-Si querés, te armo una **plantilla imprimible** donde solo completes los tramos y te calcula automáticamente los metros por conductor y la cantidad a comprar.
-
-Perfecto 🙌. Lo que tenés es casi la transcripción completa de la **clase práctica de cálculo de caños, bocas y cableado**. Te lo ordeno en forma de **apunte/resumen** para que quede claro qué salió del cálculo y qué es lo que hay que llevar como materiales y herramientas:
 
 ---
 
@@ -716,8 +677,6 @@ Perfecto 🙌. Lo que tenés es casi la transcripción completa de la **clase pr
 * Los **circuitos son independientes** (tomas en 2,5 mm², iluminación en 1,5 mm²).
 
 ---
-
-¿Querés que te arme este mismo resumen en una **planilla Excel** para que vos (o los alumnos) vayan cargando distancias y automáticamente calcule metros de cable y lista de materiales?
 
 # Grok
 
