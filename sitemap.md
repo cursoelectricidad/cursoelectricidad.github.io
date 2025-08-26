@@ -61,7 +61,7 @@ List of pages:
 * /57clase.md: [Clase Nº 57: Valores a cobrar. Repaso de la clase 43 (Tableros). Leimos PDF en proyector de Genrod de Tableros y Puesta a Tierra.](/57clase.md)
 * /58clase.md: [Clase Nº 58: [FOTOCOPIA Pasos para el calculo de materiales] Repaso concepto Tableros. Calculo de ganancia sobre materiales. No usar tablero como caja de paso. Día de lluvia. ](/58clase.md)
 * /59clase.md: [Clase Nº 59: Cálculo de materiales para trabajo práctico. No poner más de 4 curvas, en caso de columna usar curvas de 45 grados.](/59clase.md)
-* /60clase.md: [Clase Nº 60: Teoría tableros. Simbolos ID y ITM.](/60clase.md)
+* /60clase.md: [Clase Nº 60: Teoría tableros. Símbolos ID y ITM.](/60clase.md)
 * /contact.md: [Contacto](/contact.md)
 * /dudas.md: [Dudas.](/dudas.md)
 * /license.md: [License](/license.md)

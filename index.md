@@ -12,7 +12,7 @@ El curso de auxiliar electricista finaliza en la clase número 47, y el curso de
 
 Subscribe to RSS: [/feed.xml](/feed.xml)
 
-[Clase Nº 60: Teoría tableros. Simbolos ID y ITM.](/60clase.md){.title}
+[Clase Nº 60: Teoría tableros. Símbolos ID y ITM.](/60clase.md){.title}
 [25 Agosto 2025]{.date}
 
 
