@@ -1,4 +1,4 @@
-% Clase Nº 59: Cálculo de materiales para trabajo práctico.
+% Clase Nº 59: Cálculo de materiales para trabajo práctico. No poner más de 4 curvas, en caso de columna usar curvas de 45 grados.
 % Andrés Imlauer
 % 20 Agosto 2025
 
