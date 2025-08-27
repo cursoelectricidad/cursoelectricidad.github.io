@@ -64,6 +64,7 @@ List of pages:
 * /60clase.md: [Clase Nº 60: Teoría tableros. Símbolos ID y ITM.](/60clase.md)
 * /contact.md: [Contacto](/contact.md)
 * /dudas.md: [Dudas.](/dudas.md)
+* /: [Curso Electricidad - CFP Nº 17](/)
 * /license.md: [License](/license.md)
 * /logo-license.md: [Unlicinsed bunnies](/logo-license.md)
 * /preguntas_examen.md: [Recompilación de posibles preguntas de examen para auxiliar electricista.](/preguntas_examen.md)
