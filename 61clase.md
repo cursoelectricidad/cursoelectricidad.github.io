@@ -1,4 +1,4 @@
-% Clase Nº 61: Dia de practica. Armado de canalizacion en aula (techo y pared).
+% Clase Nº 61: Dia de practica. Armado de canalizacion en aula.
 % Andrés Imlauer
 % 27 Agosto 2025
 
