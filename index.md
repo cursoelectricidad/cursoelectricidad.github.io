@@ -12,6 +12,10 @@ El curso de auxiliar electricista finaliza en la clase número 47, y el curso de
 
 Subscribe to RSS: [/feed.xml](/feed.xml)
 
+[Clase Nº 61: Dia de practica. Armado de canalizacion en aula (techo y pared).](/61clase.md){.title}
+[27 Agosto 2025]{.date}
+
+
 [Clase Nº 60: Teoría tableros. Símbolos ID y ITM.](/60clase.md){.title}
 [25 Agosto 2025]{.date}
 
