@@ -19,6 +19,73 @@
 ![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgFVrrQc1I61NGOyprfJBsnPMTzNkiK_3mR0fF87nEZpRUyl4I0niNqdl8wEvd9Ff2i0_c394TUYCPXnfSs95pQRVQtfs3E_SAxerqhMDM5mo_TnOXlzoB5-P4F9yi0gGBekJrcWZusKBMntOBYz-_TfoivHWDapvwKIO8Y7fh8HZ7qDmemfWSq0g3urWQ/s4160/IMG-20250827-WA0005.jpg)
 ![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEisGpQ0idIMHGI8Bvxp3hyphenhyphenNhxtTUyRsBeNZrtLF7iJCYKGP9ovo8keJl9hpZAO_lMTLsOoYMSFH9bGEzucVrx47OznFwIh01w934hPID6p4rvzuU4xbK45QAOKd5avFa0VVczw9PJ8mYK5ReQo7anN4DGtgHAQaIY8oJXQPtaaptavtzXq5jdFMo1SMZTo/s4160/IMG-20250827-WA0006.jpg)
 
+# NotebookLM
+
+Aquí tienes un resumen extenso de la clase, basado en las fuentes proporcionadas:
+
+La clase se centra en un proyecto práctico de **instalación eléctrica**, donde los participantes están aprendiendo a **fijar cajas, colocar conductores, hacer canalizaciones y medir**. Además de la parte técnica, se intercalan comentarios sobre **política, educación y problemas sociales**.
+
+**Aspectos Clave de la Instalación Eléctrica y el Aprendizaje Práctico:**
+
+*   **Fijación de Cajas y Conectores:**
+    *   Se enfatiza la importancia de **fijar correctamente las cajas** para que no se deformen y para que los artefactos (como los que se cuelgan del techo) queden bien sujetos.
+    *   Para facilitar la colocación de los caños, se explica que uno de los dos conectores de la boca debe estar **flojo**; si ambos están fijos, es muy difícil introducir el caño.
+    *   Se discute la necesidad de **tornillos y brocas adecuadas** para madera, a veces más pequeñas. Se menciona el uso de taladros.
+    *   Se trabaja en **grupos** y se les da destornilladores y tornillos para que practiquen.
+
+*   **Canalización y Conduits:**
+    *   Se están planificando las **curvas y líneas rectas** de los caños. Un punto importante es que las salidas de los tomacorrientes deben ser **horizontales** para que otros electricistas, sin los planos, puedan entender la instalación.
+    *   Se busca que la cañería que sube no esté muy cerca del baño.
+    *   Se trabaja con caños de **tres cuartos de pulgada**.
+    *   Se presentan desafíos como la **cantidad de uniones** en la instalación, lo que puede ser problemático.
+    *   Se hace hincapié en la necesidad de **medir, cortar y unir los caños** correctamente.
+    *   Se utilizan herramientas como **trinchetas** para cortar.
+
+*   **Medición y Herramientas:**
+    *   Se toman **medidas** precisas, tanto desde la pared (por ejemplo, a 40 cm) como la mitad entre la pared y el artefacto.
+    *   Se utiliza un **nivel de manguera (nivel de agua)** para asegurar que las bocas estén a la misma altura. Se menciona una manguera vieja y dura que se mantuvo al sol.
+    *   Se utilizan **pinzas, perforadoras y cintas métricas**.
+    *   Se subraya que hay que **elegir la broca correcta**; se menciona una broca de 8mm.
+
+*   **Problemas y Retos en la Obra:**
+    *   Se rompen cajas al perforar.
+    *   Hay **escasez de materiales**, como brocas específicas, caños de tres cuartos o conectores.
+    *   Se menciona que las cajas de una pulgada no suelen entrar bien.
+    *   Se discute la **falta de una puesta a tierra** en el edificio actual y la necesidad de instalar **jabalinas** en una zona húmeda (seis jabalinas con conductor de 50) y construir un drenaje para evitar inundaciones.
+    *   Se observa que el trabajo eléctrico puede ser **estresante** debido a la cantidad de cosas que hay que ver a la vez.
+    *   Hay **contratiempos que generan demoras**, como el trabajo extra de los electricistas por cambios o la falta de materiales.
+
+*   **Conceptos Adicionales de Instalación:**
+    *   Se habla de **fijar las cajas primero** y luego ver cómo quedan los caños.
+    *   Se explica cómo deben ir los **ganchos** en las bocas de arriba para colgar artefactos y la importancia de un tornillo para que no "gire".
+    *   Se menciona un "laboratorio" que permite **probar circuitos** y entender cómo funcionan los conductores.
+    *   Se está por comenzar a **pasar los cables**.
+    *   Se discute la instalación de un **timbre** en una caja que originalmente era de paso.
+
+**Comentarios sobre Política y Sociedad:**
+
+*   **Participación y Propuestas:**
+    *   Se valora la **interacción en reuniones** y la presentación de propuestas para la provincia.
+    *   Se menciona a un **candidato a diputado provincial (corregido a nacional)** que tiene propuestas claras.
+    *   Se critica a los políticos que **mienten a la gente** y se olvidan de sus promesas una vez que están arriba.
+
+*   **Inexperiencia y Desilusión:**
+    *   Se señala la presencia de **gente joven y sin experiencia en política** ocupando cargos altos (25-27 años).
+    *   Se expresa **frustración con la política** en general y con el gobierno.
+    *   Se menciona que la movilización política actual (de dos meses) es diferente a la anterior, que se enfocaba más en las problemáticas del país.
+
+*   **Problemas en el Deporte y Responsabilidad:**
+    *   Se relata un incidente donde se canceló un **campeonato de "mam"** después de que los organizadores ya habían pagado el hotel, y se recibieron 2 millones de pesos sin que se concretara el evento.
+    *   Se critica la **falta de gente que haga los trámites** y la ausencia de responsabilidad por parte de quienes recibieron el dinero. Se sugiere que el consejo de deportes debería investigar.
+
+*   **Educación y Recursos:**
+    *   Se discute la **educación** y la capacitación, incluyendo la de personas con discapacidad.
+    *   El orador menciona que le habían **prometido un laboratorio** para la enseñanza, pero nunca se materializó, a pesar de su alto costo en su momento (más de un millón de pesos).
+
+La clase, en resumen, es una experiencia práctica de aprendizaje en instalaciones eléctricas, donde los alumnos no solo adquieren habilidades técnicas con la guía del "profe", sino que también son expuestos a reflexiones sobre la realidad social y política que impacta su entorno y su futuro profesional. Se fomenta el trabajo en equipo y la resolución de problemas en el momento.
+
+# CHATGPT
+
 Aquí están los **puntos más importantes** que se pueden extraer del texto, organizados por tema:
 
 ---
@@ -301,67 +368,3 @@ La clase enfatiza la práctica sobre la teoría, con énfasis en precisión, seg
 
 
 
-# NotebookLM
-
-Aquí tienes un resumen extenso de la clase, basado en las fuentes proporcionadas:
-
-La clase se centra en un proyecto práctico de **instalación eléctrica**, donde los participantes están aprendiendo a **fijar cajas, colocar conductores, hacer canalizaciones y medir**. Además de la parte técnica, se intercalan comentarios sobre **política, educación y problemas sociales**.
-
-**Aspectos Clave de la Instalación Eléctrica y el Aprendizaje Práctico:**
-
-*   **Fijación de Cajas y Conectores:**
-    *   Se enfatiza la importancia de **fijar correctamente las cajas** para que no se deformen y para que los artefactos (como los que se cuelgan del techo) queden bien sujetos.
-    *   Para facilitar la colocación de los caños, se explica que uno de los dos conectores de la boca debe estar **flojo**; si ambos están fijos, es muy difícil introducir el caño.
-    *   Se discute la necesidad de **tornillos y brocas adecuadas** para madera, a veces más pequeñas. Se menciona el uso de taladros.
-    *   Se trabaja en **grupos** y se les da destornilladores y tornillos para que practiquen.
-
-*   **Canalización y Conduits:**
-    *   Se están planificando las **curvas y líneas rectas** de los caños. Un punto importante es que las salidas de los tomacorrientes deben ser **horizontales** para que otros electricistas, sin los planos, puedan entender la instalación.
-    *   Se busca que la cañería que sube no esté muy cerca del baño.
-    *   Se trabaja con caños de **tres cuartos de pulgada**.
-    *   Se presentan desafíos como la **cantidad de uniones** en la instalación, lo que puede ser problemático.
-    *   Se hace hincapié en la necesidad de **medir, cortar y unir los caños** correctamente.
-    *   Se utilizan herramientas como **trinchetas** para cortar.
-
-*   **Medición y Herramientas:**
-    *   Se toman **medidas** precisas, tanto desde la pared (por ejemplo, a 40 cm) como la mitad entre la pared y el artefacto.
-    *   Se utiliza un **nivel de manguera (nivel de agua)** para asegurar que las bocas estén a la misma altura. Se menciona una manguera vieja y dura que se mantuvo al sol.
-    *   Se utilizan **pinzas, perforadoras y cintas métricas**.
-    *   Se subraya que hay que **elegir la broca correcta**; se menciona una broca de 8mm.
-
-*   **Problemas y Retos en la Obra:**
-    *   Se rompen cajas al perforar.
-    *   Hay **escasez de materiales**, como brocas específicas, caños de tres cuartos o conectores.
-    *   Se menciona que las cajas de una pulgada no suelen entrar bien.
-    *   Se discute la **falta de una puesta a tierra** en el edificio actual y la necesidad de instalar **jabalinas** en una zona húmeda (seis jabalinas con conductor de 50) y construir un drenaje para evitar inundaciones.
-    *   Se observa que el trabajo eléctrico puede ser **estresante** debido a la cantidad de cosas que hay que ver a la vez.
-    *   Hay **contratiempos que generan demoras**, como el trabajo extra de los electricistas por cambios o la falta de materiales.
-
-*   **Conceptos Adicionales de Instalación:**
-    *   Se habla de **fijar las cajas primero** y luego ver cómo quedan los caños.
-    *   Se explica cómo deben ir los **ganchos** en las bocas de arriba para colgar artefactos y la importancia de un tornillo para que no "gire".
-    *   Se menciona un "laboratorio" que permite **probar circuitos** y entender cómo funcionan los conductores.
-    *   Se está por comenzar a **pasar los cables**.
-    *   Se discute la instalación de un **timbre** en una caja que originalmente era de paso.
-
-**Comentarios sobre Política y Sociedad:**
-
-*   **Participación y Propuestas:**
-    *   Se valora la **interacción en reuniones** y la presentación de propuestas para la provincia.
-    *   Se menciona a un **candidato a diputado provincial (corregido a nacional)** que tiene propuestas claras.
-    *   Se critica a los políticos que **mienten a la gente** y se olvidan de sus promesas una vez que están arriba.
-
-*   **Inexperiencia y Desilusión:**
-    *   Se señala la presencia de **gente joven y sin experiencia en política** ocupando cargos altos (25-27 años).
-    *   Se expresa **frustración con la política** en general y con el gobierno.
-    *   Se menciona que la movilización política actual (de dos meses) es diferente a la anterior, que se enfocaba más en las problemáticas del país.
-
-*   **Problemas en el Deporte y Responsabilidad:**
-    *   Se relata un incidente donde se canceló un **campeonato de "mam"** después de que los organizadores ya habían pagado el hotel, y se recibieron 2 millones de pesos sin que se concretara el evento.
-    *   Se critica la **falta de gente que haga los trámites** y la ausencia de responsabilidad por parte de quienes recibieron el dinero. Se sugiere que el consejo de deportes debería investigar.
-
-*   **Educación y Recursos:**
-    *   Se discute la **educación** y la capacitación, incluyendo la de personas con discapacidad.
-    *   El orador menciona que le habían **prometido un laboratorio** para la enseñanza, pero nunca se materializó, a pesar de su alto costo en su momento (más de un millón de pesos).
-
-La clase, en resumen, es una experiencia práctica de aprendizaje en instalaciones eléctricas, donde los alumnos no solo adquieren habilidades técnicas con la guía del "profe", sino que también son expuestos a reflexiones sobre la realidad social y política que impacta su entorno y su futuro profesional. Se fomenta el trabajo en equipo y la resolución de problemas en el momento.
