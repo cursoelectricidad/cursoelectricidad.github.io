@@ -63,6 +63,7 @@ List of pages:
 * /59clase.md: [Clase Nº 59: Cálculo de materiales para trabajo práctico. No poner más de 4 curvas, en caso de columna usar curvas de 45 grados.](/59clase.md)
 * /60clase.md: [Clase Nº 60: Teoría tableros. Símbolos ID y ITM.](/60clase.md)
 * /61clase.md: [Clase Nº 61: Dia de practica. Armado de canalizacion en aula.](/61clase.md)
+* /62clase.md: [Clase Nº 62: Terminamos la canalizacion (reemplazamos caño del toma con varias curvas) y realizamos el cableado del aula.](/62clase.md)
 * /contact.md: [Contacto](/contact.md)
 * /dudas.md: [Dudas.](/dudas.md)
 * /: [Curso Electricidad - CFP Nº 17](/)

@@ -12,6 +12,10 @@ El curso de auxiliar electricista finaliza en la clase número 47, y el curso de
 
 Subscribe to RSS: [/feed.xml](/feed.xml)
 
+[Clase Nº 62: Terminamos la canalizacion (reemplazamos caño del toma con varias curvas) y realizamos el cableado del aula.](/62clase.md){.title}
+[01 Septiembre 2025]{.date}
+
+
 [Clase Nº 61: Dia de practica. Armado de canalizacion en aula.](/61clase.md){.title}
 [27 Agosto 2025]{.date}
 
