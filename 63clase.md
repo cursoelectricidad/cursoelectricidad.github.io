@@ -1,4 +1,4 @@
-% Clase Nº 63: Electricidad / Clase 62: Continuamos con trabajo en aula: cableado de tomacorriente, iluminaria.
+% Clase Nº 63: Continuamos con trabajo en aula: cableado de tomacorriente, iluminaria.
 % Andrés Imlauer
 % 02 Septiembre 2025
 

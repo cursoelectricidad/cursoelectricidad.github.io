@@ -64,7 +64,7 @@ List of pages:
 * /60clase.md: [Clase Nº 60: Teoría tableros. Símbolos ID y ITM.](/60clase.md)
 * /61clase.md: [Clase Nº 61: Dia de practica. Armado de canalización en aula.](/61clase.md)
 * /62clase.md: [Clase Nº 62: Terminamos la canalizacion (reemplazamos caño del toma con varias curvas) y realizamos el cableado del aula.](/62clase.md)
-* /63clase.md: [Clase Nº 63: Electricidad / Clase 62: Continuamos con trabajo en aula: cableado de tomacorriente, iluminaria.](/63clase.md)
+* /63clase.md: [Clase Nº 63: Continuamos con trabajo en aula: cableado de tomacorriente, iluminaria.](/63clase.md)
 * /contact.md: [Contacto](/contact.md)
 * /dudas.md: [Dudas.](/dudas.md)
 * /: [Curso Electricidad - CFP Nº 17](/)
