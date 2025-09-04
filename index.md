@@ -12,6 +12,10 @@ El curso de auxiliar electricista finaliza en la clase número 47, y el curso de
 
 Subscribe to RSS: [/feed.xml](/feed.xml)
 
+[Clase Nº 64: Terminamos cableado, terminamos tablero, comprobamos continuidad y agregamos lamparas.](/64clase.md){.title}
+[03 Septiembre 2025]{.date}
+
+
 [Clase Nº 63: Continuamos con trabajo en aula: cableado de tomacorriente, iluminaria.](/63clase.md){.title}
 [02 Septiembre 2025]{.date}
 
