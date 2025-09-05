@@ -15,15 +15,15 @@
 [https://www.youtube.com/watch?v=Kpv1OYcVe-I](https://www.youtube.com/watch?v=Kpv1OYcVe-I)
 
 
-#### Video realizando el cableado del tablero:
+#### Video realizando la instalación del tablero:
 
-https://youtu.be/14oA0bs2NL4
+[https://youtu.be/14oA0bs2NL4](https://youtu.be/14oA0bs2NL4)
 
 ### Resubido por las dudas 
 
-https://www.youtube.com/watch?v=ay0qKXi5nMg 
+[https://www.youtube.com/watch?v=ay0qKXi5nMg](https://www.youtube.com/watch?v=ay0qKXi5nMg)
 
-https://archive.org/details/clase_64
+[https://archive.org/details/clase_64](https://archive.org/details/clase_64)
 
 
 
