@@ -38,6 +38,9 @@ https://archive.org/details/clase_64
 ![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi_TzzJuqEsHOcQHXxCMVccrETVlNWH2TgI3_ulFHPkxxpvjUI-N37mbmo3Q6kfGDrVYe_QSavt2F02HNlswg28yB75g1dBUluRaxzurmJvq2EaFM9GrGIVlvCLCS9NVk5Z-f4YZYFwIuBmhF6oTEIk0sR-BNOPBHlOfMccNlpTKA7zpYLKVpJc4AFCoXQ/s4160/IMG_20250903_195823951.jpg)
 
 
+#### En este tablero salen 2 cables de un interruptor termomagnético (el cable blanco) pero solo es en casos excepcionales.
+![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjAdqyMeeA11mL8rpR5PDlyYfL-QU_Qb-oL5MkvxDeMFizR2cuBAAYqgrQ62Wqknk7XEASX2qfrT4LwjFGD5ZFhnaBNZ7OC7LbHcBDh4UIHhPsR6RmMMcqFwV7Wzgy15O0kiofEu6rtxVmRfQW_HHf6Ff_Z-grHoBMyHW-t12ORlvvLa27PW5J2VQP1x_I/s4160/IMG_20250609_181751613.jpg)
+
 Acá te destaco los puntos más importantes de la conversación y le agrego emojis para que quede más claro y fácil de repasar:
 
 ---
