@@ -12,6 +12,7 @@
 ![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgS1_4_3P6kFKx6h2ArdbqumTzd82SBjqNaXPI8VmuTHQQZL3iUbYm2_DA-7zRWh3JaT-hpBALgnPiU9dsPVBM1BtyMBRvqTwe0ikF4zNgeXKvT6wGjSMaJIk-RPkgSLWphc3fWvwnPkapreje9fvNgmR3kcG6gSATe_IleTQiBsihudE6fuaNvOEJVy3s/s4160/IMG_20250625_203200823.jpg)    
 ![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiFMZ_Oijtr9UyI0sPYV1wb9pDnmvH5OqhgoWvpF0kwj1gtZ27x72WO41OuSgvs8I0ZtIk_aUsXwLRfomsDaLvT28vksuJiJ3YHFMNJ7EGZ3iAT7Pno-riCc6GOsYOKA5oDtWWPB7diFuPYZvUFoxfh1aH_XAKAo9XHX1gGNdRYSXghBZi8STRsaOkIMdA/s4160/IMG_20250312_203941356.jpg)
 ![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhwFkn_ADM0b6NzQsu5U8UUTtV4xp0WWA1utlFyfh1LuSLNJVdaQ_NydJ0ZVajj2Sm4YoQhtI8-gfm2zWTWM1S-N5kvUUVHITwS_viWfQAOYhjmyKTPG-QMHA8xDcCQ8jnAQ5-CdCf_o4-cT57u7JFk3L8m2LwM1BZqqmf1GI67vRKZjUQF99XAYXzmHHA/s4160/IMG_20250312_203949215.jpg)
+![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjAdqyMeeA11mL8rpR5PDlyYfL-QU_Qb-oL5MkvxDeMFizR2cuBAAYqgrQ62Wqknk7XEASX2qfrT4LwjFGD5ZFhnaBNZ7OC7LbHcBDh4UIHhPsR6RmMMcqFwV7Wzgy15O0kiofEu6rtxVmRfQW_HHf6Ff_Z-grHoBMyHW-t12ORlvvLa27PW5J2VQP1x_I/s4160/IMG_20250609_181751613.jpg)
 
 
 ##### Como abrir candados con un clip

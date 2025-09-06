@@ -341,7 +341,6 @@ Perfecto 👌, en esta parte se repasó la **conexión en tablero, normas y exce
 * Siempre medir y pelar lo necesario (no dejar cobre de más ❌).
 * Insertar hasta el fondo, empujar hacia atrás ↩️ y recién ahí apretar.
 * Fase 🔴, Neutro 🔵 y Tierra 🟢 deben quedar bien identificados con cinta o punteras.
-* Para circuitos de iluminación: conductores de **2,5 mm² → máx. 16 A**.
 * Neutro principal en tablero: mínimo **4 mm²** (o 6 mm² si se requiere mayor seguridad).
 
 ---
