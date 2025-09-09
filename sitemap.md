@@ -66,6 +66,7 @@ List of pages:
 * /62clase.md: [Clase Nº 62: Terminamos la canalizacion (reemplazamos caño del toma con varias curvas) y realizamos el cableado del aula.](/62clase.md)
 * /63clase.md: [Clase Nº 63: Continuamos con trabajo en aula: cableado de tomacorriente, iluminaria.](/63clase.md)
 * /64clase.md: [Clase Nº 64: Terminamos cableado, terminamos tablero, comprobamos continuidad y agregamos lamparas.](/64clase.md)
+* /65clase.md: [Clase Nº 65: Estuve ausente. Terminaron de arreglar lámpara instalación e hicieron repaso para alumnos nuevos. Día de lluvia. ](/65clase.md)
 * /contact.md: [Contacto](/contact.md)
 * /dudas.md: [Dudas.](/dudas.md)
 * /: [Curso Electricidad - CFP Nº 17](/)
