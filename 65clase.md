@@ -1,4 +1,4 @@
-% Clase Nº 65: Estuve ausente. Terminaron de arreglar lámpara instalación e hicieron repaso para alumnos nuevos. Día de lluvia. 
+% Clase Nº 65: Estuve ausente. Terminaron de arreglar lámpara instalación e hicieron repaso para alumnos nuevos (explicado en clase siguiente). Día de lluvia. 
 % Andrés Imlauer
 % 08 Septiembre 2025
 

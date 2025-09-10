@@ -16,7 +16,7 @@ Subscribe to RSS: [/feed.xml](/feed.xml)
 [09 Septiembre 2025]{.date}
 
 
-[Clase Nº 65: Estuve ausente. Terminaron de arreglar lámpara instalación e hicieron repaso para alumnos nuevos. Día de lluvia. ](/65clase.md){.title}
+[Clase Nº 65: Estuve ausente. Terminaron de arreglar lámpara instalación e hicieron repaso para alumnos nuevos (explicado en clase siguiente). Día de lluvia. ](/65clase.md){.title}
 [08 Septiembre 2025]{.date}
 
 
