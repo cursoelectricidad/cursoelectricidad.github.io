@@ -75,11 +75,6 @@ Aquí te destaco los puntos más importantes del texto que compartiste (resumí 
 
 ---
 
-¿Querés que te arme este resumen en **formato esquemático tipo apunte de clase** (con viñetas y subtítulos claros) para que lo uses en tu curso de electricidad?
-Te hago un resumen con los **puntos más importantes** de este relato práctico de clase, destacando lo técnico y lo pedagógico:
-
----
-
 ### 🔌 Problema inicial
 
 * Instalación con **dos fases en vez de fase y neutro** → posible trabajo mal hecho por un electricista tras un incendio.
@@ -129,9 +124,6 @@ Te hago un resumen con los **puntos más importantes** de este relato práctico 
 ---
 
 👉 En síntesis: **el problema no estaba en la instalación general sino en un foco defectuoso y conexiones mal hechas en el bastidor**. El ejercicio sirvió para practicar diagnóstico, continuidad, medición de tensión y buenas prácticas de montaje.
-
-¿Querés que te arme este caso en **formato de guía paso a paso** (tipo checklist de diagnóstico de luminarias) para que lo uses como apunte de práctica?
-Perfecto 👌, lo que compartiste tiene bastante contenido técnico y pedagógico. Te armo un **resumen claro con los puntos principales**, dividido en temas:
 
 ---
 
@@ -193,11 +185,6 @@ Perfecto 👌, lo que compartiste tiene bastante contenido técnico y pedagógic
 
 ---
 
-¿Querés que te lo arme también en **formato de apunte esquemático con viñetas y diagramas posibles** (ejemplo de un mini plano de cañerías con dos circuitos)?
-Te armo un **resumen técnico claro y ordenado** de lo que se explicó en tu clase, así lo podés usar para repasar sin perderte en los detalles de la charla:
-
----
-
 ## Resumen – Tubos LED y Tableros
 
 ### 1. Tubos fluorescentes vs LED
@@ -248,12 +235,6 @@ Te armo un **resumen técnico claro y ordenado** de lo que se explicó en tu cla
 * Reemplazar fluorescentes por LED implica **menos consumo y mayor eficiencia**.
 * La correcta orientación y montaje influye mucho en el rendimiento lumínico.
 * En tableros, la estandarización de rieles y accesorios facilita el montaje seguro de protecciones.
-
----
-
-¿Querés que te prepare un **esquema gráfico comparando fluorescente vs LED y la forma de conexión** para que lo tengas más visual?
-Perfecto 👍
-Te hago otro **resumen técnico claro y ordenado** de lo que se explicó en esta parte de la clase, así lo tenés limpio para estudiar:
 
 ---
 
@@ -312,11 +293,6 @@ Te hago otro **resumen técnico claro y ordenado** de lo que se explicó en esta
 * Alimentar siempre por arriba es **norma de seguridad**.
 * Máximo 3 uniones entre térmicas, considerando la corriente que soporta cada borne.
 * Los peines de conexión son la opción más profesional frente a los puentes manuales.
-
----
-
-¿Querés que te prepare un **esquema visual de un tablero con interruptores, peines y alimentación por arriba** para que quede más fácil de entender?
-Perfecto, te hago un **resumen organizado y técnico** de esta sección sobre peines, repartidores y conexión de tableros, para que quede claro y fácil de estudiar:
 
 ---
 
@@ -379,13 +355,6 @@ Perfecto, te hago un **resumen organizado y técnico** de esta sección sobre pe
 
 ---
 
-Si querés, puedo hacer un **esquema visual de un tablero con neutro arriba, fases escalonadas y conexión de peines/repartidores**, para que se vea de manera práctica cómo se hace la instalación correcta. Esto suele ayudar mucho a estudiar.
-
-¿Querés que haga ese esquema?
-Perfecto, puedo organizar y resumir esta parte también, porque abarca **distribución de fases, peines, repartidores y errores comunes en instalaciones monofásicas**.
-
----
-
 ## Resumen – Conexión de Interruptores, Peines y Distribución de Fases
 
 ### 1. Distribución de fases en tableros
@@ -441,13 +410,6 @@ Perfecto, puedo organizar y resumir esta parte también, porque abarca **distrib
 
 ---
 
-Si querés, puedo hacer un **diagrama ilustrativo de cómo se distribuyen fase, neutro y tierra en un tablero con peines/repartidores**, incluyendo un ejemplo de unipolar mal conectado, que te ayudaría a visualizar estos errores y cómo evitarlos.
-
-¿Querés que haga ese diagrama?
-Perfecto, ya veo exactamente lo que pasó: lo que describís es un **error típico de conexión de unipolar y neutro compartido**, muy común cuando se intenta “ahorrar” cable o usar un neutro de otro circuito para varias cargas. Te hago un resumen claro de lo que pasó y cómo se corrige:
-
----
-
 ## 1. Lo que ocurrió en tu instalación
 
 * La **ducha** tenía su alimentación directa desde el medidor con su propia térmica y disyuntor (correcto).
@@ -485,17 +447,6 @@ Perfecto, ya veo exactamente lo que pasó: lo que describís es un **error típi
 
 ---
 
-Si querés, puedo hacer un **diagrama simplificado** mostrando:
-
-1. Ducha con circuito independiente.
-2. Cocina y habitación con su circuito propio.
-3. Lo que vos hiciste mal (neutro compartido) y el riesgo que generaba.
-
-Esto te ayudaría a **visualizar y no repetir el error**.
-
-¿Querés que haga ese diagrama?
-Perfecto, con lo que contás, se confirma que los problemas que tuviste con la instalación se deben principalmente a **dos cosas: neutros compartidos y derivaciones incorrectas**. Lo que estás describiendo es típico cuando:
-
 1. Se instala un **enchufe o toma corriente** en medio de un circuito donde el neutro no está correctamente derivado o llega “a medias”.
 2. Se usa un **unipolar** para cortar fase pero el neutro se comparte entre varios circuitos importantes (como la ducha y la cocina), lo que provoca:
 
@@ -516,13 +467,6 @@ Perfecto, con lo que contás, se confirma que los problemas que tuviste con la i
 ---
 
 En resumen: lo que te pasó es un **retorno de neutro por mala derivación**, y no es un problema de fases “duplicadas” sino de cómo se alimentan los neutros en la instalación.
-
-Si querés, puedo hacer un **mini-diagrama de flujo de la ducha, cocina y habitación**, mostrando **lo que hiciste y cómo debería estar correctamente conectado**. Eso ayuda mucho a visualizar y evitar que vuelva a pasar.
-
-¿Querés que haga ese diagrama?
-Perfecto. Por lo que compartiste, se están tocando varios temas avanzados de instalaciones eléctricas y sistemas de energía alterna (paneles solares, termotanques, fotocélulas) y cómo integrarlos de forma segura. Te hago un resumen ordenado y didáctico de los puntos clave:
-
----
 
 ### 1. **Termotanques solares y energía híbrida**
 
@@ -569,17 +513,6 @@ Perfecto. Por lo que compartiste, se están tocando varios temas avanzados de in
 * En prácticas, los alumnos deben **razonar la mejor distribución**, no solo seguir la cañería predefinida.
 
 ---
-
-Si querés, puedo hacer un **diagrama visual tipo esquema unifilar** que combine:
-
-* Tablero con fase y neutro principal
-* Distribución hacia cocina, habitación y ducha
-* Termotanque solar con respaldo eléctrico
-* Fotocélula con iluminación de patio
-
-Esto te ayudará a **ver exactamente cómo deben conectarse los circuitos** y evitar errores como los que tuviste.
-
-¿Querés que haga ese diagrama?
 
 # Grok
 
