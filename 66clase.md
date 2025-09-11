@@ -1,4 +1,4 @@
-% Clase Nº 66: Explicaron que hicimos clase anterior. Borneras de conexion y peines. Analizamos problema casa alumno. Tableros.
+% Clase Nº 66: Explicaron que hicimos clase anterior. Borneras de conexion y peines. Analizamos problema casa alumno. Tableros. Ayudante hizo ejercicio cálculo de cañerías.
 % Andrés Imlauer
 % 09 Septiembre 2025
 

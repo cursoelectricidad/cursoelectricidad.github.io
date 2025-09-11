@@ -12,7 +12,11 @@ El curso de auxiliar electricista finaliza en la clase número 47, y el curso de
 
 Subscribe to RSS: [/feed.xml](/feed.xml)
 
-[Clase Nº 66: Explicaron que hicimos clase anterior. Borneras de conexion y peines. Analizamos problema casa alumno. Tableros.](/66clase.md){.title}
+[Clase Nº 67: Tableros](/67clase.md){.title}
+[10 Septiembre 2025]{.date}
+
+
+[Clase Nº 66: Explicaron que hicimos clase anterior. Borneras de conexion y peines. Analizamos problema casa alumno. Tableros. Ayudante hizo ejercicio cálculo de cañerías.](/66clase.md){.title}
 [09 Septiembre 2025]{.date}
 
 
