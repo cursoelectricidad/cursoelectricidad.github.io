@@ -1,4 +1,4 @@
-% Clase Nº 61: Dia de practica. Armado de canalización en aula.
+% Clase Nº 61: Dia de practica. Armado de canalización en aula, fijación de cajas, curvas, consejos de seguridad y mejoras práctica: medidas y nivelación. En obras reales: coordinar con arquitectos, plomeros y proyectistas; respetar cambios. Pasar cables: usar rollos, girar en cajas y conectar. Instalar timbres, interruptores.
 % Andrés Imlauer
 % 27 Agosto 2025
 

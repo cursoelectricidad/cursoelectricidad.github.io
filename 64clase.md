@@ -1,4 +1,4 @@
-% Clase Nº 64: Terminamos cableado, terminamos tablero, comprobamos continuidad y agregamos lamparas.
+% Clase Nº 64: Terminamos cableado, terminamos tablero, comprobamos continuidad y agregamos lamparas. Se recomienda la app "Cálculos eléctricos”. Iluminación → ITM más chicos (10A). Tomacorrientes generales → 16A. Usos especiales → según carga. Siempre separar y marcar fase, neutro, tierra y retornos. Puentes: se usan para derivar alimentación a otros circuitos o tomas. Importante: neutro y tierra no se mezclen. Como usar cinta aisladora. Siempre poner punteras cuando se conectan varios conductores juntos. Trabajar siempre sin tensión. Trabajo con terminales y punteras. Cada conductor debe tener su terminal correcto según la sección. Colores de punteras por sección. Siempre usar punteras dobles cuando se colocan dos conductores de misma sección en un mismo borne. Nunca meter dos cables pelados sueltos en una bornera. Si no hay puntera doble, se puede empalmar los dos cables con un chicote único y llevarlo al borne. Sin terminal, con el tiempo los filamentos pueden aflojarse por dilatación/contracción térmica → riesgo de falso contacto. No trabajar con tensión. La fundación mandó una encuesta con demasiadas preguntas.
 % Andrés Imlauer
 % 03 Septiembre 2025
 
@@ -24,7 +24,6 @@
 [https://www.youtube.com/watch?v=ay0qKXi5nMg](https://www.youtube.com/watch?v=ay0qKXi5nMg)
 
 [https://archive.org/details/clase_64](https://archive.org/details/clase_64)
-
 
 
 ![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjS6rm7oT5sCQNcS5SCGjvdZkIM52h06MxYSKORzLhavR0SjOIE3nCtohmUWnBz3F1jPq4HbzltKWd2mTbYTJEFuYGcrt_eJp7xE-SdkRyDfD6WzyYvADPur5-H7bdFWHzrIuLlpMemo7GQeWxWimnH8kav2dG58yUQnqIa8CIJtZ5iRLWkpv2zxpP4l9U/s4160/IMG_20250902_195158845.jpg)
@@ -79,11 +78,6 @@ Acá te destaco los puntos más importantes de la conversación y le agrego emoj
 
 ---
 
-¿Querés que te lo arme en **formato de lista tipo apunte de clase** (más técnico), o lo dejamos así como resumen con emojis?
-Perfecto 🙌 Te armo un **resumen con emojis** destacando lo esencial de lo que contaste, porque se mezclan varios temas (tarjetas, suscripciones, garantías y un poco de electricidad al final):
-
----
-
 💳 **Tarjetas y gastos en dólares**
 
 * Si no se paga en fecha, las tarjetas convierten a dólar y suman intereses 💲.
@@ -115,11 +109,6 @@ Perfecto 🙌 Te armo un **resumen con emojis** destacando lo esencial de lo que
 
 * Antes de conectar cables hay que **verificar que no tengan continuidad entre sí** 🔌.
 * Repetir este control en cada instalación que se realice 🧰.
-
----
-
-¿Querés que te lo arme tipo **apunte técnico de electricidad** (separando lo financiero de lo eléctrico), o preferís este resumen mixto con todo junto y emojis?
-Te lo organizo como **resumen con emojis**, resaltando lo más importante de esta parte práctica de la clase 👷⚡:
 
 ---
 
@@ -157,11 +146,6 @@ Te lo organizo como **resumen con emojis**, resaltando lo más importante de est
 
 * El objetivo es **aprender en la práctica**, porque en la obra real no se puede improvisar 🚫.
 * Revisar continuidad evita errores graves como unir tierra con retorno ❌.
-
----
-
-¿Querés que te lo arme como si fuera un **apunte de taller paso a paso** (con numeración tipo guía práctica), o preferís seguir con este estilo de **resumen con emojis**?
-Genial 👌, lo que se trabajó acá fue **una práctica bien de taller** con pruebas de continuidad, identificación de conductores y armado de tomas. Te destaco lo más importante con emojis:
 
 ---
 
@@ -204,11 +188,6 @@ Genial 👌, lo que se trabajó acá fue **una práctica bien de taller** con pr
 * **Continuidad**: se usa sin tensión, permite verificar qué cable corresponde a cada retorno.
 * **Protecciones**: después se seleccionan en el tablero según circuito (10A, 16A, etc.).
 * **Orden lógico**: primero identificar conductores → luego conectar → finalmente probar.
-
----
-
-¿Querés que te lo arme en **formato de guía paso a paso numerada** (tipo apunte práctico), o lo seguimos dejando en este esquema con emojis para repaso rápido?
-Perfecto 🙌, esta parte de la clase fue un **ejercicio de conexión y ordenado de conductores** en tomas e interruptores, con un cierre de práctica más detallada. Te lo resumo claro y estructurado:
 
 ---
 
@@ -258,11 +237,6 @@ Perfecto 🙌, esta parte de la clase fue un **ejercicio de conexión y ordenado
 * **Puentes**: técnica para derivar alimentación sin cortar conductores.
 * **Cinta aisladora**: aplicación correcta para seguridad y durabilidad.
 * **Norma**: neutro siempre en la rosca, fase al centro (portalámparas).
-
----
-
-¿Querés que te arme este repaso como si fuera un **“manual de conexión paso a paso”** (numerado, tipo instructivo), o preferís que quede en esquema de conceptos con viñetas para repaso rápido?
-Muy bien 👌, en esta parte de la clase ya se pasó a un nivel más técnico: **uso de terminales, punteras y técnicas de conexión en tableros**. Te lo dejo organizado:
 
 ---
 
@@ -323,11 +297,6 @@ Muy bien 👌, en esta parte de la clase ya se pasó a un nivel más técnico: *
 
 ---
 
-¿Querés que te arme una **tabla práctica de secciones de cable + puntera + color** para que la tengas como apunte de bolsillo 📑?
-Perfecto 👌, en esta parte se repasó la **conexión en tablero, normas y excepciones prácticas**. Te resumo con los puntos clave + emojis:
-
----
-
 ⚡ **Reglas básicas en tableros**
 
 * Por norma: **1 cable por borne de salida de termomagnética** 🔒.
@@ -372,11 +341,6 @@ Perfecto 👌, en esta parte se repasó la **conexión en tablero, normas y exce
 
 * Se sugirió grabar el trabajo para repaso en grupo 📹.
 * También hablaron de armar presupuesto: precio de materiales, cables e interruptores 💲.
-
----
-
-👉 ¿Querés que te organice todo en un **esquema de armado de tablero paso a paso** (tipo guía rápida para cuando armes uno real)?
-Perfecto 🙌, esta parte de la clase fue más variada: hubo **práctica con punteras, organización de grupos, repaso de fórmulas, encuestas de la fundación y prueba de artefactos**. Te lo dejo ordenado y resumido:
 
 ---
 
@@ -439,8 +403,4 @@ Perfecto 🙌, esta parte de la clase fue más variada: hubo **práctica con pun
 
 * Se recordó firmar asistencia.
 * La próxima clase se continuará probando circuitos y corrigiendo conexiones defectuosas.
-
----
-
-¿Querés que te arme ahora un **esquema de “Chequeo antes de energizar”** con pasos numerados, tipo lista rápida para repasar cada vez que armes o pruebes un circuito?
 

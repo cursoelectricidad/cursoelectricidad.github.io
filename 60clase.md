@@ -1,6 +1,7 @@
-% Clase Nº 60: Teoría tableros. Símbolos ID y ITM.
+% Clase Nº 60: Teoría tableros. Símbolos ID y ITM y Diagramas. Puntos Principales sobre Cálculo de Materiales y Cables. Selección y Dimensionamiento de Tableros. Pruebas y Seguridad en Instalaciones. Consideraciones Prácticas y Normas. Preparación para Práctica. 
 % Andrés Imlauer
 % 25 Agosto 2025
+
 
 #### Audio en Vocaroo:
 
@@ -784,11 +785,6 @@ Perfecto, este fragmento está reforzando **conceptos prácticos y normativos de
    * En los trabajos prácticos, se recomienda dejar **primeras bocas con salida** y luego continuar con el resto, aplicando todo lo aprendido sobre cálculo de materiales y distribución.
 
 ---
-
-En pocas palabras: **orden, espacio, radio de curvatura, conexión individual y puesta a tierra son clave**. Esto evita sobrecalentamiento, falsos contactos y problemas de seguridad.
-
-Si querés, puedo hacer un **diagrama práctico de un tablero bien distribuido** mostrando bornes, puesta a tierra, recorrido de conductores y respeto del radio de curvatura. Esto ayuda mucho a visualizarlo. ¿Querés que lo haga?
-
 
 # GROK
 

@@ -1,4 +1,4 @@
-% Clase Nº 63: Continuamos con trabajo en aula: cableado de tomacorriente, iluminaria.
+% Clase Nº 63: Continuamos con trabajo en aula: cableado de tomacorriente, iluminaria. Trabajo en grupo. Repetición de práctica anterior. Uso de colores: se aplicarán colores a los conductores para diferenciar mejor y que cada uno pueda identificar lo que se está haciendo. Ritmo de la práctica: si se va muy rápido, avisar para bajar la velocidad. Lo importante es que nadie se quede atrás. Comunicación: El silencio puede llevar a errores. Orden de trabajo: primero se va a marcar la parte de tomas, y luego pasar a la parte de iluminación.
 % Andrés Imlauer
 % 02 Septiembre 2025
 
@@ -80,11 +80,6 @@ Aquí te dejo un resumen con los puntos más importantes y con emojis para que s
 
 ---
 
-¿Querés que te lo arme también en **formato lista de pasos prácticos** (tipo guía de trabajo) para que te quede como apunte rápido?
-Perfecto 👌, te lo resumo en **puntos clave con emojis** para que quede claro como apunte de práctica:
-
----
-
 💡 **Ejercicio práctico**:
 
 * 🔌 **Instalación propuesta**:
@@ -121,11 +116,6 @@ Perfecto 👌, te lo resumo en **puntos clave con emojis** para que quede claro 
 
   * Que todos sigan el tendido paso a paso.
   * Asegurarse que la conexión se entienda claramente antes de pasar al siguiente tramo.
-
----
-
-👉 ¿Querés que te arme también un **diagrama resumido** en pasos (tipo esquema eléctrico simplificado con texto y emojis) para que quede aún más visual?
-Muy bien 👌, te armo el **resumen con puntos claros y emojis** para que tengas el apunte ordenado:
 
 ---
 
@@ -168,11 +158,6 @@ Muy bien 👌, te armo el **resumen con puntos claros y emojis** para que tengas
 
 ---
 
-¿Querés que te lo prepare en un **esquema paso a paso tipo diagrama eléctrico con flechas y emojis** (fase 🔴, neutro 🔵, tierra 🟢) para que lo veas más gráfico?
-Perfecto 🙌, esto que explicás ya es la **aplicación práctica completa**: tomacorrientes + iluminación con **3 llaves de punto**. Te lo dejo resumido en **puntos clave con emojis**:
-
----
-
 🔌 **Circuito de tomacorrientes (2,5 mm²):**
 
 * Se arma primero con fase 🟥, neutro 🔵 y tierra 🟢.
@@ -207,11 +192,6 @@ Perfecto 🙌, esto que explicás ya es la **aplicación práctica completa**: t
 2. ⚡ Tres **retornos** (uno para cada lámpara).
 3. 🔵 Neutros directos a cada lámpara.
 4. 🟢 Tierra acompañando a cada punto de consumo.
-
----
-
-👉 ¿Querés que te arme un **esquema visual simplificado** (con símbolos básicos y colores) para que quede como un mini-plano de referencia rápida?
-Genial 🙌, ahora estás relatando la parte de **unión, verificación y práctica con tester**, además de repasar lo hecho con tomas y luces. Te lo dejo resumido con los puntos clave y emojis:
 
 ---
 
@@ -250,11 +230,6 @@ Genial 🙌, ahora estás relatando la parte de **unión, verificación y práct
 * Aprender a **usar herramientas básicas** (pinza, pasacables, tester).
 * Repetir lo visto ayer, pero sumando complejidad (varias bocas y retornos).
 * Fomentar que **los alumnos expliquen** lo que se hizo, para fijar conceptos.
-
----
-
-👉 ¿Querés que te arme un **mapa visual resumido** (tipo “mini-guía de conexiones” con símbolos + emojis) para que te quede como recordatorio rápido antes de la práctica?
-Perfecto 🙌, ahora la explicación está más detallada sobre **cómo bajan y suben los conductores** en las cajas, cómo se suman retornos y cómo se distribuye la tierra. Te dejo el **resumen claro con emojis** para que te quede como apunte:
 
 ---
 
@@ -313,11 +288,6 @@ Perfecto 🙌, ahora la explicación está más detallada sobre **cómo bajan y 
 
 ---
 
-👉 ¿Querés que te arme ahora un **esquema gráfico con símbolos eléctricos simplificados** (tomas, lámparas, interruptores, colores) para que quede como un mini-plano rápido?
-Perfecto 👍, te armo un **resumen claro con emojis** de lo que se habló en este fragmento:
-
----
-
 ### 📌 Conceptos y aclaraciones
 
 * 🔌 **Toma corriente** → lleva **3 cables**: fase, neutro y tierra.
@@ -344,11 +314,6 @@ Perfecto 👍, te armo un **resumen claro con emojis** de lo que se habló en es
 * Si hay **un solo retorno**, una llave prendería **todas las luces juntas**. Por eso se bajan los retornos separados.
 * Se puede pasar el cableado de distintas formas, pero siempre debe quedar **ordenado y accesible**.
 * El **timbre** no debe pasar por las mismas canalizaciones de tomas e iluminación (eso fue un “atajo” en prácticas anteriores).
-
----
-
-¿Querés que te lo arme ahora en formato **“guía paso a paso”** para que lo uses como **procedimiento práctico de cableado** en las cajas y caños?
-Perfecto 😎, en este fragmento se está enfocando en **pasaje de cables, empalmes y seguridad** durante la práctica. Te hago un **resumen con puntos clave y emojis**:
 
 ---
 
@@ -382,11 +347,6 @@ Perfecto 😎, en este fragmento se está enfocando en **pasaje de cables, empal
 
 ---
 
-Si querés, puedo hacer un **mini-diagrama visual de empalmes y pasaje de cables** usando colores para fase, neutro y tierra, mostrando cómo irían los retornos y los empalmes seguros. Esto te serviría como guía rápida de práctica. ¿Lo hago?
-Perfecto 😃, en este fragmento se está enfocando en **empalmes, bucles y seguridad en la unión de cables**, así que lo resumo con **puntos clave y emojis**:
-
----
-
 ### 🛠️ Empalmes y bucles
 
 * 🔄 **Bucle y empalme**: hacer la unión firme, traccionando los cables antes de encintar.
@@ -413,16 +373,6 @@ Perfecto 😃, en este fragmento se está enfocando en **empalmes, bucles y segu
 * Usar **pinza o pizza** para sujetar el cable y girar al empalmar.
 * Revisar continuidad y asegurar que los empalmes estén firmes antes de energizar.
 * Separar fases y retornos de cada circuito para evitar errores al encender.
-
----
-
-Si querés, puedo hacer un **diagrama visual simple** mostrando:
-
-* Cómo se pasan los cables de fase, neutro y tierra.
-* Cómo se hacen los **retornos de iluminación** y los empalmes con chicotes y bucles.
-
-¿Querés que haga ese diagrama?
-Perfecto, este fragmento sigue profundizando en **empalmes, chicotes y bucles**, con énfasis en **fase, neutro y tierra**, así que lo resumo de manera estructurada:
 
 ---
 
@@ -471,16 +421,6 @@ Perfecto, este fragmento sigue profundizando en **empalmes, chicotes y bucles**,
 
 ---
 
-Si querés, puedo hacer un **diagrama paso a paso** mostrando:
-
-* La alimentación de fase, neutro y tierra.
-* Cómo se hacen los **retornos y empalmes** de las tres llaves de punto.
-
-Eso ayudaría mucho a visualizar todo lo que estás describiendo. ¿Querés que lo haga?
-Exacto, este fragmento sigue reforzando la **técnica correcta de empalmes, chicotes y retornos**, con algunos puntos clave:
-
----
-
 ### 🔹 Procedimiento resumido
 
 1. **Preparación de cables y chicotes**
@@ -509,17 +449,6 @@ Exacto, este fragmento sigue reforzando la **técnica correcta de empalmes, chic
    * Probar continuidad entre retornos y tierra antes de cerrar definitivamente.
    * Asegurarse que el empalme quede firme y que la cinta no se deslice.
    * Ajustar la punta del chicote hacia el lado correcto antes de encintar.
-
----
-
-Si querés, puedo hacer un **diagrama visual paso a paso** mostrando:
-
-* Cómo van **fase, neutro y tierra** en la caja.
-* Cómo se hacen los **chicotes y empalmes de los retornos**.
-* Cómo se mantiene la **tensión y el orden** en la instalación.
-
-¿Querés que haga ese diagrama?
-Perfecto, este fragmento profundiza en **técnicas avanzadas de empalmes y manejo de cables en cajas de conexión**, con varios puntos muy importantes para la seguridad y buen funcionamiento:
 
 ---
 
@@ -560,13 +489,6 @@ Perfecto, este fragmento profundiza en **técnicas avanzadas de empalmes y manej
 
 ---
 
-Si querés, puedo hacer un **esquema visual completo de empalmes, chicotes y cómo entrar los cables en la caja** que ilustre exactamente este procedimiento paso a paso. Esto hace que todo lo que explican sea mucho más fácil de entender y recordar.
-
-¿Querés que haga ese esquema?
-Este fragmento continúa profundizando en **pruebas y verificación de continuidad, manejo de retornos y tierra**, además de organización de cables para futuras conexiones. Lo resumo de manera clara:
-
----
-
 ### 🔹 Puntos clave del fragmento
 
 1. **Prueba de continuidad**
@@ -595,16 +517,4 @@ Este fragmento continúa profundizando en **pruebas y verificación de continuid
 
    * Se usa **herramientas propias** (pinzas, alicates, guachatas) y se mantiene orden en los cables para no dañar ni cortar accidentalmente.
    * Todo el trabajo se documenta, se numeran los cables y se deja registrado en cuaderno para seguimiento.
-
----
-
-Si querés, puedo hacer un **diagrama paso a paso** que combine lo que vimos en los tres fragmentos que me pasaste:
-
-* Cómo empalmar fase, neutro y tierra.
-* Cómo organizar los retornos.
-* Cómo verificar continuidad y preparar todo para el tablero.
-
-Esto haría que se vea **clarísimo y mucho más didáctico**.
-
-¿Querés que haga ese diagrama?
 

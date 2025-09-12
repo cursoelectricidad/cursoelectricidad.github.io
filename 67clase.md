@@ -1,4 +1,4 @@
-% Clase Nº 67: Tableros
+% Clase Nº 67: Tableros: protecciones, cañerías, conductores y normas.Conductores y Secciones Mínimas. Protecciones Eléctricas. Normas y Cálculos. Prácticas y Errores Comunes.
 % Andrés Imlauer
 % 10 Septiembre 2025
 
@@ -77,7 +77,7 @@
 * Sección mínima en alimentación de tablero: **4 mm²**.
 * Iluminación: **1,5 mm²**.
 * Tomas: **2,5 mm²**.
-* Todos los conductores deben estar **bien sujetos (presintos, abrazaderas, etc.)** para evitar movimiento por calentamiento y vibraciones.
+* Todos los conductores deben estar **bien sujetos (precintos, abrazaderas, etc.)** para evitar movimiento por calentamiento y vibraciones.
 
 #### 📐 Tablero eléctrico
 
@@ -104,7 +104,7 @@
 
 * Algunos **gabinetes tienen chapa removible**, lo que permite armar todo afuera y después montarlo.
 * El electricista debe **cablear y dejar preparado** el tablero con los “chicotes” (cables de conexión listos).
-* Es **fundamental rotular/numerar los circuitos** (ej: “circuito 1 iluminación”, “circuito 2 tomas”).
+* Es **fundamental rotular/numerar los circuitos** (ej: "circuito 1 iluminación”, "circuito 2 tomas").
 
   * Si no se rotula, otro electricista que llegue después pierde tiempo identificando y probando circuitos.
   * Se recomienda usar **cinta de papel con marcación** o etiquetas.

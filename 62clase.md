@@ -1,4 +1,4 @@
-% Clase Nº 62: Terminamos la canalizacion (reemplazamos caño del toma con varias curvas) y realizamos el cableado del aula.
+% Clase Nº 62: Terminamos la canalizacion (reemplazamos caño del toma con varias curvas) y realizamos el cableado del aula. Nivelación con Agua: nivel de agua como el método más preciso, económico y práctico. Circuitos Independientes: Se enfatiza la necesidad de circuitos eléctricos independientes para tomas de corriente e iluminación. Los cables de 2.5 mm² se usan para tomas de corriente, cables de 1.5 mm² se destinan a la iluminación. Planificación y esquema. Instalación de Caños (Conductos):Conectores y Cuplas: grampas, curvas y ángulos, caños torcidos, cajas de paso. Tendido de cables (pasacables). Pelar los cables de forma escalonada. Importancia de trabajo en equipo y la capacidad de resolver problemas en el momento.
 % Andrés Imlauer
 % 01 Septiembre 2025
 
@@ -13,7 +13,7 @@
 
 #### Audio en YouTube:
 
-[https://www.youtube.com/watch?v=cCzjT9zqabM](https://www.youtube.com/watch?v=cCzjT9zqabM)
+[https://www.youtube.com/embed/cCzjT9zqabM](https://www.youtube.com/embed/cCzjT9zqabM)
 
 
 ![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj6CmTozb6VfbFaBu_2fz6ZwNuDQ2jnTaWdjnAv-U8CyzlSBAsAHwISH_So0RTGNKz_j1OxmzD5kSrSIN0gTfyYgcBVPR0gQfL-TqLqgW1jdas3Mite7pLV5BGZACWz_xM22OFMOMjRvKJqHj0tIzHDPpcAvXjqWf34Hh1-P3-5zpzVUbWRRYORRN0cChE/s4160/IMG-20250901-WA0000.jpg)
