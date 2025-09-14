@@ -14,6 +14,11 @@
 
 [https://www.youtube.com/watch?v=4cmBj083QUw](https://www.youtube.com/watch?v=4cmBj083QUw)
 
+##### Por WhatsApp nos autosubscribieron a este taller:
+
+![](https://ia600906.us.archive.org/9/items/taller-termotanque-solar-foto/IMG-20250908-WA0000.jpg)
+
+
 ![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiXo0eH4QdyfLy36DL8zEleQoUSNhu8QYD-YnqxFYkbJid8qpHQrYNp-5xziZVGgWO3B2Q-mqEtExmJASU3myh9yZDjAG3dMeOHSpMsXJiq5KsChzoKfzDtwA-jkgz3iMzS7YOEYlrEXDwM_08e5qN2d5RBMTQtwOQnuoR28x_8-gbbgNeSlz4MfTZY8Zg/s4160/IMG_20250909_191724625.jpg)
 ![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjjSJAoAY22VYdnjYM92jM2_SmUrsV7VfmkIMP8Q2mtk7QPYTjzxhYXpLN1mnHmtsHcsRPEqDL1wkioewovMzqug9u9DnNkV6MVLKkSP7Wq7MGu6z8GGUM83EztKywJVeJIrlno5IcakARxFAkyLedys1xLYwnhzQ4qHJtHVjP5SGFLtood2-E0dpYTlZs/s4160/IMG_20250909_193734868.jpg)
 ![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgBYcoIM0GwbzHUQw9bHkkEwjY55ntiHkAUiDwroaPA3UTaQMGdbaZS6hM7irI7-ylYJrUbxVRRKnt1PeQbQd3leVynTFzTzPO18WrD9lE7Xubk3mGbKtM7YmPLs-YtNTmtdgAy7c-4mouEcUkoJqZNmI7r1nuNsKr8F48Xy8K3uTw2R7IQyTF7F2rpGZI/s4160/IMG_20250909_193800301.jpg)
