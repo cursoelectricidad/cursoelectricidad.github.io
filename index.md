@@ -12,7 +12,7 @@ El curso de auxiliar electricista finaliza en la clase número 47, y el curso de
 
 Subscribe to RSS: [/feed.xml](/feed.xml)
 
-[Clase Nº 67: Tableros: protecciones, cañerías, conductores y normas.Conductores y Secciones Mínimas. Protecciones Eléctricas. Normas y Cálculos. Prácticas y Errores Comunes.](/67clase.md){.title}
+[Clase Nº 67: Tableros: protecciones, cañerías, conductores y normas. Conductores y Secciones Mínimas. Protecciones Eléctricas. Normas y Cálculos. Prácticas y Errores Comunes. Explican como hacer el trabajo práctico que trajo ayudante.](/67clase.md){.title}
 [10 Septiembre 2025]{.date}
 
 
