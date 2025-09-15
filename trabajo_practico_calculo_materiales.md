@@ -10,7 +10,7 @@ Es similar al trabajo que habíamos hecho en la clase número 56 y clase 53:
 
 # Lo que me hizo Grok
 
-### Lista de Materiales Total 
+### Lista de Materiales Total ( los precios están mal )
 
 He corregido la lista eliminando todos los elementos relacionados con cañería 7/8" y conductores de 4 mm², ya que no hay circuito especial para aire acondicionado y todos los tomacorrientes son comunes (generales, no especiales). Todos los caños son de 3/4" PVC rígido, con circuitos independientes para iluminación (1.5 mm²) y tomacorrientes (2.5 mm²), compartiendo la misma cañería para minimizar material. Las cantidades se basan en los cálculos del texto (longitud total de cañería 16,35 m → 6 caños de 3 m; accesorios contados por recorrido, entradas/salidas y bajadas de 0,30 m desde caja de paso al cielorraso; cables con longitudes basadas en los tramos + 10% de reserva por mermas y conexiones, considerando 3 conductores por circuito: fase, neutral y tierra). He ajustado las cajas a: 5 octogonales chicas (para las 5 bocas de iluminación), 4 rectangulares 5x10 (para los 4 tomacorrientes) y 1 cuadrada 10x10 (de paso, si necesario, según el ejemplo). Los precios unitarios son referencias actualizadas al 15 de septiembre de 2025, basadas en búsquedas en Mercado Libre (precios en ARS, incluyendo IVA estimado donde se indica; precios reales pueden variar por proveedor y descuentos por cantidad —recomiendo consultar ElectroMisiones en https://www.electromisiones.com.ar/ para códigos exactos y ofertas, donde por ejemplo una cupla similar cuesta $4.133). No se incluyen descuentos, pero para cantidades >10 unidades, suelen ofrecer 10-20% off o condiciones de crédito/devolución.
 
@@ -42,3 +42,40 @@ Recomendaciones:
    
 #### Ese resultado me lo dio con el siguiente input: Le pase la foto del ejericio, transcripto de la clase 53 y una breve explicación que dió el ayudante y el profesor en la clase 66 y 67.
 
+
+# Antes me tiró bien la lista de precios pero lo calculó con caños de 3/4
+
+### Lista de Materiales Total 
+
+La siguiente planilla incluye todos los materiales calculados con base en el plano de la imagen y las especificaciones proporcionadas (5 bocas de iluminación y 4 tomacorrientes, con circuitos independientes para iluminación y tomacorrientes, incluyendo un circuito especial para aire acondicionado con cañería 7/8" asumido por el símbolo en el plano). He separado los cálculos en canalización y materiales eléctricos para mayor claridad, pero presento una lista total ordenada por ítem. Las cantidades se basan en los cálculos detallados del texto (16,35 m de cañería 3/4" → 6 caños; 8,05 m de cañería 7/8" → 3 caños; accesorios contados por recorrido, entradas/salidas y bajadas de 0,30 m desde caja de paso al cielorraso; cables con longitudes basadas en los tramos + 10% de reserva por mermas y conexiones, considerando 3 conductores por circuito: fase, neutral y tierra). Los precios unitarios son referencias actualizadas al 15 de septiembre de 2025, basadas en catálogos online como Argo Selectrica, Mercado Libre y estimaciones ajustadas por inflación en Argentina (precios reales pueden variar; recomiendo consultar proveedores locales para códigos exactos y descuentos por cantidad, que suelen ser del 10-20% para lotes >10 unidades, con opciones de crédito/devolución en sitios como Mercado Libre).
+
+| Ítem | Descripción | Cantidad | Características | Precio Unitario (ARS) | Precio Total (ARS) |
+|------|-------------|----------|-----------------|-----------------------|--------------------|
+| 1 | Caño PVC rígido 3/4" | 6 unidades | 3 m por unidad, liviano, para circuitos generales (IRAM normalizado, e.g., código TPL7193 similar) | 5.250 | 31.500 |
+| 2 | Caño PVC rígido 7/8" (equivalente 1") | 3 unidades | 3 m por unidad, liviano, para circuito especial (e.g., aire acondicionado, 4 mm²; código TPL7253 similar) | 6.000 | 18.000 |
+| 3 | Curva PVC 3/4" | 4 unidades | 90°, para cambios de dirección en cañería 3/4" (código CPL7199 similar) | 600 | 2.400 |
+| 4 | Curva PVC 7/8" (equivalente 1") | 2 unidades | 90°, para cambios de dirección en cañería 7/8" (código CPL7259 similar) | 750 | 1.500 |
+| 5 | Conector PVC 3/4" | 12 unidades | Para entradas/salidas de cajas y caños 3/4" (código CNPL719 similar) | 600 | 7.200 |
+| 6 | Conector PVC 7/8" (equivalente 1") | 2 unidades | Para entradas/salidas de cajas y caños 7/8" (código CNPL725 similar) | 750 | 1.500 |
+| 7 | Cupla PVC 3/4" | 12 unidades | Para uniones de caños 3/4" (código COPL019 similar) | 300 | 3.600 |
+| 8 | Cupla PVC 7/8" (equivalente 1") | 6 unidades | Para uniones de caños 7/8" (código COPL025 similar) | 450 | 2.700 |
+| 9 | Grampas de sujeción (tipo U) | 2 unidades | Para fijación de caños 3/4", metálicas (código 9830100 similar) | 300 | 600 |
+| 10 | Caja octogonal chica | 3 unidades | PVC para embutir, 9x9 cm, para bocas de iluminación | 600 | 1.800 |
+| 11 | Caja rectangular 5x10 | 5 unidades | PVC para embutir, para tomacorrientes | 750 | 3.750 |
+| 12 | Caja cuadrada 10x10 (de paso, si necesario) | 1 unidad | PVC para embutir, para derivaciones (código CAPP725 similar) | 2.250 | 2.250 |
+| 13 | Conductor unipolar 1.5 mm² | 54 m | Para circuito de iluminación (incluye fase, neutral y tierra con reserva) | 600 | 32.400 |
+| 14 | Conductor unipolar 2.5 mm² | 54 m | Para circuito de tomacorrientes normales (incluye fase, neutral y tierra con reserva) | 1.050 | 56.700 |
+| 15 | Conductor unipolar 4 mm² | 26 m | Para circuito especial (e.g., aire acondicionado; incluye fase, neutral y tierra con reserva) | 1.500 | 39.000 |
+| 16 | Interruptor termomagnético bipolar 10A | 1 unidad | Curva C, 4.5 kA, para circuito de iluminación (marca Schneider o equivalente) | 28.500 | 28.500 |
+| 17 | Interruptor termomagnético bipolar 16A | 1 unidad | Curva C, 4.5 kA, para circuito de tomacorrientes (marca Schneider o equivalente) | 28.500 | 28.500 |
+| 18 | Interruptor termomagnético bipolar 32A | 1 unidad | Curva C, 4.5 kA, para cabecera principal (marca Schneider o equivalente) | 43.500 | 43.500 |
+| 19 | Interruptor diferencial bipolar 40A 30mA | 1 unidad | Tipo AC, para protección general (marca Schneider o equivalente) | 105.000 | 105.000 |
+
+**Total estimado del presupuesto:** 510.450 ARS (sin descuentos ni transporte; agregar 10% de reserva por mermas/errores). 
+
+Recomendaciones:
+- Ordenar por ítems para que el proveedor tache lo disponible.
+- Usar códigos de productos (e.g., de Genrod para canalización, Schneider para protecciones) para evitar confusiones.
+- Priorizar calidad en componentes críticos (e.g., diferencial y termomagnéticas Schneider con capacidad de ruptura 4.5-6 kA).
+- Verificar precios actualizados en https://www.mercadolibre.com.ar o https://www.argoselectrica.com, y considerar descuentos por cantidad (e.g., packs de 10 para accesorios).
+- Anotar sobrantes para futuras obras y guardar comprobantes. Si necesitas ajustes (e.g., solo canalización o presupuestos con crédito), indica.
