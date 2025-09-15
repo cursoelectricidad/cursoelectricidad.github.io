@@ -12,11 +12,11 @@ El curso de auxiliar electricista finaliza en la clase número 47, y el curso de
 
 Subscribe to RSS: [/feed.xml](/feed.xml)
 
-[Clase Nº 67: Tableros: protecciones, cañerías, conductores y normas. Conductores y Secciones Mínimas. Protecciones Eléctricas. Normas y Cálculos. Prácticas y Errores Comunes. Explican como hacer el trabajo práctico que trajo ayudante.](/67clase.md){.title}
+[Clase Nº 67: Tableros: protecciones, cañerías, conductores y normas. Conductores y Secciones Mínimas. Protecciones Eléctricas. Normas y Cálculos. Prácticas y Errores Comunes. Explican como hacer el trabajo práctico que trajo ayudante. Espeche no trajo los artefactos que prometió traer la clase pasada.](/67clase.md){.title}
 [10 Septiembre 2025]{.date}
 
 
-[Clase Nº 66: Explicaron que hicimos clase anterior. Borneras de conexión y peines. Analizamos problema casa alumno. Tableros. Ayudante realizó un trabajo práctico para cálculo de cañerías. Foco fallado con filamentos "desparramados" y un portaámpara en mal estado. Sistemas de Energía Solar Normas y Componentes de Tableros Eléctricos. Eficiencia Energética e Iluminación LED](/66clase.md){.title}
+[Clase Nº 66: Explicaron que hicimos clase anterior. Borneras de conexión y peines. Analizamos problema casa alumno. Tableros. Ayudante realizó un trabajo práctico para cálculo de cañerías. Foco fallado con filamentos "desparramados" y un portaámpara en mal estado. Sistemas de Energía Solar Normas y Componentes de Tableros Eléctricos. Eficiencia Energética e Iluminación LED. Tubos fluorescentes y LED.](/66clase.md){.title}
 [09 Septiembre 2025]{.date}
 
 

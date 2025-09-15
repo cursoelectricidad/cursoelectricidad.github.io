@@ -1,4 +1,4 @@
-% Clase Nº 67: Tableros: protecciones, cañerías, conductores y normas. Conductores y Secciones Mínimas. Protecciones Eléctricas. Normas y Cálculos. Prácticas y Errores Comunes. Explican como hacer el trabajo práctico que trajo ayudante.
+% Clase Nº 67: Tableros: protecciones, cañerías, conductores y normas. Conductores y Secciones Mínimas. Protecciones Eléctricas. Normas y Cálculos. Prácticas y Errores Comunes. Explican como hacer el trabajo práctico que trajo ayudante. Espeche no trajo los artefactos que prometió traer la clase pasada.
 % Andrés Imlauer
 % 10 Septiembre 2025
 
