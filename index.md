@@ -12,6 +12,10 @@ El curso de auxiliar electricista finaliza en la clase número 47, y el curso de
 
 Subscribe to RSS: [/feed.xml](/feed.xml)
 
+[Trabajo práctico: cálculo de materiales.](/trabajo_practico_calculo_materiales.md){.title}
+[14 Septiembre 2025]{.date}
+
+
 [Clase Nº 67: Tableros: protecciones, cañerías, conductores y normas. Conductores y Secciones Mínimas. Protecciones Eléctricas. Normas y Cálculos. Prácticas y Errores Comunes. Explican como hacer el trabajo práctico que trajo ayudante. Espeche no trajo los artefactos que prometió traer la clase pasada.](/67clase.md){.title}
 [10 Septiembre 2025]{.date}
 
