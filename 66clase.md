@@ -32,6 +32,14 @@
 ![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiItcCDng_EtIEEQNnBCPGs81NvO6Qirl5DUHeXKBqk-fQP-pAQFlxnQ-L72lyB_2mx9XVD-53b6xN7YvIogVXwEo7nRx5-8CgHWpLufY_m1zZqitHMnrexdRB8vYyErAOjWIVy9oV21Vq9mfOb0_dk_5MxBYK7vGTYRCAPA1aykWEVPy4LLgVpq6c4kJM/s4160/IMG_20250909_195509402.jpg)
 ![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgS-E7LuGF3bbNW9Jil0mOj5EZDVsVOgi2HGLU7WRSbCfs-Ng0isvSGSniKcJsMpfORJINxWYtc7Yb60oD3VYCN9SdKFgJvGKW3OCCAJC03kms7BBCRJNzxuABhDAO954UveypQCOfsikbip2PIaA732L6DFxvIQYyMbxTZqkI9wni5gHRGCold4IX1f9s/s4160/IMG_20250910_063954540.jpg)
 
+#### Alumna instalación fotos.
+
+![](https://ia600907.us.archive.org/17/items/margarita_1/IMG-20250905-WA0021.jpg)
+![](https://ia600907.us.archive.org/17/items/margarita_1/IMG-20250905-WA0022.jpg)
+![](https://ia600907.us.archive.org/17/items/margarita_1/IMG-20250905-WA0023.jpg)
+![](https://ia600907.us.archive.org/17/items/margarita_1/IMG-20250905-WA0030.jpg)
+
+
 
 ### ChatGPT
 

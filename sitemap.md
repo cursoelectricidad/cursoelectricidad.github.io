@@ -77,5 +77,6 @@ List of pages:
 * /preguntas_examen.md: [Recompilación de posibles preguntas de examen para auxiliar electricista.](/preguntas_examen.md)
 * /suppliers.md: [Buy a bunny](/suppliers.md)
 * /template-license.md: [Template license](/template-license.md)
+* /trabajo_practico_calculo_materiales.md: [Trabajo práctico: cálculo de materiales.](/trabajo_practico_calculo_materiales.md)
 </div>
 
