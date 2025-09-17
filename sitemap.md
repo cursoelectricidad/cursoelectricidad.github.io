@@ -70,7 +70,7 @@ List of pages:
 * /66clase.md: [Clase Nº 66: Explicaron que hicimos clase anterior. Borneras de conexión y peines. Analizamos problema casa alumno. Tableros. Ayudante realizó un trabajo práctico para cálculo de cañerías. Foco fallado con filamentos "desparramados" y un portaámpara en mal estado. Sistemas de Energía Solar Normas y Componentes de Tableros Eléctricos. Eficiencia Energética e Iluminación LED. Tubos fluorescentes y LED.](/66clase.md)
 * /67clase.md: [Clase Nº 67: Tableros: protecciones, cañerías, conductores y normas. Conductores y Secciones Mínimas. Protecciones Eléctricas. Normas y Cálculos. Prácticas y Errores Comunes. Explican como hacer el trabajo práctico que trajo ayudante. Espeche no trajo los artefactos que prometió traer la clase pasada.](/67clase.md)
 * /68clase.md: [Clase Nº 68: Vimos trabajo practico. Taller de instalacion termotanque solar (parece publicidad)](/68clase.md)
-* /69clase.md: [Clase Nº 69: Taller de instalación termotanque solar (2da clase) (parece publicidad: el que da la charla es el director de la empresa de "energía renovables").](/69clase.md)
+* /69clase.md: [Clase Nº 69: Taller de instalación termotanque solar (2da clase) (parece publicidad).](/69clase.md)
 * /contact.md: [Contacto](/contact.md)
 * /dudas.md: [Dudas.](/dudas.md)
 * /: [Curso Electricidad - CFP Nº 17](/)
