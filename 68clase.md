@@ -14,6 +14,8 @@
 
 [https://www.youtube.com/watch?v=tQhMcOVbmVw](https://www.youtube.com/watch?v=tQhMcOVbmVw)
 
+Anteriormente la "fundación" nos había mandando encuesta con excesivas preguntas personales.
+
 ![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgCZ_BxATbrAq612z2ytTOp3-FBDKbU6o5S65PfO3Pwyj1WWstgRFeG5B_i5CrL1AW_PDj_Yi3a1mnNFBXz5O39VhfqWt-bFNEZGkERLLc9X0HJZKwPZyGhMOZxN37Pg7iVmImVxYLrRVmwlDaAmvLHkkrOzhmfS7WhyphenhyphenMC0w8BNAdPqVfaRhuW1P14dGPo/s4160/IMG_20250915_185600222.jpg)
 ![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgPHBsgjvKVJLd0gUDI0AR8d23pdC5c_2soZ6Q4HCKHSu1uvFyOdKMQZngwi_hC3ThY3-9hWb7wXXS1e7yKds3feVe6bpKVIjnJuwcsxh09Im8oyYUj3SU0vOtBc8Dq11tcKktEHPf2doSCstKXEUKla-7ARIehvDXQPdylqcW7JbqJCFO1lDZ1PMAGkv8/s4160/IMG_20250915_190822409.jpg)
 ![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEifC5bPdpBqr2agkmMfGyzronc16bCzdJy97uME1GyAmgkAtJOzLzA2jb6AY29gLUbTanTQ68PNgq0eiYlJw-T4F_nz3s0Fbyl9HfcLUY3-Eej7r7Bls4Dtk4H3cncPUxBgkRvSrEBKFOB1-jIXu8XWtGnnDqPlrFGNN_T7Hey7rfDVw3QfzFcMeO7DpqU/s4160/IMG_20250915_190828415.jpg)
