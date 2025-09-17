@@ -71,6 +71,7 @@ List of pages:
 * /67clase.md: [Clase Nº 67: Tableros: protecciones, cañerías, conductores y normas. Conductores y Secciones Mínimas. Protecciones Eléctricas. Normas y Cálculos. Prácticas y Errores Comunes. Explican como hacer el trabajo práctico que trajo ayudante. Espeche no trajo los artefactos que prometió traer la clase pasada.](/67clase.md)
 * /68clase.md: [Clase Nº 68: Vimos trabajo practico. Taller de instalacion termotanque solar (parece publicidad)](/68clase.md)
 * /69clase.md: [Clase Nº 69: Taller de instalación termotanque solar (2da clase).](/69clase.md)
+* /70clase.md: [Clase Nº 70: Taller de instalación termotanque solar (3era clase): estuve ausente. Falté a la 3era clase de publicidad.](/70clase.md)
 * /contact.md: [Contacto](/contact.md)
 * /dudas.md: [Dudas.](/dudas.md)
 * /: [Curso Electricidad - CFP Nº 17](/)
