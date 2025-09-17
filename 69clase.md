@@ -19,6 +19,8 @@
 ![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjCzmC_KRj2c91i80Ggk3_Lugd1f9ALdCF_k2hKFfSK0DfhpLMjNII6bMqT9wRtIdd9sAOsmQ2cEV6vox6mDU7RlH_vdCmY4bBFp0MdefzmQCEHkr1bDw75bPCaWyCu6bX4Hla7zv9PFvYAb2jYwJedHRpGeloBZjp-sgK1Qz6WephKBxbIh3_vozCgI-0/s4160/IMG_20250916_183831711.jpg)
 ![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEibu2bVA7IwXGkg0px9X-MbeLSOYprcWhGC4_a1BRjtSOE5c6XKXX9SqlDnjd7qMSfYvylO7s019hw2-vb-wte3_e_gUdLZQ75gC_sfqiORQ-zbHdjb9R-w3wDJmbgv2NPqPxvrIZjkTbQF8UvTp-9D4caPqjiW4_-3jiXZFaN-2-rKsznIfnbJx31IfhA/s4160/IMG_20250916_184254831.jpg)
 
+## No saqué foto del taller era el tipo hablando con un pdf en un proyector dispositivas no armamos nada.
+
 Los puntos más importantes se centraron en la **instalación y funcionamiento de termotanques solares**, con un repaso previo de conceptos básicos de electricidad y plomería.
 
 Aquí tienes un resumen de los aspectos más destacados:
