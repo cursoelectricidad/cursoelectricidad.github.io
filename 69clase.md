@@ -1,4 +1,4 @@
-% Clase Nº 69: Taller de instalación termotanque solar (2da clase) (parece publicidad).
+% Clase Nº 69: Taller de instalación termotanque solar (2da clase).
 % Andrés Imlauer
 % 16 Septiembre 2025
 

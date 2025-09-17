@@ -12,7 +12,7 @@ El curso de auxiliar electricista finaliza en la clase número 47, y el curso de
 
 Subscribe to RSS: [/feed.xml](/feed.xml)
 
-[Clase Nº 69: Taller de instalación termotanque solar (2da clase) (parece publicidad).](/69clase.md){.title}
+[Clase Nº 69: Taller de instalación termotanque solar (2da clase).](/69clase.md){.title}
 [16 Septiembre 2025]{.date}
 
 
