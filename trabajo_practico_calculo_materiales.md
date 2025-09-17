@@ -3,6 +3,10 @@
 % 14 Septiembre 2025
 
 ![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgS-E7LuGF3bbNW9Jil0mOj5EZDVsVOgi2HGLU7WRSbCfs-Ng0isvSGSniKcJsMpfORJINxWYtc7Yb60oD3VYCN9SdKFgJvGKW3OCCAJC03kms7BBCRJNzxuABhDAO954UveypQCOfsikbip2PIaA732L6DFxvIQYyMbxTZqkI9wni5gHRGCold4IX1f9s/s4160/IMG_20250910_063954540.jpg)
+![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgCvRwNCWCuFm-Kh0Oe3CY7UyDwK6u0yHs33GO_n-xrwd6sHUAzgt1VQE1px7GCO2IqV_S2uX4KrtmdJyphxJCr2NsGUrWkfNLH79IwyXSQp1uPLbkcT-eNUoGx2sCOlgp2oSdObFfG1iee093muVtNdh1kqeeho6rrlneoEGG9xlRUm3E_kqcQRxze6xc/s4160/IMG_20250916_183821763.jpg)
+
+![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiAWwCYbVsVUF85Vqyz_V9J058KvatwOlm0Wgl57X_HRSGJEqx_-MZPDbIZFGjHk31SrA_jJad15U2W0HGTufiItiegAZLZo3ErvNtDLTv1r6spkfLTO-ZJlkg-b2eK62G8NBsuw5OHcjggvbV5b_S6eWYHIzBnE2w3O_lwr8tRx2WUfX7d8Sgp5lRjYVE/s4160/IMG_20250916_210217665.jpg)
+
 
 Es similar al trabajo que habíamos hecho en la clase número 56 y clase 53:
 
@@ -79,3 +83,33 @@ Recomendaciones:
 - Priorizar calidad en componentes críticos (e.g., diferencial y termomagnéticas Schneider con capacidad de ruptura 4.5-6 kA).
 - Verificar precios actualizados en https://www.mercadolibre.com.ar o https://www.argoselectrica.com, y considerar descuentos por cantidad (e.g., packs de 10 para accesorios).
 - Anotar sobrantes para futuras obras y guardar comprobantes. Si necesitas ajustes (e.g., solo canalización o presupuestos con crédito), indica.
+
+
+
+Alumno2: Y la altura de los tomas?
+Profesor: Y ahí vos haces así pone para que quede bien esto: toma altura primero. Toma será igual a 0,40 metros (en las piezas). Cajas sería llave de punto, hay que poner el que vos queres 1,10 metros o 1,20.
+
+Vos tenes que hacer el cálculo. Y luego este pones directamente para que quede más o menos de acá a allá 1,50 metros.
+
+La altura del tablero 1,50 metros sino quedará 1,80 metros porque 3 metros menos 1,30 metros te da 1,80 metros entonces yo le prefiero 1,50 y queda acá.
+
+Cualquier cosa tiene todas las alturas acá, la altura la definís vos acá, de acuerdo a Fulano de Tal tal altura, y después pasen en limpio eso.
+
+Alumno: A mi no me quedó en claro la clase pasada era como elegir el ITM general de este tablero yo le puse uno de 20 amper porque era más grande de 16 amper preo no sabía.
+
+Profesor: Claro ahí te conviene poner yo pongo.
+
+
+Yo haría así:
+
+#### ITM
+El primero vos tenes tablero general acá, ahí yo pondría porque entra la alimentación `2x6` preensamblado, entonces de ahí vos agarrás y pones `2x32` amper y acá te vas al tablero secional ese tablero seccional va a estar a 2x25 amper. O sea bajas 1, 2x25 agarra justo porque ya empezás con unipolar y ahí ya le derivás a los 2 circuitos ahí va a estar realmente tiene que ser: la termomagnética que alimente, y acá va `2x10` (para iluminación) y acá va lo mismo `2x16`(para tomacorrientes).
+
+Y faltaría el disyuntor entonces sería así: el disyuntor es de 25 amper entonces esto era este es el disyuntor y ahí estamos el 1ero será entonces arriba de este vendrá el otro.
+Alumno: Y tendríamos que incluir 1 metro de cable de 6 rojo y azul para hacer conexiones acá.
+Profesor: Sí, pero me interesa más lo de adentro porque esto sería acá 2x25 amper y ahí aparece este viene acá sería 1 acá y 1 acá, acá aparece esos 2. 
+
+Más o menos así es el tema del coso.
+
+---
+
