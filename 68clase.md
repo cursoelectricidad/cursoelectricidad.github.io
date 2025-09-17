@@ -1,4 +1,4 @@
-% Clase Nº 68: Vimos trabajo practico. Taller de instalacion termotanque solar.
+% Clase Nº 68: Vimos trabajo practico. Taller de instalacion termotanque solar (parece publicidad)
 % Andrés Imlauer
 % 15 Septiembre 2025
 
