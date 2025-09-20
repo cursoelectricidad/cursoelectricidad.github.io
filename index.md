@@ -264,7 +264,7 @@ Subscribe to RSS: [/feed.xml](/feed.xml)
 [08 Abril 2025]{.date}
 
 
-[Clase Nº 9: Clase práctica sobre EMPALMES. ](/09clase.md){.title}
+[Clase Nº 9: Clase práctica sobre EMPALMES. Estuve ausente.](/09clase.md){.title}
 [05 Abril 2025]{.date}
 
 

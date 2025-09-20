@@ -1,4 +1,4 @@
-% Clase Nº 9: Clase práctica sobre EMPALMES. 
+% Clase Nº 9: Clase práctica sobre EMPALMES. Estuve ausente.
 % Andrés Imlauer
 % 05 Abril 2025
 
