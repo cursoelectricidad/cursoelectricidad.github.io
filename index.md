@@ -20,7 +20,7 @@ Subscribe to RSS: [/feed.xml](/feed.xml)
 [16 Septiembre 2025]{.date}
 
 
-[Clase Nº 68: Vimos trabajo practico. Taller de instalacion termotanque solar (parece publicidad)](/68clase.md){.title}
+[Clase Nº 68: Vimos trabajo practico. Taller de instalacion termotanque solar (parece publicidad).](/68clase.md){.title}
 [15 Septiembre 2025]{.date}
 
 
