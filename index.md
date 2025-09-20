@@ -32,7 +32,7 @@ Subscribe to RSS: [/feed.xml](/feed.xml)
 [10 Septiembre 2025]{.date}
 
 
-[Clase Nº 66: Explicaron que hicimos clase anterior. Borneras de conexión y peines. Analizamos problema casa alumno. Tableros. Ayudante realizó un trabajo práctico para cálculo de cañerías. Foco fallado con filamentos "desparramados" y un portaámpara en mal estado. Sistemas de Energía Solar Normas y Componentes de Tableros Eléctricos. Eficiencia Energética e Iluminación LED. Tubos fluorescentes y LED.](/66clase.md){.title}
+[Clase Nº 66: [FOTOCOPIA] Explicaron que hicimos clase anterior. Borneras de conexión y peines. Analizamos problema casa alumno. Tableros. Ayudante realizó un trabajo práctico para cálculo de cañerías. Foco fallado con filamentos "desparramados" y un portaámpara en mal estado. Sistemas de Energía Solar Normas y Componentes de Tableros Eléctricos. Eficiencia Energética e Iluminación LED. Tubos fluorescentes y LED.](/66clase.md){.title}
 [09 Septiembre 2025]{.date}
 
 
