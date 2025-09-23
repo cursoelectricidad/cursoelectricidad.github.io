@@ -12,9 +12,18 @@ Es similar al trabajo que habíamos hecho en la clase número 56 y clase 53:
 
 ![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgXkbt34OXoK0F0uHoMcFpHN8kkeLadysF7VXUwqm8meWtkS3LYFCmRxnpbqdgXVcDE_fV4euTFcqktgCMsxfDMoMl1YT-1YVDH-UUaDz5tp3bAHqg-NxxQR1LdT2EHoVLJVxn6zjWgVgVjw9oZEIpgTU-FN7OyxOVRrGhfGYFiffdh3OWVep10zIb85zw/s4160/IMG_20250813_202531818.jpg)
 
-# Lo que me hizo Grok
+# Este fue el trabajo que entregué.
 
-### Lista de Materiales Total ( los precios están mal )
+![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjd20cZy84WbMeeHsfHsRgf3XhfSiGtP1ToH18QBIPlAJ3yxmnGyV-Mx55RxmTMWxcPfNvGgVoJlFEEbzxpNw_bRt8kXk4nnl27JeA5jUKxhpLnk5SHb5VkLNJmaSsQKgXiz2PfxA7O0wrg4C_ECFJLcfaPrzkbYyf5klgpBIcqkkthfpxsMH6cIj3AHQ4/s4160/IMG_20250923_145504104.jpg)
+![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjWMiI0J5uBPXZcXQZapqzuOirCeeykAHCLz2vKimv5mKEDV4sREu1psL8r3hbfkwQX9pKwJd2aFgZ2kYfeGx1QgOxPgSTQIrEPXtE9Kb1lKX0KcmYY-dXt3wOEB0GvjCZkxjsLnHMduezTSvxsse5ppLLsYAfwWhqtB5wWJBhWl6PNZXIclvedpsWxQds/s4160/IMG_20250923_145614194.jpg)
+![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgnUmI-eETJHSAAJl8G3ueuKImD7B5hnsnoGj8AK-5DOwTpw1LVsd91vxsTxKPEQDQN6-3IOKlxdVYorOO3Ohzzwe76KfVC7fJfedySL3om33i9tGkWvcfG5zxZz6IFVn6yFtlmEUGiOAyfmTToPknctVCjNxeRpqKayIsgP41hWhQ3oZc5baMQoedMkxA/s4160/IMG_20250923_145615193.jpg)
+![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjJ_ApiNIKEi9nLgH1pWKFNjmFidtvTjC48oIotBiMhWnavfMSpy5-lQWg4l9WW0GpwE_v0rmWlDli7YNqGf2t74dr0sfs31yqx7QAX8ZOo-ugwY0dF-TT-PParnBWz7GBjECfFPEvEfop4HQHK28Hpw0JDtqlQg0aYY2c64aRRzNBch4367CcKWMTlTpo/s4160/IMG_20250923_145640597.jpg)
+![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjDZ82EMvajKkwlzoqEqnzXTPHxIS43eCmp5feHVGz-vj4CcGVNFsjCb3Kt9pq2p_n4f2ODQQ5SnJQGL99wwcyDasnBKK6eeugOPsaQofFSZpgFg__eVDySVn4KrRTIf_X0K1gpwkocuYRWLtOLS23bX2OF5nU9lgAeefcbu1W3yDC39UDP4Fi3Z5tdSbU/s4160/IMG_20250923_145649271.jpg)
+![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiLUnHffhgby1EuhRmgGdoRy0gDNqAnyhQHBL6q7SePvAG2X_3S0oWWWsoInAt2ykGT4JOC2bvLaeTREygniY9-lvuP79x5h_sQ2T4u2oSV-BfZq0_I1JGCoWC0mJTNVU0M-3igH-OW_CU40r08DHL2JfPdLpQpX0NUJ4FDXhoUvARPu6GjiTLd6JWAcHM/s4160/IMG_20250923_145758941.jpg)
+
+
+
+# Lo que me hizo Grok (MAL).
 
 He corregido la lista eliminando todos los elementos relacionados con cañería 7/8" y conductores de 4 mm², ya que no hay circuito especial para aire acondicionado y todos los tomacorrientes son comunes (generales, no especiales). Todos los caños son de 3/4" PVC rígido, con circuitos independientes para iluminación (1.5 mm²) y tomacorrientes (2.5 mm²), compartiendo la misma cañería para minimizar material. Las cantidades se basan en los cálculos del texto (longitud total de cañería 16,35 m → 6 caños de 3 m; accesorios contados por recorrido, entradas/salidas y bajadas de 0,30 m desde caja de paso al cielorraso; cables con longitudes basadas en los tramos + 10% de reserva por mermas y conexiones, considerando 3 conductores por circuito: fase, neutral y tierra). He ajustado las cajas a: 5 octogonales chicas (para las 5 bocas de iluminación), 4 rectangulares 5x10 (para los 4 tomacorrientes) y 1 cuadrada 10x10 (de paso, si necesario, según el ejemplo). Los precios unitarios son referencias actualizadas al 15 de septiembre de 2025, basadas en búsquedas en Mercado Libre (precios en ARS, incluyendo IVA estimado donde se indica; precios reales pueden variar por proveedor y descuentos por cantidad —recomiendo consultar ElectroMisiones en https://www.electromisiones.com.ar/ para códigos exactos y ofertas, donde por ejemplo una cupla similar cuesta $4.133). No se incluyen descuentos, pero para cantidades >10 unidades, suelen ofrecer 10-20% off o condiciones de crédito/devolución.
 
@@ -46,10 +55,11 @@ Recomendaciones:
    
 #### Ese resultado me lo dio con el siguiente input: Le pase la foto del ejericio, transcripto de la clase 53 y una breve explicación que dió el ayudante y el profesor en la clase 66 y 67.
 
+---
 
-# Antes me tiró bien la lista de precios pero lo calculó con caños de 3/4
+# Antes me tiró bien la lista de precios pero lo calculó con caños de 3/4 (MAL)
 
-### Lista de Materiales Total 
+### Lista de Materiales Total  (MAL).
 
 La siguiente planilla incluye todos los materiales calculados con base en el plano de la imagen y las especificaciones proporcionadas (5 bocas de iluminación y 4 tomacorrientes, con circuitos independientes para iluminación y tomacorrientes, incluyendo un circuito especial para aire acondicionado con cañería 7/8" asumido por el símbolo en el plano). He separado los cálculos en canalización y materiales eléctricos para mayor claridad, pero presento una lista total ordenada por ítem. Las cantidades se basan en los cálculos detallados del texto (16,35 m de cañería 3/4" → 6 caños; 8,05 m de cañería 7/8" → 3 caños; accesorios contados por recorrido, entradas/salidas y bajadas de 0,30 m desde caja de paso al cielorraso; cables con longitudes basadas en los tramos + 10% de reserva por mermas y conexiones, considerando 3 conductores por circuito: fase, neutral y tierra). Los precios unitarios son referencias actualizadas al 15 de septiembre de 2025, basadas en catálogos online como Argo Selectrica, Mercado Libre y estimaciones ajustadas por inflación en Argentina (precios reales pueden variar; recomiendo consultar proveedores locales para códigos exactos y descuentos por cantidad, que suelen ser del 10-20% para lotes >10 unidades, con opciones de crédito/devolución en sitios como Mercado Libre).
 
@@ -84,7 +94,7 @@ Recomendaciones:
 - Verificar precios actualizados en https://www.mercadolibre.com.ar o https://www.argoselectrica.com, y considerar descuentos por cantidad (e.g., packs de 10 para accesorios).
 - Anotar sobrantes para futuras obras y guardar comprobantes. Si necesitas ajustes (e.g., solo canalización o presupuestos con crédito), indica.
 
-
+# Fragmento de lo que hablamos en clase.
 
 Alumno2: Y la altura de los tomas?
 Profesor: Y ahí vos haces así pone para que quede bien esto: toma altura primero. Toma será igual a 0,40 metros (en las piezas). Cajas sería llave de punto, hay que poner el que vos queres 1,10 metros o 1,20.
