@@ -16,7 +16,7 @@ Subscribe to RSS: [/feed.xml](/feed.xml)
 [17 Septiembre 2025]{.date}
 
 
-[Clase Nº 69: Taller de instalación termotanque solar (2da clase).](/69clase.md){.title}
+[Clase Nº 69: Taller de instalación termotanque solar (2da clase). Espeche no trajo resumen de tableros que prometió clase pasada.](/69clase.md){.title}
 [16 Septiembre 2025]{.date}
 
 
