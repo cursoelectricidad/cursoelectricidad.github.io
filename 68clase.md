@@ -14,7 +14,7 @@
 
 [https://www.youtube.com/watch?v=tQhMcOVbmVw](https://www.youtube.com/watch?v=tQhMcOVbmVw)
 
-### Anteriormente la "fundación" nos había mandando encuesta con excesivas preguntas personales.
+##### Anteriormente la fundación nos había mandando encuesta con excesivas preguntas personales.
 
 En la clase el profesor Espeche hace un chiste como que se roba una válvula mezcladora presostática.
 
