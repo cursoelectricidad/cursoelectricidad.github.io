@@ -12,6 +12,10 @@ El curso de auxiliar electricista finaliza en la clase número 47, y el curso de
 
 Subscribe to RSS: [/feed.xml](/feed.xml)
 
+[Clase Nº 71: Repaso tableros.](/71clase.md){.title}
+[23 Septiembre 2025]{.date}
+
+
 [Clase Nº 70: Taller de instalación termotanque solar (3era clase): estuve ausente. ](/70clase.md){.title}
 [17 Septiembre 2025]{.date}
 
