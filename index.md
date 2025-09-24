@@ -12,7 +12,7 @@ El curso de auxiliar electricista finaliza en la clase número 47, y el curso de
 
 Subscribe to RSS: [/feed.xml](/feed.xml)
 
-[Clase Nº 71: Repaso tableros.](/71clase.md){.title}
+[Clase Nº 71: Repaso tableros. Organización clase que viene: algunos harán circuito otros trabajaran en tablero. 8 bocas - 4 ITM bipolares = 3 ITM bipolares y 1 disyuntor. Hasta distribuidor mismo cable de entrada. ](/71clase.md){.title}
 [23 Septiembre 2025]{.date}
 
 
