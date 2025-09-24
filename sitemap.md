@@ -72,6 +72,7 @@ List of pages:
 * /68clase.md: [Clase Nº 68: Vimos trabajo practico. Taller de instalacion termotanque solar.](/68clase.md)
 * /69clase.md: [Clase Nº 69: Taller de instalación termotanque solar (2da clase). Espeche no trajo resumen de tableros que prometió clase pasada.](/69clase.md)
 * /70clase.md: [Clase Nº 70: Taller de instalación termotanque solar (3era clase): estuve ausente. ](/70clase.md)
+* /71clase.md: [Clase Nº 71: Repaso tableros.](/71clase.md)
 * /contact.md: [Contacto](/contact.md)
 * /dudas.md: [Dudas.](/dudas.md)
 * /: [Curso Electricidad - CFP Nº 17](/)
