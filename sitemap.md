@@ -73,6 +73,7 @@ List of pages:
 * /69clase.md: [Clase Nº 69: Taller de instalación termotanque solar (2da clase). Espeche no trajo resumen de tableros que prometió clase pasada.](/69clase.md)
 * /70clase.md: [Clase Nº 70: Taller de instalación termotanque solar (3era clase): estuve ausente. ](/70clase.md)
 * /71clase.md: [Clase Nº 71: Repaso tableros. Organización clase que viene: algunos harán circuito otros trabajaran en tablero. 8 bocas - 4 ITM bipolares = 3 ITM bipolares y 1 disyuntor. Hasta distribuidor mismo cable de entrada. ](/71clase.md)
+* /72clase.md: [Clase Nº 72: Diagrama unifilar tablero."](/72clase.md)
 * /contact.md: [Contacto](/contact.md)
 * /dudas.md: [Dudas.](/dudas.md)
 * /: [Curso Electricidad - CFP Nº 17](/)
