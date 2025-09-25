@@ -1,4 +1,4 @@
-% Clase Nº 72: Diagrama unifilar tablero."
+% Clase Nº 72: Diagrama unifilar tablero.
 % Andrés Imlauer
 % 24 Septiembre 2025
 
