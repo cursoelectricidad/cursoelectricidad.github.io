@@ -58,14 +58,6 @@
 
 ---
 
-👉 En resumen:
-La clase gira en torno a la **planificación de prácticas con tableros eléctricos**, destacando la importancia de los **esquemas unifilares**, el **uso correcto de secciones de conductores** (4 mm² y 6 mm² en cocina), la separación de circuitos de alto consumo, y la **elección de materiales adecuados** pese a su costo.
-
-Perfecto 👍
-Te hago un **resumen con lo más importante y lo técnico destacado** de todo lo que dijeron en esa clase:
-
----
-
 ## 📌 Organización de la práctica
 
 * **Se desarmará un tablero existente** para que los alumnos practiquen y lo armen de nuevo.
@@ -125,15 +117,6 @@ Te hago un **resumen con lo más importante y lo técnico destacado** de todo lo
 
 ---
 
-👉 En resumen:
-La clase apuntó a organizar prácticas más concretas: **desarmar y armar tableros, practicar circuitos básicos, aprender el uso correcto de disyuntores, térmicas y puesta a tierra, y trabajar con disciplina en grupos pequeños**. También se reforzó la importancia de **herramientas bien usadas, cañerías planificadas y marcado de conductores**.
-
-Sí, estamos 👌.
-
-Te hago el **resumen técnico de esta parte de la clase**:
-
----
-
 ### 📌 Organización de la práctica
 
 * Se van a **desarmar tableros de práctica** para reutilizar componentes.
@@ -178,21 +161,11 @@ Te hago el **resumen técnico de esta parte de la clase**:
 
 ---
 
-👉 En conclusión:
-La clase profundizó en **cómo armar un tablero práctico según esquemas unifilares**, reforzando la **importancia de las secciones de conductores**, el uso correcto de **diferenciales y termomagnéticas**, y la **planificación previa** antes de ejecutar una instalación.
-
----
-
-Perfecto 👌, este tramo de la clase se centró en **protección de conductores con interruptores termomagnéticos (ITM)** y en cómo diagnosticar fallas de cortocircuito.
-Te hago un **resumen claro**:
-
----
-
 ### 📌 Relación entre conductores e ITM
 
 * **Conductor de 1,5 mm²** → soporta **máx. 13 A** → se protege con **ITM bipolar de 10 A**.
-* **Conductor de 2,5 mm²** → máx. 21 A → se protege con **ITM bipolar de 16 A**.
-* **Conductor de 4 mm²** → máx. 28 A → se protege con **ITM bipolar de 20 A**.
+* **Conductor de 2,5 mm²** → máx. 18 A → se protege con **ITM bipolar de 16 A**.
+* **Conductor de 4 mm²** → máx. 24 A → se protege con **ITM bipolar de 20 A**.
 * (Más adelante también se menciona el **6 mm² → 32 A**, típico para cocinas eléctricas).
 
 🔑 Idea clave: **el ITM protege al conductor, no al artefacto**.
@@ -233,10 +206,6 @@ Te hago un **resumen claro**:
 * Cada conductor se protege con un ITM adecuado a su sección (según norma y fabricante).
 * El ITM **solo protege cables**, no artefactos.
 * Ante un corto, primero se mide, luego se localiza la falla por partes, **sin insistir en forzar la térmica**.
-
----
-
-Buenísimo, te armo el **resumen técnico de esta parte de la clase** 👇
 
 ---
 
@@ -286,17 +255,6 @@ Buenísimo, te armo el **resumen técnico de esta parte de la clase** 👇
 3. **Aires acondicionados → circuitos individuales obligatorios**.
 4. **Nada de preensamblado dentro de viviendas**.
 5. **Planificación y distribución en tableros seccionales** para grandes instalaciones (ej. escuelas).
-
----
-
-👉 En conclusión: esta parte de la clase fue mitad **práctica (cómo dimensionar aires y mixtos)** y mitad **crítica a instalaciones mal hechas**, resaltando que lo barato o improvisado siempre termina en riesgo eléctrico.
-
----
-
-Buenísimo, gracias por compartir este último tramo 👌.
-Te armo el **resumen técnico de esta parte de la clase (energías renovables, bombas y tableros de bombeo):**
-
----
 
 ## 📌 Energía solar en escuelas
 
