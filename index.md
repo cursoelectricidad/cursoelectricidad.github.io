@@ -12,11 +12,11 @@ El curso de auxiliar electricista finaliza en la clase número 47, y el curso de
 
 Subscribe to RSS: [/feed.xml](/feed.xml)
 
-[Clase Nº 72: Diagrama unifilar tablero.](/72clase.md){.title}
+[Clase Nº 72: Diagrama unifilar tablero. Desarmamos tablero.](/72clase.md){.title}
 [24 Septiembre 2025]{.date}
 
 
-[Clase Nº 71: Repaso tableros. Organización clase que viene: algunos harán circuito otros trabajaran en tablero. 8 bocas - 4 ITM bipolares = 3 ITM bipolares y 1 disyuntor. Hasta distribuidor mismo cable de entrada. ](/71clase.md){.title}
+[Clase Nº 71: Repaso tableros. Organización clase que viene: algunos harán circuito otros trabajaran en tablero. 8 bocas - 4 ITM bipolares = 3 ITM bipolares y 1 disyuntor. Hasta distribuidor mismo cable de entrada. Peine de conexión. Cinta de colores para marcar cables y caños. Tener cuidado: cuando esté terminado el trabajo recién decir que si, sino te cierran el cielorraso. Sobre la estructura de los perfiles se pone madera. Vimos tablero de puente doble, ayudante intentó usar destornillador grande(error). Terminal doble TIF. Laburo: iluminar la parrila. Compañero de ayudante conectó una bomba al revés. Benitez pregunta como proteger circuito mixto. Cuando el circuito es mixto hay que proteger al conductor de menor sección. Preensamblado por adentro no está permitido. Un vivo puso tanque de reserva y le sacó toda el agua al barrio. Acuífero. Primero vamos a terminar tableros y después vamos a empezar con tablero de bombeo. Un recibido del Janssen electromecánico conectó la bomba al revés.](/71clase.md){.title}
 [23 Septiembre 2025]{.date}
 
 
