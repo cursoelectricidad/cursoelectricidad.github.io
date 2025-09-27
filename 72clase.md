@@ -133,3 +133,328 @@ De la calle viene ahí con el negro tipo preensamblado acuérdense que soporta m
 * Alumno con pinza amperométrica le daba 22 amperes en caliente y 12 en el tibio. No llega a los 22 que yo tuve cuando uso la ducha eléctrica.
 * Profesor ya no quiere embutir más tableros porque hay que picar.
 * Ver distribución un interruptor principal y otro que corte tablero seccional que está en la cocina y luego se va mejorando.
+
+# CHATGPT
+
+
+* Siempre se puede **mejorar un plano** ya existente; nunca empeorar.
+* Lo primero es **saber dibujar** correctamente los diagramas.
+* Todos los planos eléctricos deben incluir:
+
+  * Esquema de **bocas** (iluminación y tomacorrientes).
+  * Plano de **tablero** con sus protecciones.
+* Importancia de **modificar planos**: los recibidos casi siempre requieren ajustes.
+* Los planos se representan con **símbolos normalizados** (interruptores, diferenciales, ITM).
+* **Práctica en tablero eléctrico**: se busca más trabajo práctico que teoría.
+* **Interruptor Termomagnético (ITM)**:
+
+  * Combina parte **magnética** (corto) y **térmica** (sobrecarga).
+  * Límite de corriente depende de la sección del conductor:
+
+    * 2,5 mm² → 16 A.
+    * 4 mm² → 20 A.
+  * Cada circuito admite **máx. 15 bocas** (iluminación o tomas).
+* **Interruptor Diferencial (ID)**:
+
+  * Protege personas frente a fugas.
+  * Símbolo identificado; algunos llevan pulsador “Test”.
+  * La función del “Test” es verificar su correcto funcionamiento.
+  * A veces se conecta mal (fase/neutro invertidos).
+* **Estructura típica de tablero**:
+
+  1. **Interruptor de cabecera** (general, mayor que los ITM).
+  2. **Interruptor diferencial**.
+  3. **Protecciones individuales (ITM)** para cada circuito.
+* El **diagrama unifilar** es la representación gráfica del tablero con sus protecciones y distribución.
+* Recomendación: traer interruptores, incluso usados o dañados, para prácticas.
+* Próximos temas:
+
+  * Curvas de disparo (térmicos).
+  * Práctica con tablero real usando peines de conexión.
+
+
+* **Entrada de cables al tablero**
+
+  * En algunos equipos se puede entrar por arriba o por abajo, pero hoy en día la mayoría de los interruptores están normalizados.
+  * Importante no equivocarse con la orientación de conexión (fase/neutro).
+
+* **Diagrama unifilar**
+
+  * Representa el tablero en una sola línea con todos sus elementos.
+  * Necesario conocer:
+
+    * Cantidad de circuitos.
+    * Tamaño del tablero (cantidad de módulos).
+  * Incluye interruptor principal, diferencial y los ITM de cada circuito.
+
+* **Tablero y espacio**
+
+  * Se calcula en función de la cantidad de interruptores (ejemplo: tablero de 7, 12 módulos, etc.).
+  * Puede agregarse **distribuidor** para ordenar conexiones.
+
+* **Conductores**
+
+  * Circuitos típicos:
+
+    * Iluminación → 1,5 mm².
+    * Tomas comunes → 2,5 mm².
+    * Tomas especiales → 4 mm².
+  * Conductor de entrada al tablero debe ser mayor (ejemplo: 6 mm²).
+  * Conductor de puesta a tierra → misma sección que el conductor de entrada principal (no menor).
+
+* **Orden de protecciones en el tablero**
+
+  1. Interruptor principal de cabecera.
+  2. Interruptor diferencial.
+  3. Interruptores termomagnéticos (ITM) por circuito.
+
+* **Características de los ITM**
+
+  * Cada polo representa un circuito independiente.
+  * Se eligen según la **sección del cable** y la **corriente máxima permitida**.
+  * ITM de cabecera debe tener **corriente igual o mayor** que los ITM secundarios.
+
+* **Curvas de disparo (B y C)**
+
+  * Curva B → dispara más rápido ante sobrecarga.
+  * Curva C → tolera más antes de disparar.
+  * Se verá más adelante en detalle.
+
+* **Corriente de cortocircuito y ruptura**
+
+  * La red de la distribuidora puede aportar una corriente de cortocircuito elevada.
+  * Todos los interruptores deben soportar al menos **3000 A de corriente de ruptura**.
+  * Recomendación:
+
+    * ITM principal → 4500 A.
+    * Secundarios → mínimo 3000 A.
+
+
+---
+
+### 🔹 Seguridad y capacidad de ruptura
+
+* Un rayo o una sobrecorriente puede generar **picos de hasta 3000 A**.
+* Si el interruptor no tiene suficiente **capacidad de ruptura**, puede **explotar**.
+* Recomendación: elegir interruptores principales con capacidad **superior al mínimo (ej. 4500 A en vez de 3000 A)**.
+
+### 🔹 Armado de tablero
+
+* Se empieza con el **interruptor principal de cabecera**.
+* Luego va el **diferencial**.
+* Después se agregan los **ITM** para cada circuito (iluminación, tomas comunes, tomas especiales, etc.).
+* El tablero debe tener **espacio suficiente (módulos)** y dejar **20% de reserva** para futuras ampliaciones.
+
+### 🔹 Distribución y accesorios
+
+* **Distribuidores o peines**: facilitan la conexión entre ITM.
+* Alternativas: peine de conexión, borneras, puentes de cable.
+* En tableros de varios módulos, se organizan los interruptores en **filas**.
+
+### 🔹 Secciones de conductores
+
+* Iluminación → **1,5 mm²**.
+* Tomas comunes → **2,5 mm²**.
+* Tomas especiales → **4 mm²**.
+* Alimentación al tablero → **6 mm² o más**.
+* Puesta a tierra → **igual sección que el conductor de entrada principal**.
+
+### 🔹 Normativa y colores
+
+* Cada circuito protegido según normativa AEA.
+* Colores: fase (negro/rojo), neutro (celeste), tierra (verde-amarillo).
+* Algunos instaladores usan solo un color (ej. todo negro) y marcan con anillos identificadores → **no recomendable**.
+
+### 🔹 Trabajo práctico
+
+* El ejercicio consiste en **dibujar el diagrama unifilar** del tablero seccional:
+
+  * Indicar **alimentación** desde tablero general.
+  * Representar **principal → diferencial → ITM**.
+  * Señalar secciones de conductores (1,5 / 2,5 / 4 mm²).
+  * Agregar **puesta a tierra** con su bornera.
+* El tablero unifilar sirve como guía para **armar físicamente el tablero** en la práctica.
+
+### 🔹 Puesta a tierra
+
+* Puede hacerse con:
+
+  * Bornera específica (verde-amarillo).
+  * Empalme común con conductor de cobre desnudo.
+* En edificios: suele haber **puesta a tierra en cada columna**, conectada a la jabalina o malla del transformador.
+
+---
+
+## 🔹 Puesta a tierra en edificios
+
+* En edificios grandes se coloca un **conductor de cobre desnudo (≈25 mm²)** dentro de la zapata o fundación.
+* Se sacan **“chicotes”** (derivaciones) en distintos puntos de la estructura para conectar tableros o columnas.
+* Así, aunque no se sepa dónde estará cada tablero, siempre hay puntos accesibles para conectar la puesta a tierra.
+
+---
+
+## 🔹 Sistema monofásico y trifásico
+
+* En viviendas comunes se usa **monofásico**.
+* Cuando el consumo supera ~5.500 W conviene pasar a **trifásico**.
+* En ese caso, en el tablero se coloca primero un **tetrapolar** (interruptor general de corte) y luego un **disyuntor diferencial**.
+
+---
+
+## 🔹 Protector de tensión
+
+* Dispositivo que protege la instalación contra **sobretensión** (cuando la tensión sube demasiado) o **subtensión** (cuando cae demasiado).
+* Ejemplo: corta si la tensión pasa de 239–240 V o baja de 200 V.
+* Hay modelos simples y otros programables con **display**.
+* Se instalan después del interruptor general.
+
+---
+
+## 🔹 Manejo y fijación de interruptores
+
+* Los interruptores deben quedar **firmemente fijados en riel DIN**, nunca colgando.
+* Para desmontar: se baja la traba con destornillador plano y se retira.
+* Cuidado al apretar tornillos de conexión: si se pasa de fuerza, se puede romper.
+* Existen destornilladores **dinamométricos (tipo torquímetro)** que cortan el apriete al llegar al par correcto.
+
+---
+
+## 🔹 Trabajo práctico en clase
+
+* Cada grupo arma un tablero chico (con interruptores y borneras).
+* Se reparte material, se arma, se desarma y se vuelve a armar para practicar.
+* Se insiste en tratar los interruptores **nuevos** con cuidado (“como un recién nacido”).
+
+---
+
+## 🔹 Circuitos con temporizador / pulsadores
+
+* Se mencionaron distintos sistemas de control de iluminación en pasillos o escaleras:
+
+  * **Temporizador** → se activa con pulsador y apaga la luz después de cierto tiempo.
+  * **Detector de movimiento** → prende automáticamente con presencia.
+  * **Sistema clásico de pulsadores múltiples** conectados a un relé o conmutador central.
+
+---
+
+## 🔹 Pulsadores y temporizadores
+
+* Se usan en **pasillos, escaleras o entradas**.
+* Funcionamiento:
+
+  * Al pulsar, activa un **temporizador** que mantiene encendida la luz un tiempo determinado.
+  * Si el usuario se demora, la luz se apaga cuando termina el tiempo.
+* Se pueden usar **cualquier pulsador** compatible, no hace falta que sean todos del mismo modelo.
+* En práctica, se conectan dentro de **cajas de tablero** junto con el disyuntor principal.
+
+---
+
+## 🔹 Distribución de circuitos
+
+* Los disyuntores tienen entradas y salidas, y se debe **respetar la fase y el neutro** según indique el disyuntor.
+* El **diagrama unifilar** indica cómo se distribuyen los conductores (fase, neutro y tierra) hacia cada circuito.
+* Se recomienda **marcar cada conductor** para no confundir conexiones durante el montaje.
+
+---
+
+## 🔹 Protectores de tensión (baja y sobretensión)
+
+* Se colocan **antes de que la energía llegue a la instalación** para proteger aparatos y equipos.
+* Funcionamiento:
+
+  * Normal: 220 V ± 10%.
+  * Baja tensión: corta si baja a ~200 V.
+  * Sobretensión: corta si sube a ~238–240 V.
+* Algunos modelos **automáticos**:
+
+  * Cortan la energía cuando hay tensión fuera del rango seguro.
+  * Al estabilizarse, se **reactivan solos** o manualmente según la programación.
+  * Tiene un tiempo de retardo (~30 s) para evitar activaciones por picos momentáneos justo después de un corte de luz.
+
+---
+
+## 🔹 Estabilizadores vs protectores
+
+* **Protector de tensión**: corta la energía si la tensión es anormal.
+* **Estabilizador**: regula la tensión a 220 V constante y puede manejar cargas grandes, pero es un equipo aparte que **no va dentro del tablero**.
+
+---
+
+## 🔹 Secuencia segura después de un corte
+
+* Tras un corte de luz, es recomendable **esperar unos segundos** antes de reconectar todos los aparatos.
+* Esto evita que un **pico de tensión** dañe equipos sensibles.
+* Los protectores y contactores ayudan a controlar esta secuencia automáticamente.
+
+---
+
+## 🔹 Componentes críticos
+
+* **Interruptor general (tetrapolar si trifásico)**
+* **Disyuntor diferencial**
+* **Protector de tensión o estabilizador**
+* **Contactor**: maneja la carga general, permite que un pulsador o temporizador controle la alimentación sin manejar toda la corriente directamente.
+
+---
+
+### 🔹 Conceptos clave a recordar
+
+1. Pulsadores → activan temporizadores o contactores para controlar iluminación.
+2. Protectores → cortan tensión fuera de rango, protegiendo equipos.
+3. Retardo de tiempo → evita picos al reconectar tras corte.
+4. Disyuntor y diferencial → protegen personas y circuitos.
+5. La práctica consiste en **montar, desarmar y probar** estas configuraciones para entender su funcionamiento real.
+
+---
+
+## 🔹 Protección eléctrica y normativa
+
+* **Protección mínima:**
+
+  * Siempre debe haber interruptor general y disyuntor diferencial.
+  * Se pueden agregar **protectores de tensión** (DPS, protectores de sobre/baja tensión) según la necesidad y el valor de los equipos.
+* **Protección reforzada:**
+
+  * Para viviendas con **equipos sensibles o de alto valor**, se recomienda invertir en **protectores individuales**, estabilizadores o sistemas automatizados.
+  * Esto permite que, ante sobre/baja tensión, los equipos queden **protegidos y la responsabilidad pueda ser cubierta por la distribuidora** si corresponde.
+* La normativa actual obliga a instalar **protección ante sobre/baja tensión** en ciertos casos, especialmente en residencias con cargas importantes.
+
+---
+
+## 🔹 Distribución y dimensionamiento de conductores
+
+* **Cable principal:** mayor sección que los conductores de salida para soportar toda la carga.
+* **Cajas de paso:** se puede disminuir sección desde la caja hasta los consumos finales, según norma y necesidad.
+* **Equilibrio de fases (trifásico):**
+
+  * En cocinas o instalaciones grandes, repartir la carga entre fases evita sobrecarga.
+  * Diferencia máxima entre fases: **20–30 %**.
+  * Se puede medir con pinza amperométrica para verificar consumo real.
+
+---
+
+## 🔹 Equipos de protección y montaje
+
+* **DPS (descargador de sobretensión):**
+
+  * Se conecta **fase a tierra**.
+  * Protege equipos ante picos transitorios de tensión.
+* **Contactor:**
+
+  * Permite controlar la carga de un circuito a través de un pulsador o temporizador.
+  * Recibe toda la corriente, mientras que el pulsador controla solo la bobina del contactor.
+* **Protector de tensión programable:**
+
+  * Corta energía si la tensión está fuera del rango seguro.
+  * Algunos modelos se reactivan automáticamente, otros requieren manual.
+  * Tiempo de retardo (~30 s) para evitar picos tras cortes de luz.
+
+---
+
+## 🔹 Prácticas recomendadas
+
+1. **Distribución lógica:** tablero principal → tableros seccionales → cargas finales.
+2. **Cableado mayor a menor:** asegurar conductor principal robusto y disminuir sección según distancia y carga.
+3. **Medición de consumo:** equilibrar fases y prevenir sobrecargas.
+4. **Protección de equipos sensibles:** instalar DPS o protectores de tensión antes de equipos valiosos.
+5. **Documentación:** registrar diagramas unifilares y secciones de conductores.
