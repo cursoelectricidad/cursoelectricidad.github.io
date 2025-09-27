@@ -1,4 +1,4 @@
-% Clase Nº 72: Diagrama unifilar tablero: símbolos de ITM y diferencial(disyuntor). Desarmamos tablero. Pregunta examen?
+% Clase Nº 72: Diagrama unifilar tablero: símbolos de ITM y diferencial(disyuntor). Desarmamos tablero. Pregunta examen. Forma ascendiente vs descendiente. Distribuidor, peine, bucle o guirnalda. 8 módulos = 4 térmicas. El disyuntor determina la característica ahí dice donde entra el neutro y la fase.
 % Andrés Imlauer
 % 24 Septiembre 2025
 
