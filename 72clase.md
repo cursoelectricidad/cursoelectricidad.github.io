@@ -46,7 +46,7 @@
 * Por cada tablero tengo un ITM de cabecera generalmente es mayor luego disyuntor.
 * El que tiene un cuadradito que dice TEST y tiene otra característica es el disyuntor. Si el botón de TEST sale sigue funcionando el disyuntor.
 * Hay gente que coloca al revés el disyuntor y no salta el test.
-* Leiva probó botón de disyuntor y no saltó puede ser que hizo eso.
+* Alumno probó botón de disyuntor y no saltó puede ser que hizo eso.
 * Hoy en día siempre por arriba todos los disyuntores.
 * Luego podemos agregar protector de tensión.
 * Distribuidor ocupa 4 módulos y medio.
@@ -92,13 +92,13 @@
 * \* Desarmamos el tablero...
 * Si paso los 5500 watts tengo que usar trifásico en ese caso tenemos que poner un tetrapolar. Tetrapolar primero y luego disyuntor. Es de 5000 watts el tetrapolar.
 * Protector de tensión va luego: protege contra sobre tensión o baja tensión.
-* Benitez falta y hace preguntas que debería haber sabido: preguntó como proteger un circuito mixto iluminación y tomacorriente qué ITM tengo que colocar? Tenes que proteger el conductor más chico.
-* Benitez: venite volando(chiste). (Hora 01:02:06)
+* Alumno falta y hace preguntas que debería haber sabido: preguntó como proteger un circuito mixto iluminación y tomacorriente qué ITM tengo que colocar? Tenes que proteger el conductor más chico.
+* Queja de profesor de un alumno: Hora 01:02:06
 * Algunos protectores de tensión son analógicos y otros digitales te dice que tensión tiene en un display.
 * Para desarmar tiene un ganchito. Se pone un destornillador plano se baja y se levanta no vayan a arrancarlo.
 * Para poner el ITM en el riel din: arriba pongo y después apretó porque si esto está en otra posición probablemente rompa y al romper esto ya no tengo fijación acuérdense que todos los interruptores tienen que estar fijos sobre el riel din no tener colgando, ocurre que se rompe el soporte. 
 * Luego veremos contactores que también se pueden fijar a riel din o a la chapa.
-* Leiva hace un chiste de que quiere ese tablero de chapa para su casa.
+* Alumno hace un chiste de que quiere ese tablero de chapa para su casa.
 * Profesor explica como funciona temporizador, detectores de movimiento, pulsador. Llegabas a la escalera pulsabas y duraba un tiempo luego se apagaba la luz.
 * Ayudante: Algunos tienen un resorte y otros que se bajan y se trancan.
 * **Lo importante es ver como tienen los empalmes**.
