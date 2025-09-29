@@ -13,6 +13,7 @@ Es similar al trabajo que habíamos hecho en la clase número 56 y clase 53:
 ![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgXkbt34OXoK0F0uHoMcFpHN8kkeLadysF7VXUwqm8meWtkS3LYFCmRxnpbqdgXVcDE_fV4euTFcqktgCMsxfDMoMl1YT-1YVDH-UUaDz5tp3bAHqg-NxxQR1LdT2EHoVLJVxn6zjWgVgVjw9oZEIpgTU-FN7OyxOVRrGhfGYFiffdh3OWVep10zIb85zw/s4160/IMG_20250813_202531818.jpg)
 
 ## Este fue el trabajo que entregué (en la parte de conductores 2,5mm^2 me faltó sumar 0,15 al de la fase debería dar lo mismo que el neutro).
+## Me faltó poner que la tierra es de 2,5 mm^2 y que el ITM del tablero principal es de curva B.
 
 ![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjd20cZy84WbMeeHsfHsRgf3XhfSiGtP1ToH18QBIPlAJ3yxmnGyV-Mx55RxmTMWxcPfNvGgVoJlFEEbzxpNw_bRt8kXk4nnl27JeA5jUKxhpLnk5SHb5VkLNJmaSsQKgXiz2PfxA7O0wrg4C_ECFJLcfaPrzkbYyf5klgpBIcqkkthfpxsMH6cIj3AHQ4/s4160/IMG_20250923_145504104.jpg)
 ![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjWMiI0J5uBPXZcXQZapqzuOirCeeykAHCLz2vKimv5mKEDV4sREu1psL8r3hbfkwQX9pKwJd2aFgZ2kYfeGx1QgOxPgSTQIrEPXtE9Kb1lKX0KcmYY-dXt3wOEB0GvjCZkxjsLnHMduezTSvxsse5ppLLsYAfwWhqtB5wWJBhWl6PNZXIclvedpsWxQds/s4160/IMG_20250923_145614194.jpg)
