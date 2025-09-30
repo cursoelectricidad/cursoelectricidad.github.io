@@ -15,6 +15,8 @@
 
 [https://www.youtube.com/watch?v=r3ebTz2mR5w](https://www.youtube.com/watch?v=r3ebTz2mR5w)
 
+## Armamos el tablero al revés iba de mayor a menor el disyuntor de 20 amper debería estar primero.
+
 ![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiIu4b51JBk4_U76Zl6wPbqu90_GkIRSrTk9sUdJTbacEn1FzzP-0uh1ZJDJkWFYR5Sbhq-zRkVzGykxGoWRsfdI3W2HdBJkrW96w5H_6AuMwOwOMggBH7Q1qoZwa2ENdv8a8hTfZikBgXP0fZCmDpzBaFYB-fqi2CpI08ACertus5F_WDfw0rBiNRfvgg/s4160/IMG_20250929_184659344.jpg)
 ![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgBOQBR7wJzx6FlqCKcVhA4llr2QLYh1gSgfUHuAlNcIqFFcglIuzKAYL4Fq_It2BjD4BiDL0tZ8Xr8zgxqNPTt3o71WLFhyWhyoL-g_W7gxI4EVrImu7MWflbp1wjHXdyRkObR4Hb6pymGoeiz5vn675MI-m6D92ITVlTppiuQPzveyAUQM811OIBYtmA/s4160/IMG_20250929_190154568.jpg)
 ![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhY_Cawu0YYI41QtXGvOl01wfWMoy-0FtYsJPZxrzewZwq2r2kIJTcLwuK5R9_k3NPhzPMPtQllygkNxroI85ZNnIxKJ24DKmAuZ7YDU4oisoyUaFotBghopF4384ZxPEnFw0whjYCE6Uj7TTtOKbuH-s2sXOGWfYqhOjkfTAeK4A3KvyKddmYxqZUzesU/s4160/IMG_20250929_192140877.jpg)
