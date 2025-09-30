@@ -310,6 +310,7 @@ Interruptor automático de bombeo: Si hacen circuito de bombeo y arriba hay flot
 
 * En un circuito mixto se protege el conductor más chico.
 
+---
 
 # ChatGPT
 
