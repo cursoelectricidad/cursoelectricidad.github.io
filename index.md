@@ -12,6 +12,10 @@ El curso de auxiliar electricista finaliza en la clase número 47, y el curso de
 
 Subscribe to RSS: [/feed.xml](/feed.xml)
 
+[Clase Nº 73: Clase práctica. Armado de tableros.](/73clase.md){.title}
+[24 Septiembre 2025]{.date}
+
+
 [Clase Nº 72: Diagrama unifilar tablero: símbolos de ITM y diferencial(disyuntor). Desarmamos tablero. Pregunta examen. Forma ascendiente vs descendiente. Distribuidor, peine, bucle o guirnalda. 8 módulos = 4 térmicas. El disyuntor determina la característica ahí dice donde entra el neutro y la fase.](/72clase.md){.title}
 [24 Septiembre 2025]{.date}
 
