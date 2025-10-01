@@ -343,4 +343,4 @@ Te hago un **resumen técnico** de este tramo de la clase, porque mezcla muchas 
   * **Motores monofásicos y trifásicos** (con capacitor de arranque o de marcha).
 
 * 🚫 Salida de 3 fases en un solo caño (prohibido).
-* ✅ Alimentación de tablero seccional con 3 fases + neutro (permitido)?
+* ✅ Alimentación de tablero seccional con 3 fases + neutro (permitido)
