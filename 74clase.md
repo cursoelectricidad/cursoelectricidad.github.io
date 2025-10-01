@@ -1,4 +1,4 @@
-% Clase Nº 74: 2da Clase práctica de tableros (técnica: con distribuidor)
+% Clase Nº 74: 2da Clase práctica de tableros (técnica: con distribuidor).
 % Andrés Imlauer
 % 24 Septiembre 2025
 
@@ -341,12 +341,6 @@ Te hago un **resumen técnico** de este tramo de la clase, porque mezcla muchas 
 
   * **Tableros de bomberos**
   * **Motores monofásicos y trifásicos** (con capacitor de arranque o de marcha).
-
----
-
-👉 En síntesis: este tramo se centra en **cómo distribuir fases correctamente en cañerías y tableros**, la **importancia del equilibrio de cargas**, el uso de **peines y espacio en módulos**, y la **prohibición de usar madera como tablero** en instalaciones reales.
-
-¿Querés que te arme un **esquema gráfico simple** (tipo plano eléctrico) para que veas la diferencia entre:
 
 * 🚫 Salida de 3 fases en un solo caño (prohibido).
 * ✅ Alimentación de tablero seccional con 3 fases + neutro (permitido)?

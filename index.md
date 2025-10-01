@@ -12,11 +12,11 @@ El curso de auxiliar electricista finaliza en la clase número 47, y el curso de
 
 Subscribe to RSS: [/feed.xml](/feed.xml)
 
-[Clase Nº 74: 2da Clase práctica de tableros (técnica: con distribuidor)](/74clase.md){.title}
+[Clase Nº 74: 2da Clase práctica de tableros (técnica: con distribuidor).](/74clase.md){.title}
 [24 Septiembre 2025]{.date}
 
 
-[Clase Nº 73: Clase práctica. Armado de tableros (técnica: guirnalda o bucles)](/73clase.md){.title}
+[Clase Nº 73: Clase práctica. Armado de tableros (técnica: guirnalda o bucles).](/73clase.md){.title}
 [24 Septiembre 2025]{.date}
 
 
