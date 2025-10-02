@@ -1,6 +1,6 @@
-% Clase Nº 74: 2da Clase práctica de tableros (técnica: con distribuidor).
+% Clase Nº 74: 2da Clase práctica de tableros (método: con distribuidor).
 % Andrés Imlauer
-% 24 Septiembre 2025
+% 29 Septiembre 2025
 
 
 #### Audio en Vocaroo: 
@@ -11,7 +11,7 @@
 
 [https://archive.org/details/record-282](https://archive.org/details/record-282)
 
-#### Audio en Archive:
+#### Audio en YouTube:
 
 [https://www.youtube.com/watch?v=KJDlypdghUY](https://www.youtube.com/watch?v=KJDlypdghUY)
 

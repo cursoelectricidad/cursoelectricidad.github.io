@@ -12,12 +12,16 @@ El curso de auxiliar electricista finaliza en la clase número 47, y el curso de
 
 Subscribe to RSS: [/feed.xml](/feed.xml)
 
-[Clase Nº 74: 2da Clase práctica de tableros (técnica: con distribuidor).](/74clase.md){.title}
-[24 Septiembre 2025]{.date}
+[Clase Nº 75: Tableros: protecciones de tension, contactor. Hablamos de problemas de un tablero.](/75clase.md){.title}
+[1 Octubre 2025]{.date}
 
 
-[Clase Nº 73: Clase práctica. Armado de tableros (técnica: guirnalda o bucles).](/73clase.md){.title}
-[24 Septiembre 2025]{.date}
+[Clase Nº 74: 2da Clase práctica de tableros (método: con distribuidor).](/74clase.md){.title}
+[29 Septiembre 2025]{.date}
+
+
+[Clase Nº 73: Clase práctica. Armado de tableros (método: guirnalda o bucles).](/73clase.md){.title}
+[28 Septiembre 2025]{.date}
 
 
 [Clase Nº 72: Diagrama unifilar tablero: símbolos de ITM y diferencial(disyuntor). Desarmamos tablero. Pregunta examen. Forma ascendiente vs descendiente. Distribuidor, peine, bucle o guirnalda. 8 módulos = 4 térmicas. El disyuntor determina la característica ahí dice donde entra el neutro y la fase.](/72clase.md){.title}

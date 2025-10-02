@@ -1,6 +1,6 @@
-% Clase Nº 73: Clase práctica. Armado de tableros (técnica: guirnalda o bucles).
+% Clase Nº 73: Clase práctica. Armado de tableros (método: guirnalda o bucles).
 % Andrés Imlauer
-% 24 Septiembre 2025
+% 28 Septiembre 2025
 
 
 #### Audio en Vocaroo: 
