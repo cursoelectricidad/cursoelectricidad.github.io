@@ -12,7 +12,7 @@ El curso de auxiliar electricista finaliza en la clase número 47, y el curso de
 
 Subscribe to RSS: [/feed.xml](/feed.xml)
 
-[Clase Nº 75: Tableros: protecciones de tension, contactor. Hablamos de problemas de un tablero.](/75clase.md){.title}
+[Clase Nº 75: [FOTOCOPIA] Tableros: protecciones de tension, contactor. Hablamos de problemas de un tablero.](/75clase.md){.title}
 [1 Octubre 2025]{.date}
 
 

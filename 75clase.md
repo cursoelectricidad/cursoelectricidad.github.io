@@ -1,4 +1,4 @@
-% Clase Nº 75: Tableros: protecciones de tension, contactor. Hablamos de problemas de un tablero.
+% Clase Nº 75: [FOTOCOPIA] Tableros: protecciones de tension, contactor. Hablamos de problemas de un tablero.
 % Andrés Imlauer
 % 1 Octubre 2025
 
@@ -31,72 +31,82 @@
 ![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjjgMI6G_jfGYc3tUFseVy2smhPjcLjORrsi1Xr4XaxgcU0yvcPRy6N3ryOJOqdrXikjQz6LbhNr5fdNRRPsJRByBCb6XfIAsayDeZdREOBWFknu7A80n2HYPo364cMz62S4QaZktt-BeXeC7ip40CE6P-VlePU1SNzSKWHk7my3VH4U0uc3QbyHK1vNV0/s4160/IMG_20251001_201600714.jpg)
 ![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEga7NgcO2cNuglG87tgbR_b6z_djdkyLnzxWv9MXkIWrht3xWhi6NwFzx9mUe7w16OKWMXXzvWmuwcN4NChlwf0VcCLc3P7YATbX6pcpgoUDIzeBAiJIuRG_ld4xFD-WJJT3LVBvCVdaLjP9c8Rq0Lkl65EkwMXAj9j-V0wUc7mYWkaAQaifqFttd4nxiA/s4160/IMG_20251001_202557746.jpg)
 ![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjUDiv3xHBIxrjsEBOPxiAw3i97vMbO_6bfDmkDIFxof1Fkb4Mub_ksN8Vc0QDSaB3dZwDu4cf88_08T0Q1_r1xpXoAPng19JIL1slcqqDAIlweGtN7dZ9la-m5NS5fzdpC220A9RKAnBCL2MDh5Sz6GxtE-_KXjBeU-_Igr_hj7IbVStenbmRbRhkvfDE/s4160/IMG-20251001-WA0001.jpg)
-![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgGeoE__XMQUAKbeNWiCHgDFYfWxMfVSCkKCTfJybAyg3YMfETjZZEtknNOZi8ktPPGiJB8-ytNmNvtQtIpGkogqQ0WKZm0pwMubHGSER3TR-fjxjlKWVOWy1FkSNgdse66QjUT-kWGLQtU6vM07Pu_Xcn6axk-b1MrPGb5LOH8tOWSaU6CdNLN1yIiKI0/s4160/IMG-20251001-WA0002.jpg)
 ![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh8TswPKW-h8WFy_0wMOGzE3g59-VJz3ZiE-qvkoAniRE4cMLPxZfjvRqhhl4eSXYsyHqnmeycW-EeItohtSeP-Hmg5D5-fHl18taWHGfLh1-Etrz9jvFSaYR1rFS7qC-TRHGyeRXD17HMywY9vuKRB3pCP0jYU0xXWPimV5uQJcr2rHB6u6saawGXANTU/s4160/IMG-20251001-WA0003.jpg)
 
 # ChatGPT
 
+* Tema del tablero: sacar todos los tableros y en el tablero con más espacio vamos a poner un protector de tensión.
+* Conversación sobre estacionamiento: problemas por motos mal ubicadas, falta de reglamento claro. Leiva estacionó "mal" su moto según Alejandro Ramirez.
 
-
-* Tema del terreno: sacar tierra para ganar espacio y organizar mejor.
-* Conversación sobre estacionamiento: problemas por motos mal ubicadas, falta de reglamento claro.
-* Trabajo eléctrico:
+* Trabajo eléctrico de la clase pasada:
 
   * Distribución con barras de fase y neutro.
-  * Corte y armado de canalización en forma de “S”.
-  * Tableros: módulos de 4, 8, 24.
-  * Fotocélula defectuosa.
-* Riesgos y cuidados: lluvia, mochilas mojadas, niños pateando instalaciones.
+  * Corte y armado de canalización en forma de “S” de los cables.
+  * La fase va al medio y el neutro al medio porque los tornillos son más grandes.
+
+* Leiva tiene un tableros de 8 módulos. 
+* Hay tableros de 16, 24, etc.
+* Se desoldó la bisagra de la puerta del baño.    
+* Alumno compró fotocélula pero todavía no la instaló.
+* Detector de movimiento pasa una rata y prende, pasa una cucharacha y prende, hoja con el viento.
+* Lo molesto de viajar en colectivo de larga distancia: sentarse cerca del baño, niños pateandote el asiento atrás. Botolli ronca.
+* Riesgos y cuidados: alumno envuelve las herramientas en una toalla para proteger la mochila para que no hinque.
+
 * Curso/clase:
 
-  * Referencia a materias que van hasta diciembre.
-  * Algunos trabajos no entregados o pendientes.
-  * Herramientas: navaja, ficha RJ45, herramienta de ponchado.
+  * Calendario escolar: hasta el 22 de diciembre.
+  * Alejandro Ramirez rindió examen el 24 de diciembre.
+  * Alumno mostró cartuchera. Herramientas: navaja, ficha RJ45, herramienta de ponchado. RJ45 para red/datos.
+
 * Conectividad:
 
-  * RJ45 para red/datos.
-  * Explicación de PoE (Power over Ethernet).
-  * Plaquitas que convierten datos en frecuencia para transmitir a antenas.
-  * Limitaciones: autonomía, consumo de batería, repetidores cada 5 km.
+  * Explicación de PoE (Power over Ethernet) cámaras que se alimentan con cable ethernet.
+  * Alumna: Magest convierte datos en frecuencia. Es una plaquita con antenita que convierten datos en frecuencia para transmitir a antenas. Limitaciones: autonomía, consumo de batería, repetidores cada 5 km. 30 mil pesos. Es una red punto a punto. (Creo que se puede hacer con un Arduino o ESP32). En Bahía Blanca se logró 100 kilómetros con la torre de la cooperativa. Armada 5 kilómetros.
+
 * Energía solar:
 
-  * Mención de una granja solar cercana.
+  * Mención de una granja solar cercana que está al costado del Mártires. Casi se prendieron fuegos los paneles solares que estaban cerca el año pasado.
   * Necesidad de espacio y permisos para conexión a central.
   * Paneles aprobados con más de 10 años de vida útil.
 
 * **Compra y costos**
 
   * Comentarios sobre precios de equipos/ropa afuera y diferencias de impuestos en el país.
-  * Referencia a leyes existentes desde 2007 sobre control aduanero, aunque poco aplicadas en su momento.
+  * Alumna dice que ya no venden más celulares desde que Milei permitió traer celu y computadora: Referencia a leyes existentes desde 2007 sobre control aduanero, aunque poco aplicadas en su momento. No venden mas celulares ni con tarjetas ni en cuotas. Pagas siempre el doble.
 
 * **Diplomas y certificados**
 
-  * Entrega escalonada: primero diploma, luego tarjeta/carnet.
+  * Entrega del certificado de aprobación: hizo el 2do cuatrimestre y llegó en Julio del año siguiente (medio año). Primero diploma, luego tarjeta/carnet.
   * Actos internos de fin de año para formalizar entrega.
   * La tarjeta sirve en todo el país donde el organismo tenga presencia.
-  * Algunas formaciones otorgan tarjeta, otras no (ejemplo: refrigeración vs. construcción).
+  * Algunas formaciones otorgan tarjeta, otras no (ejemplo: refrigeración vs. construcción). Solo las que tienen relación a la construcción.
 
 * **Equipos y pruebas**
 
-  * Comentario sobre tableros y medidores con “visor de voltaje” y testigos, no digitales.
+  * Comentario sobre tableros y protectores de tensión con “visor de voltaje”, el que tenía no era digital.
   * Debate sobre si ciertos equipos todavía funcionan o estaban destinados a evaluaciones anteriores.
   * Se pide rehacer el trabajo de tablero de forma más prolija como práctica.
+  * Profesor estaba atendiendo una consulta en la cooperadora de la esquina.
 
-* **Instalación eléctrica**
+* **Instalación eléctrica (llega el profesor minuto 37:22 minuto)**
 
   * Caso práctico:
-
+    * Mandá al WhatsApp la foto del tablero (la 1er foto).
     * Vivienda preparada para trifásica pero solo conectada en monofásica.
+    * Todo lo que está arriba el disyuntor más el distribuidor tetrapolar es para trifásico. Al no llegar alimentación trifásica uní las 3 fases y el neutro. En la entrada tablero general detrás del medidor.
     * Se observa disyuntor tetrapolar en el tablero general.
-    * Electricista unió las 3 fases para convertir la entrada en monofásica + neutro.
+    * Electricista unió las 3 fases para convertir la entrada en monofásica + neutro en el tablero principal.
+    * El 1er interruptor principal es monofásico.
     * Interruptor principal es monofásico → confirma la conexión real.
   * Observación: puente realizado en la parte superior del tablero para adaptar instalación.
 
 
 ### 🔧 Problemas en la instalación
 
+Minuto 46 
 * La casa estaba preparada para **trifásica**, pero solo recibe **monofásica**.
 * El instalador **puenteó las tres fases con la misma fase** y el neutro → generó una instalación monofásica usando un disyuntor tetrapolar.
+* Usa el disyuntor tetrapolar como bipolar.
 * Esto está provocando **saltos por fuga de corriente**.
 * Se usaron derivaciones mal ajustadas → riesgo de falsos contactos, efecto “fusible” y disparo de protección.
 
@@ -144,7 +154,7 @@
 
 ### 📌 Nota normativa / aseguradora
 
-* Las distribuidoras (ej. EDEA/EDES/EDEN en Arg.) recomiendan instalar **protector de tensión homologado** en la entrada.
+* Las distribuidoras (ej. EMSA en Misiones) recomiendan instalar **protector de tensión homologado** en la entrada.
 * En caso de daños por sobretensión, **solo reconocen reclamos si está colocado**.
 
 ---

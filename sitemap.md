@@ -76,7 +76,7 @@ List of pages:
 * /72clase.md: [Clase Nº 72: Diagrama unifilar tablero: símbolos de ITM y diferencial(disyuntor). Desarmamos tablero. Pregunta examen. Forma ascendiente vs descendiente. Distribuidor, peine, bucle o guirnalda. 8 módulos = 4 térmicas. El disyuntor determina la característica ahí dice donde entra el neutro y la fase.](/72clase.md)
 * /73clase.md: [Clase Nº 73: Clase práctica. Armado de tableros (método: guirnalda o bucles).](/73clase.md)
 * /74clase.md: [Clase Nº 74: 2da Clase práctica de tableros (método: con distribuidor).](/74clase.md)
-* /75clase.md: [Clase Nº 75: Tableros: protecciones de tension, contactor. Hablamos de problemas de un tablero.](/75clase.md)
+* /75clase.md: [Clase Nº 75: [FOTOCOPIA] Tableros: protecciones de tension, contactor. Hablamos de problemas de un tablero.](/75clase.md)
 * /contact.md: [Contacto](/contact.md)
 * /dudas.md: [Dudas.](/dudas.md)
 * /: [Curso Electricidad - CFP Nº 17](/)
