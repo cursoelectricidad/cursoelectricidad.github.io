@@ -56,7 +56,7 @@ Subscribe to RSS: [/feed.xml](/feed.xml)
 [09 Septiembre 2025]{.date}
 
 
-[Clase Nº 65: Estuve ausente. Terminaron de arreglar lámpara fallada (explicado en clase siguiente como fue el proceso). El ayudante Alejandro hizo un chiste cuando un alumno levantó la térmica (aplaudió las manos. Día de lluvia. ](/65clase.md){.title}
+[Clase Nº 65: [FOTOCOPIA] Estuve ausente. Terminaron de arreglar lámpara fallada (explicado en clase siguiente como fue el proceso). El ayudante Alejandro hizo un chiste cuando un alumno levantó la térmica (aplaudió las manos. Día de lluvia. ](/65clase.md){.title}
 [08 Septiembre 2025]{.date}
 
 

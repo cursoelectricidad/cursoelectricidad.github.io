@@ -1,4 +1,4 @@
-% Clase Nº 65: Estuve ausente. Terminaron de arreglar lámpara fallada (explicado en clase siguiente como fue el proceso). El ayudante Alejandro hizo un chiste cuando un alumno levantó la térmica (aplaudió las manos. Día de lluvia. 
+% Clase Nº 65: [FOTOCOPIA] Estuve ausente. Terminaron de arreglar lámpara fallada (explicado en clase siguiente como fue el proceso). El ayudante Alejandro hizo un chiste cuando un alumno levantó la térmica (aplaudió las manos. Día de lluvia. 
 % Andrés Imlauer
 % 08 Septiembre 2025
 
