@@ -16,7 +16,7 @@
 
 #### Videos enviados por el profesor a traves de WhatsApp:
 
-[https://www.youtube.com/watch?v=65MlO1WThMw](https://www.youtube.com/watch?v=65MlO1WThMw)
+[https://www.youtube.com/embed/65MlO1WThMw](https://www.youtube.com/embed/65MlO1WThMw)
 
 [https://youtu.be/VwOkqM4j-ts?si=kwxAZ4jNd1_mPcJK](https://youtu.be/VwOkqM4j-ts?si=kwxAZ4jNd1_mPcJK)
 

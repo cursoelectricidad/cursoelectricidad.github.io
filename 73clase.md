@@ -13,7 +13,7 @@
 
 #### Audio en YouTube: 
 
-[https://www.youtube.com/watch?v=r3ebTz2mR5w](https://www.youtube.com/watch?v=r3ebTz2mR5w)
+[https://www.youtube.com/embed/r3ebTz2mR5w](https://www.youtube.com/embed/r3ebTz2mR5w)
 
 ## Armamos el tablero al revés iba de mayor a menor el disyuntor de 20 amper debería estar primero.
 

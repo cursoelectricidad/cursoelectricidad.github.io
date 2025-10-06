@@ -13,7 +13,7 @@
 
 #### Audio en YouTube:
 
-[https://www.youtube.com/watch?v=KJDlypdghUY](https://www.youtube.com/watch?v=KJDlypdghUY)
+[https://www.youtube.com/embed/KJDlypdghUY](https://www.youtube.com/embed/KJDlypdghUY)
 
 ![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEihwKksDhoDM5PfsSEZ4RxnLRDPFvPYb4XyjzCy0-mMqea7QQrRJ6WXKhzwDDZNeLbm7gE7DVdhD3S_m1nLsyH6RJjDqJfILQlC9S6JHzYKlZuoITUnYVHzNuNQo9_X20bIbhO9-sp8ihgJlK7GBgFXScdk8hkFS_Etd2DCJEmccA1FDEYg9psWDLd1oSM/s4160/IMG_20250930_191316061.jpg)
 ![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEghirnGrsH3vHo7xkZTxJ2whn5cxvkFvMK0vDuIvEYemXUe15wP3p9_8pFTPmDA2JnhI6UGXiJJc3xeQn_xlHaSlJ8cLD1T1VbqYaE-c9rp7_a2aGcJYVluBM5WvRUpax3KYkm6TSPTUAbWSvFkTRK4yOB9jJA4iw1N2-eTsqI4f0tQEKWyR0KYREv-Y9A/s4160/IMG_20250930_194736576.jpg)
