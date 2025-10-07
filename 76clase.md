@@ -331,7 +331,7 @@ I = P/(V * cos pi )
 
 **b) En sistemas trifásicos:**
 
-I = (P)/(sqrt{3} * V * cos pi)
+I = (P)/(√3 * V * cos pi)
 
 
 ---
@@ -510,7 +510,7 @@ S = (2 * 4500 * 15)/(56 * 220^2 * 1.5) approx 7.3,mm^2
 
 El docente repasa la fórmula equivalente a la monofásica, pero adaptada para **sistemas trifásicos**:
 
-S = (sqrt{3} * L * I)/(K * Delta V)
+S = (√3 * L * I)/(K * Delta V)
 
 > Donde:
 >
