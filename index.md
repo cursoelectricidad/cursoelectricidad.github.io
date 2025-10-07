@@ -12,7 +12,7 @@ El curso de auxiliar electricista finaliza en la clase número 47, y el curso de
 
 Subscribe to RSS: [/feed.xml](/feed.xml)
 
-[Clase Nº 76: [FOTOCOPIA Disyuntor] Ayudante explico como soluciono instalacion casa anterior (explicado clase anterior). Formula caida de tension.](/76clase.md){.title}
+[Clase Nº 76: [FOTOCOPIA Disyuntor] Ayudante explico como soluciono instalacion casa anterior (explicado clase anterior). Formula caida de tension. Disyuntor dice donde va neutro. Calcular resistencia tierra.](/76clase.md){.title}
 [6 Octubre 2025]{.date}
 
 

@@ -77,7 +77,7 @@ List of pages:
 * /73clase.md: [Clase Nº 73: Clase práctica. Armado de tableros (método: guirnalda o bucles).](/73clase.md)
 * /74clase.md: [Clase Nº 74: 2da Clase práctica de tableros (método: con distribuidor).](/74clase.md)
 * /75clase.md: [Clase Nº 75: [FOTOCOPIA] Tableros: protecciones de tension, contactor. Hablamos de problemas de un tablero.](/75clase.md)
-* /76clase.md: [Clase Nº 76: [FOTOCOPIA Disyuntor] Ayudante explico como soluciono instalacion casa anterior (explicado clase anterior). Formula caida de tension.](/76clase.md)
+* /76clase.md: [Clase Nº 76: [FOTOCOPIA Disyuntor] Ayudante explico como soluciono instalacion casa anterior (explicado clase anterior). Formula caida de tension. Disyuntor dice donde va neutro. Calcular resistencia tierra.](/76clase.md)
 * /contact.md: [Contacto](/contact.md)
 * /dudas.md: [Dudas.](/dudas.md)
 * /: [Curso Electricidad - CFP Nº 17](/)

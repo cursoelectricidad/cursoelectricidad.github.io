@@ -1,4 +1,4 @@
-% Clase Nº 76: [FOTOCOPIA Disyuntor] Ayudante explico como soluciono instalacion casa anterior (explicado clase anterior). Formula caida de tension.
+% Clase Nº 76: [FOTOCOPIA Disyuntor] Ayudante explico como soluciono instalacion casa anterior (explicado clase anterior). Formula caida de tension. Disyuntor dice donde va neutro. Calcular resistencia tierra.
 % Andrés Imlauer
 % 6 Octubre 2025
 
@@ -18,6 +18,15 @@
 ![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhrq4NM9dUFJTbi1lXhYtUs9OwzUdSvuZccXmADkE77GlW6cg1K-5OjaT2fwkCutQdZQ61Qce0vc0NDcWFcUlvaGL3F7oWALzMr-rnc6LuspQ1a68pLfycVBmyg8xB_Q_RZ-ECsikq5YWdKD7Kx_XZY9wp6orIXxtZHsodI8vSs3xiz1zkiXwubWdf3sVc/s4160/IMG_20251006_192032613_rotado.jpg)
 ![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgUYxnXiso1dMyyM_UsR1PuGMNB4ytLOGKALgEkcpRA9SH4TnjiGWGn1JJOVZHCOr6v586v01v1Vm4mQcuBFM7mCXEhLtP3qVIZ9S5W5Lf29eTChB-DS6trSkKytS8FQfCJc2wW1VyjUBTrPYA65YOc9dDLUMTWBNqusujyOdsLkVZa98R-WlJnU8RNtyU/s4160/IMG_20251006_192129176.jpg)
 ![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjf7rNZcoEfeZh7yY9UBa4cOfDSTeIc4I2Fk0snNHiFt61eyEofUCcSZCgTJwBQ3cnfpu9Z-FFKnxY0GyQd1ktPwEOp9fav4W_fwI6ukJxCkIOB8CYiSZZjpgDniHHZ0zykxjQJgvE4S9D0AkrzcwA1a9lWkExAaTBQ6Fua4EomzSOUEpyZ0E5YFnxxKeY/s4160/IMG_20251006_193857387.jpg)
+
+#### Como estaba el tablero
+
+Habia un conductor marron de alimentacion tirado abajo, eso era lo que alimentaba el circuito.
+
+![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjcfk-QY9rb1wqrdut9n3vmO_ju0FSMtVKx6mHxP6DwkkhOERcWp0SXIZRaKUsuJG9nPpW3_JNeuAbyl09hBS6OzQ_oE01-vjsPfj7ogd8Z-yYdbaqy-qlssbOMVNVTCDrdzLAyze38aWFiRzNZACOYDpqt9wzTjuAFw-1iSINyYKEYOvtzDBZbFcZuM2M/s4160/IMG-20251001-WA0000.jpg)
+
+#### Tablero arreglado.
+
 ![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjRYe6MtsZPMSn_-JK7lULYnBu767uwTWKjr72LTkCFgaN9vAZdPgclAkbR5r6qrKiMPH6EiI0HPUpkKsoxFMp4WU9EQyw9BM2LNWA_u0mkdHLRdcyGYL0Laxg_QBLW4E0JsZnZqc_ZyiuX7kSNgmnMFZe-QNll4Ks7f_9PwaA9gwemc-GMjcD3F0UibDg/s4160/IMG-20251006-WA0001.jpg)
 ![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiFeQwbfsQn51EG25HecR-W72Ph2x3uvhvLSaxjy4a7-bw12d0u9LrfZLOM9oMnXpK3GspSJNwfBcb76NrWsZvbg0-WSad3cd3g3BP8D_Z0IXLIBm4LnRGViPjZXmCPV5hfl7gQn62D4Swd3Vp34LkEYM5V213M4_vCA_FXCHUZggJhu3qpVSt5bPUimII/s4160/IMG-20251006-WA0000.jpg)
 ![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjhQocPeExZ6h3ummgUnPPOOOqwVfYb_Jfic2nnF8CsX1dG6g0Ud3U2ZCSEAzhep_crWqojIT3J0ivZIBhtI1uef2qSPcAmH3yZXMsljxWV4UG1CpxinwujSdXkm8zR4a3h3Grt9b7izWrVfT8ru5VY8hFPPJB5DealD-EiXuiF187KDAqmznbiUL1Y8vI/s4160/IMG-20251006-WA0002.jpg)
@@ -30,3 +39,34 @@
 ![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgofaquAhlPFtGZwtPr4-H_tnoEWCE_EV5qZtY3w7h-TA5llNBy5uX74YryYvmj9K-ZGrmY6lrm_JwBtLgyy3jBayoGXkbvM7ZQOS2wRuvW_1xY__czxAlmLKGCsLaAMqIhePTOTD-Au-W8nML4bp8jf0X5BCi7wRVOHUkGDUmHxtVqOXoQ8Dy_ktUdbPw/s4160/IMG-20251006-WA0006.jpg)
 ![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgXvkMBczRAEFNoKROvhJPsFwIaCGbCLxO7WZEXVefS97IRoLFFdfGJPOOcoo-pIBYCJGmWaZds__P0yYJ1NELK0AnxkVwkymTuBNLVrrRgpXsoP3hHUzdHOd97vJHzVbKyHE5pOvGx6hqg3eme1mECuZSOLifCKMf0IywUmtiKMaaM1ZsVpmPrmzmqIs0/s4160/IMG-20251006-WA0007.jpg)
 
+
+##### Resumen   
+   
+Arriba hay preensambaldo tetrapolar arriba solamente ligaron una fase y un neutro los otros 2 desconectados alla arriba, esos entran a un medidor monofasico y del medidor monofasico salen 3 cables vivos de una misma fase.   
+   
+Casa iba a ser trifasico pero se hizo monofasico.   
+   
+PH = 2200 watts.   
+PD = 4500 watts = 21 amper.   
+   
+µ% = caida de tension = 3% para motores 5%   
+   
+S = seccion del conductor   
+   
+Formula para caida de tension monofasica y trifasica.   
+   
+Como se calcula caida de tension.   
+   
+El disyuntor te dice donde entra el neutro: generalmente el derecho es el neutro. Algunos tienen relieve.    
+   
+En los disyuntores e interruptores termomagneticos: Rojo indica peligro (conectado), verde indica desconectado.   
+   
+Aplicacion celular calculos electricos.   
+   
+Disyuntores de 100 hasta 300 miliampers.   
+   
+Interruptor diferencial es diferente a un disyuntor.   
+   
+Como calcular la resistencia de la tierra.   
+   
+Semana que viene veremos tablero de bombeo.   
