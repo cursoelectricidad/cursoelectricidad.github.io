@@ -1,4 +1,4 @@
-% Clase Nº 76: [FOTOCOPIA Disyuntor] Ayudante explico como soluciono instalacion casa anterior (explicado clase anterior). Formula caida de tension. Disyuntor dice donde va neutro. Calcular resistencia tierra.
+% Clase Nº 76: [FOTOCOPIA Disyuntor] Ayudante explico como soluciono instalacion casa anterior (explicado clase anterior). Formula caida de tension. Disyuntor dice donde va neutro. Calcular resistencia tierra. Aplicacion Calculo electrico para calcular seccion de conductor, caida de tension, etc.
 % Andrés Imlauer
 % 6 Octubre 2025
 
@@ -541,10 +541,8 @@ El docente remarcó los pasos correctos para **verificar la sección del conduct
    I = P/V
 
    * Donde (P) = potencia del equipo o conjunto (W)
-   * (V) = tensión (220 V monofásico / 380 V trifásico)
-   * Si hay factor de potencia:
-
-     I = P/(V * cos phi)
+   * V = tensión (220 V monofásico / 380 V trifásico)
+   * Si hay factor de potencia: I = P/(V * cos phi)
 
 2. **Usar tablas** de capacidad de corriente para conocer la sección mínima del conductor según esa corriente.
 
@@ -569,10 +567,7 @@ El docente remarcó los pasos correctos para **verificar la sección del conduct
 
 * No todos los equipos se encienden al mismo tiempo.
 * Por eso, la potencia total instalada no siempre equivale a la potencia demandada.
-* Se aplica un **coeficiente de simultaneidad (f)** entre **0,5 y 0,6**:
-
-  $ P_{\text{total efectiva}} = P_{\text{instalada}} $ * f
-
+* Se aplica un **coeficiente de simultaneidad (f)** entre **0,5 y 0,6**: P(total efectiva) = P(instalada) * f
 * Esto reduce el valor real de corriente que circulará, permitiendo **dimensionar conductores y protecciones más ajustadas**.
 
 ---
