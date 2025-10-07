@@ -307,8 +307,6 @@ Semana que viene veremos tablero de bombeo.
 
    * Desde tablero principal → interruptor general + disyuntor → línea subterránea o aérea → tablero secundario en quincho → protecciones individuales (tomas, iluminación, ducha eléctrica).
 
-Excelente fragmento — acá te dejo un **resumen técnico claro y estructurado** de lo que explicó el docente, con fórmulas y conceptos destacados:
-
 ---
 
 ### 🧠 **Tema:** Verificación de la sección de conductores y caída de tensión
@@ -395,11 +393,6 @@ Supongamos una **ducha eléctrica de 5500 W**, instalada a **20 m** del tablero:
 * **Usar tablas de conductores** (como las de INSA) para corroborar la sección según corriente y caída admisible.
 * Recordar que los **valores teóricos deben validarse en la práctica**, observando el comportamiento real de la instalación.
 * La **sección correcta garantiza seguridad, eficiencia y evita disparos de protecciones**.
-
-Excelente fragmento — este tramo complementa muy bien el anterior.
-A continuación te dejo un **resumen técnico detallado y ordenado** con todos los conceptos que el docente explicó, incluyendo fórmulas, criterios y observaciones prácticas 👇
-
----
 
 ## 🧠 **Tema: Verificación práctica de la sección de conductores y caída de tensión**
 
@@ -497,11 +490,6 @@ S = (200 * 4500 * 15)/(56 * 220^2 * 1.5) approx 7.3,mm^2
 
 > “Los cálculos no son para memorizar, sino para **verificar si la instalación está bien hecha**.
 > Un buen electricista sabe leer un plano, interpretar potencias y longitudes, y comprobar que la caída de tensión esté dentro del rango permitido.”
-
----
-
-Perfecto, este fragmento está muy completo — mezcla **conceptos técnicos, fórmulas, filosofía de trabajo y fundamentos de protección diferencial**.
-A continuación te lo resumo en **bullet points técnicos claros y ordenados**, separando las partes temáticas 👇
 
 ---
 
@@ -619,11 +607,6 @@ El docente luego introduce el tema de **interruptores diferenciales**, destacand
 
 ---
 
-Excelente registro 👏 Este fragmento corresponde a una clase **muy completa** en la que el docente cerró el tema de **verificación de caída de tensión y dimensionamiento de conductores**, y luego pasó a **protección diferencial**, explicando desde la **detección de fugas hasta los tipos de disyuntores**.
-A continuación, te dejo un **resumen técnico estructurado**, ideal como apunte de repaso.
-
----
-
 ## ⚙️ **Tema: Verificación de fallas y estudio del interruptor diferencial**
 
 ### 🔹 1. Verificación de fugas y fallas en la instalación
@@ -707,11 +690,6 @@ A continuación, te dejo un **resumen técnico estructurado**, ideal como apunte
 * “**Lo importante no es la fórmula, sino entender la corriente**: toda verificación parte de calcular la intensidad (I = P / V).”
 * “**Un trabajo bien hecho vale más con los años**: si el cliente amplía o carga más el sistema y sigue funcionando, esa es la mejor tarjeta de presentación.”
 * “**El diferencial protege vidas**; el termomagnético protege la instalación.”
-
-Perfecto. Este fragmento corresponde a una **clase avanzada de electricidad domiciliaria** centrada en **protección diferencial, puesta a tierra y detección de fugas de corriente**.
-A continuación te dejo un **resumen técnico y estructurado** del contenido para que puedas estudiarlo con claridad 👇
-
----
 
 ## 🧠 RESUMEN TÉCNICO: Protección Diferencial y Puesta a Tierra
 
