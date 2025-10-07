@@ -688,14 +688,17 @@ funcionamiento de los equipos.</li>
 <hr />
 <h3 id="cálculo-de-la-corriente">⚡ <strong>Cálculo de la
 corriente</strong></h3>
-<p><strong>a) En sistemas monofásicos:</strong> [ I = ]</p>
+<p><strong>a) En sistemas monofásicos:</strong></p>
+<p>I = P/(V * cos pi )</p>
 <ul>
 <li>( I ): Corriente (A)</li>
 <li>( P ): Potencia del equipo (W)</li>
 <li>( V ): Tensión (V) → normalmente 220 V</li>
-<li>( ): Factor de potencia (≈ 0,9 o 0,95; a veces se redondea a 1)</li>
+<li>( cos phi ): Factor de potencia (≈ 0,9 o 0,95; a veces se redondea a
+1)</li>
 </ul>
-<p><strong>b) En sistemas trifásicos:</strong> [ I = ]</p>
+<p><strong>b) En sistemas trifásicos:</strong></p>
+<p>I = (P)/(sqrt{3} * V * cos pi)</p>
 <hr />
 <h3 id="por-qué-se-calcula-la-corriente">🔌 <strong>Por qué se calcula
 la corriente</strong></h3>
@@ -724,7 +727,7 @@ industriales</strong>.</li>
 id="fórmula-práctica-para-calcular-la-sección-del-conductor-monofásico">🧮
 <strong>Fórmula práctica para calcular la sección del conductor
 (monofásico)</strong></h3>
-<p>[ S = \frac{200 P L}{56 V^2 V%}]</p>
+<p>S = (2 * P * L)/(56 * V^2 * Delta V%)</p>
 <blockquote>
 <p>Donde:</p>
 <ul>
@@ -733,8 +736,8 @@ id="fórmula-práctica-para-calcular-la-sección-del-conductor-monofásico">🧮
 <li>( L ): longitud del circuito (m)</li>
 <li>( 56 ): constante para cobre (si es aluminio, cambia)</li>
 <li>( V ): tensión nominal (220 V en monofásico)</li>
-<li>( V% ): porcentaje de caída de tensión admisible (por ejemplo, 3
-%)</li>
+<li>( Delta V% ): porcentaje de caída de tensión admisible (por ejemplo,
+3 %)</li>
 </ul>
 </blockquote>
 <hr />
@@ -743,10 +746,13 @@ id="fórmula-práctica-para-calcular-la-sección-del-conductor-monofásico">🧮
 <p>Supongamos una <strong>ducha eléctrica de 5500 W</strong>, instalada
 a <strong>20 m</strong> del tablero:</p>
 <ol type="1">
-<li><p>Corriente: [ I = = 25,A]</p></li>
+<li><p>Corriente:</p>
+<p>I = (5500)/(220) = 25,A</p></li>
 <li><p>Caída de tensión admisible: 3 %.</p></li>
-<li><p>Sección aproximada: [ S = ,2,mm²] ✅ Se usaría un
-<strong>conductor de 4 mm²</strong>, adecuado para ese consumo.</p></li>
+<li><p>Sección aproximada:</p>
+<p>S = (2 * 5500 * 20)/(56 * 220^2 * 3) approx 4,2,mm²</p>
+<p>✅ Se usaría un <strong>conductor de 4 mm²</strong>, adecuado para
+ese consumo.</p></li>
 </ol>
 <hr />
 <h3 id="conclusiones-del-docente">📚 <strong>Conclusiones del
@@ -787,7 +793,7 @@ en viviendas).</li>
 <div class="h"><h3 id="parámetros-de-la-fórmula">⚙️ 2. Parámetros de la fórmula</h3><a aria-hidden="true" href="#parámetros-de-la-fórmula">[link]</a></div>
 <p>La fórmula utilizada por el docente para <strong>circuitos
 monofásicos</strong> es:</p>
-<p>[ S = \frac{200 P L}{56 V^2 V%}]</p>
+<p>S = (2 * P * L)/(56 * V^2 * Delta V%)</p>
 <blockquote>
 <p>Donde:</p>
 <ul>
@@ -796,7 +802,7 @@ monofásicos</strong> es:</p>
 <li>( L ): longitud del circuito (m)</li>
 <li>( 56 ): constante para conductores de cobre</li>
 <li>( V ): tensión nominal (V)</li>
-<li>( V% ): caída de tensión admisible (por ejemplo, 3%)</li>
+<li>( Delta V% ): caída de tensión admisible (por ejemplo, 3%)</li>
 </ul>
 </blockquote>
 <hr />
@@ -817,10 +823,11 @@ aula)</h3>
 <li>Potencia ( P = 4500 ,W )</li>
 <li>Longitud ( L = 15 ,m )</li>
 <li>Tensión ( V = 220 ,V )</li>
-<li>Caída de tensión ( V = 1.5% )</li>
+<li>Caída de tensión ( Delta V = 1.5% )</li>
 <li>Material: cobre (56)</li>
 </ul>
-<p><strong>Aplicando:</strong> [ S = ,mm^2]</p>
+<p><strong>Aplicando:</strong></p>
+<p>S = (200 * 4500 * 15)/(56 * 220^2 * 1.5) approx 7.3,mm^2</p>
 <p><strong>Resultado:</strong></p>
 <ul>
 <li>Se recomienda <strong>instalar un conductor de 10 mm²</strong>, ya
@@ -931,7 +938,7 @@ demuestra la calidad del trabajo</strong>.</li>
 Cálculo de caída de tensión – sistema trifásico</strong></h2>
 <p>El docente repasa la fórmula equivalente a la monofásica, pero
 adaptada para <strong>sistemas trifásicos</strong>:</p>
-<p>[ S = ]</p>
+<p>S = (sqrt{3} * L * I)/(K * Delta V)</p>
 <blockquote>
 <p>Donde:</p>
 <ul>
@@ -940,7 +947,7 @@ adaptada para <strong>sistemas trifásicos</strong>:</p>
 <li>( I ): corriente (A)</li>
 <li>( K ): conductividad del material (56 para cobre, 35 para
 aluminio)</li>
-<li>( V ): caída de tensión (V)</li>
+<li>( Delta V ): caída de tensión (V)</li>
 </ul>
 </blockquote>
 <p><strong>Notas que mencionó el docente:</strong></p>
@@ -966,13 +973,15 @@ Cálculo práctico: corriente, potencia y sección</strong></h2>
 <p>El docente remarcó los pasos correctos para <strong>verificar la
 sección del conductor:</strong></p>
 <ol type="1">
-<li><p><strong>Calcular la corriente (I):</strong> [ I = ]</p>
+<li><p><strong>Calcular la corriente (I):</strong></p>
+<p>I = P/V</p>
 <ul>
-<li>Donde (P) = potencia del equipo o conjunto (W)</li>
+<li><p>Donde (P) = potencia del equipo o conjunto (W)</p></li>
 <li><ol start="22" type="A">
 <li>= tensión (220 V monofásico / 380 V trifásico)</li>
 </ol></li>
-<li>Si hay factor de potencia: [ I = ]</li>
+<li><p>Si hay factor de potencia:</p>
+<p>I = P/(V * cos phi)</p></li>
 </ul></li>
 <li><p><strong>Usar tablas</strong> de capacidad de corriente para
 conocer la sección mínima del conductor según esa corriente.</p></li>
@@ -1000,14 +1009,15 @@ de base</strong>.</p></li>
 <h2 id="factor-de-simultaneidad-o-factibilidad">⚡ <strong>5. Factor de
 simultaneidad o factibilidad</strong></h2>
 <ul>
-<li>No todos los equipos se encienden al mismo tiempo.</li>
-<li>Por eso, la potencia total instalada no siempre equivale a la
-potencia demandada.</li>
-<li>Se aplica un <strong>coeficiente de simultaneidad (f)</strong> entre
-<strong>0,5 y 0,6</strong>: [ P_{} = P_{} f]</li>
-<li>Esto reduce el valor real de corriente que circulará, permitiendo
+<li><p>No todos los equipos se encienden al mismo tiempo.</p></li>
+<li><p>Por eso, la potencia total instalada no siempre equivale a la
+potencia demandada.</p></li>
+<li><p>Se aplica un <strong>coeficiente de simultaneidad (f)</strong>
+entre <strong>0,5 y 0,6</strong>:</p>
+<p>$ P_{} = P_{} $ * f</p></li>
+<li><p>Esto reduce el valor real de corriente que circulará, permitiendo
 <strong>dimensionar conductores y protecciones más
-ajustadas</strong>.</li>
+ajustadas</strong>.</p></li>
 </ul>
 <hr />
 <h2 id="protección-diferencial">🔋 <strong>6. Protección

@@ -315,19 +315,18 @@ Excelente fragmento — acá te dejo un **resumen técnico claro y estructurado*
 ### ⚡ **Cálculo de la corriente**
 
 **a) En sistemas monofásicos:**
-[
-I = \frac{P}{V \cdot \cos\phi}
-]
+
+I = P/(V * cos pi )
 
 * ( I ): Corriente (A)
 * ( P ): Potencia del equipo (W)
 * ( V ): Tensión (V) → normalmente 220 V
-* ( \cos\phi ): Factor de potencia (≈ 0,9 o 0,95; a veces se redondea a 1)
+* ( cos phi ): Factor de potencia (≈ 0,9 o 0,95; a veces se redondea a 1)
 
 **b) En sistemas trifásicos:**
-[
-I = \frac{P}{\sqrt{3} \cdot V \cdot \cos\phi}
-]
+
+I = (P)/(sqrt{3} * V * cos pi)
+
 
 ---
 
@@ -350,9 +349,7 @@ I = \frac{P}{\sqrt{3} \cdot V \cdot \cos\phi}
 
 ### 🧮 **Fórmula práctica para calcular la sección del conductor (monofásico)**
 
-[
-S = \frac{200 \cdot P \cdot L}{56 \cdot V^2 \cdot \Delta V%}
-]
+S = (2 * P * L)/(56 * V^2 * Delta V%)
 
 > Donde:
 >
@@ -361,7 +358,7 @@ S = \frac{200 \cdot P \cdot L}{56 \cdot V^2 \cdot \Delta V%}
 > * ( L ): longitud del circuito (m)
 > * ( 56 ): constante para cobre (si es aluminio, cambia)
 > * ( V ): tensión nominal (220 V en monofásico)
-> * ( \Delta V% ): porcentaje de caída de tensión admisible (por ejemplo, 3 %)
+> * ( Delta V% ): porcentaje de caída de tensión admisible (por ejemplo, 3 %)
 
 ---
 
@@ -370,16 +367,16 @@ S = \frac{200 \cdot P \cdot L}{56 \cdot V^2 \cdot \Delta V%}
 Supongamos una **ducha eléctrica de 5500 W**, instalada a **20 m** del tablero:
 
 1. Corriente:
-   [
-   I = \frac{5500}{220 \cdot 1} = 25,A
-   ]
+
+   I = (5500)/(220) = 25,A
+
 
 2. Caída de tensión admisible: 3 %.
 
 3. Sección aproximada:
-   [
-   S = \frac{200 \cdot 5500 \cdot 20}{56 \cdot 220^2 \cdot 3} \approx 4,2,mm²
-   ]
+
+   S = (2 * 5500 * 20)/(56 * 220^2 * 3) approx 4,2,mm²
+
    ✅ Se usaría un **conductor de 4 mm²**, adecuado para ese consumo.
 
 ---
@@ -412,9 +409,7 @@ A continuación te dejo un **resumen técnico detallado y ordenado** con todos l
 
 La fórmula utilizada por el docente para **circuitos monofásicos** es:
 
-[
-S = \frac{200 \cdot P \cdot L}{56 \cdot V^2 \cdot \Delta V%}
-]
+S = (2 * P * L)/(56 * V^2 * Delta V%)
 
 > Donde:
 >
@@ -423,7 +418,7 @@ S = \frac{200 \cdot P \cdot L}{56 \cdot V^2 \cdot \Delta V%}
 > * ( L ): longitud del circuito (m)
 > * ( 56 ): constante para conductores de cobre
 > * ( V ): tensión nominal (V)
-> * ( \Delta V% ): caída de tensión admisible (por ejemplo, 3%)
+> * ( Delta V% ): caída de tensión admisible (por ejemplo, 3%)
 
 ---
 
@@ -442,13 +437,13 @@ S = \frac{200 \cdot P \cdot L}{56 \cdot V^2 \cdot \Delta V%}
 * Potencia ( P = 4500 ,W )
 * Longitud ( L = 15 ,m )
 * Tensión ( V = 220 ,V )
-* Caída de tensión ( \Delta V = 1.5% )
+* Caída de tensión ( Delta V = 1.5% )
 * Material: cobre (56)
 
 **Aplicando:**
-[
-S = \frac{200 \cdot 4500 \cdot 15}{56 \cdot 220^2 \cdot 1.5} \approx 7.3,mm^2
-]
+
+S = (200 * 4500 * 15)/(56 * 220^2 * 1.5) approx 7.3,mm^2
+
 
 **Resultado:**
 
@@ -519,9 +514,7 @@ A continuación te lo resumo en **bullet points técnicos claros y ordenados**, 
 
 El docente repasa la fórmula equivalente a la monofásica, pero adaptada para **sistemas trifásicos**:
 
-[
-S = \frac{\sqrt{3} \cdot L \cdot I}{K \cdot \Delta V}
-]
+S = (sqrt{3} * L * I)/(K * Delta V)
 
 > Donde:
 >
@@ -529,7 +522,7 @@ S = \frac{\sqrt{3} \cdot L \cdot I}{K \cdot \Delta V}
 > * ( L ): longitud del circuito (m)
 > * ( I ): corriente (A)
 > * ( K ): conductividad del material (56 para cobre, 35 para aluminio)
-> * ( \Delta V ): caída de tensión (V)
+> * ( Delta V ): caída de tensión (V)
 
 **Notas que mencionó el docente:**
 
@@ -548,16 +541,14 @@ S = \frac{\sqrt{3} \cdot L \cdot I}{K \cdot \Delta V}
 El docente remarcó los pasos correctos para **verificar la sección del conductor:**
 
 1. **Calcular la corriente (I):**
-   [
-   I = \frac{P}{V}
-   ]
+
+   I = P/V
 
    * Donde (P) = potencia del equipo o conjunto (W)
    * (V) = tensión (220 V monofásico / 380 V trifásico)
    * Si hay factor de potencia:
-     [
-     I = \frac{P}{V \cdot \cos \phi}
-     ]
+
+     I = P/(V * cos phi)
 
 2. **Usar tablas** de capacidad de corriente para conocer la sección mínima del conductor según esa corriente.
 
@@ -583,9 +574,9 @@ El docente remarcó los pasos correctos para **verificar la sección del conduct
 * No todos los equipos se encienden al mismo tiempo.
 * Por eso, la potencia total instalada no siempre equivale a la potencia demandada.
 * Se aplica un **coeficiente de simultaneidad (f)** entre **0,5 y 0,6**:
-  [
-  P_{\text{total efectiva}} = P_{\text{instalada}} \times f
-  ]
+
+  $ P_{\text{total efectiva}} = P_{\text{instalada}} $ * f
+
 * Esto reduce el valor real de corriente que circulará, permitiendo **dimensionar conductores y protecciones más ajustadas**.
 
 ---
