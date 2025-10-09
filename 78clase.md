@@ -38,6 +38,10 @@ Le pedi el PDF pero dijo que es informacion confidencial.
 
 ---
 
+Resumen en **bullet points** de ese fragmento de clase:
+
+---
+
 * El profesor está preparando **material visual (videos, copias y esquemas)** para explicar el tema sin tener que dibujar todo manualmente.
 * Los alumnos van a recibir **copias impresas (A4)** con esquemas orientativos de **tableros eléctricos y contactores**.
 * Se recomienda **anotar nombre en las copias**, ya que se usarán en futuras clases.
@@ -136,83 +140,110 @@ Le pedi el PDF pero dijo que es informacion confidencial.
 
 ---
 
-### 🧠 Conceptos generales
+## 🧠 Concepto general
 
-* El **contactor** es un **interruptor de potencia accionado a distancia**, utilizado para manejar grandes cargas.
-* Tiene **dos posiciones**:
-
-  * **Reposo (estable):** sin tensión en la bobina.
-  * **Activo (inestable):** con tensión aplicada, la bobina magnetiza y atrae el núcleo móvil.
-* Funciona en modo **todo o nada (ON/OFF)**: no hay posiciones intermedias.
+* El **contactor** es un **dispositivo electromecánico** que **controla el paso de corriente** en circuitos de potencia (motores, bombas, luminarias, etc.).
+* Se **activa a distancia** mediante una **bobina**, que genera un **campo magnético** y cierra los contactos principales.
+* Tiene **contactos principales** (de fuerza) y **contactos auxiliares** (de mando o control).
 
 ---
 
-### ⚙️ Estructura interna
+## ⚙️ Componentes del contactor
 
-* Compuesto por:
-
-  * **Bobina:** genera el campo magnético.
-  * **Núcleo fijo y móvil:** el móvil se atrae al energizar la bobina.
-  * **Contactos principales (L1, L2, L3 → T1, T2, T3):** conducen la corriente de potencia.
-  * **Contactos auxiliares (13-14 o 21-22):** se usan en circuitos de mando.
-  * **Resorte:** devuelve el núcleo a su posición original al cortar tensión.
-* Las **bobinas** pueden ser de **220V, 380V o 24V**, según el circuito.
-
----
-
-### 🔌 Funcionamiento básico
-
-* Para activar el contactor, se aplica tensión en los bornes **A1 y A2** de la bobina.
-* La **fase y el neutro** cierran el circuito de mando, sin generar tensión de salida.
-* Al energizarse, el **núcleo actúa como imán**, atrayendo la parte móvil y cerrando los contactos.
-* Al cortar la tensión, el resorte libera el núcleo y los contactos vuelven a abrirse.
+| Parte                                     | Función                                                                                                     |
+| ----------------------------------------- | ----------------------------------------------------------------------------------------------------------- |
+| **Bobina (A1 y A2)**                      | Genera una **fuerza de atracción electromagnética (FA)** al ser alimentada con corriente (12V, 24V o 220V). |
+| **Armadura móvil**                        | Es la parte móvil que **transmite el movimiento** para cerrar los contactos.                                |
+| **Núcleo fijo**                           | Cierra el circuito magnético y mantiene el campo generado por la bobina.                                    |
+| **Resorte**                               | Devuelve la armadura a la posición de **reposo** cuando se corta la corriente.                              |
+| **Contactos principales (L1–L3 / T1–T3)** | Conducen la **corriente de potencia** hacia la carga (motor, bomba, luminarias, etc.).                      |
+| **Contactos auxiliares (13–14 o 21–22)**  | Usados para circuitos de mando, **normalmente abiertos (NA)** o **cerrados (NC)**.                          |
 
 ---
 
-### ⚡ Casos prácticos comentados
+## 🔌 Funcionamiento básico
 
-* Ejemplo de **bomba monofásica**:
-
-  * Si se quema la bobina del contactor, puede reemplazarse **temporalmente** con un **interruptor termomagnético**, aunque **pierde protección total**.
-  * Es una solución de emergencia, no definitiva.
-* **Problemas por baja tensión:**
-
-  * El contactor puede **no pegar** correctamente o hacerlo con dificultad.
-  * Esto puede **forzar o quemar la bobina**.
-  * Más común en **zonas rurales** por mala calidad del suministro eléctrico.
+* Cuando la **bobina recibe tensión**, el núcleo se magnetiza → **atrae la armadura** → los **contactos principales se cierran**.
+* Al cortar tensión, el resorte devuelve el sistema a reposo → **los contactos se abren**.
+* Un contacto **NA (normal abierto)** pasa a cerrado, y un **NC (normal cerrado)** pasa a abierto.
+* Algunos contactores traen **un solo contacto auxiliar**, otros permiten agregar módulos adicionales **superiores o laterales**.
 
 ---
 
-### 🔧 Criterios de selección
+## ⚡ Tipos de alimentación de bobina
 
-* El **amperaje del contactor** se elige según la **corriente nominal del motor**.
-
-  * Ejemplo: motor de 1,5 HP (~8–9A) → contactor de 16A suficiente.
-  * Usar uno sobredimensionado (25A) **no aporta ventajas reales**.
-* Las **bobinas** deben coincidir en **modelo y marca** con el contactor original.
-
-  * Entre marcas distintas, aunque tengan igual amperaje, **no siempre encastran**.
+* **Corriente alterna (CA):** 12 V, 24 V, 110 V, 220 V, 380 V.
+* **Corriente continua (CC):** requiere rectificación (puente de diodos) si se parte de un transformador de CA.
+* En equipos como **aires acondicionados o control de temperatura**, puede usarse una bobina en **CC** activada por sensores o temporizadores.
 
 ---
 
-### 🧩 Contactos auxiliares
+## 🧩 Identificación y nomenclatura
 
-* **NA (Normal Abierto):** abierto en reposo, se cierra al activar la bobina.
-* **NC (Normal Cerrado):** cerrado en reposo, se abre al activar la bobina.
-* Se emplean para circuitos de mando y señalización (por ejemplo, luces piloto).
+* **Bornes de bobina:** A1 y A2.
+* **Contactos principales:** se designan con números 1–2, 3–4, 5–6 (una cifra o pares simples).
+* **Contactos auxiliares:**
 
----
-
-### 🧰 Observaciones del docente
-
-* Mostró **esquemas internos** y fotos del contactor, indicando la **ubicación de bobina, núcleo, resortes y contactos**.
-* Remarcó la **importancia de reconocer la simbología** (A1–A2, L1–L3, T1–T3, 13–14, etc.).
-* Explicó que los **contactores de diferentes marcas o series** pueden variar en disposición y montaje.
-* Insistió en **escuchar y entender** la función antes de armar o desarmar un contactor.
+  * 13–14 → Normalmente Abierto (NA).
+  * 21–22 → Normalmente Cerrado (NC).
+* **Denominación del equipo:** se representa como **K + N°** (ej. K1, K2…).
 
 ---
 
-## 🧠 **Resumen técnico: Contactores (parte final de la clase)**
+## 📊 Características técnicas del contactor
+
+1. **Poder de corte (Pc):**
+   Corriente máxima que puede interrumpir sin dañarse (similar a los kA de un disyuntor).
+2. **Poder de cierre:**
+   Corriente máxima que puede establecer sin que se “sueldan” los contactos.
+3. **Corriente nominal (In):**
+   Corriente que puede circular **permanentemente** por los contactos principales.
+4. **Número de polos:**
+   Generalmente 3 (trifásico), pero pueden usarse como monofásicos usando solo dos polos.
+5. **Durabilidad mecánica y eléctrica:**
+   Cantidad de maniobras que soporta sin fallar (millones de operaciones).
+
+---
+
+## 🔥 Arco eléctrico
+
+* Al **abrir un circuito con corriente**, se genera un **arco eléctrico** entre los contactos.
+* Este arco **no debe durar mucho** (daña el material del contactor) ni ser demasiado corto (puede generar sobretensión).
+* El diseño del contactor incluye **cámaras de extinción de arco** para evitar daños.
+
+---
+
+## ⚠️ Fallas y causas comunes
+
+* **Caída de tensión** → la bobina **no se pega o se despega sola**.
+* **Vibración o microcortes** → pueden causar falsos contactos.
+* **Contactos deteriorados** → generan **arco eléctrico** o **soldadura** entre polos.
+* **Uso incorrecto (subdimensionar)** → provoca **sobrecalentamiento** o **derretimiento** del contacto.
+
+---
+
+## 💡 Ejemplo aplicado: circuito con fotocélula
+
+* Similar al circuito de una lámpara con retorno:
+
+  * La **fotocélula** activa la **bobina del contactor**.
+  * Cuando oscurece, la fotocélula **cierra el circuito de mando**, energiza la bobina y **enciende las luminarias**.
+* La parte de **potencia** (fuerza) lleva **fase y neutro** hacia las cargas (bombitas).
+* La parte de **mando** (control) solo lleva corriente **de baja potencia** hacia la bobina.
+
+---
+
+## 🧠 Conclusión del profesor
+
+* Comprender **cada parte y numeración** del contactor es esencial para poder **leer planos y armar tableros**.
+* La elección depende de:
+
+  * **Corriente nominal del motor o carga.**
+  * **Tensión de bobina.**
+  * **Tipo de corriente (CA o CC).**
+* Los **contactos auxiliares** permiten **automatizar** y **proteger** los sistemas mediante combinaciones lógicas (por ejemplo, enclavamiento o arranque estrella-triángulo).
+
+---
 
 ### 🔹 Contactos auxiliares y su función
 
