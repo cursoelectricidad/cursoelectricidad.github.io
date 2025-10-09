@@ -1,4 +1,4 @@
-% Clase Nº 77: Sistema de bombeo automatizado mediante flotadores. Tablero de bombeo. Contactor. Rele termico. Diagrama.
+% Clase Nº 77: Sistema de bombeo automatizado mediante flotadores. Tablero de bombeo. Contactor. Rele termico. Diagrama. Como comprobar funcionamiento. Circuito de comando.
 % Andrés Imlauer
 % 7 Octubre 2025
 
@@ -260,11 +260,6 @@
 
 ---
 
-Perfecto 👍
-Te armo un **resumen técnico completo y claro** de toda esta parte de la clase, con enfoque en **cómo comprobar el funcionamiento del motor, cómo probar el contactor, cómo usar la pinza amperométrica y cómo interpretar el circuito de mando y potencia**.
-
----
-
 #### 🧲 **Cómo saber si el motor está funcionando**
 
 * Si el motor está lejos y no se puede ver ni escuchar, se verifica con **una pinza amperométrica**:
@@ -362,11 +357,6 @@ Te armo un **resumen técnico completo y claro** de toda esta parte de la clase,
 * No medir corriente sin carga (da valores falsos).
 * No puentear flotadores o mandos sin saber qué contacto están controlando.
 * No confiar en que “funciona porque hace clic”: siempre **verificar consumo y tensión**.
-
----
-
-Perfecto — esta es **la continuación y cierre de la clase sobre contactores, relés térmicos y tableros de comando para bombas monofásicas y trifásicas**.
-Te hago un **resumen técnico detallado**, con **explicación paso a paso** de los conceptos clave que el docente explicó:
 
 ---
 

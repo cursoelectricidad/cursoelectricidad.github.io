@@ -12,7 +12,7 @@ El curso de auxiliar electricista finaliza en la clase número 47, y el curso de
 
 Subscribe to RSS: [/feed.xml](/feed.xml)
 
-[Clase Nº 77: Sistema de bombeo automatizado mediante flotadores. Tablero de bombeo. Contactor. Rele termico. Diagrama.](/77clase.md){.title}
+[Clase Nº 77: Sistema de bombeo automatizado mediante flotadores. Tablero de bombeo. Contactor. Rele termico. Diagrama. Como comprobar funcionamiento. Circuito de comando.](/77clase.md){.title}
 [7 Octubre 2025]{.date}
 
 
