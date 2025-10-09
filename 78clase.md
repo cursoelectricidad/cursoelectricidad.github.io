@@ -14,6 +14,8 @@
 
 [https://www.youtube.com/watch?v=euI7UYloCpw](https://www.youtube.com/watch?v=euI7UYloCpw)
 
+Le pedi el PDF pero dijo que es informacion confidencial.
+
 ![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjXleiKEutONRMgDw8o1g1yICuSYQO4Q49Bjr35jPqtsVIgI_SuLPwOlSLncKpZDflbWR-WMQaouKV0CMX830RITOgpcTMJDRJkJtF0y5SrfU-Wer3srfKVgEI4VL1zIddOH5XEhNhw8TvCK_y4jkIq63g8AZRTilYF6iKCvVBT47_tZIBz9TdoBUeAMtw/s4160/IMG_20251008_191358773.jpg)
 ![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh_YbYdrz9BfwjAmxH_5bN4jInExiN62kkZoAf_Yngw7MH1UR80Jh6-3Cpb5SJypIRdWS3EGmVelb_rjuBftkeBhmljt-kshyphenhyphenQdrfXK9Gb8X8wUs83c9bvLBMVgEobv_5DH-2RpW3_TeQUiSrQltEiZ3LzjYowSDX1CWSnj3czuzptXHmMrWLYihG1rlSU/s4160/IMG_20251008_192008470.jpg)
 ![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiKhD8BlxMzIoV-HnH3fg99gqAg5SFwlhU94sOjn1mbOrgJq-7a5j4n_CGWECaE0JLkF0TVmCrxnxRf7JGFp936i056qHZqsFx2NU3ogPQm5SgIIiSiHGgvbMOxrwkyXRLqgDAIyTMf_lmhCffS5XxIrQOZCYF6QbwK0ZnuuZWo3u0IzFEft-Va4_oUJb8/s4160/IMG_20251008_192135171.jpg)
