@@ -14,6 +14,7 @@
 
 [https://www.youtube.com/watch?v=euI7UYloCpw](https://www.youtube.com/watch?v=euI7UYloCpw)
 
+La clase empieza en el minuto 20 por ahi porque se tuvo que configurar el proyector.    
 Le pedi el PDF pero dijo que es informacion confidencial.
 
 ![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjXleiKEutONRMgDw8o1g1yICuSYQO4Q49Bjr35jPqtsVIgI_SuLPwOlSLncKpZDflbWR-WMQaouKV0CMX830RITOgpcTMJDRJkJtF0y5SrfU-Wer3srfKVgEI4VL1zIddOH5XEhNhw8TvCK_y4jkIq63g8AZRTilYF6iKCvVBT47_tZIBz9TdoBUeAMtw/s4160/IMG_20251008_191358773.jpg)
