@@ -1,4 +1,4 @@
-% Clase Nº 77: Sistema de bombeo automatizado mediante flotadores. Tablero de bombeo. Contactor. Rele termico. Diagrama. Como comprobar funcionamiento. Circuito de comando.
+% Clase Nº 77: Sistema de bombeo automatizado mediante flotadores. Tablero de bombeo. Contactor. Rele termico. Esquema. Como comprobar funcionamiento. Circuito de comando.
 % Andrés Imlauer
 % 7 Octubre 2025
 

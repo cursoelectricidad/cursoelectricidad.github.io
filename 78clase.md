@@ -1,4 +1,4 @@
-% Clase Nº 78: [FOTOCOPIA Diagrama bomba] Leimos PDF en proyector. Teoria: Contactor y sus partes. Rele termico.
+% Clase Nº 78: [FOTOCOPIA Esquema tablero de bomba] Leimos PDF en proyector. Teoria: Contactor y sus partes. Rele termico.
 % Andrés Imlauer
 % 8 Octubre 2025
 
