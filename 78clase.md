@@ -17,8 +17,6 @@
 La clase empieza en el minuto 20 por ahi porque se tuvo que configurar el proyector.    
 Le pedi el PDF pero dijo que es informacion confidencial.
 
-Encontre este PDF que tenia algunas imagenes d el pdf que vimos: [https://unlp.edu.ar/wp-content/uploads/29/33729/08e425f5255f47f7fd9e7dbc92ee7dfe.pdf](https://unlp.edu.ar/wp-content/uploads/29/33729/08e425f5255f47f7fd9e7dbc92ee7dfe.pdf)
-
 
 ![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjXleiKEutONRMgDw8o1g1yICuSYQO4Q49Bjr35jPqtsVIgI_SuLPwOlSLncKpZDflbWR-WMQaouKV0CMX830RITOgpcTMJDRJkJtF0y5SrfU-Wer3srfKVgEI4VL1zIddOH5XEhNhw8TvCK_y4jkIq63g8AZRTilYF6iKCvVBT47_tZIBz9TdoBUeAMtw/s4160/IMG_20251008_191358773.jpg)
 ![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh_YbYdrz9BfwjAmxH_5bN4jInExiN62kkZoAf_Yngw7MH1UR80Jh6-3Cpb5SJypIRdWS3EGmVelb_rjuBftkeBhmljt-kshyphenhyphenQdrfXK9Gb8X8wUs83c9bvLBMVgEobv_5DH-2RpW3_TeQUiSrQltEiZ3LzjYowSDX1CWSnj3czuzptXHmMrWLYihG1rlSU/s4160/IMG_20251008_192008470.jpg)
@@ -53,9 +51,9 @@ Tableros de fuerza motriz?
 ![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh6L7ZfWC8V-BJ0t685bKh9oKEAoX2yTqdyqrqyz4iKA5N7fq1JMgj-H315Bbi-1WmGMLG3WOeAsaztAKqxVA_Ap7PANIVOFjvbpQcDJU7gmU9aH-i2PL8OMGLUIKO3Gq4xB1nnNQvNaQ0IwPM8iMPXbbJBFPBXPcPj5dvkH1uEHOPNozeDAmKg_bpo_QQ/s4160/IMG_20250527_192754751.jpg)
 ![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEicrtLz3vLs2cxMVKS50YXCWxY0lRDI663DVFLhwIIkd4ttjNZlu7eK-wik8pc8B8BSjLxOITLuzjwuXwMjAQefJYZhyphenhyphenS7irhK9je9dQoRFvHi66yUJPfq0JgnSMJV-HvCKxM7U7Ud_eM8CtmNVFOc7Ad9BVAg7DEGu2_D1BpuXrea43YJ6IdLTLPFvXpY/s4160/IMG_20250527_193119812.jpg)
 ![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiVUfYhziqS6xgfDEHmB_usfaTLghwBWGgBCRaSGvxr-D3l72vaJsjmEdHCP0H_hSo-S51JwXpKBXlXozd2BvsVVU5n4ZaQFmPOOLQfjQhSmHGb3QkktpM-h1zoqtq1S1nuJR-ci8vODi1ON-8JRrD6oW5QEQ0tbMqT5j1GSsafOGoNP15ANFy6Ql7m1XI/s4160/IMG_20250527_190045755.jpg)
-
-
 ![](https://web.archive.org/web/20251010065754im_/https://www.qbprofe.com/wp-content/uploads/2020/08/Entrada-contactor-1.jpg)
+
+---
 
 Hasta 15 bocas por fase.
 
@@ -63,30 +61,22 @@ Guardamotor cumple la misma funcion que un contactor mas un rele termico.
 
 Los reles termicos se utilizan para proteger al motor contra sobrecargas.
 
-##### Fuentes que encontre que explican lo visto (no fue recomendado por el profesor lo encontre en Google).
+---
 
-[https://web.archive.org/web/20251010070410/https://unlp.edu.ar/wp-content/uploads/29/33729/08e425f5255f47f7fd9e7dbc92ee7dfe.pdf](https://web.archive.org/web/20251010070410/https://unlp.edu.ar/wp-content/uploads/29/33729/08e425f5255f47f7fd9e7dbc92ee7dfe.pdf)
+### Fuentes que encontre que explican lo visto (no fue recomendado por el profesor lo encontre en Google).
 
-[https://web.archive.org/web/20251010065754/https://www.qbprofe.com/automatizacion-instrumentacion-industrial/el-contactor/](https://web.archive.org/web/20251010065754/https://www.qbprofe.com/automatizacion-instrumentacion-industrial/el-contactor/)
-
-[https://archive.is/fzZGt](https://archive.is/fzZGt)
-
-[https://blogsaverroes.juntadeandalucia.es/amrandado/funcionamiento-y-tipos-de-contactor-mas-usuales-en-las-imetf/](https://blogsaverroes.juntadeandalucia.es/amrandado/funcionamiento-y-tipos-de-contactor-mas-usuales-en-las-imetf/) ([Archive](https://archive.is/daa7D)
-
-[https://ia600601.us.archive.org/9/items/entrada-1-el-contactor/Entrada_1_El_Contactor.pdf](https://ia600601.us.archive.org/9/items/entrada-1-el-contactor/Entrada_1_El_Contactor.pdf)
-
-![](https://web.archive.org/web/20251010071449if_/https://i.pinimg.com/736x/9d/7b/e4/9d7be477e9e9eef7e15dfa0c61a8926d.jpg)
+[https://web.archive.org/web/20251010070410/https://unlp.edu.ar/wp-content/uploads/29/33729/08e425f5255f47f7fd9e7dbc92ee7dfe.pdf](https://web.archive.org/web/20251010070410/https://unlp.edu.ar/wp-content/uploads/29/33729/08e425f5255f47f7fd9e7dbc92ee7dfe.pdf)      
+[https://web.archive.org/web/20251010065754/https://www.qbprofe.com/automatizacion-instrumentacion-industrial/el-contactor/](https://web.archive.org/web/20251010065754/https://www.qbprofe.com/automatizacion-instrumentacion-industrial/el-contactor/)      
+[https://archive.is/fzZGt](https://archive.is/fzZGt)      
+[https://blogsaverroes.juntadeandalucia.es/amrandado/funcionamiento-y-tipos-de-contactor-mas-usuales-en-las-imetf/](https://blogsaverroes.juntadeandalucia.es/amrandado/funcionamiento-y-tipos-de-contactor-mas-usuales-en-las-imetf/) ([Archive](https://archive.is/daa7D)).      
+[https://ia600601.us.archive.org/9/items/entrada-1-el-contactor/Entrada_1_El_Contactor.pdf](https://ia600601.us.archive.org/9/items/entrada-1-el-contactor/Entrada_1_El_Contactor.pdf)    
+![](https://web.archive.org/web/20251010071449if_/https://i.pinimg.com/736x/9d/7b/e4/9d7be477e9e9eef7e15dfa0c61a8926d.jpg)      
+[https://unlp.edu.ar/wp-content/uploads/29/33729/08e425f5255f47f7fd9e7dbc92ee7dfe.pdf](https://unlp.edu.ar/wp-content/uploads/29/33729/08e425f5255f47f7fd9e7dbc92ee7dfe.pdf)      
 
 
-
+---
 
 # ChatGPT
-
----
-
-Resumen en **bullet points** de ese fragmento de clase:
-
----
 
 * El profesor está preparando **material visual (videos, copias y esquemas)** para explicar el tema sin tener que dibujar todo manualmente.
 * Los alumnos van a recibir **copias impresas (A4)** con esquemas orientativos de **tableros eléctricos y contactores**.
