@@ -63,6 +63,21 @@ Los reles termicos se utilizan para proteger al motor contra sobrecargas.
 
 ---
 
+Espeche hablo de un problema de la escuela de la escuela en donde no arrancaba la bomba.
+
+**Aca una pequeña acotacion de mi padre:**
+
+Cuando apretas la H del contactor reemplazas la bobina. Si no arranca la bomba puede ser por varias cosas:
+
+1. Saber si es monofasica o trifasica.
+2. Si es trifasica puede ser que falte una fase o puede ser que la contactora este cagada.
+3. O que la bomba cago un bobinado por eso tenes que ir con un buscapolo o otester y mirar si esta todas la fase si es 220 o cuando apretas la contactora. Tenes que mirar si estan los 220 y si estan todas las fases o los 380.
+4. Si estan todo los 380 o 220 tenes que mirar la bomba. Tiene que legar 220 380 a la contactora si llega todo y la bomba este bien puede ser que la bobina este quemada, si apretas la H y arranca quiere decir que la bobina esta quemada o los sensores.
+5. Si arranca le pones un palo para que arranque y despues mira por que esta cagada la bobina o los sensores.
+
+---
+
+
 ### Fuentes que encontre que explican lo visto (no fue recomendado por el profesor lo encontre en Google).
 
 [https://web.archive.org/web/20251010070410/https://unlp.edu.ar/wp-content/uploads/29/33729/08e425f5255f47f7fd9e7dbc92ee7dfe.pdf](https://web.archive.org/web/20251010070410/https://unlp.edu.ar/wp-content/uploads/29/33729/08e425f5255f47f7fd9e7dbc92ee7dfe.pdf)      
