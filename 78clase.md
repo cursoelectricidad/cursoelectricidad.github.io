@@ -63,9 +63,9 @@ Los reles termicos se utilizan para proteger al motor contra sobrecargas.
 
 ---
 
-Espeche hablo de un problema de la escuela de la escuela en donde no arrancaba la bomba.
+Espeche hablo de un problema de la escuela en donde no arrancaba la bomba.
 
-**Aca una pequeña acotacion de mi padre:**
+**Aca una pequeña acotacion:**
 
 Cuando apretas la H del contactor reemplazas la bobina. Si no arranca la bomba puede ser por varias cosas:
 

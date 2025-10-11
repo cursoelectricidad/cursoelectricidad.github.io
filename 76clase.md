@@ -41,7 +41,7 @@ Habia un conductor marron de alimentacion tirado abajo, eso era lo que alimentab
 ![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgqoYlJAXM-Pkcd3PDeMA6YUVYQSoQbbktqRWYVAHSRrysAB_C-thd8k5zaeQzm80JqlNgmoK6r9kBK3VbwxsfcsoXZ731jsDgBZWM1ue_i3niJF9GPfsNFibp88huPOSTlgjnD3lo9PHjNXexklTlCvcmZNybDx956sPCRirh7bbEX11NdkyGt483dpuM/s4160/IMG-20251006-WA0003.jpg)
 ![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjWCOl5ea0IetomsZ9a_ztLX7dYb7zGeQKs_Y2hxVSy4CtmnIlQLLsybBvhofsd3qWp2Pl4CXeaDeizwLSx13i4cq-uk9HyYSRvLlLhIQiLhejctT5kfV0zqsz5MCPhIneNLfYRCG-Wk1zp80XpgMkZ7drctR3q53Z6nxT-utdqFwpR2USSW0zIi6pWXAM/s4160/IMG-20251006-WA0004.jpg)
 
-#### Esto estaba tapado y pintado. El pintor le aviso a Alejandro tuvo que golpear la pared hasta encontrarlo, adentro estaba el tomacorriente y el transformador de 220 a 12v.
+##### Esto estaba tapado y pintado. El pintor le aviso a Alejandro tuvo que golpear la pared hasta encontrarlo, adentro estaba el tomacorriente y el transformador de 220 a 12v de un portero electrico.
 
 ![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhLMUjGxsHZBgv1EqufL_RJPXpNMT0QSUbGvJfezgsFo_DzRApCX5dxtDaBwRcgH1vquOVRWBw-zCHjvnUBIhgEYYFYqzZUGD-PVImWV35X0q8-DngVgnzWPeWqAUcSsjjfEHd0DSTvMgWeHVc27OzzRfmQCogn7XWLrPac2NmJ3QI58vNB_4oeA2BDhp4/s4160/IMG-20251006-WA0005.jpg)
 ![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgofaquAhlPFtGZwtPr4-H_tnoEWCE_EV5qZtY3w7h-TA5llNBy5uX74YryYvmj9K-ZGrmY6lrm_JwBtLgyy3jBayoGXkbvM7ZQOS2wRuvW_1xY__czxAlmLKGCsLaAMqIhePTOTD-Au-W8nML4bp8jf0X5BCi7wRVOHUkGDUmHxtVqOXoQ8Dy_ktUdbPw/s4160/IMG-20251006-WA0006.jpg)
