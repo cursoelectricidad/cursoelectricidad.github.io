@@ -174,6 +174,13 @@ id="toc-sobre-los-relés-térmicos">⚡ Sobre los relés térmicos</a></li>
 <li><a href="#diferencias-y-precauciones"
 id="toc-diferencias-y-precauciones">🔌 Diferencias y
 precauciones</a></li>
+<li><a href="#relé-electromecánico" id="toc-relé-electromecánico">🔹
+<strong>1. Relé electromecánico</strong></a></li>
+<li><a href="#relé-electrónico-o-de-estado-sólido-ssr"
+id="toc-relé-electrónico-o-de-estado-sólido-ssr">🔹 <strong>2. Relé
+electrónico (o de estado sólido, SSR)</strong></a></li>
+<li><a href="#resumen-comparativo" id="toc-resumen-comparativo">🔸
+<strong>Resumen comparativo:</strong></a></li>
 <li><a href="#organización-del-curso" id="toc-organización-del-curso">🧑‍🏫
 Organización del curso</a></li>
 </ul></li>
@@ -1111,13 +1118,16 @@ bombeo y flotantes</h3>
 <ul>
 <li><p>Habrá <strong>dos tipos de sistemas</strong>:</p>
 <ol type="1">
-<li>Con <strong>un solo flotante</strong> (en tanque de reserva).</li>
+<li>Con <strong>un solo flotante</strong> (en tanque de reserva).<br />
+</li>
 <li>Con <strong>dos flotantes</strong> (tanque de reserva + tanque
-elevado).</li>
+elevado).<br />
+</li>
 </ol></li>
 <li><p>Los esquemas muestran la <strong>conexión de cada
 componente</strong>: interruptor, contactor, relé térmico, llave de tres
-vías, y flotantes.</p></li>
+vías, y flotantes.<br />
+</p></li>
 <li><p>Se recomienda <strong>no perder las copias impresas</strong>
 porque serán base para futuros trabajos.</p></li>
 </ul>
@@ -1125,14 +1135,17 @@ porque serán base para futuros trabajos.</p></li>
 <div class="h"><h3 id="sobre-las-cajas-y-tableros">🧱 Sobre las cajas y tableros</h3><a aria-hidden="true" href="#sobre-las-cajas-y-tableros">[link]</a></div>
 <ul>
 <li><p>Los tableros que se usarán son de <strong>30 × 30 × 15
-cm</strong>, tamaño estándar para tableros de viviendas o
-bombas.</p></li>
+cm</strong>, tamaño estándar para tableros de viviendas o bombas.<br />
+</p></li>
 <li><p>Esa profundidad (15 cm) se elige porque permite alojar
 cómodamente:</p>
 <ul>
-<li>Interruptores termomagnéticos.</li>
-<li>Contactor + relé térmico.</li>
-<li>Borneras y cableado sin que sobresalgan.</li>
+<li>Interruptores termomagnéticos.<br />
+</li>
+<li>Contactor + relé térmico.<br />
+</li>
+<li>Borneras y cableado sin que sobresalgan.<br />
+</li>
 </ul></li>
 <li><p>Algunos tableros pueden venir <strong>ya armados o
 semiarmados</strong> para ahorrar tiempo en clase.</p></li>
@@ -1141,16 +1154,21 @@ semiarmados</strong> para ahorrar tiempo en clase.</p></li>
 <div class="h"><h3 id="sobre-los-relés-térmicos">⚡ Sobre los relés térmicos</h3><a aria-hidden="true" href="#sobre-los-relés-térmicos">[link]</a></div>
 <ul>
 <li>Se explicó la <strong>curva de disparo (clase 10, 20, 30)</strong>
-según la <strong>duración del arranque del motor</strong>.</li>
+según la <strong>duración del arranque del motor</strong>.<br />
+</li>
 <li>Ejemplo: un motor con corriente nominal de 6 A puede tener un
-<strong>pico de arranque de 30 A</strong> (6 × 5).</li>
+<strong>pico de arranque de 30 A</strong> (6 × 5).<br />
+</li>
 <li>El relé <strong>permite ese pico temporal</strong> sin disparar,
-pero <strong>actúa si la sobrecarga se mantiene</strong>.</li>
+pero <strong>actúa si la sobrecarga se mantiene</strong>.<br />
+</li>
 <li>También se habló de la <strong>regulación del relé térmico</strong>,
 que puede ajustarse entre <strong>1,05 y 1,20 veces la corriente nominal
-del motor</strong>.</li>
+del motor</strong>.<br />
+</li>
 <li>Algunos relés tienen <strong>modo manual / automático (A–N)</strong>
-y un <strong>botón de test / reseteo</strong>.</li>
+y un <strong>botón de test / reseteo</strong>.<br />
+</li>
 <li>El <strong>indicador rojo</strong> del relé muestra si el
 dispositivo <strong>disparó por sobrecarga</strong> (como el disparo de
 un disyuntor).</li>
@@ -1159,27 +1177,169 @@ un disyuntor).</li>
 <div class="h"><h3 id="diferencias-y-precauciones">🔌 Diferencias y precauciones</h3><a aria-hidden="true" href="#diferencias-y-precauciones">[link]</a></div>
 <ul>
 <li>Los <strong>relés electromecánicos</strong> son los comunes
-(bimetálicos).</li>
+(bimetálicos).<br />
+</li>
 <li>Los <strong>relés electrónicos</strong> modernos miden parámetros
 eléctricos y pueden <strong>reconectar automáticamente</strong> luego de
-un tiempo predeterminado.</li>
+un tiempo predeterminado.<br />
+</li>
 <li>Los electrónicos tienen <strong>entradas/salidas
 adicionales</strong> y pueden integrarse a <strong>sistemas de control
 remoto o automatización industrial</strong>.</li>
 </ul>
+<p>Vamos por partes 👇</p>
+<hr />
+<h3 id="relé-electromecánico">🔹 <strong>1. Relé
+electromecánico</strong></h3>
+<p><strong>Definición:</strong><br />
+Es un dispositivo que <strong>usa una bobina y contactos
+mecánicos</strong> para abrir o cerrar un circuito cuando recibe una
+señal eléctrica.</p>
+<p><strong>Funcionamiento:</strong></p>
+<ul>
+<li>Una <strong>bobina</strong> se energiza con corriente (por ejemplo,
+12 V o 220 V).<br />
+</li>
+<li>El campo magnético atrae una <strong>armadura
+metálica</strong>.<br />
+</li>
+<li>Esa armadura <strong>mueve contactos</strong> que abren o cierran el
+circuito de potencia o de control.</li>
+</ul>
+<p><strong>Características:</strong></p>
+<ul>
+<li>Hay <strong>movimiento físico</strong> (clic audible).<br />
+</li>
+<li>Los contactos pueden manejar <strong>corrientes
+altas</strong>.<br />
+</li>
+<li><strong>Aislamiento galvánico</strong> entre circuito de mando y de
+potencia (no hay conexión eléctrica directa).<br />
+</li>
+<li><strong>Vida útil limitada</strong> por desgaste mecánico y chispeo
+de contactos.<br />
+</li>
+<li><strong>Tiempo de respuesta</strong> relativamente lento
+(milisegundos).</li>
+</ul>
+<p><strong>Ejemplo típico:</strong><br />
+Relés de 8 o 11 pines usados en tableros de control, arrancadores de
+motores, etc.</p>
+<hr />
+<h3 id="relé-electrónico-o-de-estado-sólido-ssr">🔹 <strong>2. Relé
+electrónico (o de estado sólido, SSR)</strong></h3>
+<p><strong>Definición:</strong><br />
+Es un relé que <strong>no tiene partes móviles</strong>; conmutan
+mediante componentes electrónicos (transistores, triacs,
+optoacopladores, etc.).</p>
+<p><strong>Funcionamiento:</strong></p>
+<ul>
+<li>Una <strong>señal de control</strong> activa un <strong>circuito
+electrónico</strong>.<br />
+</li>
+<li>Este circuito <strong>dispara un semiconductor</strong> que permite
+o bloquea el paso de corriente en el circuito de salida.</li>
+</ul>
+<p><strong>Características:</strong></p>
+<ul>
+<li><strong>Sin partes móviles → sin desgaste mecánico.</strong><br />
+</li>
+<li><strong>Respuesta muy rápida</strong> (microsegundos o menos).<br />
+</li>
+<li><strong>Silencioso</strong> (no hace clic).<br />
+</li>
+<li>Puede conmutar <strong>a alta frecuencia</strong>.<br />
+</li>
+<li><strong>Vida útil más larga</strong>, pero puede <strong>calentarse
+más</strong>.<br />
+</li>
+<li>En algunos modelos <strong>no hay aislamiento perfecto</strong> o
+hay pequeñas fugas de corriente (cuando están “abiertos”).</li>
+</ul>
+<p><strong>Ejemplo típico:</strong><br />
+SSR usados para controlar resistencias calefactoras, cargas conmutadas
+frecuentemente o en sistemas donde se necesita silencio y precisión.</p>
+<hr />
+<h3 id="resumen-comparativo">🔸 <strong>Resumen
+comparativo:</strong></h3>
+<table>
+<colgroup>
+<col style="width: 21%" />
+<col style="width: 44%" />
+<col style="width: 34%" />
+</colgroup>
+<thead>
+<tr>
+<th>Característica</th>
+<th>Relé Electromecánico</th>
+<th>Relé Electrónico (SSR)</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Tipo de conmutación</td>
+<td>Mecánica (contactos)</td>
+<td>Electrónica (semiconductores)</td>
+</tr>
+<tr>
+<td>Partes móviles</td>
+<td>Sí</td>
+<td>No</td>
+</tr>
+<tr>
+<td>Ruido</td>
+<td>Clic audible</td>
+<td>Silencioso</td>
+</tr>
+<tr>
+<td>Tiempo de respuesta</td>
+<td>Milisegundos</td>
+<td>Microsegundos</td>
+</tr>
+<tr>
+<td>Durabilidad</td>
+<td>Limitada (desgaste)</td>
+<td>Muy alta</td>
+</tr>
+<tr>
+<td>Corrientes soportadas</td>
+<td>Altas (decenas de A)</td>
+<td>Limitadas, depende del modelo</td>
+</tr>
+<tr>
+<td>Aislamiento</td>
+<td>Excelente (contactos separados físicamente)</td>
+<td>Puede haber pequeña fuga</td>
+</tr>
+<tr>
+<td>Calor generado</td>
+<td>Bajo</td>
+<td>Mayor, requiere disipador a veces</td>
+</tr>
+<tr>
+<td>Precio</td>
+<td>Más económico</td>
+<td>Más caro</td>
+</tr>
+</tbody>
+</table>
 <hr />
 <div class="h"><h3 id="organización-del-curso">🧑‍🏫 Organización del curso</h3><a aria-hidden="true" href="#organización-del-curso">[link]</a></div>
 <ul>
 <li>El profesor prepara una <strong>edición simplificada del material
-industrial</strong> para adaptarlo al nivel domiciliario.</li>
+industrial</strong> para adaptarlo al nivel domiciliario.<br />
+</li>
 <li>No puede enviar los PDFs originales por <strong>derechos de
 autor</strong>, pero va a <strong>extraer los fragmentos
-relevantes</strong>.</li>
+relevantes</strong>.<br />
+</li>
 <li>Se planea una <strong>clase especial sobre protección</strong>:
 interruptor termomagnético, disyuntor diferencial y puesta a
-tierra.</li>
+tierra.<br />
+</li>
 <li>Luego seguirán <strong>temas de interbloqueo y esquemas de
-mando</strong>.</li>
+mando</strong>.<br />
+</li>
 <li>Cada alumno deberá <strong>poner su nombre en las copias</strong>
 para evitar confusiones.</li>
 </ul>

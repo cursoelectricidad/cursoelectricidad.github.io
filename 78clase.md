@@ -615,49 +615,115 @@ Cuando apretas la H del contactor reemplazas la bobina. Si no arranca la bomba p
 
 * Habrá **dos tipos de sistemas**:
 
-  1. Con **un solo flotante** (en tanque de reserva).
-  2. Con **dos flotantes** (tanque de reserva + tanque elevado).
-* Los esquemas muestran la **conexión de cada componente**: interruptor, contactor, relé térmico, llave de tres vías, y flotantes.
-* Se recomienda **no perder las copias impresas** porque serán base para futuros trabajos.
-
----
-
-### 🧱 Sobre las cajas y tableros
-
-* Los tableros que se usarán son de **30 × 30 × 15 cm**, tamaño estándar para tableros de viviendas o bombas.
-* Esa profundidad (15 cm) se elige porque permite alojar cómodamente:
-
-  * Interruptores termomagnéticos.
-  * Contactor + relé térmico.
-  * Borneras y cableado sin que sobresalgan.
-* Algunos tableros pueden venir **ya armados o semiarmados** para ahorrar tiempo en clase.
-
----
-
-### ⚡ Sobre los relés térmicos
-
-* Se explicó la **curva de disparo (clase 10, 20, 30)** según la **duración del arranque del motor**.
-* Ejemplo: un motor con corriente nominal de 6 A puede tener un **pico de arranque de 30 A** (6 × 5).
-* El relé **permite ese pico temporal** sin disparar, pero **actúa si la sobrecarga se mantiene**.
-* También se habló de la **regulación del relé térmico**, que puede ajustarse entre **1,05 y 1,20 veces la corriente nominal del motor**.
-* Algunos relés tienen **modo manual / automático (A–N)** y un **botón de test / reseteo**.
-* El **indicador rojo** del relé muestra si el dispositivo **disparó por sobrecarga** (como el disparo de un disyuntor).
-
----
-
-### 🔌 Diferencias y precauciones
-
-* Los **relés electromecánicos** son los comunes (bimetálicos).
-* Los **relés electrónicos** modernos miden parámetros eléctricos y pueden **reconectar automáticamente** luego de un tiempo predeterminado.
-* Los electrónicos tienen **entradas/salidas adicionales** y pueden integrarse a **sistemas de control remoto o automatización industrial**.
-
----
-
-### 🧑‍🏫 Organización del curso
-
-* El profesor prepara una **edición simplificada del material industrial** para adaptarlo al nivel domiciliario.
-* No puede enviar los PDFs originales por **derechos de autor**, pero va a **extraer los fragmentos relevantes**.
-* Se planea una **clase especial sobre protección**: interruptor termomagnético, disyuntor diferencial y puesta a tierra.
-* Luego seguirán **temas de interbloqueo y esquemas de mando**.
-* Cada alumno deberá **poner su nombre en las copias** para evitar confusiones.
-
+  1. Con **un solo flotante** (en tanque de reserva).   
+  2. Con **dos flotantes** (tanque de reserva + tanque elevado).   
+* Los esquemas muestran la **conexión de cada componente**: interruptor, contactor, relé térmico, llave de tres vías, y flotantes.   
+* Se recomienda **no perder las copias impresas** porque serán base para futuros trabajos.   
+   
+---   
+   
+### 🧱 Sobre las cajas y tableros   
+   
+* Los tableros que se usarán son de **30 × 30 × 15 cm**, tamaño estándar para tableros de viviendas o bombas.   
+* Esa profundidad (15 cm) se elige porque permite alojar cómodamente:   
+   
+  * Interruptores termomagnéticos.   
+  * Contactor + relé térmico.   
+  * Borneras y cableado sin que sobresalgan.   
+* Algunos tableros pueden venir **ya armados o semiarmados** para ahorrar tiempo en clase.   
+   
+---   
+   
+### ⚡ Sobre los relés térmicos   
+   
+* Se explicó la **curva de disparo (clase 10, 20, 30)** según la **duración del arranque del motor**.   
+* Ejemplo: un motor con corriente nominal de 6 A puede tener un **pico de arranque de 30 A** (6 × 5).   
+* El relé **permite ese pico temporal** sin disparar, pero **actúa si la sobrecarga se mantiene**.   
+* También se habló de la **regulación del relé térmico**, que puede ajustarse entre **1,05 y 1,20 veces la corriente nominal del motor**.   
+* Algunos relés tienen **modo manual / automático (A–N)** y un **botón de test / reseteo**.   
+* El **indicador rojo** del relé muestra si el dispositivo **disparó por sobrecarga** (como el disparo de un disyuntor).   
+   
+---   
+   
+### 🔌 Diferencias y precauciones   
+   
+* Los **relés electromecánicos** son los comunes (bimetálicos).   
+* Los **relés electrónicos** modernos miden parámetros eléctricos y pueden **reconectar automáticamente** luego de un tiempo predeterminado.   
+* Los electrónicos tienen **entradas/salidas adicionales** y pueden integrarse a **sistemas de control remoto o automatización industrial**.   
+   
+Vamos por partes 👇   
+   
+---   
+   
+### 🔹 **1. Relé electromecánico**   
+   
+**Definición:**   
+Es un dispositivo que **usa una bobina y contactos mecánicos** para abrir o cerrar un circuito cuando recibe una señal eléctrica.   
+   
+**Funcionamiento:**   
+   
+* Una **bobina** se energiza con corriente (por ejemplo, 12 V o 220 V).   
+* El campo magnético atrae una **armadura metálica**.   
+* Esa armadura **mueve contactos** que abren o cierran el circuito de potencia o de control.   
+   
+**Características:**   
+   
+* Hay **movimiento físico** (clic audible).   
+* Los contactos pueden manejar **corrientes altas**.   
+* **Aislamiento galvánico** entre circuito de mando y de potencia (no hay conexión eléctrica directa).   
+* **Vida útil limitada** por desgaste mecánico y chispeo de contactos.   
+* **Tiempo de respuesta** relativamente lento (milisegundos).   
+   
+**Ejemplo típico:**   
+Relés de 8 o 11 pines usados en tableros de control, arrancadores de motores, etc.   
+   
+---   
+   
+### 🔹 **2. Relé electrónico (o de estado sólido, SSR)**   
+   
+**Definición:**   
+Es un relé que **no tiene partes móviles**; conmutan mediante componentes electrónicos (transistores, triacs, optoacopladores, etc.).   
+   
+**Funcionamiento:**   
+   
+* Una **señal de control** activa un **circuito electrónico**.   
+* Este circuito **dispara un semiconductor** que permite o bloquea el paso de corriente en el circuito de salida.   
+   
+**Características:**   
+   
+* **Sin partes móviles → sin desgaste mecánico.**   
+* **Respuesta muy rápida** (microsegundos o menos).   
+* **Silencioso** (no hace clic).   
+* Puede conmutar **a alta frecuencia**.   
+* **Vida útil más larga**, pero puede **calentarse más**.   
+* En algunos modelos **no hay aislamiento perfecto** o hay pequeñas fugas de corriente (cuando están “abiertos”).   
+   
+**Ejemplo típico:**   
+SSR usados para controlar resistencias calefactoras, cargas conmutadas frecuentemente o en sistemas donde se necesita silencio y precisión.   
+   
+---   
+   
+### 🔸 **Resumen comparativo:**   
+   
+| Característica        | Relé Electromecánico                        | Relé Electrónico (SSR)            |   
+| --------------------- | ------------------------------------------- | --------------------------------- |   
+| Tipo de conmutación   | Mecánica (contactos)                        | Electrónica (semiconductores)     |   
+| Partes móviles        | Sí                                          | No                                |   
+| Ruido                 | Clic audible                                | Silencioso                        |   
+| Tiempo de respuesta   | Milisegundos                                | Microsegundos                     |   
+| Durabilidad           | Limitada (desgaste)                         | Muy alta                          |   
+| Corrientes soportadas | Altas (decenas de A)                        | Limitadas, depende del modelo     |   
+| Aislamiento           | Excelente (contactos separados físicamente) | Puede haber pequeña fuga          |   
+| Calor generado        | Bajo                                        | Mayor, requiere disipador a veces |   
+| Precio                | Más económico                               | Más caro                          |   
+   
+---   
+   
+### 🧑‍🏫 Organización del curso   
+   
+* El profesor prepara una **edición simplificada del material industrial** para adaptarlo al nivel domiciliario.   
+* No puede enviar los PDFs originales por **derechos de autor**, pero va a **extraer los fragmentos relevantes**.   
+* Se planea una **clase especial sobre protección**: interruptor termomagnético, disyuntor diferencial y puesta a tierra.   
+* Luego seguirán **temas de interbloqueo y esquemas de mando**.   
+* Cada alumno deberá **poner su nombre en las copias** para evitar confusiones.   
+   
