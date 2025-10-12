@@ -76,9 +76,9 @@ Cuando apretas la H del contactor reemplazas la bobina. Si no arranca la bomba p
 
 1. Saber si es monofasica o trifasica.
 2. Si es trifasica puede ser que falte una fase o puede ser que la contactora este cagada.
-3. O que la bomba cago un bobinado por eso tenes que ir con un buscapolo o otester y mirar si esta todas la fase si es 220 o cuando apretas la contactora. Tenes que mirar si estan los 220 y si estan todas las fases o los 380.
-4. Si estan todo los 380 o 220 tenes que mirar la bomba. Tiene que legar 220 380 a la contactora si llega todo y la bomba este bien puede ser que la bobina este quemada, si apretas la H y arranca quiere decir que la bobina esta quemada o los sensores.
-5. Si arranca le pones un palo para que arranque y despues mira por que esta cagada la bobina o los sensores.
+3. O que la bomba cago un bobinado por eso tenes que ir con un buscapolo o tester y mirar si esta todas las fases si es 220v o cuando apretas la contactora. Tenes que mirar si estan los 220v y si estan todas las fases o los 380v.
+4. Si estan todo los 380v o 220v tenes que mirar la bomba. Tiene que llegar 220v o 380v a la contactora si llega todo y la bomba esta bien puede ser que la bobina este quemada, si apretas la H y arranca quiere decir que la bobina esta quemada o los sensores del contactor.
+5. Si arranca le pones un palo para que arranque xD y despues mira por que esta cagada la bobina o los sensores.
 
 ---
 
@@ -101,7 +101,7 @@ Cuando apretas la H del contactor reemplazas la bobina. Si no arranca la bomba p
 * El profesor está preparando **material visual (videos, copias y esquemas)** para explicar el tema sin tener que dibujar todo manualmente.
 * Los alumnos van a recibir **copias impresas (A4)** con esquemas orientativos de **tableros eléctricos y contactores**.
 * Se recomienda **anotar nombre en las copias**, ya que se usarán en futuras clases.
-* Los esquemas incluyen **automático, contactor, térmico, llave de tres días, y tablero de una bomba**.
+* Los esquemas incluyen **automático, contactor, térmico, llave de tres vías, y tablero de una bomba**.
 * El **tablero mostrado** es para **una sola bomba**, controlada por un **flotante** en el **tanque de reserva**.
 * Luego se explicará cómo adaptar el sistema cuando hay **tanque elevado + tanque de reserva**.
 * Se menciona un **sistema con transformador 220 V → 24 V** para tableros de mando de baja tensión.
