@@ -12,7 +12,7 @@ El curso de auxiliar electricista finaliza en la clase número 47, y el curso de
 
 Subscribe to RSS: [/feed.xml](/feed.xml)
 
-[Clase Nº 79: [FOTOCOPIAS no entregadas] Contactores. Taller de "Inteligencia Artificial" (me fui).](/79clase.md){.title}
+[Clase Nº 79: [FOTOCOPIAS no entregadas] Contactores.  Prueba y análisis del contactor. Taller de Inteligencia Artificial. ](/79clase.md){.title}
 [13 Octubre 2025]{.date}
 
 
