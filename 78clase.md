@@ -101,7 +101,7 @@ Cuando apretas la H del contactor reemplazas la bobina. Si no arranca la bomba p
 * El profesor está preparando **material visual (videos, copias y esquemas)** para explicar el tema sin tener que dibujar todo manualmente.
 * Los alumnos van a recibir **copias impresas (A4)** con esquemas orientativos de **tableros eléctricos y contactores**.
 * Se recomienda **anotar nombre en las copias**, ya que se usarán en futuras clases.
-* Los esquemas incluyen **automático, contactor, térmico, llave de tres vías, y tablero de una bomba**.
+* Los esquemas incluyen **automático, contactor, térmico, llave de tres posiciones, y tablero de una bomba**.
 * El **tablero mostrado** es para **una sola bomba**, controlada por un **flotante** en el **tanque de reserva**.
 * Luego se explicará cómo adaptar el sistema cuando hay **tanque elevado + tanque de reserva**.
 * Se menciona un **sistema con transformador 220 V → 24 V** para tableros de mando de baja tensión.
@@ -617,7 +617,7 @@ Cuando apretas la H del contactor reemplazas la bobina. Si no arranca la bomba p
 
   1. Con **un solo flotante** (en tanque de reserva).   
   2. Con **dos flotantes** (tanque de reserva + tanque elevado).   
-* Los esquemas muestran la **conexión de cada componente**: interruptor, contactor, relé térmico, llave de tres vías, y flotantes.   
+* Los esquemas muestran la **conexión de cada componente**: interruptor, contactor, relé térmico, llave de tres posiciones, y flotantes.   
 * Se recomienda **no perder las copias impresas** porque serán base para futuros trabajos.   
    
 ---   
