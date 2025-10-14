@@ -1,4 +1,4 @@
-% Clase Nº 79: [FOTOCOPIAS no entregadas] Contactores.  Prueba y análisis del contactor. Taller de Inteligencia Artificial. 
+% Clase Nº 79: [FOTOCOPIAS no entregadas] Contactores.  Prueba con un tester resistencia del contactor. Taller de Inteligencia Artificial. 
 % Andrés Imlauer
 % 13 Octubre 2025
 
@@ -20,8 +20,8 @@
 ![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjBSOi1BYcnK3tgfh1hVf9FmzpJp1XTREMGMABpdhQnWo6FXBkKHE118_J7zKNM-m3bpcybCrLCxNtEEhyphenhyphenHI1yi6Juwa5poTaDXcPLcx7OPW1VcEdocI6eaZEzri0qyK7Kt3bM7swQng37CA9YdGG2S7kEUxztyrzOTEjJfeA_20lPYRwEKrWuu9pXMKyQ/s4160/IMG_20251013_185925336.jpg)
 ![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiULwVOERfBTkrBXSmPFizJSwLH7qRatnUAalhPINa-XKetq_qxHZ81-KB5uegC6BQzRNCsZSLdWqqotsga3SnlbA66XeyLc4HT6VXXdss-2HeqwptxuyNXK3Hi_C76zRpPhuNSFBXSFWt2trO8tnMS3TqMrEk3FSvnnhwW6TOpYzDY2pO63JtmqbLzWQw/s4160/IMG_20251013_185936285.jpg)
 ![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEioPxcs4SgW_gRKDHR05Gb-wtZFxf0iuqrhEi7HJNG3kBZBhtmmbyXL8-I0AxEA6N0J9mYsoI8h0qSsTXlzyjPUXQQMWEfQUv5INzUuJbqL-0Kn4yqH7VHyaC7eCKxV9yGl3DX5gZZgHOxAWaJwj1es6yJ77BEJ67W3_9Inhd3ljPorbz42T8V5Kqp0rlk/s4160/IMG_20251013_190527863.jpg)
-![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiTIOVnXlnCXpWLTzHmmAFAqKma11mzdDSENtJWMMrGG79r1yoFpBpzYTJy_h8tTi_OI4AJ3hPN__FeT5YkphXnVOBLWX2s-S7u9icHNeISzdMVla9KyrD3KYebOPQodSTjOtIB01LPSDr5VZgsXuk922gMt11YdeCFEmtsZTvA7YAoBIhAx7CK4xTgZwo/s4160/IMG_20251013_190844982.jpg)
-###### El contactor.
+
+#### El contactor.
 
 Es un mecanismo cuya mision es la de cerrar unos contactos, para permitir el paso de la corriente a traves de ellos. Esto ocurre cuando la bobina del contactor recibe corriente electrica, comportandose como electroiman y atrayendo dichos contactos.
 
@@ -47,6 +47,7 @@ Eleccion del contactor: Cuando se va a elegir un contactor hay que tener en cuen
 
 Por lo tanto es conveniente el uso de catalogos de fabricantes en los que se indican las distintas caracteristicas de los contactores en funcion del modelo.
 
+![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiTIOVnXlnCXpWLTzHmmAFAqKma11mzdDSENtJWMMrGG79r1yoFpBpzYTJy_h8tTi_OI4AJ3hPN__FeT5YkphXnVOBLWX2s-S7u9icHNeISzdMVla9KyrD3KYebOPQodSTjOtIB01LPSDr5VZgsXuk922gMt11YdeCFEmtsZTvA7YAoBIhAx7CK4xTgZwo/s4160/IMG_20251013_190844982.jpg)
 ![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhGxt_QEdt7T-pMLMwTXKlzj8LW_8KShnWoc2q1mHeDlOSUhKeU2y1UkkLhSHyGEYUH5TJ59EYXGchGTJdIDi5vHYaSSbf8dWq1awrcqc09CBPmovdudnduF0wS6ajb6Zk6kvsbkd4Iq9jhV7m2W8fM5Oik9Hj5GdcvXIlXxaykLE3RowwRDfI8ozYBtUc/s4160/IMG_20251013_190854447.jpg)
 ![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhsApkR1ojGu-OQZf64DRNKpIoExEsBQGnDMzVeW_9vY4OALKsXhleHOKUWETErsNeQGffPzjAXnrdYU9zmjPrAQG41yscnaDyf8eLrziERxa_1UV77ugP1MPRRfnC_fpd2k7fLMjklPrTyy6cjRAOtTC9dVYkSbGu4r0yfesAqvm9IXc7R3M8NSxO-Uxg/s4160/IMG_20251013_190907461.jpg)
 ![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgRFNRgnFCyfuGdrRy_X07RUXzw46tfgHvM57CPSdhd4GPL4aTsDZH4uEcOKeAtywVUwbPRXSuA4haehheKFtVQ6ia7GRGyvZDI-fdS5OlRjHJGHtrM2DMELMK3rhzqlwVJFOEcKry-UlOsD6OV-sk6era3zfNcNy1BYuBJCYXwlUos655T4AECMdZ9plc/s4160/IMG_20251013_190920250.jpg)

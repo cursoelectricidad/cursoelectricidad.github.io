@@ -80,7 +80,7 @@ List of pages:
 * /76clase.md: [Clase Nº 76: [FOTOCOPIA Disyuntor] Ayudante explico como soluciono instalacion casa anterior (explicado clase anterior). Formula caida de tension. Disyuntor dice donde va neutro. Calcular resistencia tierra. Aplicacion Calculo electrico para calcular seccion de conductor, caida de tension, etc.](/76clase.md)
 * /77clase.md: [Clase Nº 77: Sistema de bombeo automatizado mediante flotadores. Tablero de bombeo. Contactor. Rele termico. Esquema. Como comprobar funcionamiento. Circuito de comando.](/77clase.md)
 * /78clase.md: [Clase Nº 78: [FOTOCOPIA Esquema tablero de bomba] Leimos PDF en proyector. Teoria: Contactor y sus partes. Rele termico.](/78clase.md)
-* /79clase.md: [Clase Nº 79: [FOTOCOPIAS no entregadas] Contactores.  Prueba y análisis del contactor. Taller de Inteligencia Artificial. ](/79clase.md)
+* /79clase.md: [Clase Nº 79: [FOTOCOPIAS no entregadas] Contactores.  Prueba con un tester resistencia del contactor. Taller de Inteligencia Artificial. ](/79clase.md)
 * /contact.md: [Contacto](/contact.md)
 * /dudas.md: [Dudas.](/dudas.md)
 * /: [Curso Electricidad - CFP Nº 17](/)
