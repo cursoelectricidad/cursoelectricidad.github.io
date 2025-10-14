@@ -97,11 +97,6 @@ Por lo tanto es conveniente el uso de catalogos de fabricantes en los que se ind
 
 ---
 
-Perfecto 👍
-Acá tenés el **resumen técnico en formato de apuntes de clase** —organizado, claro y con terminología eléctrica domiciliaria:
-
----
-
 ## 🧰 Clase: Prueba y funcionamiento de contactores trifásicos
 
 ### 🔹 Características generales
@@ -174,12 +169,6 @@ Acá tenés el **resumen técnico en formato de apuntes de clase** —organizado
 * En tableros, **no dejar cables sueltos** ni hacer pruebas directas sin aislamiento.
 * Los **registros eléctricos** deben **quedar accesibles**; nunca se deben **tapar con cerámica o silicona**, ya que dificulta futuras reparaciones.
 * Existen **detectores de pared** (de metal, agua o tensión eléctrica) que ayudan a ubicar cañerías ocultas o registros tapados.
-
----
-
-Perfecto 👌
-Te dejo el **resumen técnico estructurado como ficha de clase**, listo para repasar o imprimir.
-Incluye conceptos eléctricos, pruebas prácticas y funcionamiento del sistema de control automático con contactor y flotador.
 
 ---
 
