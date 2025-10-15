@@ -47,7 +47,8 @@ Eleccion del contactor: Cuando se va a elegir un contactor hay que tener en cuen
    
 Por lo tanto es conveniente el uso de catalogos de fabricantes en los que se indican las distintas caracteristicas de los contactores en funcion del modelo.   
    
-![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiTIOVnXlnCXpWLTzHmmAFAqKma11mzdDSENtJWMMrGG79r1yoFpBpzYTJy_h8tTi_OI4AJ3hPN__FeT5YkphXnVOBLWX2s-S7u9icHNeISzdMVla9KyrD3KYebOPQodSTjOtIB01LPSDr5VZgsXuk922gMt11YdeCFEmtsZTvA7YAoBIhAx7CK4xTgZwo/s4160/IMG_20251013_190844982.jpg)
+![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiTIOVnXlnCXpWLTzHmmAFAqKma11mzdDSENtJWMMrGG79r1yoFpBpzYTJy_h8tTi_OI4AJ3hPN__FeT5YkphXnVOBLWX2s-S7u9icHNeISzdMVla9KyrD3KYebOPQodSTjOtIB01LPSDr5VZgsXuk922gMt11YdeCFEmtsZTvA7YAoBIhAx7CK4xTgZwo/s4160/IMG_20251013_190844982.jpg)    
+
 ![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhGxt_QEdt7T-pMLMwTXKlzj8LW_8KShnWoc2q1mHeDlOSUhKeU2y1UkkLhSHyGEYUH5TJ59EYXGchGTJdIDi5vHYaSSbf8dWq1awrcqc09CBPmovdudnduF0wS6ajb6Zk6kvsbkd4Iq9jhV7m2W8fM5Oik9Hj5GdcvXIlXxaykLE3RowwRDfI8ozYBtUc/s4160/IMG_20251013_190854447.jpg)
 ![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhsApkR1ojGu-OQZf64DRNKpIoExEsBQGnDMzVeW_9vY4OALKsXhleHOKUWETErsNeQGffPzjAXnrdYU9zmjPrAQG41yscnaDyf8eLrziERxa_1UV77ugP1MPRRfnC_fpd2k7fLMjklPrTyy6cjRAOtTC9dVYkSbGu4r0yfesAqvm9IXc7R3M8NSxO-Uxg/s4160/IMG_20251013_190907461.jpg)
 ![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgRFNRgnFCyfuGdrRy_X07RUXzw46tfgHvM57CPSdhd4GPL4aTsDZH4uEcOKeAtywVUwbPRXSuA4haehheKFtVQ6ia7GRGyvZDI-fdS5OlRjHJGHtrM2DMELMK3rhzqlwVJFOEcKry-UlOsD6OV-sk6era3zfNcNy1BYuBJCYXwlUos655T4AECMdZ9plc/s4160/IMG_20251013_190920250.jpg)
