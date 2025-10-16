@@ -25,6 +25,31 @@ parada motor con contactor. Estuve ausente.</h1>
 </ul>
 <hr/>
 </header>
+<nav id="TOC">
+<h1>Navigate this page:</h1>
+<ul>
+<li><a href="#tema-de-la-clase" id="toc-tema-de-la-clase">🧠 TEMA DE LA
+CLASE</a>
+<ul>
+<li><a href="#objetivo" id="toc-objetivo">Objetivo</a></li>
+</ul></li>
+<li><a href="#componentes-principales"
+id="toc-componentes-principales">⚙️ COMPONENTES PRINCIPALES</a></li>
+<li><a href="#división-de-circuitos" id="toc-división-de-circuitos">🔌
+DIVISIÓN DE CIRCUITOS</a></li>
+<li><a href="#funcionamiento" id="toc-funcionamiento">📈
+FUNCIONAMIENTO</a></li>
+<li><a href="#materiales-según-tu-pizarrón"
+id="toc-materiales-según-tu-pizarrón">🧩 MATERIALES (según tu
+pizarrón)</a></li>
+<li><a href="#fuentes-para-estudiar-y-completar"
+id="toc-fuentes-para-estudiar-y-completar">📚 FUENTES PARA ESTUDIAR Y
+COMPLETAR</a></li>
+<li><a href="#resumen-rápido" id="toc-resumen-rápido">🧾 RESUMEN
+RÁPIDO</a></li>
+</ul>
+</nav>
+<div class="pagetext">
 <p><a href="./">Volver al índice</a></p>
 <p>Artículo publicado por: Andrés Imlauer</p>
 <p>Artículo publicado el: 13 Octubre 2025</p>
@@ -33,6 +58,146 @@ parada motor con contactor. Estuve ausente.</h1>
 src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhF9C3iGjvGVFIMkK5-JJs1dNczvC-jkCWon2OxVvU9Ef_Y4j_urgPJFjTznQdsZLVZJmtqvImzbjqpyRH27cl9m8dkc6rR3XiGJpg1CW7P5EGagvl_nZVQiSl05vYvC4DNWFKFiPd8XYQDli0X0VEvY7EFKU1QmncoWfcj7A_78pMHt2Tl-RcNluaINmg/s4160/IMG-20251015-WA0002.jpg" />
 <img
 src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi7myuvjRFzY86DZeR-UU1BirbZ78BGvasRDWs5oFn8p_sRQaQxVSaMlLSlDkIV0ZoIGlyN633SY1axqPKuH7fAS6iAfWdFqmIzO97Q82WNGDsQkGWhowg6Dv8Bbio7I6vg3aK8rDxwZ0kWtZ5jGZb1pseBWJ_-dRLHhDQ8X0PqZSfQpMvLIJbzqaA3sEY/s4160/tablero.jpg" /></p>
+<p>Le pregunte a ChatGPT si me averiguaba datos basado en la foto del
+pizarron.</p>
+<hr />
+<div class="h"><h2 id="tema-de-la-clase">🧠 TEMA DE LA CLASE</h2><a aria-hidden="true" href="#tema-de-la-clase">[link]</a></div>
+<p><strong>Arranque y parada de un motor con contactor (Arranque
+Directo)</strong></p>
+<div class="h"><h3 id="objetivo">Objetivo</h3><a aria-hidden="true" href="#objetivo">[link]</a></div>
+<p>Aprender a armar y entender un circuito de <strong>arranque directo
+de motor monofásico o trifásico</strong>, utilizando:</p>
+<ul>
+<li><strong>Contactor</strong></li>
+<li><strong>Pulsadores (Start/Stop)</strong></li>
+<li><strong>Relé térmico</strong></li>
+<li><strong>Protecciones (fusibles, llave termomagnética,
+etc.)</strong></li>
+</ul>
+<hr />
+<div class="h"><h2 id="componentes-principales">⚙️ COMPONENTES PRINCIPALES</h2><a aria-hidden="true" href="#componentes-principales">[link]</a></div>
+<table>
+<colgroup>
+<col style="width: 24%" />
+<col style="width: 75%" />
+</colgroup>
+<thead>
+<tr>
+<th>Componente</th>
+<th>Función</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>Contactor (KM)</strong></td>
+<td>Es un interruptor controlado eléctricamente. Permite abrir o cerrar
+el circuito de potencia del motor.</td>
+</tr>
+<tr>
+<td><strong>Bobina del contactor (A1-A2)</strong></td>
+<td>Parte del contactor que se energiza con el circuito de mando
+(normalmente 220V o 24V según el sistema).</td>
+</tr>
+<tr>
+<td><strong>Pulsador de Marcha (Start o Verde)</strong></td>
+<td>Pulsador <strong>NA (normalmente abierto)</strong>. Al presionarlo,
+energiza la bobina del contactor.</td>
+</tr>
+<tr>
+<td><strong>Pulsador de Paro (Stop o Rojo)</strong></td>
+<td>Pulsador <strong>NC (normalmente cerrado)</strong>. Al presionarlo,
+corta la energía del circuito de mando y desactiva el contactor.</td>
+</tr>
+<tr>
+<td><strong>Relé térmico</strong></td>
+<td>Protege al motor contra sobrecargas. Se coloca en serie con el
+motor, debajo del contactor.</td>
+</tr>
+<tr>
+<td><strong>Llave termomagnética / fusibles</strong></td>
+<td>Protegen el circuito ante cortocircuitos o sobrecorrientes
+graves.</td>
+</tr>
+<tr>
+<td><strong>Motor</strong></td>
+<td>Carga del sistema. Puede ser monofásico o trifásico.</td>
+</tr>
+</tbody>
+</table>
+<hr />
+<div class="h"><h2 id="división-de-circuitos">🔌 DIVISIÓN DE CIRCUITOS</h2><a aria-hidden="true" href="#división-de-circuitos">[link]</a></div>
+<ol type="1">
+<li><p><strong>Circuito de Fuerza</strong></p>
+<ul>
+<li>Lleva la corriente que alimenta al <strong>motor</strong>.</li>
+<li>Incluye: termomagnética, contactor (contactos principales) y relé
+térmico.</li>
+</ul></li>
+<li><p><strong>Circuito de Mando</strong></p>
+<ul>
+<li>Controla cuándo se activa o desactiva el contactor.</li>
+<li>Incluye: pulsadores, bobina del contactor y contactos auxiliares
+(auto-mantenimiento).</li>
+</ul></li>
+</ol>
+<hr />
+<div class="h"><h2 id="funcionamiento">📈 FUNCIONAMIENTO</h2><a aria-hidden="true" href="#funcionamiento">[link]</a></div>
+<ol type="1">
+<li>Con el <strong>pulsador de paro (Stop)</strong> cerrado y el
+<strong>de marcha (Start)</strong> abierto, el circuito está listo.</li>
+<li>Al presionar <strong>Start</strong>, se energiza la <strong>bobina
+del contactor (KM)</strong> → el contactor cierra sus contactos
+principales → el motor arranca.</li>
+<li>Al mismo tiempo, un <strong>contacto auxiliar NA</strong> del
+contactor se cierra en paralelo con el botón de Start → mantiene el
+circuito activo aunque se suelte el botón.</li>
+<li>Al presionar <strong>Stop</strong>, se abre el circuito → la bobina
+se desenergiza → el contactor abre → el motor se apaga.</li>
+<li>Si el <strong>relé térmico</strong> detecta sobrecorriente, también
+abre el circuito de mando y protege el motor.</li>
+</ol>
+<hr />
+<h2 id="materiales-según-tu-pizarrón">🧩 MATERIALES (según tu
+pizarrón)</h2>
+<ul>
+<li>Gabinete metálico 30x40x15</li>
+<li>Contactor LC1 9A 220V o 12V (según control)</li>
+<li>Relé térmico 6.3–10A</li>
+<li>Llave térmica 3 vías</li>
+<li>Porta fusible + fusible 2A</li>
+<li>Ojo de buey (luz piloto verde)</li>
+<li>Borneras divisor/conductor 4mm²</li>
+<li>Riel DIN</li>
+<li>Interruptor termomagnético 4x16A</li>
+<li>Cables y accesorios</li>
+</ul>
+<hr />
+<h2 id="fuentes-para-estudiar-y-completar">📚 FUENTES PARA ESTUDIAR Y
+COMPLETAR</h2>
+<ol type="1">
+<li><strong>Norma AEA 90364</strong> – Instalaciones eléctricas de baja
+tensión (apartado de control de motores).</li>
+<li><strong>Siemens - Manual de arranque directo de motores</strong> 👉
+<a
+href="https://new.siemens.com/global/en/products/automation/sirius/direct-start.html">https://new.siemens.com/global/en/products/automation/sirius/direct-start.html</a></li>
+<li><strong>Schneider Electric - Control de motores</strong> 👉 <a
+href="https://www.se.com/ar/es/work/products/industrial-automation/motor-control/">https://www.se.com/ar/es/work/products/industrial-automation/motor-control/</a></li>
+<li><strong>Video educativo (YouTube)</strong> 🔍 Busca: “Arranque
+directo de motor con contactor – circuito de mando y fuerza”</li>
+<li><strong>Libro recomendado:</strong> <em>“Instalaciones Eléctricas
+Domiciliarias y Industriales”</em> – Autor: Edgardo M. Pagani. Capítulo:
+“Arranque y control de motores”.</li>
+</ol>
+<hr />
+<div class="h"><h2 id="resumen-rápido">🧾 RESUMEN RÁPIDO</h2><a aria-hidden="true" href="#resumen-rápido">[link]</a></div>
+<p><strong>Circuito de fuerza:</strong></p>
+<pre><code>L1, L2, L3 → T1, T2, T3 → Relé térmico → Motor</code></pre>
+<p><strong>Circuito de mando:</strong></p>
+<pre><code>L (fase)
+│
+└── Stop (NC) ── Start (NA) ── Bobina KM ── N
+        │
+        └── Contacto auxiliar KM (auto-mantenimiento)</code></pre>
 <div id="footer">
 <hr />
 </div>
@@ -44,6 +209,7 @@ class="uri">https://cursoelectricidad.github.io/80clase.md</a></p>
 <p>Esta página HTML fue generada por el <a
 href="https://libreboot.org/docs/sitegen/">Libreboot Static Site
 Generator</a>.</p>
+</div>
 </div>
 </body>
 </html>
