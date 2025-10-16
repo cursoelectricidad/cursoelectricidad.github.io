@@ -171,6 +171,8 @@ Por lo tanto es conveniente el uso de catalogos de fabricantes en los que se ind
 * En tableros, **no dejar cables sueltos** ni hacer pruebas directas sin aislamiento.   
 * Los **registros eléctricos** deben **quedar accesibles**; nunca se deben **tapar con cerámica o silicona**, ya que dificulta futuras reparaciones.   
 * Existen **detectores de pared** (de metal, agua o tensión eléctrica) que ayudan a ubicar cañerías ocultas o registros tapados.   
+
+[Registros eléctricos](https://youtube.com/embed/vO1oOrE44_Y)
    
 ---   
    
