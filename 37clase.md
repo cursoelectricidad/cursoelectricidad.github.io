@@ -1,4 +1,4 @@
-% Clase Nº 37: Puesta a tierra. Jabalina. Disyuntor igual o mayor a térmica. Preguntas examen.
+% Clase Nº 37: Puesta a tierra. Jabalina. Disyuntor igual o mayor a térmica. Preguntas examen: símbolos eléctricos (tablero seccional, llave, puesta a tierra). Pararrayos frankin. Comprobar tierra sin telurímetro. Hilo san martín. Diferencia entre el neutro y la tierra. Si ustedes están en el campo lo 1ero que hay que hacer cuando hay descarga es tirarse a tierra. Internet del Estado fracasó (antes de Marandú). Diferencia entre neutro y tierra. ITM, diferencial y la puesta a tierra. Como actúa disyuntor. La única cosa permitida dame la 1era fotocopia de todo la 1era pregunta del examen: una instalación eléctrica es segura y confiable cuando ha sido concebida y realizada por un instalador electricista habilitado que ha aplicado la reglamentación para la ejecución de instalación eléctrica en inmuebles de la AEA. Y ha utilizado materiales normalizados IRAM. Esquema de la acometida entra examen. Elementos para comprobar instalación. Esquema de eléctrico de luces. Fotocopia agrupación de conductores. Como deben estar las bocas de iluminación. Preguntas examen para futuro."
 % Andrés Imlauer
 % 11 Junio 2025
 
@@ -60,15 +60,6 @@ Acá te destaco los **puntos más importantes** de la transcripción:
 ### Otros
 
 * Se mencionaron cursos extracurriculares (prevención, posvención, educación emocional) pero no se vinculan directamente con electricidad.
-
----
-
-👉 En resumen:
-El foco técnico estuvo en **puesta a tierra con jabalinas y sus alternativas según el terreno**, la **importancia de revisar fugas antes de instalar un disyuntor** y la mención al **reglamento eléctrico AEA** como material costoso pero clave.
-
-¿Querés que te arme un **mapa esquemático tipo apunte resumido** de las distintas formas de instalar jabalinas (vertical, 45°, horizontal, perforaciones)?
-
-Perfecto 👌. Te destaco los **puntos más importantes** de esta parte de la clase (continuación sobre **puesta a tierra**):
 
 ---
 
@@ -150,13 +141,6 @@ Acá tenés un **cuadro comparativo** con los distintos **electrodos de puesta a
 
 ---
 
-¿Querés que te arme un **esquema visual** (tipo diagrama con dibujitos simples) de cómo se instalan la jabalina vertical, a 45°, horizontal y en malla?
-
-Perfecto 👌
-Te hago un **resumen organizado** de los puntos principales de esta parte de la transcripción:
-
----
-
 ## 📌 Resumen – Clase sobre Puesta a Tierra y Pararrayos
 
 ### 1. Comentarios iniciales
@@ -230,12 +214,6 @@ Te hago un **resumen organizado** de los puntos principales de esta parte de la 
 
 ---
 
-¿Querés que te arme ahora un **esquema gráfico comparando NEUTRO vs TIERRA** (con dibujito tipo circuito simple)?
-
-Perfecto, vamos a organizar todo esto en un **resumen claro y estructurado** sobre la clase de interacción domiciliaria y seguridad eléctrica:
-
----
-
 ## 📌 Elementos de protección en instalaciones domiciliarias
 
 1. **Interruptor termomagnético**
@@ -304,14 +282,6 @@ Perfecto, vamos a organizar todo esto en un **resumen claro y estructurado** sob
 
 ---
 
-Si querés, puedo hacer un **esquema gráfico resumido** mostrando la **interacción entre fase, neutro, diferencial e interruptor termomagnético con puesta a tierra**, ideal para estudio rápido antes del examen.
-
-¿Querés que haga ese esquema?
-
-Perfecto, voy a resumir lo que comentaste en esta parte de la clase, enfocándonos en **la organización del curso, evaluación y práctica**:
-
----
-
 ## 📌 Evaluación y seguimiento del curso
 
 1. **Parte teórica**
@@ -347,9 +317,12 @@ Perfecto, voy a resumir lo que comentaste en esta parte de la clase, enfocándon
   4. Comprobar puesta a tierra.
 * Los videos y materiales enviados son sintéticos; sirven como apoyo, pero **no reemplazan la práctica real**.
 
----
 
-Si querés, puedo integrar esta última parte con el **resumen anterior** y dejar un documento único de **teoría + práctica + evaluación + seguridad eléctrica**, listo para estudiar o repasar antes del examen.
+## Pregunta montador: Final examen.
 
-¿Querés que haga eso?
+#### empecemos con la otra parte de autamatización puede aparecer la fotocélula entonces como la fotocélula tiene una potencia determinada puede ser que se te pida en caso de que tenga una cierta cantidad de iluminaria como hago para encender con la misma fotocélula una cierta cantidad, de potencia tanto, ustedes ahí tienen que decir a través de un contactor la fotocélula lo que hace es mover la bobina del contactor activa y lo que tienen que hacer es un esquema, eso vamos a hacer acá. Más adelante.
+
+En ningún lado hablamos de interruptores, diyuntores nada por el estilo, donde ubicamos eso no hablamos de tablero nada por el estilo, luego veremos con el tema de la reglamentación que es lo que pide las normas todo ese quilombo.
+
+### Lo que si me interesa que puede haber pregunta: Qué coloco primero ? Como coloco el disyuntor en un tablero? La pregunta es fácil siempre atrás de un ITM de igual o mayor nunca menor.
 
