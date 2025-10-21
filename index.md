@@ -12,6 +12,10 @@ El curso de auxiliar electricista finaliza en la clase número 47, y el curso de
 
 Subscribe to RSS: [/feed.xml](/feed.xml)
 
+[Clase Nº 81: [FOTOCOPIAS CLASE ANTERIOR QUE FALTE] Psicologia.](/81clase.md){.title}
+[21 Octubre 2025]{.date}
+
+
 [Clase Nº 80: Tablero electrobomba materiales. Arranque parada motor con contactor. Estuve ausente.](/80clase.md){.title}
 [13 Octubre 2025]{.date}
 
