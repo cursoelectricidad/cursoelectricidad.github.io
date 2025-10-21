@@ -1,6 +1,6 @@
 % Clase Nº 81: [FOTOCOPIAS CLASE ANTERIOR QUE FALTE] Psicologia.
 % Andrés Imlauer
-% 21 Octubre 2025
+% 20 Octubre 2025
 
 #### Audio en Vocaroo:
 
