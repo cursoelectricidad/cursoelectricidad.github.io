@@ -1,4 +1,4 @@
-% Clase Nº 82: Fotos y videos que manda el profesor antes de clase 81 por WhatsApp.
+% Clase Nº 82: Fotos y videos que mandó el profesor antes de clase 82 por WhatsApp.
 % Andrés Imlauer
 % 21 Octubre 2025
 

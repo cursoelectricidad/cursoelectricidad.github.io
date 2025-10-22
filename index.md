@@ -16,7 +16,7 @@ Subscribe to RSS: [/feed.xml](/feed.xml)
 [21 Octubre 2025]{.date}
 
 
-[Clase Nº 82: Fotos y videos que manda el profesor antes de clase 81 por WhatsApp.](/82clase_whatsapp.md){.title}
+[Clase Nº 82: Fotos y videos que mandó el profesor antes de clase 82 por WhatsApp.](/82clase_whatsapp.md){.title}
 [21 Octubre 2025]{.date}
 
 

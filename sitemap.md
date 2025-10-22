@@ -84,7 +84,7 @@ List of pages:
 * /80clase.md: [Clase Nº 80: Tablero electrobomba materiales. Arranque parada motor con contactor. Estuve ausente.](/80clase.md)
 * /81clase.md: [Clase Nº 81: [FOTOCOPIAS CLASE ANTERIOR QUE FALTE] Psicologia.](/81clase.md)
 * /82clase.md: [Clase Nº 82: Clase práctica tablero con contactor.](/82clase.md)
-* /82clase_whatsapp.md: [Clase Nº 82: Fotos y videos que manda el profesor antes de clase 81 por WhatsApp.](/82clase_whatsapp.md)
+* /82clase_whatsapp.md: [Clase Nº 82: Fotos y videos que mandó el profesor antes de clase 82 por WhatsApp.](/82clase_whatsapp.md)
 * /contact.md: [Contacto](/contact.md)
 * /dudas.md: [Dudas.](/dudas.md)
 * /: [Curso Electricidad - CFP Nº 17](/)
