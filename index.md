@@ -12,7 +12,7 @@ El curso de auxiliar electricista finaliza en la clase número 47, y el curso de
 
 Subscribe to RSS: [/feed.xml](/feed.xml)
 
-[Clase Nº 82: Clase práctica tablero con contactor](/82clase.md){.title}
+[Clase Nº 82: Clase práctica tablero con contactor.](/82clase.md){.title}
 [21 Octubre 2025]{.date}
 
 
