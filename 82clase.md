@@ -18,7 +18,7 @@ Tomamos esta referencia:
 
 ![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi7myuvjRFzY86DZeR-UU1BirbZ78BGvasRDWs5oFn8p_sRQaQxVSaMlLSlDkIV0ZoIGlyN633SY1axqPKuH7fAS6iAfWdFqmIzO97Q82WNGDsQkGWhowg6Dv8Bbio7I6vg3aK8rDxwZ0kWtZ5jGZb1pseBWJ_-dRLHhDQ8X0PqZSfQpMvLIJbzqaA3sEY/s4160/tablero.jpg)
 
-Para probar el contactor poniamos el neutro en A2 y con una lampara de prueba la fase en A1 medimos la continuiddad en los borners L1-T1,L2-T2,L3-T3,13-14 (este no tiene que dar continuidad).
+**Para probar el contactor pusimos el neutro en el borner de la bobina A2 del contactor y con una lampara de prueba entregamos fase en A1, al darle fase hacia un ruido, y luego medimos la continuiddad con tester en los borners L1-T1, L2-T2, L3-T3 (deben dar continuidad), 13-14 (este no tiene que dar continuidad).**
 
 ![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiGolcogtMH-6_d67dEiMKIJaV5h5T7joDLrIhiuZ8gg0BDSbCuv6BRPq3fxzLRCe1z6CooxNWWq4ECzfRaOZgIg7cZZoCvEV9Vn2RFn4WziJT_AwpLgnnzFIbfXV_jn0VxKZEbG-Jm-yweL3ySZOmEsoDB-kENGiWr183ZBWQh5Ut8Hko_8DAUt4BdiNI/s4160/IMG_20251021_190018352.jpg)
 ![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiNH3K_UIHqBGqVRphw43t71W6OscJrBLyEUlQKN_YR7sh6rOU2SBRE8HzgmSURMS24q2cVHvBMHKtxBAxtotv7DMUIkLeghibQOiVqlCh9xuWGHYidV68PhCSl-RgwVfzldLzUpIzYjJfINzG1LK1Ly_coh827aW2APERM2iP7ohObtC11Rqhw4qxJT3U/s4160/IMG_20251021_190819054.jpg)
