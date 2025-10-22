@@ -18,6 +18,8 @@ Tomamos esta referencia:
 
 ![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi7myuvjRFzY86DZeR-UU1BirbZ78BGvasRDWs5oFn8p_sRQaQxVSaMlLSlDkIV0ZoIGlyN633SY1axqPKuH7fAS6iAfWdFqmIzO97Q82WNGDsQkGWhowg6Dv8Bbio7I6vg3aK8rDxwZ0kWtZ5jGZb1pseBWJ_-dRLHhDQ8X0PqZSfQpMvLIJbzqaA3sEY/s4160/tablero.jpg)
 
+Para probar el contactor poniamos el neutro en A2 y con una lampara de prueba la fase en A1 medimos la continuiddad en los borners L1-T1,L2-T2,L3-T3,13-14 (este no tiene que dar continuidad).
+
 ![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiGolcogtMH-6_d67dEiMKIJaV5h5T7joDLrIhiuZ8gg0BDSbCuv6BRPq3fxzLRCe1z6CooxNWWq4ECzfRaOZgIg7cZZoCvEV9Vn2RFn4WziJT_AwpLgnnzFIbfXV_jn0VxKZEbG-Jm-yweL3ySZOmEsoDB-kENGiWr183ZBWQh5Ut8Hko_8DAUt4BdiNI/s4160/IMG_20251021_190018352.jpg)
 ![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiNH3K_UIHqBGqVRphw43t71W6OscJrBLyEUlQKN_YR7sh6rOU2SBRE8HzgmSURMS24q2cVHvBMHKtxBAxtotv7DMUIkLeghibQOiVqlCh9xuWGHYidV68PhCSl-RgwVfzldLzUpIzYjJfINzG1LK1Ly_coh827aW2APERM2iP7ohObtC11Rqhw4qxJT3U/s4160/IMG_20251021_190819054.jpg)
 ![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiCnJcxp31hhU2nKf1ODZOTTROIaxPzrZGNX0gScx58X91JrPjbT85KNCjneZawyDVaQd0ngr-wHteM_QcQtkY-xN50-LSclitDF5TWQUv7O0_nm5aYu_H3sdpHqx-6HckDmpKVj1iTSVUuJDeIsQ66mwoATG2AXe58TBcH7tACGZBfu4bMkS9iukCgGJw/s4160/IMG_20251021_190955867_HDR.jpg)
@@ -44,3 +46,61 @@ Tomamos esta referencia:
 ![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiNCWGO3IBsK0rPS4kA-oK0z6DQJhNP6AxZigaf8RcEpZNxhMdhp80OoUe5leyiscRBuIEy0zLL2ACkZa_cGanS6TsM_vBp0YU6XFMsLwPcyh_JGeFODXEN_Kq6bgNjf4jY5al1AziQTY9FJDmF2zv8aGSjbPBju4bJ46tOJiAD6r4wZUWOWgoH63pKew4/s4160/IMG_20251021_202700840_HDR.jpg)
 ![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjJvQ7A6pjwADLB33-sdo4taOrs3gFfRK_5WuVOK6q-Km278CldHy4n4dmpShEp12j2thcOtDpUMMH9jwW11lMiYZZINMQ_ICisGSd7t4xjlGxW4yJJLvtCW2FS3QiJBz3U1jjBW4JZZJJq0n_qj-LNOwvgnnW0k4qTF4jxAFBrteS1c5OQF4vg7yvt4HU/s4160/IMG_20251021_202710052.jpg)
 ![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhgVhfV2dOIFhShRIXYZKDZaI7utLnATxFExaKB_T85a3jCMpR5YykPkDDU8_TEUfLcOzpCHGCte1ksiFL1MII-t8EOlDK_ZJkJxhSfs3MMfZDmDAawA33dxVRcNqZaleO9nqIftAqsTJz3ZfFUjnBnzsBL_kcFLiQu3QU9d_l3b2oRfKjGACdJyDM8xaw/s4160/IMG_20251021_202919622.jpg)
+
+# ChatGPT
+
+
+* Se va a trabajar en grupos de a dos para manejar contactores y familiarizarse con su funcionamiento.
+* Cada estudiante recibirá un contactor y se conectará un pedazo de cable azul a uno de los bornes de la bobina.
+* Se utilizará una lámpara de prueba para verificar continuidad y funcionamiento del contactor sin carga.
+* La idea es que los alumnos vean cómo se acciona el contactor y cómo pasa la fase/neutro a través de él.
+* Posteriormente se trabajará con borneras, pulsadores y tableros para familiarizarse con la conexión y operación de motores mediante contactores.
+* Se hará un ejercicio práctico de “arranque/parada de motor” usando únicamente contactores.
+* Más adelante se incorporarán relés y otros elementos, explicando su función en el circuito.
+* Se busca que los alumnos comprendan el esquema eléctrico y la distribución dentro de un tablero.
+* Se enfatiza la importancia de mantener el tablero ordenado y dejarlo listo para uso posterior.
+* Se explicará cómo medir resistencia y verificar bornes de la bobina; se indica que los bornes de la bobina son intercambiables.
+* Se mencionan diferentes voltajes de bobina (24V, 220V) y cómo se conectan.
+* El objetivo principal es que los alumnos entiendan para qué sirve un contactor, cómo funciona y cómo se instala en un circuito real.
+
+* Se enseñó a probar la bobina de un contactor midiendo resistencia (aprox. 400–600 Ω) entre sus bornes.
+* Se revisa continuidad en la bobina y en los contactos auxiliares usando lámpara de prueba o tester.
+* La fase y el neutro se conectan para simular el funcionamiento dentro de un tablero; no siempre se prueba con carga real.
+* Se identifican bornes A1 y A2 de la bobina; A1 recibe fase y A2 se conecta al interruptor automático.
+* Se verifican contactos normalmente abiertos (NO) y cerrados (NC); algunos dan continuidad solo al accionar el contactor.
+* Se enfatiza desarmar y rearmar correctamente el tablero, manteniendo cada elemento en su lugar para uso posterior.
+* Se explica la función de fusibles, interruptores termomagnéticos (protegen conductores) y relé térmico (protege motor).
+* Se destacan los contactos auxiliares y de fuerza, su identificación y utilidad en circuitos de control y fuerza.
+* Se recomienda manipular cables y bornes con cuidado para no doblar o dañar las patas de los componentes.
+* La práctica se realiza en grupos; cada alumno va probando distintos elementos para comprender el funcionamiento integral del contactor y el tablero.
+
+* Se está trabajando en sistemas de **arranque, marcha y parada** con contactores e interruptores.
+* El esquema típico usa **verde para marcha (NO)** y **rojo para parada (NC)**; algunos sistemas tienen varios interruptores según la criticidad.
+* Cada alumno manipula **interruptores, pulsadores y contactores**, armando primero la **parte de potencia/fuerza** y luego la **parte de comando** (bobina).
+* Se destacan precauciones al manipular los dispositivos: no apretar demasiado los componentes, respetar topes y manejar con delicadeza para evitar daños.
+* Se identifican bornes de alimentación (fase L1, L2, L3 y neutro) y salida hacia motor o lámpara; la bobina se conecta al final en la parte de comando.
+* Se utilizan pulsadores y contactores en bloque para practicar conexiones individuales antes de integrar todo el sistema.
+* Los alumnos trabajan en grupos y deben mantener ordenadas las piezas y cables para futuras prácticas.
+* La práctica se centra en **entender el funcionamiento y la lógica del sistema**, no solo en conectar los elementos.
+
+* Se enfatiza **mantener el orden de cables y componentes**, evitando tocar o mover elementos de otros compañeros.
+* Primero se conecta la **parte de fuerza**: alimentación (fase y neutro) hacia motor o lámpara, pasando por contactor e interruptores.
+* Luego se conecta la **parte de comando**: bobina del contactor y pulsadores (marcha/parada), usando cables finos ya que no soporta carga.
+* Se usan bornes **13-14** como salida de señal a lámparas testigo o indicadores; normalmente abiertos (NO).
+* Para facilitar el entendimiento, se hacen **conexiones en paralelo**, distribuyendo fase hacia diferentes puntos de comando.
+* Cada pulsador tiene contactos internos **NO y NC**, que se deben probar con continuidad antes de alimentar el circuito.
+* La conexión de A1 y A2 de la bobina es **indiferente** respecto a su posición en el bornero, pero se recomienda manipular con cuidado.
+* Se advierte sobre **no forzar ni apretar demasiado** los componentes, especialmente pulsadores y bornes, para evitar daños.
+* Se asegura que cada grupo comprenda dónde va cada fase y neutro, y cómo se interconectan fuerza y comando antes de energizar el circuito.
+
+* Se verifica que la **alimentación de fuerza y comando** esté siempre energizada para poder probar el circuito.
+* La **térmica** protege conductores; se deja ver su funcionamiento aunque no proteja el motor directamente.
+* La **conexión de pulsadores** (marcha/parada) y bobinas se realiza siguiendo un **recorrido claro**, respetando fase y neutro.
+* Los bornes **13-14** se usan para indicadores; normalmente abiertos, permiten visualizar cuando el contactor se acciona.
+* Se hace **puente o paralelo** en la parte de comando para distribuir fase hacia diferentes puntos sin cortar la alimentación.
+* Importancia de **trabajar con cuidado y orden**, evitando terminales expuestos, forzar componentes o perder el orden de los cables.
+* Cada alumno debe **probar continuidad** y funcionamiento de bobinas y pulsadores antes de energizar.
+* Se recalca la **coordinación y trabajo en equipo**: cada uno debe conocer su parte del circuito y respetar los componentes de otros.
+* Se aconseja **tomar fotos y registrar colores/cables** para replicar correctamente el esquema en prácticas futuras.
+* La teoría sobre el **funcionamiento del contactor y el térmico** se estudia paralelamente para reforzar la comprensión antes de la práctica.
+
