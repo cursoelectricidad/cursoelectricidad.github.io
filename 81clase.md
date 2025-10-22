@@ -1,4 +1,4 @@
-% Clase Nº 81: [FOTOCOPIAS CLASE ANTERIOR QUE FALTE] Psicologia.
+% Clase Nº 81: [FOTOCOPIAS CLASE ANTERIOR QUE FALTE] Psicologia. Ayudante cuenta anecdota de trabajo (fue buteado por un pseudo-ingeniero).
 % Andrés Imlauer
 % 20 Octubre 2025
 

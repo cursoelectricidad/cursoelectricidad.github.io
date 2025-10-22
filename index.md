@@ -20,7 +20,7 @@ Subscribe to RSS: [/feed.xml](/feed.xml)
 [21 Octubre 2025]{.date}
 
 
-[Clase Nº 81: [FOTOCOPIAS CLASE ANTERIOR QUE FALTE] Psicologia.](/81clase.md){.title}
+[Clase Nº 81: [FOTOCOPIAS CLASE ANTERIOR QUE FALTE] Psicologia. Ayudante cuenta anecdota de trabajo (fue buteado por un pseudo-ingeniero).](/81clase.md){.title}
 [20 Octubre 2025]{.date}
 
 
