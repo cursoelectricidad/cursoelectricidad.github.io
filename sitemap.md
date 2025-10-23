@@ -85,7 +85,7 @@ List of pages:
 * /81clase.md: [Clase Nº 81: [FOTOCOPIAS CLASE ANTERIOR QUE FALTE] Psicologa: Charla de Salud Mental. Ayudante cuenta anecdota de trabajo con un pseudo-ingeniero. Repaso contactores.](/81clase.md)
 * /82clase.md: [Clase Nº 82: Clase práctica tablero con contactor.](/82clase.md)
 * /82clase_whatsapp.md: [Clase Nº 82: Fotos y videos que mandó el profesor antes de clase 82 por WhatsApp.](/82clase_whatsapp.md)
-* /83clase.md: [Clase Nº 83: Clase practica. Rearmamos y emprolijamos tablero de clase anterior.](/83clase.md)
+* /83clase.md: [Clase Nº 83: Clase practica. Rearmamos y emprolijamos tablero de clase anterior. Corregimos alimentacion del ITM.](/83clase.md)
 * /contact.md: [Contacto](/contact.md)
 * /dudas.md: [Dudas.](/dudas.md)
 * /: [Curso Electricidad - CFP Nº 17](/)

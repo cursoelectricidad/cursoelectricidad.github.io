@@ -12,7 +12,7 @@ El curso de auxiliar electricista finaliza en la clase número 47, y el curso de
 
 Subscribe to RSS: [/feed.xml](/feed.xml)
 
-[Clase Nº 83: Clase practica. Rearmamos y emprolijamos tablero de clase anterior.](/83clase.md){.title}
+[Clase Nº 83: Clase practica. Rearmamos y emprolijamos tablero de clase anterior. Corregimos alimentacion del ITM.](/83clase.md){.title}
 [22 Octubre 2025]{.date}
 
 

@@ -1,4 +1,4 @@
-% Clase Nº 83: Clase practica. Rearmamos y emprolijamos tablero de clase anterior.
+% Clase Nº 83: Clase practica. Rearmamos y emprolijamos tablero de clase anterior. Corregimos alimentacion del ITM.
 % Andrés Imlauer
 % 22 Octubre 2025
 
@@ -34,3 +34,10 @@
 ![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhgtIfHpMFrd1RVJ63mjL56K63MBKHvJrxzqArnfLl5QsFyyPfW_lQ43KJUN8YTjfGql7Qg8kvEMksHHgHGFP01qn2pTq3LQ7S8trgFZPG2ZDVeadrgrrozirS5PxiHBbkus2U-0b8Tn13-jGSBqX0DiIj3FLHVP-6qSuCL_7tqCJvLE0f1mAt9VIi8rmI/s4160/IMG-20251022-WA0008.jpg)
 ![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgfGZeZySLrlXlbRpkSinfSDHA-G-ipD5hkjk06KPXF-I-VAhPTIlYaTfb9b6mu326IM3Xl4mYu3YQrgBDwVWaD-xMDya08KFvIZcIEMZtnSnm76ZLbD_OQ-CcbJEJ81-gC7mqG9IHAIaqYePOSyuZkyiclkqsqp6G79J-IvIsVTF0HSMLvcJHvXcqOlHk/s4160/IMG-20251022-WA0010.jpg)
 ![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiYHq-9T4VxXZbzUwec8irIpWaJZDQrEH2rTHEL17PNGX1pw0X9OsK85VsEo2P9BsQJl9OYRFuHq7UGd6MpCAFgxiw_4xLlC_fggkUSo7Gzom9G0NUuXkyn08xuZX7vVNJd6-1vckP2c21ogy4WE5fmfYT6j70ZZDuv-_mmueR_Oa0VTVGM9iNCGqVhFZE/s4160/IMG-20251022-WA0012.jpg)
+
+* Corregimos cable alimentacion al ITM que estaba directo al contactor.
+* Al final tuvimos problemas para encastrar el rele con la contactora porque tienen que ser marcas compatibles.     
+* Puse neutro en A1 cuando deberiamos poner la fase segun el diagrama.   
+* Pasamos cable neutro a la derecha del ITM en vez de ir por arriba.
+
+# ChatGPT
