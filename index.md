@@ -12,6 +12,10 @@ El curso de auxiliar electricista finaliza en la clase número 47, y el curso de
 
 Subscribe to RSS: [/feed.xml](/feed.xml)
 
+[Clase Nº 83: Clase practica. Rearmamos y emprolijamos tablero de clase anterior.](/83clase.md){.title}
+[22 Octubre 2025]{.date}
+
+
 [Clase Nº 82: Clase práctica tablero con contactor.](/82clase.md){.title}
 [21 Octubre 2025]{.date}
 
@@ -20,7 +24,7 @@ Subscribe to RSS: [/feed.xml](/feed.xml)
 [21 Octubre 2025]{.date}
 
 
-[Clase Nº 81: [FOTOCOPIAS CLASE ANTERIOR QUE FALTE] Psicologia. Ayudante cuenta anecdota de trabajo (fue buteado por un pseudo-ingeniero).](/81clase.md){.title}
+[Clase Nº 81: [FOTOCOPIAS CLASE ANTERIOR QUE FALTE] Psicologa: Charla de Salud Mental. Ayudante cuenta anecdota de trabajo con un pseudo-ingeniero. Repaso contactores.](/81clase.md){.title}
 [20 Octubre 2025]{.date}
 
 

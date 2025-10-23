@@ -1,4 +1,4 @@
-% Clase Nº 81: [FOTOCOPIAS CLASE ANTERIOR QUE FALTE] Psicologia. Ayudante cuenta anecdota de trabajo (fue buteado por un pseudo-ingeniero).
+% Clase Nº 81: [FOTOCOPIAS CLASE ANTERIOR QUE FALTE] Psicologa: Charla de Salud Mental. Ayudante cuenta anecdota de trabajo con un pseudo-ingeniero. Repaso contactores.
 % Andrés Imlauer
 % 20 Octubre 2025
 
@@ -16,6 +16,8 @@
 
 ![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiVHAqc-LCQlimkYhXUsl-1g6u-coL1TjfC3JLbejFtSqoNtEKTZzdT7Gx5pw5WSatFb4C7M7KKEhtURMmymzJ79gXIZyo7XIN9gc3fg7cYJA6xuY9l7gM5g97iJYAMT4kgPPyc6Sp9tFxTyCFqnv-ScXSfz9gMs-_rD7UTw9oDD4K0jO75JE8BgaRnv7k/s4160/IMG_20251020_182850416.jpg)
 ![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiNamx_bvb3_F9G96b4InW6388LPQVcU19ofVWzSQoryDlM1JB99SswePVGt0ZiDmtUibGJVKdJogFyl5DNDsxh6RI9-Vn0ZQUGuMz5n_Z-g7anMBb5TZbyIaLF4PyPpk48912yMDMpsNHosqJaGiIG-oEgnZLycWweRlBpf4oO0mFAtsfgNqYTyjXFoOo/s4160/IMG_20251020_182833214.jpg)
+
+---
 
 # ChatGPT
 
@@ -97,8 +99,6 @@
 * En las **depresiones reactivas**, la persona funciona “normalmente” pero **por dentro se siente vacía**.
 
 ---
-
-## 🧠 **Resumen – Charla sobre salud mental (segunda parte)**
 
 ### 🔋 Energía psíquica y deseo
 
