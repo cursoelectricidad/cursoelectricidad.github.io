@@ -1,4 +1,4 @@
-% Clase Nº 81: [FOTOCOPIAS CLASE ANTERIOR QUE FALTE] Charla de Salud Mental con una psicoanalista. Ayudante cuenta anecdota de trabajo con un pseudo-ingeniero. Repaso contactores.
+% Clase Nº 81: [FOTOCOPIAS CLASE ANTERIOR QUE FALTE] Charla de Salud Mental con una psicoanalista. Ayudante fue enviado a corregir un tablero y se cruzó con un supuesto ingeniero que lo trató de forma prepotente y sin presentarse. Repaso contactores. Probador de tomacorriente.
 % Andrés Imlauer
 % 20 Octubre 2025
 
@@ -509,7 +509,7 @@ Dan dirección y significado a la vida, sobre todo en momentos de crisis:
 
 ### 👷‍♂️ **Anécdota laboral y lecciones**
 
-* El profesor relató una experiencia en una obra:
+* El ayudante relató una experiencia en una obra:
 
   * Fue enviado a **corregir un tablero** y se cruzó con un supuesto ingeniero que lo trató de forma prepotente y sin presentarse.
   * El ingeniero criticó sin conocer la instalación y rechazó las soluciones propuestas.

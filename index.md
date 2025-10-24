@@ -16,7 +16,7 @@ Subscribe to RSS: [/feed.xml](/feed.xml)
 [22 Octubre 2025]{.date}
 
 
-[Clase Nº 82: Clase práctica tablero con contactor.](/82clase.md){.title}
+[Clase Nº 82: Clase práctica tablero con contactor. ](/82clase.md){.title}
 [21 Octubre 2025]{.date}
 
 
@@ -24,7 +24,7 @@ Subscribe to RSS: [/feed.xml](/feed.xml)
 [21 Octubre 2025]{.date}
 
 
-[Clase Nº 81: [FOTOCOPIAS CLASE ANTERIOR QUE FALTE] Charla de Salud Mental con una psicoanalista. Ayudante cuenta anecdota de trabajo con un pseudo-ingeniero. Repaso contactores.](/81clase.md){.title}
+[Clase Nº 81: [FOTOCOPIAS CLASE ANTERIOR QUE FALTE] Charla de Salud Mental con una psicoanalista. Ayudante fue enviado a corregir un tablero y se cruzó con un supuesto ingeniero que lo trató de forma prepotente y sin presentarse. Repaso contactores. Probador de tomacorriente.](/81clase.md){.title}
 [20 Octubre 2025]{.date}
 
 

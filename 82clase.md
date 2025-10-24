@@ -1,4 +1,4 @@
-% Clase Nº 82: Clase práctica tablero con contactor.
+% Clase Nº 82: Clase práctica tablero con contactor. 
 % Andrés Imlauer
 % 21 Octubre 2025
 
