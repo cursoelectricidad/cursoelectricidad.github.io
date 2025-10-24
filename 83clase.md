@@ -40,4 +40,274 @@
 * Puse neutro en A1 cuando deberiamos poner la fase segun el diagrama.   
 * Pasamos cable neutro a la derecha del ITM en vez de ir por arriba.
 
+---
+
+
 # ChatGPT
+
+* **Cálculo de corriente:**
+
+  * Se calcula la corriente de un motorcito de 60 W dividiendo por la tensión (220 V → corriente muy baja ≈ 0,27 A).
+
+* **Montaje del tablero:**
+
+  * Tablero de **300 × 300 mm (30 × 30 cm)** con **15 mm de espesor**.
+  * Incluye **contactor, interruptor principal y relé térmico**.
+  * Tiene instrumentos: **voltímetro** y **amperímetro** (uno muestra tensión, otro corriente del motor).
+
+* **Medición de corriente y protección:**
+
+  * Se usa un **toroide** o transformador de corriente (similar a una pinza amperométrica).
+  * La corriente debe pasar **por dentro del toroide** para que mida correctamente.
+  * Se menciona el **rango de corriente de 6,2 A a 9 A** para bombas de **1 HP a 2 HP**.
+
+* **Alimentación del circuito:**
+
+  * Se trabaja **con neutro**.
+  * Se separa la **parte de potencia** (motor) y la **parte de comando** (controles).
+  * El **A1 del contactor** siempre se alimenta con la **fase**.
+  * Se usa **color rojo** para identificar la fase.
+
+* **Modo de funcionamiento del sistema de bombeo:**
+
+  * Incluye **flotador** y control **manual/automático** (falta rotular las posiciones).
+  * El circuito permite **arranque y parada** de bomba de agua.
+
+* **Explicación del relé térmico:**
+
+  * Tiene contactos **normalmente abiertos (NA)** y **normalmente cerrados (NC)**.
+  * Cuando hay **sobrecarga**, el relé **abre el circuito** para proteger el motor.
+  * Ejemplo de contactos 95–96 (NC) usados en el circuito de control.
+
+* **Flujo de señal en el circuito de mando:**
+
+  * La fase llega al relé térmico → sale hacia el contactor → alimenta la **bobina del contactor (A1–A2)**.
+  * Cuando todo está correcto, el contactor **cierra los bornes de potencia** y el motor arranca.
+
+* **Objetivo general de la práctica:**
+
+  * Montar y comprender el **circuito completo de control y potencia de una bomba monofásica**, con medición de tensión, corriente y protección térmica.
+
+---
+
+### 💡 **Importancia de la práctica**
+
+* El profesor enfatiza que **no se puede aprender electricidad solo con teoría**; la única forma real de aprender es **haciendo práctica**.
+* Durante la pandemia los alumnos solo hicieron teoría y **no lograron el mismo nivel de comprensión**.
+* Insiste en que **asistir a las clases prácticas es fundamental**: sin práctica, el conocimiento no sirve.
+
+---
+
+### ⚙️ **Características de los contactores y componentes**
+
+* El contactor tiene **tres contactos** principales (abierto y cerrado).
+* Prefiere contactores **robustos**, que permitan cables de **hasta 10 mm²**, en lugar de los pequeños (que admiten solo 4 o 6 mm²).
+* Se agregan **fusibles de protección** para los instrumentos de medición (voltímetro y amperímetro digitales).
+* Se menciona la **puesta a tierra** y su importancia: si no se conecta correctamente, **puede descargarse un rayo** o generarse fallas peligrosas.
+
+---
+
+### ⚡ **Montaje y seguridad en tableros**
+
+* Cada **tablero** debe armarse, probarse y **recién después instalarse**.
+* Hay que **trabajar cómodamente** y evitar rasparse o dañar los cables dentro del tablero.
+* Se explica que las **entradas y salidas** del tablero deben estar claramente identificadas.
+* Ejemplo: en zonas rurales se coloca un **enchufe desconectable** para cortar la alimentación de una bomba ante tormentas o descargas atmosféricas.
+
+---
+
+### 🧰 **Procedimiento y orden de trabajo**
+
+* Antes de empezar, hay que **reunir todos los componentes**: contactor, relé, cables, etc.
+* Si falta un componente, no se puede avanzar correctamente.
+* Se valora la **prolijidad**:
+
+  * Cables bien medidos y ordenados.
+  * Tablero limpio, con rotulación (letras, etiquetas).
+  * La prolijidad refleja la **calidad y profesionalismo** del electricista.
+
+---
+
+### 🧠 **Diagnóstico y mantenimiento**
+
+* El tablero con instrumentos permite **ver tensión y corriente** para saber si el motor está trabajando bien.
+* Si hay fallas, el **relé térmico puede saltar**; se recomienda **resetearlo manualmente** antes de volver a dar tensión.
+* Estos indicadores ayudan a **detectar motores con problemas** sin necesidad de pinza amperométrica.
+* Las tensiones bajas (menores a 200 V) pueden causar **“zapateo” del contactor** (vibración o fallos en el cierre).
+
+---
+
+### 🏗️ **Casos prácticos y ejemplos**
+
+* Ejemplo de bomba en pozo perforado con conexión desconectable.
+* Casos reales de instalaciones con **empalmes mal hechos o bajo el piso**, que luego generan fallas.
+* Se remarca la necesidad de **respetar colores, esquemas y conexiones correctas** (fase, neutro, tierra).
+
+---
+
+### 🧩 **Reflexión final**
+
+* El profesor destaca que hay muchos que “hacen funcionar las cosas”, pero **pocos que las hacen con calidad**.
+* El objetivo del curso es formar electricistas **con criterio técnico, prolijidad y conocimiento práctico**.
+* Cita ejemplos de **mala práctica profesional** (empalmes incorrectos, falta de tierra, conexiones improvisadas) como advertencia para los alumnos.
+
+---
+
+---
+
+### ⚡ **Medición y control de tensión y corriente**
+
+* Antes de comenzar cualquier conexión, **hay que medir la tensión** disponible (ejemplo: 235 V en una casa).
+* El **amperímetro** (0,27 A en el ejemplo) permite comprobar si el consumo es correcto.
+* Se usa un **voltímetro** para indicar la tensión de línea y un **toroide** para la medición de corriente.
+* Se incluyen **fusibles pequeños** para proteger los instrumentos (voltímetro y amperímetro digitales).
+
+---
+
+### 🔁 **Selector de funcionamiento**
+
+* El sistema tiene una **llave selectora de tres posiciones**:
+
+  1. **Manual**
+  2. **Automático**
+  3. **Reposo**
+* En modo manual, la bomba se enciende directamente.
+* En modo automático, el **flotador** controla el encendido y apagado.
+
+---
+
+### 💧 **Uso y prueba del flotador**
+
+* El **flotador** regula el llenado del tanque o la cisterna:
+
+  * Si el nivel baja, activa la bomba.
+  * Si sube, corta la bomba.
+* Para **probar si el flotador funciona**, se lo mueve manualmente (subir o bajar la boya).
+* Si el flotador falla, la bomba puede **quedarse sin agua y quemarse**.
+* En sistemas grandes, se puede usar **dos flotadores** (uno en la cisterna y otro en el tanque elevado).
+
+---
+
+### 🧯 **Prevención de fallas**
+
+* En modo directo (manual), si no entra agua, la bomba puede **trabajar en seco y quemarse**.
+* Se recomienda colocar un **segundo flotador en la cisterna** para proteger en ese caso.
+* También se pueden instalar **dos bombas en paralelo**:
+
+  * Si una falla, la otra sigue funcionando.
+  * Se usa un **ciclador o temporizador** para alternarlas automáticamente.
+
+---
+
+### 🧰 **Prolijidad y montaje**
+
+* Los tableros típicos son de **30 × 30 cm (15 cm de fondo)**.
+* Se debe evitar el **desorden de cables** y las **uniones improvisadas**.
+* Un tablero ordenado permite **diagnosticar y mantener fácilmente**.
+* En pozos perforados o torres altas, la automatización evita tener que **subir físicamente a revisar**.
+
+---
+
+### 👷‍♂️ **Trabajo en equipo y aprendizaje**
+
+* Cada grupo debe **armar y probar su propio tablero** antes de entregarlo.
+* Si el tablero no funciona, no se aprueba: **debe encender y cortar correctamente**.
+* Se formarán **grupos de cuatro**, luego de dos, y finalmente cada alumno trabajará solo.
+* El profesor pide **colaboración sin interferencia**: quien sabe más debe **ayudar sin impedir que el otro practique**.
+
+---
+
+### 🎯 **Objetivo general**
+
+* Lograr que cada alumno entienda y practique **el funcionamiento completo de un sistema de bombeo automático** con:
+
+  * Alimentación monofásica.
+  * Medición de tensión y corriente.
+  * Selectora manual/automática.
+  * Flotadores y protección de bomba.
+  * Tablero prolijo y funcional.
+
+---
+
+### 🔧 **Aspectos técnicos y de instalación**
+
+* **Borneras**:
+
+  * Existen borneras con y sin tapa; se pueden unir entre sí con separadores.
+  * Importante pedir **borneras con tapa** o separadores adecuados para evitar huecos o riesgos eléctricos.
+  * Se recomienda usar **borneras grandes** (más cómodas para trabajar) y con cable de **2,5 mm² mínimo** (ideal pedir seis bornes porque entran cuatro).
+
+* **Conexión y diseño de tablero**:
+
+  * Se trabaja con **sistemas de marcha y parada**, revisando el circuito antes de avanzar.
+  * Se deben identificar correctamente los componentes: térmicos, contactores, llaves de tres vías, fusibles, etc.
+  * **Prioridad:** primero realizar la **parte de fuerza**, luego la **parte de comando**.
+  * Las **llaves de tres vías** pueden variar su forma de trabajo; deben conectarse por el neutro para reducir costos y evitar errores.
+  * Si se conecta mal, puede generar ruidos o fallos en los contactores.
+
+* **Materiales faltantes frecuentes:**
+
+  * Portafusil (tabaquera)
+  * Fusibles de 2 A
+  * Llave de tres vías
+  * Bornera divisible 4 mm²
+
+---
+
+### ⚙️ **Organización y trabajo en grupo**
+
+* Dividir el trabajo por grupos (chicos con chicos, chicas con chicas) para avanzar de forma ordenada.
+* Cada grupo debe **sacar fotos del tablero terminado** (marcha y parada) y subirlas al grupo para registro y evaluación.
+* Revisar la **lista de materiales** y anotar lo que falta antes de empezar a trabajar.
+
+---
+
+### 🎨 **Mejora estética y prolijidad**
+
+* La **vista del tablero** debe ser limpia:
+
+  * Cables que salgan **rectos y luego doblen** (no cruzados ni torcidos).
+  * Mantener orden en la alimentación y salida de conductores.
+  * Evitar cinta adhesiva innecesaria (deja residuos y aspecto desprolijo).
+
+---
+
+### 🧠 **Consejos del instructor**
+
+* Aprender haciendo: quien domina un tema debe ayudar al compañero, pero **dejándolo trabajar**.
+* El objetivo no es solo terminar el trabajo, sino **entender cómo y por qué funciona**.
+* Siempre documentar (fotos, esquemas) para comprobar el funcionamiento.
+* Todo circuito debe probarse antes de entregar.
+
+---
+
+* **Orden y prolijidad en el cableado:** los conductores deben ir **rectos, en conjunto y con presintos**, evitando cruces innecesarios.
+* **Separación clara entre fuerza y comando:** mantener **circuitos de potencia** y **circuitos de control** bien diferenciados para evitar confusión o fallas.
+* **Identificación de entradas y salidas:** reconocer correctamente **alimentaciones, salidas hacia el motor y bornes** (L1, L2, etc.).
+* **Ubicación de la alimentación:** buscar la forma más adecuada de **ingresar la alimentación** al tablero (por abajo o por el costado), priorizando accesibilidad y seguridad.
+* **Importancia del neutro:** asegurar una **conexión prolija y correcta del neutro**, preferiblemente mediante **borneras dedicadas**.
+* **Uso del relé térmico:** se menciona la necesidad de **agregar el relé térmico** en la parte de fuerza para protección del motor.
+* **Planificación antes del armado:** identificar qué cables pertenecen a comando o fuerza antes de conectar para evitar rehacer trabajo.
+* **Evitar cables “siempre vivos” sin protección:** asegurarse de que **todas las líneas tengan corte y protección** mediante contactores o térmicos.
+* **Verificación con el plano:** seguir el **esquema eléctrico** para asegurar que las conexiones coincidan con el diseño.
+* **Recomendación del docente:** cada alumno puede tener su método, pero debe garantizar que el circuito **funcione, sea seguro y prolijo**.
+
+
+* **Falta de componentes:** el docente menciona que aún **faltan fusibles, tornillos y otros materiales**, y que se irán consiguiendo. No se busca terminar todo en un solo día.
+* **Identificación de la alimentación:** se señala cuál es la **línea de alimentación principal** y su conexión hacia el **motor**.
+* **Compatibilidad de componentes:** se destaca la importancia de usar **contactores o elementos de la misma marca o con las mismas características técnicas**, ya que las conexiones y disposición de bornes (L y T) varían.
+* **Conexiones correctas:** recordar que **L es entrada (arriba)** y **T es salida (abajo)**; conectar al revés puede provocar fallas o trabas.
+* **Revisión de la parte de comando:** se trabaja sobre **contactos normalmente abiertos (NA)** y la relación entre **manual, automático y flotante**.
+* **Neutro común:** es necesario **centralizar el neutro en una bornera** y distribuir desde allí para no tener múltiples empalmes desordenados.
+* **Puente A2:** se menciona la conexión o **puenteo del borne A2** en el circuito de comando, relacionado con el recorrido del neutro hacia la bobina del contactor.
+* **Circuito manual y automático:**
+
+  * En **manual**, el neutro llega directamente.
+  * En **automático**, pasa por el **flotante**, que actúa como interruptor de nivel.
+* **Lógica del flotante:** el flotante permite o interrumpe el paso del neutro según el nivel (simulando el control de bomba o motor).
+* **Consejo del profesor:**
+
+  * No apurarse; el objetivo es **entender el circuito** y su lógica antes de conectar.
+  * Evitar conexiones “desprolijas” o improvisadas.
+* **Mejora del circuito:** se reconoce que la instalación actual es una **mejora respecto a la anterior**, aunque aún incompleta.
+
