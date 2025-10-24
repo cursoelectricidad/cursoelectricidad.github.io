@@ -82,7 +82,7 @@ List of pages:
 * /78clase.md: [Clase Nº 78: [FOTOCOPIA Esquema tablero de bomba] Leimos PDF en proyector. Teoria: Contactor y sus partes. Rele termico.](/78clase.md)
 * /79clase.md: [Clase Nº 79: [FOTOCOPIAS no entregadas] Contactores.  Prueba con un tester resistencia del contactor. Taller de Inteligencia Artificial. ](/79clase.md)
 * /80clase.md: [Clase Nº 80: Tablero electrobomba materiales. Arranque parada motor con contactor. Estuve ausente.](/80clase.md)
-* /81clase.md: [Clase Nº 81: [FOTOCOPIAS CLASE ANTERIOR QUE FALTE] Psicologa: Charla de Salud Mental. Ayudante cuenta anecdota de trabajo con un pseudo-ingeniero. Repaso contactores.](/81clase.md)
+* /81clase.md: [Clase Nº 81: [FOTOCOPIAS CLASE ANTERIOR QUE FALTE] Psicologa: Charla de Salud Mental (psicoanalisis). Ayudante cuenta anecdota de trabajo con un pseudo-ingeniero. Repaso contactores.](/81clase.md)
 * /82clase.md: [Clase Nº 82: Clase práctica tablero con contactor.](/82clase.md)
 * /82clase_whatsapp.md: [Clase Nº 82: Fotos y videos que mandó el profesor antes de clase 82 por WhatsApp.](/82clase_whatsapp.md)
 * /83clase.md: [Clase Nº 83: Clase practica. Rearmamos y emprolijamos tablero de clase anterior. Corregimos alimentacion del ITM.](/83clase.md)

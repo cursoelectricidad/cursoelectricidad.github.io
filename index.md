@@ -24,7 +24,7 @@ Subscribe to RSS: [/feed.xml](/feed.xml)
 [21 Octubre 2025]{.date}
 
 
-[Clase Nº 81: [FOTOCOPIAS CLASE ANTERIOR QUE FALTE] Psicologa: Charla de Salud Mental. Ayudante cuenta anecdota de trabajo con un pseudo-ingeniero. Repaso contactores.](/81clase.md){.title}
+[Clase Nº 81: [FOTOCOPIAS CLASE ANTERIOR QUE FALTE] Psicologa: Charla de Salud Mental (psicoanalisis). Ayudante cuenta anecdota de trabajo con un pseudo-ingeniero. Repaso contactores.](/81clase.md){.title}
 [20 Octubre 2025]{.date}
 
 

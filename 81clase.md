@@ -1,4 +1,4 @@
-% Clase Nº 81: [FOTOCOPIAS CLASE ANTERIOR QUE FALTE] Psicologa: Charla de Salud Mental. Ayudante cuenta anecdota de trabajo con un pseudo-ingeniero. Repaso contactores.
+% Clase Nº 81: [FOTOCOPIAS CLASE ANTERIOR QUE FALTE] Psicologa: Charla de Salud Mental (psicoanalisis). Ayudante cuenta anecdota de trabajo con un pseudo-ingeniero. Repaso contactores.
 % Andrés Imlauer
 % 20 Octubre 2025
 
