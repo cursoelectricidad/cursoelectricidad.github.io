@@ -50,57 +50,181 @@ Tomamos esta referencia:
 # ChatGPT
 
 
-* Se va a trabajar en grupos de a dos para manejar contactores y familiarizarse con su funcionamiento.
-* Cada estudiante recibirá un contactor y se conectará un pedazo de cable azul a uno de los bornes de la bobina.
-* Se utilizará una lámpara de prueba para verificar continuidad y funcionamiento del contactor sin carga.
-* La idea es que los alumnos vean cómo se acciona el contactor y cómo pasa la fase/neutro a través de él.
-* Posteriormente se trabajará con borneras, pulsadores y tableros para familiarizarse con la conexión y operación de motores mediante contactores.
-* Se hará un ejercicio práctico de “arranque/parada de motor” usando únicamente contactores.
-* Más adelante se incorporarán relés y otros elementos, explicando su función en el circuito.
-* Se busca que los alumnos comprendan el esquema eléctrico y la distribución dentro de un tablero.
-* Se enfatiza la importancia de mantener el tablero ordenado y dejarlo listo para uso posterior.
-* Se explicará cómo medir resistencia y verificar bornes de la bobina; se indica que los bornes de la bobina son intercambiables.
-* Se mencionan diferentes voltajes de bobina (24V, 220V) y cómo se conectan.
-* El objetivo principal es que los alumnos entiendan para qué sirve un contactor, cómo funciona y cómo se instala en un circuito real.
+* **Objetivo de la práctica:** Familiarizarse con el funcionamiento y conexión de un **contactor**, cómo se acciona y cómo probarlo antes de instalarlo en un tablero.
 
-* Se enseñó a probar la bobina de un contactor midiendo resistencia (aprox. 400–600 Ω) entre sus bornes.
-* Se revisa continuidad en la bobina y en los contactos auxiliares usando lámpara de prueba o tester.
-* La fase y el neutro se conectan para simular el funcionamiento dentro de un tablero; no siempre se prueba con carga real.
-* Se identifican bornes A1 y A2 de la bobina; A1 recibe fase y A2 se conecta al interruptor automático.
-* Se verifican contactos normalmente abiertos (NO) y cerrados (NC); algunos dan continuidad solo al accionar el contactor.
-* Se enfatiza desarmar y rearmar correctamente el tablero, manteniendo cada elemento en su lugar para uso posterior.
-* Se explica la función de fusibles, interruptores termomagnéticos (protegen conductores) y relé térmico (protege motor).
-* Se destacan los contactos auxiliares y de fuerza, su identificación y utilidad en circuitos de control y fuerza.
-* Se recomienda manipular cables y bornes con cuidado para no doblar o dañar las patas de los componentes.
-* La práctica se realiza en grupos; cada alumno va probando distintos elementos para comprender el funcionamiento integral del contactor y el tablero.
+* **Trabajo en parejas:** Los alumnos trabajarán de a dos para probar los contactores usando **lámpara de prueba** y verificar continuidad en los bornes.
 
-* Se está trabajando en sistemas de **arranque, marcha y parada** con contactores e interruptores.
-* El esquema típico usa **verde para marcha (NO)** y **rojo para parada (NC)**; algunos sistemas tienen varios interruptores según la criticidad.
-* Cada alumno manipula **interruptores, pulsadores y contactores**, armando primero la **parte de potencia/fuerza** y luego la **parte de comando** (bobina).
-* Se destacan precauciones al manipular los dispositivos: no apretar demasiado los componentes, respetar topes y manejar con delicadeza para evitar daños.
-* Se identifican bornes de alimentación (fase L1, L2, L3 y neutro) y salida hacia motor o lámpara; la bobina se conecta al final en la parte de comando.
-* Se utilizan pulsadores y contactores en bloque para practicar conexiones individuales antes de integrar todo el sistema.
-* Los alumnos trabajan en grupos y deben mantener ordenadas las piezas y cables para futuras prácticas.
-* La práctica se centra en **entender el funcionamiento y la lógica del sistema**, no solo en conectar los elementos.
+* **Conexión de la bobina:**
 
-* Se enfatiza **mantener el orden de cables y componentes**, evitando tocar o mover elementos de otros compañeros.
-* Primero se conecta la **parte de fuerza**: alimentación (fase y neutro) hacia motor o lámpara, pasando por contactor e interruptores.
-* Luego se conecta la **parte de comando**: bobina del contactor y pulsadores (marcha/parada), usando cables finos ya que no soporta carga.
-* Se usan bornes **13-14** como salida de señal a lámparas testigo o indicadores; normalmente abiertos (NO).
-* Para facilitar el entendimiento, se hacen **conexiones en paralelo**, distribuyendo fase hacia diferentes puntos de comando.
-* Cada pulsador tiene contactos internos **NO y NC**, que se deben probar con continuidad antes de alimentar el circuito.
-* La conexión de A1 y A2 de la bobina es **indiferente** respecto a su posición en el bornero, pero se recomienda manipular con cuidado.
-* Se advierte sobre **no forzar ni apretar demasiado** los componentes, especialmente pulsadores y bornes, para evitar daños.
-* Se asegura que cada grupo comprenda dónde va cada fase y neutro, y cómo se interconectan fuerza y comando antes de energizar el circuito.
+  * Se puede colocar la bobina en cualquiera de los dos bornes asignados.
+  * Se deben medir **resistencia** y continuidad: aproximadamente **400–600 Ω** en la bobina.
+  * Confirmar que la bobina funcione correctamente antes de integrarla al tablero.
 
-* Se verifica que la **alimentación de fuerza y comando** esté siempre energizada para poder probar el circuito.
-* La **térmica** protege conductores; se deja ver su funcionamiento aunque no proteja el motor directamente.
-* La **conexión de pulsadores** (marcha/parada) y bobinas se realiza siguiendo un **recorrido claro**, respetando fase y neutro.
-* Los bornes **13-14** se usan para indicadores; normalmente abiertos, permiten visualizar cuando el contactor se acciona.
-* Se hace **puente o paralelo** en la parte de comando para distribuir fase hacia diferentes puntos sin cortar la alimentación.
-* Importancia de **trabajar con cuidado y orden**, evitando terminales expuestos, forzar componentes o perder el orden de los cables.
-* Cada alumno debe **probar continuidad** y funcionamiento de bobinas y pulsadores antes de energizar.
-* Se recalca la **coordinación y trabajo en equipo**: cada uno debe conocer su parte del circuito y respetar los componentes de otros.
-* Se aconseja **tomar fotos y registrar colores/cables** para replicar correctamente el esquema en prácticas futuras.
-* La teoría sobre el **funcionamiento del contactor y el térmico** se estudia paralelamente para reforzar la comprensión antes de la práctica.
+* **Uso de herramientas y material auxiliar:**
+
+  * Gorneras, pulsadores, tableros y otros elementos para pruebas.
+  * La lámpara de prueba ayuda a verificar fase y neutro.
+
+* **Pruebas prácticas:**
+
+  * Verificar continuidad y resistencia en extremos de la bobina.
+  * Probar funcionamiento del contactor sin carga y luego dentro del sistema de tablero.
+  * Confirmar que cada salida del contactor esté correctamente funcionando.
+
+* **Esquema eléctrico:**
+
+  * Importancia de entender cómo se distribuye la energía, cómo arranca un contactor y cómo se integra dentro del tablero.
+  * Se hace hincapié en **no realizar uniones de cables innecesarias**, siguiendo buenas prácticas de instalación.
+
+* **Objetivo final:** Que los alumnos comprendan el **propósito y funcionamiento de un contactor**, cómo medirlo, conectarlo y probarlo de manera segura, antes de usarlo en instalaciones más complejas.
+
+---
+
+### Objetivo de la práctica
+
+* Aprender **cómo funciona un contactor** dentro de un tablero.
+* Entender **para qué sirve cada elemento** y cómo se conecta antes de hacer instalaciones más complejas.
+
+### Trabajo práctico
+
+* Los alumnos **trabajan en parejas**: uno mantiene la bobina y otro prueba las salidas y continuidad.
+* Se deben **desarmar y rearmar** los elementos manteniendo su posición original para reutilización.
+* Se utilizan **lámparas de prueba** para verificar fase, neutro y continuidad.
+
+### Bobina del contactor
+
+* Se alimenta a través de **A1 y A2**.
+* Se debe comprobar **resistencia** de la bobina: alrededor de **400–600 Ω**.
+* Verificar que los contactos **normalmente abiertos (NO)** no den continuidad hasta que se accione el contactor.
+
+### Contactos y auxiliares
+
+* Identificar **contactos de fuerza** y **contactos auxiliares**.
+* Los contactos auxiliares sirven para señales de control, no para corriente principal.
+* Se diferencian contactos **NO** y **NC (normalmente cerrados)**.
+
+### Protección eléctrica
+
+* **Fusible**: protege la instalación en general.
+* **Interruptor termomagnético**: protege conductores, no el motor.
+* **Relé térmico**: protege el motor ante sobrecarga.
+
+### Buenas prácticas
+
+* Mantener la posición de los componentes al desarmar/rearmar.
+* No doblar ni dañar las patas de los cables.
+* Comprender **el esquema eléctrico** antes de realizar conexiones finales.
+
+### Conceptos clave a recordar
+
+* La continuidad solo debe existir cuando el contactor está **accionado**.
+* Entender qué hace cada elemento antes de armar un **arranque de marcha y parada**.
+* Diferenciar entre la protección de **motor**, **conductores** y el uso de contactos auxiliares.
+
+---
+
+### Objetivo de la práctica
+
+* Aprender a **armar un sistema de arranque, marcha y parada** utilizando contactores, interruptores y pulsadores.
+* Comprender la **conexión de potencia** (alimentación y fuerza) y la **conexión de comando** (bobina y control).
+
+### Componentes clave
+
+* **Contactor:** controla la alimentación de fuerza.
+* **Interruptores de marcha y parada:** rojo = parada (normalmente cerrado), verde = marcha (normalmente abierto).
+* **Pulsadores y relés:** se utilizan según la función de control del sistema.
+* **Bobina:** se alimenta después de armar la parte de fuerza.
+* Algunos sistemas vienen **compactos o en bloques**, otros permiten ensamblaje paso a paso.
+
+### Trabajo práctico
+
+* Se trabaja en **grupos**, cada uno con su interruptor y contactor.
+* Primero se arma la **parte de potencia**, luego se alimenta la bobina y se hacen las pruebas.
+* Se recomienda **no apretar demasiado** los elementos al ensamblar para evitar daños.
+* Se deben respetar los límites físicos de los componentes y **ajustar con cuidado**.
+
+### Organización y buenas prácticas
+
+* Mantener los componentes y cables en su lugar original.
+* Verificar el **funcionamiento antes de conectar carga** (motor o lámpara).
+* Cada alumno debe entender **cómo se conecta cada elemento** antes de ensamblar todo el sistema completo.
+* Se realiza la práctica **paso a paso**, asegurando que todos comprendan el proceso antes de avanzar.
+
+### Conceptos clave
+
+* Diferenciar entre contactos **normalmente abiertos (NO)** y **normalmente cerrados (NC)**.
+* Entender la secuencia: **alimentación → contactor → bobina → pulsadores → prueba de funcionamiento**.
+* El sistema de marcha/parada puede variar según la **cantidad de interruptores y características del usuario**, pero la lógica de conexión se mantiene.
+
+---
+
+### Objetivo de la práctica
+
+* Armar y probar un **sistema de arranque, marcha y parada** usando contactores, interruptores y pulsadores.
+* Comprender la diferencia entre **parte de fuerza (potencia)** y **parte de comando**.
+* Aprender a **alimentar, accionar y verificar** el funcionamiento de los elementos antes de conectar carga (motor o lámpara).
+
+### Componentes clave
+
+* **Contactor:** controla la alimentación de fuerza.
+* **Interruptores de marcha/parada:** rojo = parada (NC), verde = marcha (NO).
+* **Pulsadores:** normalmente abierto o cerrado según función.
+* **Borneras y cables:** organizar para que las conexiones sean claras y seguras.
+* **Bobina:** se conecta en la parte de comando para accionar el contactor.
+
+### Trabajo práctico
+
+* Conectar primero **parte de fuerza** (alimentación: L1, L2, L3 → T1, T2, T3).
+* Después conectar **parte de comando** (fase y neutro para bobina y pulsadores).
+* Mantener los cables y componentes **ordenados y en paralelo** cuando sea necesario para identificar alimentación.
+* Usar **cables finos para comando** porque no llevan carga fuerte.
+* Probar la continuidad de pulsadores y bobina antes de energizar el sistema.
+
+### Procedimiento y buenas prácticas
+
+* Separar los pulsadores y elementos antes de conectar.
+* Identificar correctamente los bornes: A1, A2, 13, 14 y los neutros.
+* Hacer las conexiones **despacio y con cuidado** para no romper los componentes.
+* Probar fase y neutro en cada sección, verificando que los contactos normalmente abiertos/cerrados funcionen correctamente.
+* Realizar **paralelos o puentes** cuando sea necesario para repartir alimentación sin complicar la instalación.
+
+### Conceptos clave
+
+* La parte de fuerza soporta la carga del motor/lámpara, la parte de comando solo controla la bobina.
+* 13 y 14 son contactos auxiliares que indican el estado del contactor (NO).
+* Comprender cómo **alimentación, pulsadores y bobina interactúan** para que el sistema marche y pare correctamente.
+* La práctica enfatiza **orden, cuidado y verificación paso a paso** antes de energizar.
+
+---
+
+### Objetivo de la práctica
+
+* Conectar y probar un **sistema de marcha y parada** con contactores, pulsadores e interruptores.
+* Entender la **alimentación de fuerza y comando**, y la función de **fase y neutro** en cada sección.
+* Aprender a verificar el **funcionamiento de bobinas y contactos auxiliares (13-14)**.
+
+### Conexiones y componentes clave
+
+* **Parte de fuerza (potencia):** fase → contactor → salida (motor/lámpara).
+* **Parte de comando:** neutro y fase para bobina y pulsadores, asegurando que los pulsadores funcionen correctamente.
+* **Contactor:** bobina energiza la parte de fuerza; contactos auxiliares indican estado (13-14).
+* **Pulsadores:** normalmente abierto/cerrado según función; rojo = parada, verde = marcha.
+* **Neutro y fase:** deben distribuirse correctamente para mantener la energía permanente donde corresponde.
+* **Borneras y chicotes:** mantener ordenados y etiquetados para facilitar la instalación y pruebas.
+
+### Procedimiento y buenas prácticas
+
+* Hacer primero la **parte de potencia** y después la **parte de comando**.
+* Verificar **continuidad** antes de energizar el sistema.
+* Evitar forzar conexiones, respetar límites físicos de los componentes (sujetadores, terminales).
+* Mantener los cables **organizados y paralelos** cuando sea necesario para claridad.
+* Documentar y “esquematizar” el sistema mientras se arma para no perder referencia de conexiones.
+
+### Conceptos clave
+
+* Los **contactos normalmente abiertos** se cierran al energizar la bobina; los **normalmente cerrados** funcionan inversamente.
+* El sistema debe poder **arrancar y parar correctamente** con los pulsadores, sin cortocircuitos ni errores de conexión.
+* La **parte de comando no lleva carga fuerte**, por lo que se usan cables finos.
+* El aprendizaje se centra en **comprender el funcionamiento**, no solo en armar prolijamente; prolijidad y orden vienen después.
+* El trabajo en equipo y la atención a la teoría de **contactores y relés térmicos** son fundamentales para reforzar la comprensión.
 
