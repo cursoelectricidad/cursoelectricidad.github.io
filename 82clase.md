@@ -1,4 +1,4 @@
-% Clase Nº 82: Clase práctica tablero con contactor. 
+% Clase Nº 82: Como funciona contactor antes de instalarlo en un tablero. Clase práctica tablero con contactor. 
 % Andrés Imlauer
 % 21 Octubre 2025
 
@@ -62,7 +62,7 @@ Tomamos esta referencia:
 
 * **Uso de herramientas y material auxiliar:**
 
-  * Gorneras, pulsadores, tableros y otros elementos para pruebas.
+  * Borneras, pulsadores, tableros y otros elementos para pruebas.
   * La lámpara de prueba ayuda a verificar fase y neutro.
 
 * **Pruebas prácticas:**
