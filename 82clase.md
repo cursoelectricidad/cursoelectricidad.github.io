@@ -1,4 +1,4 @@
-% Clase Nº 82: Como funciona contactor antes de instalarlo en un tablero. Clase práctica tablero con contactor. 
+% Clase Nº 82: Como funciona contactor antes de instalarlo en un tablero. Clase práctica tablero con contactor: sistema de arranque, marcha y parada. Primero se arma la parte de potencia: L1, L2, L3 → T1, T2, T3. Diferenciar entre parte de fuerza (potencia) y parte de comando. 
 % Andrés Imlauer
 % 21 Octubre 2025
 
@@ -21,6 +21,9 @@ Tomamos esta referencia:
 **Para probar el contactor pusimos el neutro en el borner de la bobina A2 del contactor y con una lampara de prueba entregamos fase en A1, al darle fase pegaba la contactora (hacia ruido), y luego medimos la continuiddad con tester en los borners L1-T1, L2-T2, L3-T3 (deben dar continuidad), 13-14 (este no tiene que dar continuidad).**
 
 ![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiGolcogtMH-6_d67dEiMKIJaV5h5T7joDLrIhiuZ8gg0BDSbCuv6BRPq3fxzLRCe1z6CooxNWWq4ECzfRaOZgIg7cZZoCvEV9Vn2RFn4WziJT_AwpLgnnzFIbfXV_jn0VxKZEbG-Jm-yweL3ySZOmEsoDB-kENGiWr183ZBWQh5Ut8Hko_8DAUt4BdiNI/s4160/IMG_20251021_190018352.jpg)
+
+**Con la lampara de prueba tocamos la fase y uno de los borners de la bobina luego probamos continuidad en los demas borners con un tester.**
+
 ![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiNH3K_UIHqBGqVRphw43t71W6OscJrBLyEUlQKN_YR7sh6rOU2SBRE8HzgmSURMS24q2cVHvBMHKtxBAxtotv7DMUIkLeghibQOiVqlCh9xuWGHYidV68PhCSl-RgwVfzldLzUpIzYjJfINzG1LK1Ly_coh827aW2APERM2iP7ohObtC11Rqhw4qxJT3U/s4160/IMG_20251021_190819054.jpg)
 ![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiCnJcxp31hhU2nKf1ODZOTTROIaxPzrZGNX0gScx58X91JrPjbT85KNCjneZawyDVaQd0ngr-wHteM_QcQtkY-xN50-LSclitDF5TWQUv7O0_nm5aYu_H3sdpHqx-6HckDmpKVj1iTSVUuJDeIsQ66mwoATG2AXe58TBcH7tACGZBfu4bMkS9iukCgGJw/s4160/IMG_20251021_190955867_HDR.jpg)
 ![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgGhqUbOOPUDyAl15pMSyTuHGfc2xrG3AscXlE5tDdFJpNQzuUZ3lqItURDOERoL_5ceMFFzOSbKx1JqXnja5yfTlNXa3QioR-pkrHBjkCpXPed2ba08ZLkRozPYQ48JZJvn0DE092B-RhGWjrsB6FH6nsSmCSKoADb4B3TeInG-qNDm0NeSnSDR8p6DV8/s4160/IMG_20251021_191034638.jpg)

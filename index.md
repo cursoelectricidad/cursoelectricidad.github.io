@@ -16,7 +16,7 @@ Subscribe to RSS: [/feed.xml](/feed.xml)
 [22 Octubre 2025]{.date}
 
 
-[Clase Nº 82: Como funciona contactor antes de instalarlo en un tablero. Clase práctica tablero con contactor. ](/82clase.md){.title}
+[Clase Nº 82: Como funciona contactor antes de instalarlo en un tablero. Clase práctica tablero con contactor: sistema de arranque, marcha y parada. Primero se arma la parte de potencia: L1, L2, L3 → T1, T2, T3. Diferenciar entre parte de fuerza (potencia) y parte de comando. ](/82clase.md){.title}
 [21 Octubre 2025]{.date}
 
 
