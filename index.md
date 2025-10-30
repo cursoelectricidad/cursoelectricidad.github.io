@@ -13,15 +13,15 @@ Comenzó el 10 de Marzo del año 2025 (mi primera clase fue el 12 de marzo)
 Subscribe to RSS: [/feed.xml](/feed.xml)
 
 [Clase Nº 86: Desaparecí](/86clase.md){.title}
-[22 Octubre 2025]{.date}
+[29 Octubre 2025]{.date}
 
 
 [Clase Nº 85: Desaparecí](/85clase.md){.title}
-[22 Octubre 2025]{.date}
+[28 Octubre 2025]{.date}
 
 
 [Clase Nº 84: Desaparecí.](/84clase.md){.title}
-[22 Octubre 2025]{.date}
+[27 Octubre 2025]{.date}
 
 
 [Clase Nº 83: Clase practica. Rearmamos y emprolijamos tablero de clase anterior. Corregimos alimentacion del ITM.](/83clase.md){.title}
