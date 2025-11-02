@@ -12,7 +12,19 @@ Comenzó el 10 de Marzo del año 2025 (mi primera clase fue el 12 de marzo)
 
 Subscribe to RSS: [/feed.xml](/feed.xml)
 
-[Clase Nº 86: Estuve ausente. Videos enviados al grupo: Trafo si o no en tablero de bombas. El rele termico. Leer una placa de bomba de agua. ](/86clase.md){.title}
+[Clase Nº 89:](/89clase.md){.title}
+[3 Noviembre 2025]{.date}
+
+
+[Clase Nº 88:](/88clase.md){.title}
+[2 Noviembre 2025]{.date}
+
+
+[Clase Nº 87:](/87clase.md){.title}
+[1 Noviembre 2025]{.date}
+
+
+[Clase Nº 86: Estuve ausente. Videos enviados al grupo: Trafo si o no en tablero de bombas. El rele termico. Leer una placa de bomba de agua. Y como limpiar un relé que hace ruido.](/86clase.md){.title}
 [29 Octubre 2025]{.date}
 
 
