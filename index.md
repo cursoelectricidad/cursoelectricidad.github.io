@@ -12,11 +12,11 @@ Comenzó el 10 de Marzo del año 2025 (mi primera clase fue el 12 de marzo)
 
 Subscribe to RSS: [/feed.xml](/feed.xml)
 
-[Clase Nº 86: Desaparecí](/86clase.md){.title}
+[Clase Nº 86: Estuve ausente. Agrego archivos enviados por WhatsApp.](/86clase.md){.title}
 [29 Octubre 2025]{.date}
 
 
-[Clase Nº 85: Desaparecí](/85clase.md){.title}
+[Clase Nº 85: Desaparecí, creo que fue una clase práctica de fotocélulas.](/85clase.md){.title}
 [28 Octubre 2025]{.date}
 
 
