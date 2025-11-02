@@ -88,7 +88,7 @@ List of pages:
 * /83clase.md: [Clase Nº 83: Clase practica. Rearmamos y emprolijamos tablero de clase anterior. Corregimos alimentacion del ITM.](/83clase.md)
 * /84clase.md: [Clase Nº 84: Desaparecí.](/84clase.md)
 * /85clase.md: [Clase Nº 85: Desaparecí, creo que fue una clase práctica de fotocélulas.](/85clase.md)
-* /86clase.md: [Clase Nº 86: Estuve ausente. Agrego archivos enviados por WhatsApp.](/86clase.md)
+* /86clase.md: [Clase Nº 86: Estuve ausente. Videos enviados al grupo: Trafo si o no en tablero de bombas. El rele termico. Leer una placa de bomba de agua. ](/86clase.md)
 * /87clase.md: [Clase Nº 87:](/87clase.md)
 * /88clase.md: [Clase Nº 88:](/88clase.md)
 * /89clase.md: [Clase Nº 89:](/89clase.md)

@@ -12,7 +12,7 @@ Comenzó el 10 de Marzo del año 2025 (mi primera clase fue el 12 de marzo)
 
 Subscribe to RSS: [/feed.xml](/feed.xml)
 
-[Clase Nº 86: Estuve ausente. Agrego archivos enviados por WhatsApp.](/86clase.md){.title}
+[Clase Nº 86: Estuve ausente. Videos enviados al grupo: Trafo si o no en tablero de bombas. El rele termico. Leer una placa de bomba de agua. ](/86clase.md){.title}
 [29 Octubre 2025]{.date}
 
 

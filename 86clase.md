@@ -1,4 +1,4 @@
-% Clase Nº 86: Estuve ausente. Agrego archivos enviados por WhatsApp.
+% Clase Nº 86: Estuve ausente. Videos enviados al grupo: Trafo si o no en tablero de bombas. El rele termico. Leer una placa de bomba de agua. 
 % Andrés Imlauer
 % 29 Octubre 2025
 
@@ -18,4 +18,53 @@ Contactor con ruido: [https://www.youtube.com/watch?v=Krx5T8di5BM](https://www.y
 
 #### Descargue los subtitulos de los 3 videos enviados por el profesor y le pedi a ChatGPT que me haga un resumen.
 
+### **Relé térmico bimetálico**
+
+* Función principal: proteger motores eléctricos contra sobrecargas.
+* Partes principales:
+
+  * **Pines de potencia**: se insertan en el contactor según el modelo.
+  * **Bornes de potencia**: para conectar los tres cables hacia el motor trifásico.
+  * **Contactos auxiliares**:
+
+    * 95-96 → normalmente cerrado (NC)
+    * 97-98 → normalmente abierto (NO)
+  * Funcionamiento:
+
+    * Si hay sobrecarga, el NC se abre y el NO se cierra.
+    * Límite de corriente regulable mediante una **perilla**. Ejemplo: rango 7–10 A.
+* **Botón de test**: permite simular una sobrecarga para verificar funcionamiento.
+* **Botón de reset**: devuelve los contactos a su posición normal.
+
+  * Puede estar en modo **manual** (H) → presionar para reset.
+  * Puede estar en modo **automático** (A) → se rearma solo después de un tiempo.
+* **Botón stop**: interrumpe momentáneamente el contacto normalmente cerrado.
+* Algunos modelos permiten modificar la posición de los pines para adaptarse al contactor.
+
+---
+
+### **Placa de bomba**
+
+* Información importante en la placa:
+
+  * **Año de fabricación**: ejemplo, abril 2017.
+  * **Modelo**: HF70A.
+  * **Tipo de bomba**: centrífuga (tipo C).
+  * **Caudal (Q)**: 50–300 L/min.
+  * **Altura (H)**: máxima 38–39 m, mínima 25 m.
+  * **Temperatura máxima**: 90 °C.
+  * **Conexión eléctrica**: trifásica (3 líneas).
+  * **Potencia**: 2.2 kW / 3 HP.
+  * **Frecuencia**: 60 Hz.
+  * **Velocidad**: 3450 RPM.
+  * **Clase de aislamiento**: F (soporta hasta 155 °C).
+  * **Protección IP**: IPX4 → protegido contra salpicaduras.
+* **Configuración de borneras según tensión**:
+
+  * 220 V → conexión en triángulo → 10.2 A
+  * 380 V → conexión en estrella → 5.9 A
+* **Armado de tablero de bombas**:
+
+  * Uso de **flotantes y automáticos** para cisterna y tanque elevado.
+  * **Tensión de seguridad**: 24 V mediante transformador (entrada 220 V → salida 24 V).
 
