@@ -1,4 +1,4 @@
-% Clase Nº 86: Estuve ausente. Videos enviados al grupo: Trafo si o no en tablero de bombas. El rele termico. Leer una placa de bomba de agua. Y como limpiar un relé que hace ruido.
+% Clase Nº 86: Estuve ausente. Videos enviados al grupo: Trafo si o no en tablero de bombas. El rele termico. Leer una placa de bomba de agua. Y como limpiar un contactor que hace ruido.
 % Andrés Imlauer
 % 29 Octubre 2025
 

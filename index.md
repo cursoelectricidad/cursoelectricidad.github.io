@@ -24,7 +24,7 @@ Subscribe to RSS: [/feed.xml](/feed.xml)
 [1 Noviembre 2025]{.date}
 
 
-[Clase Nº 86: Estuve ausente. Videos enviados al grupo: Trafo si o no en tablero de bombas. El rele termico. Leer una placa de bomba de agua. Y como limpiar un relé que hace ruido.](/86clase.md){.title}
+[Clase Nº 86: Estuve ausente. Videos enviados al grupo: Trafo si o no en tablero de bombas. El rele termico. Leer una placa de bomba de agua. Y como limpiar un contactor que hace ruido.](/86clase.md){.title}
 [29 Octubre 2025]{.date}
 
 
