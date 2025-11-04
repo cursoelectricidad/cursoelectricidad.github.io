@@ -4,15 +4,15 @@
 
 #### Audio en Vocaroo:
 
-https://voca.ro/19V02Lvzt8Ih
+[https://voca.ro/19V02Lvzt8Ih](https://voca.ro/19V02Lvzt8Ih)
 
 #### Audio en Archive:
 
-https://archive.org/details/record-335
+[https://archive.org/details/record-335](https://archive.org/details/record-335)
 
 #### Audio en YouTube:
 
-https://www.youtube.com/watch?v=OmIXyvF7lU8
+[https://www.youtube.com/watch?v=OmIXyvF7lU8](https://www.youtube.com/watch?v=OmIXyvF7lU8)
 
 No escribimos nada en el pizarrón, pero saqué la foto del pizarrón y lo agregué a la clase anterior.
 
