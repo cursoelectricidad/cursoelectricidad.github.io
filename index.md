@@ -20,7 +20,7 @@ Subscribe to RSS: [/feed.xml](/feed.xml)
 [4 Noviembre 2025]{.date}
 
 
-[Clase Nº 87: [FOTOCOPIA] Relé térmico, guardamotor, cómo calcular contactor. Pasar HP a watts. En interruptores tetrapolares cualquiera de los bornes puede ser el neutro. Taller de Excel: cálculo de presupuestos.](/87clase.md){.title}
+[Clase Nº 87: [FOTOCOPIA] Relé térmico, guardamotor, cómo calcular contactor. Pasar HP a watts. En interruptores tetrapolares cualquiera de los bornes puede ser el neutro. Taller de Excel: cálculo de presupuestos. Ayudante cuenta anécdota de trabajo el arquitecto, decorador y dueño se se ponen de acuerdo y hay que cambiar todo. Hay que pasar cañería por piso porque no querían caños a la vista.](/87clase.md){.title}
 [3 Noviembre 2025]{.date}
 
 

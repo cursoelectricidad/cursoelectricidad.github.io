@@ -1,4 +1,4 @@
-% Clase Nº 87: [FOTOCOPIA] Relé térmico, guardamotor, cómo calcular contactor. Pasar HP a watts. En interruptores tetrapolares cualquiera de los bornes puede ser el neutro. Taller de Excel: cálculo de presupuestos.
+% Clase Nº 87: [FOTOCOPIA] Relé térmico, guardamotor, cómo calcular contactor. Pasar HP a watts. En interruptores tetrapolares cualquiera de los bornes puede ser el neutro. Taller de Excel: cálculo de presupuestos. Ayudante cuenta anécdota de trabajo el arquitecto, decorador y dueño se se ponen de acuerdo y hay que cambiar todo. Hay que pasar cañería por piso porque no querían caños a la vista.
 % Andrés Imlauer
 % 3 Noviembre 2025
 
@@ -213,7 +213,7 @@ Para elegir una bomba:
 
 * Detecta falta de fase y evita que el motor funcione monofásico.
 * Actúa sobre la bobina del contactor.
-* Se puede usar junto con el relé térmico, pero encarece la instalación.
+* Se puede usar junto con el relé térmico, pero la instalación es más costosa.
 * Se decide según el **tipo de trabajo / cliente / presupuesto**.
 
 ---

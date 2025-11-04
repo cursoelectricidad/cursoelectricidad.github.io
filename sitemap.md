@@ -89,7 +89,7 @@ List of pages:
 * /84clase.md: [Clase Nº 84: Desaparecí.](/84clase.md)
 * /85clase.md: [Clase Nº 85: Desaparecí, creo que fue una clase práctica de fotocélulas.](/85clase.md)
 * /86clase.md: [Clase Nº 86: [FOTO PIZARRÓN] Estuve ausente, creo que dieron como calcular contactor para motor (por la foto del pizarrón) Videos enviados al grupo: Trafo si o no en tablero de bombas. El rele termico. Leer una placa de bomba de agua. Y como limpiar un contactor que hace ruido.](/86clase.md)
-* /87clase.md: [Clase Nº 87: [FOTOCOPIA] Relé térmico, guardamotor, cómo calcular contactor. Pasar HP a watts. En interruptores tetrapolares cualquiera de los bornes puede ser el neutro. Taller de Excel: cálculo de presupuestos.](/87clase.md)
+* /87clase.md: [Clase Nº 87: [FOTOCOPIA] Relé térmico, guardamotor, cómo calcular contactor. Pasar HP a watts. En interruptores tetrapolares cualquiera de los bornes puede ser el neutro. Taller de Excel: cálculo de presupuestos. Ayudante cuenta anécdota de trabajo el arquitecto, decorador y dueño se se ponen de acuerdo y hay que cambiar todo. Hay que pasar cañería por piso porque no querían caños a la vista.](/87clase.md)
 * /88clase.md: [Clase Nº 88:](/88clase.md)
 * /89clase.md: [Clase Nº 89:](/89clase.md)
 * /contact.md: [Contacto](/contact.md)
