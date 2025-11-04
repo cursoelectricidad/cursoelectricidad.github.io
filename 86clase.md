@@ -1,8 +1,14 @@
-% Clase Nº 86: Estuve ausente. Videos enviados al grupo: Trafo si o no en tablero de bombas. El rele termico. Leer una placa de bomba de agua. Y como limpiar un contactor que hace ruido.
+% Clase Nº 86: [FOTO PIZARRÓN] Estuve ausente. Videos enviados al grupo: Trafo si o no en tablero de bombas. El rele termico. Leer una placa de bomba de agua. Y como limpiar un contactor que hace ruido.
 % Andrés Imlauer
 % 29 Octubre 2025
 
-Resubi los videos a YouTube porque Facebook es horrible de usar.
+Resubí los videos a YouTube porque Facebook es horrible de usar.
+
+Estuve ausente.
+
+Fui la próxima clase y le saqué una foto al pizarrón.
+
+![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhrM5FfwUZuAEN3ytvGt3vYGHrNK5To7eoPuYts7cMhuG1kLgDn8ezQiU7ACOsk3PvmWDT3i8gMGk1JmLPFnPCqUSQ7pmzspofN6YM1S63nhfdU4BwJUzQIvJN5h_9LPji6ApfnQ23fDndCkyVIYMyJbSznKsFTVtXcYMhQzYBtNmpL73d2YMGGyMH_FXc/s4160/IMG_20251103_182803685.jpg)
 
 ### Videos enviados por Profesor: 
 

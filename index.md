@@ -17,19 +17,19 @@ Subscribe to RSS: [/feed.xml](/feed.xml)
 
 
 [Clase Nº 88:](/88clase.md){.title}
-[2 Noviembre 2025]{.date}
+[4 Noviembre 2025]{.date}
 
 
-[Clase Nº 87:](/87clase.md){.title}
-[1 Noviembre 2025]{.date}
+[Clase Nº 87: [FOTOCOPIA] Relé térmico. Taller de Excel: cálculo de presupuestos.](/87clase.md){.title}
+[3 Noviembre 2025]{.date}
 
 
-[Clase Nº 86: Estuve ausente. Videos enviados al grupo: Trafo si o no en tablero de bombas. El rele termico. Leer una placa de bomba de agua. Y como limpiar un contactor que hace ruido.](/86clase.md){.title}
+[Clase Nº 86: [FOTO PIZARRÓN] Estuve ausente. Videos enviados al grupo: Trafo si o no en tablero de bombas. El rele termico. Leer una placa de bomba de agua. Y como limpiar un contactor que hace ruido.](/86clase.md){.title}
 [29 Octubre 2025]{.date}
 
 
 [Clase Nº 85: Desaparecí, creo que fue una clase práctica de fotocélulas.](/85clase.md){.title}
-[28 Octubre 2025]{.date}
+[5 Octubre 2025]{.date}
 
 
 [Clase Nº 84: Desaparecí.](/84clase.md){.title}
