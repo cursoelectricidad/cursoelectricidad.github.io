@@ -5,7 +5,7 @@
   <meta name="generator" content="pandoc">
   <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
   <meta name="author" content="Andrés Imlauer">
-  <title>Curso Electricidad – Clase Nº 87: Relé térmico. Taller de Excel: cálculo de presupuestos.</title>
+  <title>Curso Electricidad – Clase Nº 87: [FOTOCOPIA] Relé térmico, guardamotor, cómo calcular contactor. Pasar HP a watts. En interruptores tetrapolares cualquiera de los bornes puede ser el neutro. Taller de Excel: cálculo de presupuestos.</title>
   <link rel="stylesheet" href="/global.css">
   <link rel="stylesheet" href="">
 <link rel="alternate" type="application/rss+xml" title="RSS Feed" href="/feed.xml"/>
@@ -14,11 +14,13 @@
 <div class="page">
 <header>
 <div class="title">
-<h1 class="title">Clase Nº 87: Relé térmico. Taller de Excel: cálculo de
-presupuestos.</h1>
+<h1 class="title">Clase Nº 87: [FOTOCOPIA] Relé térmico, guardamotor,
+cómo calcular contactor. Pasar HP a watts. En interruptores tetrapolares
+cualquiera de los bornes puede ser el neutro. Taller de Excel: cálculo
+de presupuestos.</h1>
 </div>
 <p class="author">Andrés Imlauer</p>
-<p class="date">1 Noviembre 2025</p>
+<p class="date">3 Noviembre 2025</p>
 <ul>
 <li><a href="/">Inicio</a></li>
 <li><strong><a href="/contact.html">Contacto</a></strong></li>
@@ -34,12 +36,100 @@ Vocaroo:</a></li>
 Archive:</a></li>
 <li><a href="#audio-en-youtube" id="toc-audio-en-youtube">Audio en
 YouTube:</a></li>
+<li><a href="#chatgpt" id="toc-chatgpt">ChatGPT</a>
+<ul>
+<li><a href="#protección-de-motores-eléctricos-puntos-clave"
+id="toc-protección-de-motores-eléctricos-puntos-clave">✅
+<strong>Protección de motores eléctricos — Puntos clave</strong></a>
+<ul>
+<li><a href="#el-contactor" id="toc-el-contactor"><strong>1) El
+contactor</strong></a></li>
+<li><a href="#relé-térmico-protección-contra-sobrecarga"
+id="toc-relé-térmico-protección-contra-sobrecarga"><strong>2) Relé
+térmico (protección contra sobrecarga)</strong></a></li>
+<li><a href="#guardamotor" id="toc-guardamotor"><strong>3)
+Guardamotor</strong></a></li>
+</ul></li>
+<li><a href="#selectividad" id="toc-selectividad">✅
+<strong>Selectividad</strong></a></li>
+<li><a href="#trabajo-práctico" id="toc-trabajo-práctico">🛠️
+<strong>Trabajo práctico</strong></a></li>
+<li><a href="#idea-principal" id="toc-idea-principal">📌 <strong>Idea
+principal</strong></a></li>
+<li><a href="#relé-térmico-y-selectividad"
+id="toc-relé-térmico-y-selectividad">✅ <strong>Relé térmico y
+selectividad</strong></a></li>
+<li><a href="#electricidad-industrial"
+id="toc-electricidad-industrial">✅ <strong>Electricidad
+industrial</strong></a></li>
+<li><a href="#cálculo-básico-de-bombas-adelanto"
+id="toc-cálculo-básico-de-bombas-adelanto">✅ <strong>Cálculo básico de
+bombas (adelanto)</strong></a></li>
+<li><a href="#protección-térmica-concepto-físico"
+id="toc-protección-térmica-concepto-físico">✅ <strong>Protección
+térmica (concepto físico)</strong></a></li>
+<li><a href="#interruptores-termomagnéticos-y-diferenciales"
+id="toc-interruptores-termomagnéticos-y-diferenciales">✅
+<strong>Interruptores termo–magnéticos y diferenciales</strong></a></li>
+<li><a href="#idea-central" id="toc-idea-central">🎯 <strong>Idea
+central</strong></a></li>
+<li><a href="#relé-térmico-y-funcionamiento"
+id="toc-relé-térmico-y-funcionamiento">✅ <strong>Relé térmico y
+funcionamiento</strong></a></li>
+<li><a href="#modos-de-rearme" id="toc-modos-de-rearme">✅ <strong>Modos
+de rearme</strong></a></li>
+<li><a href="#interruptores-tetrapolares-y-neutro"
+id="toc-interruptores-tetrapolares-y-neutro">✅ <strong>Interruptores
+tetrapolares y neutro</strong></a></li>
+<li><a href="#protecciones-del-motor-integración"
+id="toc-protecciones-del-motor-integración">✅ <strong>Protecciones del
+motor: integración</strong></a></li>
+<li><a href="#protección-extra-protector-de-fase"
+id="toc-protección-extra-protector-de-fase">✅ <strong>Protección extra:
+Protector de fase</strong></a></li>
+<li><a href="#buenas-prácticas-profesionales"
+id="toc-buenas-prácticas-profesionales">✅ <strong>Buenas prácticas
+profesionales</strong></a></li>
+<li><a href="#práctica-en-clase" id="toc-práctica-en-clase">✅
+<strong>Práctica en clase</strong></a>
+<ul>
+<li><a href="#idea-central-1" id="toc-idea-central-1">🎯 <strong>Idea
+central</strong></a></li>
+<li><a href="#tema-principal" id="toc-tema-principal"><strong>Tema
+principal</strong></a></li>
+<li><a href="#detectores-de-movimiento"
+id="toc-detectores-de-movimiento"><strong>Detectores de
+movimiento</strong></a></li>
+<li><a href="#caso-de-obra-real-explicado-por-el-profesor"
+id="toc-caso-de-obra-real-explicado-por-el-profesor"><strong>Caso de
+obra real explicado por el profesor</strong></a>
+<ul>
+<li><a href="#problema-ocurrido" id="toc-problema-ocurrido">Problema
+ocurrido:</a></li>
+<li><a href="#consecuencia" id="toc-consecuencia">Consecuencia:</a></li>
+</ul></li>
+<li><a href="#solución-propuesta"
+id="toc-solución-propuesta"><strong>Solución propuesta</strong></a></li>
+<li><a href="#recordatorio-para-alumnos"
+id="toc-recordatorio-para-alumnos"><strong>Recordatorio para
+alumnos</strong></a></li>
+</ul></li>
+<li><a href="#tema-del-alumno-al-final"
+id="toc-tema-del-alumno-al-final">✅ <strong>Tema del Alumno al
+final</strong></a></li>
+<li><a href="#puntos-clave-aprendidos"
+id="toc-puntos-clave-aprendidos">🎯 <strong>Puntos clave
+aprendidos</strong></a></li>
+<li><a href="#frase-clave-del-profesor"
+id="toc-frase-clave-del-profesor">📌 <strong>Frase clave del
+profesor</strong></a></li>
+</ul></li>
 </ul>
 </nav>
 <div class="pagetext">
 <p><a href="./">Volver al índice</a></p>
 <p>Artículo publicado por: Andrés Imlauer</p>
-<p>Artículo publicado el: 1 Noviembre 2025</p>
+<p>Artículo publicado el: 3 Noviembre 2025</p>
 <h4 id="audio-en-vocaroo">Audio en Vocaroo:</h4>
 <p>https://voca.ro/19V02Lvzt8Ih</p>
 <h4 id="audio-en-archive">Audio en Archive:</h4>
@@ -52,6 +142,431 @@ lo agregué a la clase anterior.</p>
 src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhrM5FfwUZuAEN3ytvGt3vYGHrNK5To7eoPuYts7cMhuG1kLgDn8ezQiU7ACOsk3PvmWDT3i8gMGk1JmLPFnPCqUSQ7pmzspofN6YM1S63nhfdU4BwJUzQIvJN5h_9LPji6ApfnQ23fDndCkyVIYMyJbSznKsFTVtXcYMhQzYBtNmpL73d2YMGGyMH_FXc/s4160/IMG_20251103_182803685.jpg" /></p>
 <p><img
 src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjgXK2oudu5-AHyJOoaQ3V7DSkZIN1ZAl9YIxICrL4MP03NQg4nyMGKfHm-lZWOWGsnkTzhCwXdKke3pZZK5WXW7mMNTJSw7kDuVvDB8jgxfWuLWqSd_hPGihFDbeFq2HAC7uON6921X08m2Q9fX6B_gnku2Vw4gtp133U578NpOcp8zDmrJtLmjUz_III/s4160/IMG_20251103_184404361.jpg" /></p>
+<div class="h"><h1 id="chatgpt">ChatGPT</h1><a aria-hidden="true" href="#chatgpt">[link]</a></div>
+<hr />
+<h3 id="protección-de-motores-eléctricos-puntos-clave">✅
+<strong>Protección de motores eléctricos — Puntos clave</strong></h3>
+<h4 id="el-contactor"><strong>1) El contactor</strong></h4>
+<ul>
+<li>El contactor es <strong>solo un interruptor</strong> que permite
+accionar la carga a distancia mediante una bobina de control.</li>
+<li>No protege el motor por sí solo.</li>
+<li>Se usa para conectar y desconectar el motor desde el circuito de
+mando.</li>
+</ul>
+<hr />
+<h4 id="relé-térmico-protección-contra-sobrecarga"><strong>2) Relé
+térmico (protección contra sobrecarga)</strong></h4>
+<ul>
+<li>Su función es <strong>proteger el motor de
+sobrecargas</strong>.</li>
+<li>Se coloca <strong>después del contactor</strong>.</li>
+<li>Protege por <strong>tiempo</strong>, actuando cuando hay exceso de
+corriente por un periodo prolongado.</li>
+</ul>
+<p><strong>Cálculo básico para seleccionar relé térmico:</strong></p>
+<ol type="1">
+<li>Convertir HP → Watts: <code>1 HP = 746 W</code></li>
+<li>Usar fórmula de potencia para hallar la corriente:
+<code>P = V × I × cos φ</code></li>
+<li>Seleccionar el relé térmico considerando un <strong>rango ~20%
+mayor</strong> del amperaje nominal.</li>
+</ol>
+<hr />
+<h4 id="guardamotor"><strong>3) Guardamotor</strong></h4>
+<ul>
+<li><p>Es un dispositivo <strong>combinado</strong> que cumple funciones
+de:</p>
+<ul>
+<li>Interruptor</li>
+<li>Protección térmica</li>
+<li>Protección magnética (cortocircuito)</li>
+</ul></li>
+<li><p>Va <strong>antes del contactor</strong>.</p></li>
+<li><p>Puede reemplazar al relé térmico + interruptor
+principal.</p></li>
+<li><p>Se regula al <strong>mismo amperaje</strong> que el
+motor.</p></li>
+</ul>
+<hr />
+<div class="h"><h3 id="selectividad">✅ <strong>Selectividad</strong></h3><a aria-hidden="true" href="#selectividad">[link]</a></div>
+<ul>
+<li><p>Tener guardamotor + contactor + relé térmico permite que
+<strong>cada elemento actúe según la falla</strong>:</p>
+<ul>
+<li><strong>Relé térmico:</strong> sobrecarga (tiempo)</li>
+<li><strong>Guardamotor:</strong> cortocircuito / protección
+general</li>
+<li><strong>Contactor:</strong> maniobra</li>
+</ul></li>
+</ul>
+<p>Esto asegura una protección coordinada y evita cortar más de lo
+necesario.</p>
+<hr />
+<div class="h"><h3 id="trabajo-práctico">🛠️ <strong>Trabajo práctico</strong></h3><a aria-hidden="true" href="#trabajo-práctico">[link]</a></div>
+<ul>
+<li><p>Armado de un tablero con:</p>
+<ul>
+<li>Interruptor principal</li>
+<li>Contactor</li>
+<li>Relé térmico o guardamotor (según caso)</li>
+</ul></li>
+<li><p>Práctica de enclavamiento y control de motores con
+bombas.</p></li>
+</ul>
+<hr />
+<div class="h"><h3 id="idea-principal">📌 <strong>Idea principal</strong></h3><a aria-hidden="true" href="#idea-principal">[link]</a></div>
+<blockquote>
+<p><em>Para proteger correctamente un motor se necesitan dispositivos
+específicos.</em> El contactor <strong>no protege</strong>, el relé
+térmico protege contra <strong>sobrecarga</strong>, y el guardamotor
+brinda <strong>protección completa</strong> (térmica + magnética).</p>
+</blockquote>
+<hr />
+<h3 id="relé-térmico-y-selectividad">✅ <strong>Relé térmico y
+selectividad</strong></h3>
+<ul>
+<li><p>El relé térmico protege por <strong>sobrecarga</strong> y
+funciona por <strong>bimetales que se dilatan</strong> con la
+temperatura.</p></li>
+<li><p>Actúa <strong>con tiempo</strong> (no dispara
+instantáneo).</p></li>
+<li><p>En una protección completa industrial se usan:</p>
+<ol type="1">
+<li><strong>Guardamotor</strong> (protección magnética + térmica +
+maniobra)</li>
+<li><strong>Contactor</strong> (maniobra)</li>
+<li><strong>Relé térmico</strong> (sobrecargas)</li>
+</ol></li>
+<li><p><strong>Selectividad:</strong> permite que cada elemento actúe
+según la falla y <strong>no se corte todo innecesariamente</strong>.</p>
+<ul>
+<li>El térmico actúa antes que el guardamotor en una sobrecarga
+prolongada.</li>
+<li>El guardamotor actúa ante cortocircuito o sobrecorriente
+severa.</li>
+</ul></li>
+</ul>
+<hr />
+<h3 id="electricidad-industrial">✅ <strong>Electricidad
+industrial</strong></h3>
+<ul>
+<li>En instalaciones industriales/importantes (ej. bombeo) se recomienda
+usar los tres dispositivos por seguridad y continuidad de servicio.</li>
+<li>El objetivo es evitar fallas mayores y paradas innecesarias.</li>
+</ul>
+<hr />
+<h3 id="cálculo-básico-de-bombas-adelanto">✅ <strong>Cálculo básico de
+bombas (adelanto)</strong></h3>
+<p>Para elegir una bomba:</p>
+<ol type="1">
+<li><p><strong>Altura manométrica total:</strong></p>
+<ul>
+<li>Altura vertical + pérdidas por tubería</li>
+<li>Cada <strong>100 m de cañería ≈ 5 m</strong> equivalentes de
+altura</li>
+</ul></li>
+<li><p><strong>Altura de aspiración:</strong></p>
+<ul>
+<li>Bombas centrífugas no deben aspirar más de <strong>~2
+m</strong></li>
+</ul></li>
+<li><p><strong>Caudal necesario:</strong></p>
+<ul>
+<li>Determina cuánto tiempo tarda en llenar el tanque</li>
+</ul></li>
+</ol>
+<blockquote>
+<p>Próximamente explicarán cómo calcularla en detalle.</p>
+</blockquote>
+<hr />
+<h3 id="protección-térmica-concepto-físico">✅ <strong>Protección
+térmica (concepto físico)</strong></h3>
+<ul>
+<li><p>La temperatura ambiente considerada estándar es <strong>40
+°C</strong>.</p></li>
+<li><p>Si el motor se calienta más de su límite de aislamiento →
+<strong>se reduce su vida útil</strong>.</p></li>
+<li><p>Función del relé térmico:</p>
+<ul>
+<li>Evitar recalentamiento del motor</li>
+<li>Proteger instalación y equipos</li>
+<li>Permitir rearmado seguro</li>
+</ul></li>
+</ul>
+<hr />
+<h3 id="interruptores-termomagnéticos-y-diferenciales">✅
+<strong>Interruptores termo–magnéticos y diferenciales</strong></h3>
+<ul>
+<li><p>Tipos según polos:</p>
+<ul>
+<li><strong>Unipolar</strong></li>
+<li><strong>Bipolar</strong></li>
+<li><strong>Tripolar</strong></li>
+<li><strong>Tetrapolar</strong> (3 fases + neutro)</li>
+</ul></li>
+<li><p>En interruptores tetrapolares <strong>cualquiera de los bornes
+puede ser el neutro</strong>, pero se coloca en el extremo para
+prolijidad y orden eléctrico.</p></li>
+</ul>
+<hr />
+<div class="h"><h3 id="idea-central">🎯 <strong>Idea central</strong></h3><a aria-hidden="true" href="#idea-central">[link]</a></div>
+<blockquote>
+<p>En instalaciones industriales, la correcta coordinación entre
+<strong>guardamotor + contactor + relé térmico</strong> asegura
+protección, continuidad y seguridad.</p>
+</blockquote>
+<hr />
+<h2 id="relé-térmico-y-funcionamiento">✅ <strong>Relé térmico y
+funcionamiento</strong></h2>
+<ul>
+<li><strong>Protección contra sobrecargas débiles y prolongadas</strong>
+(no cortocircuitos).</li>
+<li>Funciona con <strong>biláminas</strong> (dos metales diferentes que
+se dilatan con la temperatura).</li>
+<li>Cada fase del motor pasa por un bobinado que calienta la
+bilámina.</li>
+<li>Cuando aumenta la corriente → aumenta la temperatura → se deforma →
+<strong>abre el circuito</strong>.</li>
+<li><strong>Sensibles a pérdida de fase:</strong> si falta una fase,
+aumenta la corriente en las otras y dispara.</li>
+<li><strong>Compensados térmicamente:</strong> no les afecta la
+temperatura ambiente.</li>
+</ul>
+<hr />
+<div class="h"><h2 id="modos-de-rearme">✅ <strong>Modos de rearme</strong></h2><a aria-hidden="true" href="#modos-de-rearme">[link]</a></div>
+<ul>
+<li><strong>Manual:</strong> el técnico debe ir a revisar y rearmar →
+mayor seguridad.</li>
+<li><strong>Automático:</strong> rearma solo cuando se enfría la
+bilámina → puede ser peligroso si la falla persiste (puede ciclar y
+dañar equipo o instalación).</li>
+</ul>
+<blockquote>
+<p><em>En bombas o máquinas, el rearme automático puede traer problemas
+si la falla continúa.</em></p>
+</blockquote>
+<hr />
+<h2 id="interruptores-tetrapolares-y-neutro">✅ <strong>Interruptores
+tetrapolares y neutro</strong></h2>
+<ul>
+<li><p>En interruptores tetrapolares (3 fases + neutro):</p>
+<ul>
+<li><strong>El neutro puede ir en cualquier borne</strong></li>
+<li>Se recomienda colocarlo en un extremo por <strong>orden y
+prolijidad</strong></li>
+</ul></li>
+<li><p>Cortan <strong>las 4 líneas</strong> ante una falla.</p></li>
+<li><p>Importante en instalaciones trifásicas para garantizar
+desconexión total.</p></li>
+</ul>
+<hr />
+<h2 id="protecciones-del-motor-integración">✅ <strong>Protecciones del
+motor: integración</strong></h2>
+<table>
+<thead>
+<tr>
+<th>Elemento</th>
+<th>Función</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Guardamotor</td>
+<td>Protección térmica + magnética + corte</td>
+</tr>
+<tr>
+<td>Relé térmico</td>
+<td>Protección por sobrecarga prolongada</td>
+</tr>
+<tr>
+<td>Contactor</td>
+<td>Maniobra (enciende/apaga motor)</td>
+</tr>
+</tbody>
+</table>
+<ul>
+<li>El guardamotor es más completo, pero usar los tres aumenta
+<strong>selectividad y protección</strong>.</li>
+<li><strong>Selectividad:</strong> cada protección actúa según la falla
+y evita cortar todo el sistema innecesariamente.</li>
+</ul>
+<hr />
+<h2 id="protección-extra-protector-de-fase">✅ <strong>Protección extra:
+Protector de fase</strong></h2>
+<ul>
+<li>Detecta falta de fase y evita que el motor funcione monofásico.</li>
+<li>Actúa sobre la bobina del contactor.</li>
+<li>Se puede usar junto con el relé térmico, pero encarece la
+instalación.</li>
+<li>Se decide según el <strong>tipo de trabajo / cliente /
+presupuesto</strong>.</li>
+</ul>
+<hr />
+<h2 id="buenas-prácticas-profesionales">✅ <strong>Buenas prácticas
+profesionales</strong></h2>
+<ul>
+<li>Explicar al cliente qué se está colocando y por qué.</li>
+<li>Documentar presupuestos y acuerdos.</li>
+<li>Evaluar costos y evitar trabajar sin garantías de pago.</li>
+<li>En obras grandes: anticipos o acuerdos claros para evitar
+problemas.</li>
+</ul>
+<hr />
+<div class="h"><h2 id="práctica-en-clase">✅ <strong>Práctica en clase</strong></h2><a aria-hidden="true" href="#práctica-en-clase">[link]</a></div>
+<ul>
+<li><p>Armado de tablero para <strong>2 bombas</strong>.</p></li>
+<li><p>Uso de:</p>
+<ul>
+<li>Contactor</li>
+<li>Relé térmico / guardamotor</li>
+<li>Enclavamiento</li>
+<li>Perforaciones para teclas/indicadores</li>
+</ul></li>
+<li><p>Cada alumno debe <strong>hacer el tablero sin copiar</strong>,
+entendiendo el funcionamiento.</p></li>
+</ul>
+<hr />
+<div class="h"><h3 id="idea-central-1">🎯 <strong>Idea central</strong></h3><a aria-hidden="true" href="#idea-central-1">[link]</a></div>
+<blockquote>
+<p><em>El relé térmico protege contra sobrecargas prolongadas. Es parte
+de un sistema completo de protección junto con contactor y guardamotor,
+especialmente en instalaciones industriales y bombeo.</em></p>
+</blockquote>
+<hr />
+<div class="h"><h3 id="tema-principal"><strong>Tema principal</strong></h3><a aria-hidden="true" href="#tema-principal">[link]</a></div>
+<ul>
+<li>Se está trabajando sobre <strong>tableros de bombeo</strong> (tema
+avanzado).</li>
+<li>Después se va a ver algo más sencillo: <strong>uso de detectores de
+movimiento con contactores</strong>.</li>
+</ul>
+<h3 id="detectores-de-movimiento"><strong>Detectores de
+movimiento</strong></h3>
+<ul>
+<li><p>Se van a armar circuitos donde el <strong>contactor</strong>
+maneja la iluminación mediante <strong>detectores de
+movimiento</strong>.</p></li>
+<li><p>Tipos a usar:</p>
+<ul>
+<li>Detector <strong>360°</strong></li>
+<li>Detector <strong>de pared</strong></li>
+</ul></li>
+<li><p>Se usa mucho en <strong>hoteles</strong> → reemplazan pulsadores
+para automatizar luces de pasillos.</p></li>
+</ul>
+<p><strong>Funcionamiento en hoteles (ejemplo práctico):</strong></p>
+<ul>
+<li>La luz se activa al detectar movimiento.</li>
+<li>Se apaga sola si no hay movimiento.</li>
+<li>Ventaja: <strong>ahorra energía</strong> y evita instalar
+pulsadores.</li>
+</ul>
+<hr />
+<h3 id="caso-de-obra-real-explicado-por-el-profesor"><strong>Caso de
+obra real explicado por el profesor</strong></h3>
+<p>El profesor cuenta un problema en una obra para que los alumnos
+entiendan la importancia de <strong>definir bien los planos antes de
+ejecutar</strong>.</p>
+<h4 id="problema-ocurrido">Problema ocurrido:</h4>
+<ul>
+<li>Cambios en los planos y distribución interna de departamentos.</li>
+<li>Se movieron paredes → quedaron cajas y cañerías mal ubicadas.</li>
+<li>Cambios en la altura del cielo raso: se bajó menos de lo
+previsto.</li>
+<li>Ya había instalaciones hechas, pero se
+<strong>eliminaron</strong>.</li>
+<li>Ahora quieren <strong>ver la losa expuesta (sin caños a la
+vista)</strong>.</li>
+</ul>
+<h4 id="consecuencia">Consecuencia:</h4>
+<ul>
+<li>Toda la instalación eléctrica que iba por el techo <strong>no puede
+hacerse</strong>.</li>
+<li>Solo queda opción de pasar cañerías <strong>por el
+piso</strong>.</li>
+<li>Cajas existentes quedaron inutilizables → hay que hacer
+<strong>nuevos registros</strong>.</li>
+<li>Cambió también ubicación de plomería → más rehacer.</li>
+</ul>
+<p><strong>Resumen del problema:</strong></p>
+<blockquote>
+<p>El arquitecto, decorador y dueño no se ponen de acuerdo. Cambian el
+proyecto varias veces y eso rompe el trabajo eléctrico.</p>
+</blockquote>
+<hr />
+<div class="h"><h3 id="solución-propuesta"><strong>Solución propuesta</strong></h3><a aria-hidden="true" href="#solución-propuesta">[link]</a></div>
+<ul>
+<li>Hacer una <strong>garganta de iluminación indirecta</strong> para
+ocultar cañerías y luces.</li>
+<li>Consultar con las demás disciplinas antes de ejecutar.</li>
+<li>Ver quién paga los cambios.</li>
+</ul>
+<hr />
+<h3 id="recordatorio-para-alumnos"><strong>Recordatorio para
+alumnos</strong></h3>
+<ul>
+<li>Tendrán que entregar un <strong>trabajo práctico</strong> y material
+teórico.</li>
+<li>Todo debe estar bien presentado y comprendido.</li>
+</ul>
+<hr />
+<h2 id="tema-del-alumno-al-final">✅ <strong>Tema del Alumno al
+final</strong></h2>
+<p>Un Alumno consulta sobre <strong>termo tanque eléctrico
+quemado</strong>.</p>
+<ul>
+<li>Probable falla: <strong>resistencia</strong> y/o
+<strong>termostato</strong>.</li>
+<li>Hay que medir continuidad con un <strong>tester</strong>.</li>
+<li>Resistencia identificada por las <strong>dos patillas</strong>.</li>
+<li>El termostato está bajo la tapa donde está el selector de
+temperatura.</li>
+</ul>
+<hr />
+<h2 id="puntos-clave-aprendidos">🎯 <strong>Puntos clave
+aprendidos</strong></h2>
+<table>
+<colgroup>
+<col style="width: 41%" />
+<col style="width: 58%" />
+</colgroup>
+<thead>
+<tr>
+<th>Concepto</th>
+<th>Explicación</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Uso de detectores de movimiento</td>
+<td>Automatizar iluminación, ahorrar energía, evitar pulsadores</td>
+</tr>
+<tr>
+<td>Aplicación real</td>
+<td>Hoteles y pasillos</td>
+</tr>
+<tr>
+<td>Importancia de proyecto eléctrico definido</td>
+<td>Cambios tardíos generan roturas, costos y retrabajo</td>
+</tr>
+<tr>
+<td>Solución estética-técnica</td>
+<td>Garganta de iluminación para ocultar cañería</td>
+</tr>
+<tr>
+<td>Termotanque</td>
+<td>Medir continuidad para diagnosticar resistencia/termostato</td>
+</tr>
+</tbody>
+</table>
+<hr />
+<h2 id="frase-clave-del-profesor">📌 <strong>Frase clave del
+profesor</strong></h2>
+<blockquote>
+<p>“Primero el arquitecto debe definir la obra. Si cambian todo después,
+hay que romper y empezar de nuevo.”</p>
+</blockquote>
 <div id="footer">
 <hr />
 </div>

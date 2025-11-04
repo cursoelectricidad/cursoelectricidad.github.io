@@ -13,14 +13,14 @@ Comenzó el 10 de Marzo del año 2025 (mi primera clase fue el 12 de marzo)
 Subscribe to RSS: [/feed.xml](/feed.xml)
 
 [Clase Nº 89:](/89clase.md){.title}
-[3 Noviembre 2025]{.date}
+[5 Noviembre 2025]{.date}
 
 
 [Clase Nº 88:](/88clase.md){.title}
 [4 Noviembre 2025]{.date}
 
 
-[Clase Nº 87: [FOTOCOPIA] Relé térmico. Taller de Excel: cálculo de presupuestos.](/87clase.md){.title}
+[Clase Nº 87: [FOTOCOPIA] Relé térmico, guardamotor, cómo calcular contactor. Pasar HP a watts. En interruptores tetrapolares cualquiera de los bornes puede ser el neutro. Taller de Excel: cálculo de presupuestos.](/87clase.md){.title}
 [3 Noviembre 2025]{.date}
 
 
