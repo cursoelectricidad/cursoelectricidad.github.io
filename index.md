@@ -12,6 +12,18 @@ Comenzó el 10 de Marzo del año 2025 (mi primera clase fue el 12 de marzo)
 
 Subscribe to RSS: [/feed.xml](/feed.xml)
 
+[Clase Nº 92:](/92clase.md){.title}
+[12 Noviembre 2025]{.date}
+
+
+[Clase Nº 91:](/91clase.md){.title}
+[11 Noviembre 2025]{.date}
+
+
+[Clase Nº 90:](/90clase.md){.title}
+[10 Noviembre 2025]{.date}
+
+
 [Clase Nº 89:](/89clase.md){.title}
 [5 Noviembre 2025]{.date}
 
