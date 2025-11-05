@@ -28,7 +28,7 @@ Subscribe to RSS: [/feed.xml](/feed.xml)
 [5 Noviembre 2025]{.date}
 
 
-[Clase Nº 88: Desarmamos enchufe aire acondicionado para agregar un cable extension, luego rearmamos el enchufe. Recomendación: dejar uno más largo que el otro para evitar que queden al mismo nivel (seguridad y mejor contacto). El enchufe ya no era el original.](/88clase.md){.title}
+[Clase Nº 88: Desarmamos enchufe aire acondicionado para agregar un cable extension, luego rearmamos el enchufe. Recomendación: Hacer empalmes desfasados (uno más largo que otro) para evitar corto si falla el aislamiento.](/88clase.md){.title}
 [4 Noviembre 2025]{.date}
 
 
