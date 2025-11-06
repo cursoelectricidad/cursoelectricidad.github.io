@@ -32,10 +32,6 @@ Aca se ve en una foto del tablero mio al fondo.
 
 # ChatGPT
 
-Acá va un **resumen claro y ordenado** con los **puntos importantes de la clase**, filtrando la charla y dejando solo lo técnico relevante:
-
----
-
 ### ✅ **Puntos clave de la clase de electricidad**
 
 **1. Revisión de enchufe**
@@ -88,10 +84,6 @@ Acá va un **resumen claro y ordenado** con los **puntos importantes de la clase
 | Normativa         | Respetar sección mínima según función                               |
 | Práctica          | Desarmado, identificación y prueba de enchufes y luces              |
 | Seguridad         | Supervisión y trabajo ordenado                                      |
-
----
-
-A continuación te dejo un **resumen técnico y claro** de este fragmento de clase, filtrando conversación y dejando solo lo importante para estudio de instalaciones:
 
 ---
 
@@ -173,10 +165,6 @@ Se conversó brevemente sobre:
 ✔ Señalización e identificación de estados
 ✔ Uso de relé térmico y protección adecuada
 ✔ Organización y prolijidad en tableros
-
----
-
-A continuación te dejo otro **resumen técnico claro**, filtrando todo el ruido de la charla y rescatando solo los conceptos eléctricos importantes que se explicaron en este tramo.
 
 ---
 
@@ -393,10 +381,6 @@ Comparación con **llave combinada**:
 
 ---
 
-A continuación te destaco los **puntos técnicos esenciales** que explica el profesor en ese fragmento, dejando afuera lo social y el ruido de la grabación.
-
----
-
 ## ✅ **Idea central de la clase**
 
 **Comprender y cablear el circuito de control de una bomba con:**
@@ -497,10 +481,6 @@ A continuación te destaco los **puntos técnicos esenciales** que explica el pr
 * Uso del térmico NC/NO para protección y señalización
 * Función del puente para selector Manual/Automático
 * Método de comprobación con tester
-
----
-
-A continuación te dejo el **resumen técnico limpio** de ese tramo de clase, eliminando el ruido y quedándome solo con los conceptos eléctricos y didácticos importantes.
 
 ---
 
