@@ -24,7 +24,7 @@ Subscribe to RSS: [/feed.xml](/feed.xml)
 [10 Noviembre 2025]{.date}
 
 
-[Clase Nº 89:](/89clase.md){.title}
+[Clase Nº 89: Clase Practica. Terminamos tablero de bombeo.](/89clase.md){.title}
 [5 Noviembre 2025]{.date}
 
 
@@ -44,7 +44,7 @@ Subscribe to RSS: [/feed.xml](/feed.xml)
 [5 Octubre 2025]{.date}
 
 
-[Clase Nº 84: Desaparecí.](/84clase.md){.title}
+[Clase Nº 84: Estuve ausente. Hubo Taller de Informática de Excel.](/84clase.md){.title}
 [27 Octubre 2025]{.date}
 
 
