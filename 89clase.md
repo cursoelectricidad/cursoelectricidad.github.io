@@ -1,4 +1,4 @@
-% Clase Nº 89: Clase Practica. Terminamos tablero de bombeo.
+% Clase Nº 89: Clase Practica. Terminamos tablero de bombeo. Se trabajó el armado de un circuito de comando para bomba con selector manual/automático, piloto de marcha y falla, utilizando contactor + relé térmico, identificando terminales A1/A2, contactos NC/NO y aplicando puentes de neutro para alimentar los circuitos según posición de la selectora.   
 % Andrés Imlauer
 % 5 Noviembre 2025
 
@@ -270,10 +270,6 @@ Explicación conceptual:
 ## 📌 **Resumen en lenguaje técnico**   
    
 > Se trabajó el armado de un circuito de comando para bomba con selector manual/automático, piloto de marcha y falla, utilizando contactor + relé térmico, identificando terminales A1/A2, contactos NC/NO y aplicando puentes de neutro para alimentar los circuitos según posición de la selectora.   
-   
----   
-   
-Acá tenés un **resumen técnico claro**, filtrando la conversación y quedándome con los conceptos eléctricos útiles que se explicaron durante la práctica.   
    
 ---   
    

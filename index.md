@@ -12,7 +12,7 @@ Comenzó el 10 de Marzo del año 2025 (mi primera clase fue el 12 de marzo)
 
 Subscribe to RSS: [/feed.xml](/feed.xml)
 
-[Clase Nº 89: Clase Practica. Terminamos tablero de bombeo.](/89clase.md){.title}
+[Clase Nº 89: Clase Practica. Terminamos tablero de bombeo. Se trabajó el armado de un circuito de comando para bomba con selector manual/automático, piloto de marcha y falla, utilizando contactor + relé térmico, identificando terminales A1/A2, contactos NC/NO y aplicando puentes de neutro para alimentar los circuitos según posición de la selectora.   ](/89clase.md){.title}
 [5 Noviembre 2025]{.date}
 
 
