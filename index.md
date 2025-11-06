@@ -29,7 +29,7 @@ Subscribe to RSS: [/feed.xml](/feed.xml)
 
 
 [Clase Nº 85: Desaparecí, creo que fue una clase práctica de fotocélulas.](/85clase.md){.title}
-[5 Octubre 2025]{.date}
+[28 Octubre 2025]{.date}
 
 
 [Clase Nº 84: Estuve ausente. Hubo Taller de Informática de Excel.](/84clase.md){.title}

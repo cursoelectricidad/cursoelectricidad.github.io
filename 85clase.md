@@ -1,6 +1,6 @@
 % Clase Nº 85: Desaparecí, creo que fue una clase práctica de fotocélulas.
 % Andrés Imlauer
-% 5 Octubre 2025
+% 28 Octubre 2025
 
 Por WhatsApp me llegó esta imagen.
 
