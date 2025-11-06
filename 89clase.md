@@ -31,3 +31,567 @@ Aca se ve en una foto del tablero mio al fondo.
 ![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhI6lh-xR3OAG53aUg_iTgD4tMMeAF2KLs4mmFQgwmRqTTDBs7LbPsrR6w_U_MpUp86K0VRRPT_3TRBD6kIDEjMrf2TaYU0rm2yONDVqm-msVkXqbhYs_4kC0fxH8mqPavMCRx6xKWbGP6aHW6GneELkZzScyL_UXgmLrxC7Aw6_IeiVRVCF3eYVDQ17fA/s4160/IMG-20251105-WA0003.jpg)
 
 # ChatGPT
+
+Acá va un **resumen claro y ordenado** con los **puntos importantes de la clase**, filtrando la charla y dejando solo lo técnico relevante:
+
+---
+
+### ✅ **Puntos clave de la clase de electricidad**
+
+**1. Revisión de enchufe**
+
+* Se desarmó un enchufe para revisar su conexión.
+* Se encontró un conductor de sección **1,5 mm²** usado donde debía haber **2,5 mm²**.
+* Se explicó que:
+
+  * **1,5 mm²** se utiliza para iluminación.
+  * **2,5 mm² mínimo** para tomacorrientes por normativa.
+* Importante verificar que no hayan hecho modificaciones previas sin control (“ya lo habían tocado antes”).
+
+**2. Identificación de cables**
+
+* Se repasó el uso de colores:
+
+  * **Rojo / marrón** = fase
+  * **Verde/amarillo** = puesta a tierra
+  * Neutro (generalmente **celeste**, aunque no apareció claro en el audio).
+
+**3. Uso de instrumentos y práctica**
+
+* Se estuvo probando continuidad y funcionamiento de luces y enchufes.
+* El instructor supervisó trabajos y dejó que los alumnos armen conexiones.
+
+**4. Materiales y componentes**
+
+* Se revisaron cajas, cables y elementos para montaje.
+* Mencionaron un **relé** y una **termomagnética** para la práctica.
+* Se habló de armar **tableros de prueba** para que los alumnos trabajen solos.
+
+**5. Organización del taller**
+
+* Se asignaron grupos de trabajo (“Alumno con Alumno”).
+* Se mencionó que algunos componentes estaban incompletos y se iban a completar para continuar la práctica.
+
+**6. Registro de prácticas**
+
+* Se indicó que el docente está armando un “libro” o registro de actividades de los alumnos.
+* Se pidió a los alumnos pasar información de las prácticas para documentarlas.
+
+---
+
+### 🧠 **Conceptos técnicos reforzados**
+
+| Concepto          | Detalle                                                             |
+| ----------------- | ------------------------------------------------------------------- |
+| Sección de cables | 1,5 mm² iluminación — 2,5 mm² tomas                                 |
+| Buenas prácticas  | No reutilizar instalaciones mal hechas, revisar antes de intervenir |
+| Normativa         | Respetar sección mínima según función                               |
+| Práctica          | Desarmado, identificación y prueba de enchufes y luces              |
+| Seguridad         | Supervisión y trabajo ordenado                                      |
+
+---
+
+A continuación te dejo un **resumen técnico y claro** de este fragmento de clase, filtrando conversación y dejando solo lo importante para estudio de instalaciones:
+
+---
+
+## ✅ **Puntos importantes de la clase (Electricidad / Tablero / Comando)**
+
+### **1. Armado de tablero de control**
+
+* Se está armando un tablero para práctica.
+* El tablero tendrá circuitos para **bomba 1 y bomba 2**.
+* Cada bomba deberá tener:
+
+  * **Marcha / Parada**
+  * **Modo Manual / Automático**
+  * **Indicadores luminosos (LEDs/ pilotos):**
+
+    * Luz de **Marcha**
+    * Luz de **Falla**
+* Se menciona la posibilidad de agregar más indicadores si hay materiales (tensión, alarma, etc.) pero **se trabaja con lo que haya disponible**.
+
+### **2. Lógica de señales**
+
+* Cada bomba debe tener su propia señal de indicación.
+* Evitar mezclar señales (no usar luz de otra bomba).
+* Se deja claro que el tablero debe tener **indicaciones separadas** para cada equipo.
+
+### **3. Componentes utilizados**
+
+* Llaves **de 2 y 3 posiciones** (manual/auto, marcha/parada).
+* **Relé térmico** para protección.
+* **Termomagnética** (protección del circuito).
+* **Pulsadores** para comando.
+* Luces de señalización.
+* Cables para **comando** (se aclara que son más finos que los de potencia).
+
+### **4. Montaje y perforaciones**
+
+* Se discute la ubicación de llaves y pilotos.
+* Se analiza dónde perforar para que quede prolijo.
+* Criterio: **orden, estética y funcionalidad**.
+
+### **5. Seguridad y práctica**
+
+* Cada grupo recibe herramientas y armas su parte del tablero.
+* Se supervisa para asegurar que las conexiones estén bien.
+* Objetivo: que los alumnos puedan **armar un tablero desde cero**.
+
+### **6. Tema técnico extra: termotanques**
+
+Se conversó brevemente sobre:
+
+* Cambio de **termostato** y **resistencia** en termotanque.
+* Procedimiento general:
+
+  * Desconectar
+  * Vaciar
+  * Sacar resistencia
+  * Limpiar sarro
+  * Reemplazar componentes
+* Recomendación: trabajar con cuidado y tener espacio para retirar piezas.
+
+---
+
+## 🧠 **Conceptos reforzados**
+
+| Tema                | Detalle                                     |
+| ------------------- | ------------------------------------------- |
+| Tableros de comando | Marcha, parada, manual/auto, luces de señal |
+| Protecciones        | Térmica + relé térmico                      |
+| Cableado            | Potencia vs comando, orden y prolijidad     |
+| Mantenimiento       | Termotanque: resistencia + termostato       |
+| Trabajo práctico    | Uso de herramientas, perforación, montaje   |
+
+---
+
+## 🎓 **Qué estás practicando realmente**
+
+✔ Diseño básico de control eléctrico
+✔ Interpretación y armado de circuitos de mando para bombas
+✔ Señalización e identificación de estados
+✔ Uso de relé térmico y protección adecuada
+✔ Organización y prolijidad en tableros
+
+---
+
+A continuación te dejo otro **resumen técnico claro**, filtrando todo el ruido de la charla y rescatando solo los conceptos eléctricos importantes que se explicaron en este tramo.
+
+---
+
+## ✅ **Puntos clave de la clase**
+
+### **1. Llave selectora 3 posiciones**
+
+Se explicó el uso de una llave tipo:
+
+| Posición  | Función    |
+| --------- | ---------- |
+| Izquierda | Manual     |
+| Centro    | Off        |
+| Derecha   | Automático |
+
+* Se identifica el **terminal común (A2 / punto central)**.
+* El común recibe **neutro** y se distribuye según la posición.
+* Necesidad de hacer **puente** para alimentar ambos lados de la selectora según circuito.
+
+> Concepto: la selectora define si la bomba funciona manual o automático (control por boya/float o timer).
+
+---
+
+### **2. Contactor y bobina**
+
+* Se remarcó entender cómo trabaja la bobina del contactor.
+* **A1 = fase / A2 = neutro** (según práctica del circuito mostrado).
+* En modo manual o automático, **el neutro debe llegar siempre a A2** para activar bobina.
+
+> Objetivo: entender cómo **energizar la bobina** dependiendo del modo elegido.
+
+---
+
+### **3. Circuito de mando básico**
+
+Explicación conceptual:
+
+1. Fuente (fase + neutro)
+2. Interruptor / pulsador / selector
+3. Elemento (bobina, lámpara piloto, etc.)
+4. Cierre del circuito → funcionamiento
+
+> "Siempre necesitás fase y neutro, un elemento de mando, una carga y retorno."
+
+---
+
+### **4. Pilotos / luces de señalización**
+
+* Luz de **Marcha** (toma señal de salida del contactor)
+* Luz de **Falla** (toma señal desde contacto NC del relé térmico)
+* Luz de **Presencia / Encendido**
+
+> Se trabajó el concepto de conectar pilotos **en paralelo** con la bobina o según contacto auxiliar.
+
+---
+
+### **5. Relé térmico**
+
+* Se repasaron contactos **NC (97–98)** para señal de falla.
+* Se identificó normalmente cerrado (NC) vs normalmente abierto (NO).
+
+| Contacto | Estado natural | Función                               |
+| -------- | -------------- | ------------------------------------- |
+| 95–96    | NC             | Se abre si hay falla                  |
+| 97–98    | NO             | Se cierra si hay falla (según modelo) |
+
+> Se practicó seguir continuidad del circuito de falla.
+
+---
+
+### **6. Criterio de cableado**
+
+* **Cable fino para mando**, no para potencia.
+* Tomar **neutro común** desde bornera.
+* Hacer **puentes prolijos** según diseño.
+* Identificación de colores (rojo/fase — azul/neutro — verde/tierra/luz señal).
+
+> Se remarcó orden y prolijidad en cableado.
+
+---
+
+### **7. Práctica**
+
+* Marcar la tapa y perforar para montar llave selectora y pilotos.
+* Verificar conexiones antes de energizar.
+* Usar tester para confirmar continuidad/contactos.
+
+---
+
+## 🧠 Conceptos reforzados
+
+| Tema                  | Contenido                             |
+| --------------------- | ------------------------------------- |
+| Selectora Manual/Auto | A2 común, puentes, posición lógica    |
+| Contactor             | Energización bobina A1/A2             |
+| Relé térmico          | Contactos NC/NO para señal de falla   |
+| Pilotos               | Marcha, falla, encendido              |
+| Cableado mando        | Neutro común, fase conmutada          |
+| Seguridad             | Probar y verificar antes de energizar |
+
+---
+
+## 📌 **Resumen en lenguaje técnico**
+
+> Se trabajó el armado de un circuito de comando para bomba con selector manual/automático, piloto de marcha y falla, utilizando contactor + relé térmico, identificando terminales A1/A2, contactos NC/NO y aplicando puentes de neutro para alimentar los circuitos según posición de la selectora.
+
+---
+
+Acá tenés un **resumen técnico claro**, filtrando la conversación y quedándome con los conceptos eléctricos útiles que se explicaron durante la práctica.
+
+---
+
+## ✅ **Tema principal**
+
+**Circuito de comando de bomba con:**
+
+* Contactor
+* Relé térmico
+* Selector Manual / Automático
+* Boya / flotante (automático)
+* Pilotos de señal
+* Termomagnética
+
+---
+
+## ✅ **Conceptos técnicos mencionados**
+
+### **1. Contactos NC y NO**
+
+* **NC (Normally Closed / Normalmente Cerrado)**
+
+  * Contacto cerrado en reposo
+  * Usado para circuitos de seguridad (ej: relé térmico)
+* **NO (Normally Open / Normalmente Abierto)**
+
+  * Contacto abierto en reposo
+  * Cierra cuando se activa el dispositivo (contactor, botón, sensor)
+
+**Ejemplo de aplicación:**
+
+* NC del relé térmico → cuando actúa, abre y corta el circuito de mando
+* NO del contactor → señal de marcha o enclavamiento
+
+---
+
+### **2. Selector Manual / Automático**
+
+* El **común (A2 o terminal central)** siempre debe tener retorno (generalmente neutro)
+* En **Manual**: mando directo desde pulsador/llave
+* En **Automático**: manda la boya/flotante
+
+> Error que señalaba el instructor: puente de neutro directo saltándose la boya → el modo automático deja de tener función real.
+
+---
+
+### **3. Camino del circuito de mando**
+
+```
+Termomagnética → Contacto NC del térmico → Selector → Bobina del contactor (A1/A2)
+```
+
+* Fase entra por térmica
+* Pasa por NC del térmico
+* Luego depende de la selectora (manual/auto)
+* Llega a bobina del contactor
+* Retorno (neutro) a A2
+
+---
+
+### **4. Señalización**
+
+* Piloto de marcha toma señal del contactor (contacto auxiliar)
+* Piloto de falla del relé térmico (contacto NC/NO según modelo)
+
+**Principio:** las luces indican lo que pasa, no lo que debería pasar.
+
+---
+
+### **5. Errores frecuentes que marcó el profesor**
+
+❌ No seguir el esquema
+❌ Puenteo directo “bypasseando” la boya
+❌ Pasar cables sin identificar fase/neutro
+❌ Probar sin entender el camino del circuito
+❌ Conectar por intuición y no por lógica
+
+---
+
+### ✅ **Buenas prácticas**
+
+✔ Seguir el esquema paso a paso
+✔ Identificar fase y neutro antes de conectar
+✔ Verificar continuidad con tester
+✔ Comprobar terminales A1 / A2 de bobina
+✔ Entender función de cada cable antes de llevarlo
+
+> El instructor recalca: **No conectes sin entender.**
+
+---
+
+### 🧠 **Analogía didáctica que usaron**
+
+Comparación con **llave combinada**:
+
+* Terminal común = tornillo central
+* Dos salidas = contactos laterales
+* El común siempre conmuta entre los otros dos
+
+---
+
+## ✅ **Explicación resumida**
+
+> Se practicó el armado y análisis de un circuito de comando para bomba con selector manual/automático y protección térmica, identificando contactos NC/NO, bobina, pilotos y retorno de neutro. Se corrigieron errores de puenteo que anulaban el modo automático y se enfatizó seguir el esquema y comprobar continuidad antes de energizar.
+
+---
+
+A continuación te destaco los **puntos técnicos esenciales** que explica el profesor en ese fragmento, dejando afuera lo social y el ruido de la grabación.
+
+---
+
+## ✅ **Idea central de la clase**
+
+**Comprender y cablear el circuito de control de una bomba con:**
+
+* Contacto común + dos posiciones (como llave combinada)
+* Flotante / Bolla como interruptor de nivel
+* Identificación de continuidad y contactos
+* Colocación de neutro y fase
+* Uso del relé térmico y contactor
+* Prueba del circuito y lógica antes de energizar
+
+---
+
+## ✅ **Conceptos clave explicados**
+
+### 1) **Común + dos direcciones (llave conmutada / flotante)**
+
+* El flotante funciona igual que una llave combinada:
+
+  * **Un común**
+  * **Dos contactos posibles**
+* Según la posición (tanque lleno o vacío), conecta el común con uno u otro cable
+
+> **Nunca trabajan los tres al mismo tiempo.**
+
+---
+
+### 2) **Cómo identificar contactos**
+
+* Probar continuidad para encontrar:
+
+  * **Común**
+  * **Contacto cuando tanque vacío**
+  * **Contacto cuando tanque lleno**
+
+> Siempre probar con tester, no adivinar.
+
+---
+
+### 3) **Colores del cableado**
+
+* Negro = Común del flotante (según lo que enseña ahí)
+* Otro conductor = salida según nivel
+* Fase y neutro bien definidos antes de conectar
+
+---
+
+### 4) **Función del relé térmico**
+
+* Tiene contactos:
+
+  * **NC (95-96)** → en reposo cerrado, se abre cuando hay sobrecarga
+  * **NO (97-98)** → opuesto al NC
+* **Aplicación:**
+
+  * Si hay falla: corta el mando del contactor
+  * Enciende una luz roja de fallo si se cablea al contacto NO
+
+---
+
+### 5) **A2 (bobina del contactor)**
+
+* El común del circuito de control debe llegar a A2
+* Si se usa llave Manual/Auto, se puentea para que A2 reciba retorno siempre
+
+---
+
+### 6) **Errores corregidos en clase**
+
+❌ Conectar sin esquema
+❌ No identificar común del flotante
+❌ Saltar el flotante (puente directo)
+❌ No entender NC/NO del relé térmico
+❌ Conectar los cables “probando” sin saber
+
+> Siempre entender la lógica antes de enchufar.
+
+---
+
+### 7) **Prueba antes de energizar**
+
+* Medir continuidad y tensión
+* Simular posición del flotante
+* Ver si actuaría la protección térmica
+
+---
+
+## ✅ **Frase técnica clave**
+
+> *No quiero que conecten por memoria. Quiero que entiendan cómo trabaja el circuito y por qué.*
+
+---
+
+## ✅ **Qué aprendiste hoy**
+
+* Identificar común y contactos del flotante
+* Relación entre flotante y contactor
+* Uso del térmico NC/NO para protección y señalización
+* Función del puente para selector Manual/Automático
+* Método de comprobación con tester
+
+---
+
+A continuación te dejo el **resumen técnico limpio** de ese tramo de clase, eliminando el ruido y quedándome solo con los conceptos eléctricos y didácticos importantes.
+
+---
+
+## ✅ **Puntos clave del tema (continuación del circuito de bomba)**
+
+### ✔️ **Prueba completa del circuito**
+
+* Se verifica el modo **Manual / Automático**
+* Se prueban **luces testigo**
+* Se simula **falla del térmico** → debe encender luz de falla y cortar mando
+* Se observa que:
+
+  * Automático funciona con el flotante
+  * Manual funciona directo
+  * Luz roja prende en falla
+  * Todo queda energizado correctamente
+
+> El profesor destaca que deben entender **cómo funciona lo que cablearon**, no memorizar.
+
+---
+
+## ✅ **Cambio de tema: visión de instalador domiciliario**
+
+El profe pasa a reflexionar sobre el trabajo real en viviendas.
+
+### ✔️ **Pensar como instalador**
+
+Ejemplo dado: **instalar un ventilador de techo**
+
+Debés evaluar:
+
+* ¿Hay punto de luz existente?
+* ¿Hay caja de embutir o hay que instalar soporte?
+* ¿Dónde coloco el regulador (variador)?
+* ¿Cómo tomo alimentación?
+* ¿Qué canalización existe?
+* ¿Qué soporte estructural necesita para que no caiga?
+  (ménsula, anclaje, taco metálico, etc.)
+
+> Aplicación práctica: no todo es “enchufar cables”, hay que prever **mecánica + eléctrica + seguridad**.
+
+---
+
+## ✅ **Contenido conceptual que refuerza**
+
+### ✔️ Circuitos de iluminación → permiten agregar ventilador
+
+* El ventilador puede conectarse al circuito de iluminación
+* Solo un ventilador requiere:
+
+  * soporte estructural
+  * cableado adecuado
+  * regulador / comando
+
+---
+
+## ✅ **Relación con tu formación**
+
+El profesor enfatiza:
+
+* Serán **instaladores**
+* Tendrán que leer planos
+* Evaluar materiales
+* Saber qué falta en una instalación existente
+* Resolver problemas en campo
+* Prepararse para evaluar y presupuestar
+
+---
+
+## ✅ **Concepto sobre seguridad**
+
+* Se menciona trabajo en **tensión extra baja (24 V)** como método seguro
+* En su práctica actual están con **tensión 0 V** (simulación sin energía)
+* Objetivo: entender el sistema antes de trabajar con tensión real
+
+---
+
+## 📌 **Ideas y frases técnicas importantes**
+
+* “Quiero que entiendan lo que hacen, no que memoricen.”
+* “Piensen cómo instalar algo real en una casa.”
+* “Siempre trabajar primero en baja tensión o sin tensión.”
+* “Analicen soporte, alimentación, regulador y plano.”
+
+---
+
+## 🎯 **Qué aprendiste en este tramo**
+
+* Validar circuito de bomba completo → manual, auto, fallo
+* Importancia de prueba y verificación
+* Pensar como instalador domiciliario real
+* Criterios para instalar ventilador de techo
+* Seguridad en prácticas (sin tensión / baja tensión)
+
