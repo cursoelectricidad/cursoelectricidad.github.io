@@ -573,3 +573,7 @@ El profesor enfatiza:
 * Criterios para instalar ventilador de techo   
 * Seguridad en prácticas (sin tensión / baja tensión)   
    
+
+##### Mi papá hizo este tablero:
+
+[![](https://ia801606.us.archive.org/25/items/tablero_bombeo/IMG_20251106_171909808_thumb.jpg)](https://ia801606.us.archive.org/25/items/tablero_bombeo/IMG_20251106_171909808.jpg)
