@@ -92,7 +92,7 @@ List of pages:
 * /87clase.md: [Clase Nº 87: [FOTOCOPIA] Relé térmico, guardamotor, cómo calcular contactor. Pasar HP a watts. En interruptores tetrapolares cualquiera de los bornes puede ser el neutro. Taller de Excel: cálculo de presupuestos. Ayudante cuenta anécdota de trabajo el arquitecto, decorador y dueño no se ponen de acuerdo y hay que cambiar todo. Hay que pasar cañería por piso porque no querían caños a la vista.](/87clase.md)
 * /88clase.md: [Clase Nº 88: Desarmamos enchufe aire acondicionado para agregar un cable extension, luego rearmamos el enchufe. Recomendación: Hacer empalmes desfasados (uno más largo que otro) para evitar corto si falla el aislamiento.](/88clase.md)
 * /89clase.md: [Clase Nº 89: Clase Practica. Terminamos tablero de bombeo. Se trabajó el armado de un circuito de comando para bomba con selector manual/automático, piloto de marcha y falla, utilizando contactor + relé térmico, identificando terminales A1/A2, contactos NC/NO y aplicando puentes de neutro para alimentar los circuitos según posición de la selectora.   ](/89clase.md)
-* /90-91-92-93-94clase.md: [Clase Nº 90, 91, 92, 93, 94: Imágenes videos enviados por la mierda de WhatsApp.](/90-91-92-93-94clase.md)
+* /90-91-92-93-94clase.md: [Clase Nº 90, 91, 92, 93, 94: Imágenes videos enviados por de WhatsApp.](/90-91-92-93-94clase.md)
 * /90clase.md: [Clase Nº 90:](/90clase.md)
 * /91clase.md: [Clase Nº 91:](/91clase.md)
 * /92clase.md: [Clase Nº 92:](/92clase.md)
