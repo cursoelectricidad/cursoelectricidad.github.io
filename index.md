@@ -12,7 +12,7 @@ Comenzó el 10 de Marzo del año 2025 (mi primera clase fue el 12 de marzo)
 
 Subscribe to RSS: [/feed.xml](/feed.xml)
 
-[Clase Nº 90, 91, 92, 93, 94: Imágenes videos enviados por de WhatsApp.](/90-91-92-93-94clase.md){.title}
+[Clase Nº 90, 91, 92, 93, 94, 95, 96, 97: [FOTOCOPIAS] Imágenes, videos enviados por de WhatsApp.](/90-91-92-93-94clase.md){.title}
 [18 Noviembre 2025]{.date}
 
 
