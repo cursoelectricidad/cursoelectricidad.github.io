@@ -89,7 +89,7 @@ Cuando apretas la H del contactor reemplazas la bobina. Si no arranca la bomba p
 [https://web.archive.org/web/20251010065754/https://www.qbprofe.com/automatizacion-instrumentacion-industrial/el-contactor/](https://web.archive.org/web/20251010065754/https://www.qbprofe.com/automatizacion-instrumentacion-industrial/el-contactor/)      
 [https://archive.is/fzZGt](https://archive.is/fzZGt)      
 [https://blogsaverroes.juntadeandalucia.es/amrandado/funcionamiento-y-tipos-de-contactor-mas-usuales-en-las-imetf/](https://blogsaverroes.juntadeandalucia.es/amrandado/funcionamiento-y-tipos-de-contactor-mas-usuales-en-las-imetf/) ([Archive](https://archive.is/daa7D)).      
-[https://ia600601.us.archive.org/9/items/entrada-1-el-contactor/Entrada_1_El_Contactor.pdf](https://ia600601.us.archive.org/9/items/entrada-1-el-contactor/Entrada_1_El_Contactor.pdf)    
+[https://archive.org/download/entrada-1-el-contactor/Entrada_1_El_Contactor.pdf](https://archive.org/download/entrada-1-el-contactor/Entrada_1_El_Contactor.pdf)    
 ![](https://web.archive.org/web/20251010071449if_/https://i.pinimg.com/736x/9d/7b/e4/9d7be477e9e9eef7e15dfa0c61a8926d.jpg)      
 [https://unlp.edu.ar/wp-content/uploads/29/33729/08e425f5255f47f7fd9e7dbc92ee7dfe.pdf](https://unlp.edu.ar/wp-content/uploads/29/33729/08e425f5255f47f7fd9e7dbc92ee7dfe.pdf)      
 

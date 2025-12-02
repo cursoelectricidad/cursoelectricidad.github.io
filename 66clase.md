@@ -16,7 +16,7 @@
 
 ##### Por WhatsApp nos autosubscribieron a este taller:
 
-![](https://ia600906.us.archive.org/9/items/taller-termotanque-solar-foto/IMG-20250908-WA0000.jpg)
+![](https://archive.org/download/taller-termotanque-solar-foto/IMG-20250908-WA0000.jpg)
 
 
 ![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiXo0eH4QdyfLy36DL8zEleQoUSNhu8QYD-YnqxFYkbJid8qpHQrYNp-5xziZVGgWO3B2Q-mqEtExmJASU3myh9yZDjAG3dMeOHSpMsXJiq5KsChzoKfzDtwA-jkgz3iMzS7YOEYlrEXDwM_08e5qN2d5RBMTQtwOQnuoR28x_8-gbbgNeSlz4MfTZY8Zg/s4160/IMG_20250909_191724625.jpg)
@@ -33,10 +33,10 @@
 
 #### Alumna instalación fotos.
 
-![](https://ia600907.us.archive.org/17/items/margarita_1/IMG-20250905-WA0021.jpg)
-![](https://ia600907.us.archive.org/17/items/margarita_1/IMG-20250905-WA0022.jpg)
-![](https://ia600907.us.archive.org/17/items/margarita_1/IMG-20250905-WA0023.jpg)
-![](https://ia600907.us.archive.org/17/items/margarita_1/IMG-20250905-WA0030.jpg)
+![](https://archive.org/download/margarita_1/IMG-20250905-WA0021.jpg)
+![](https://archive.org/download/margarita_1/IMG-20250905-WA0022.jpg)
+![](https://archive.org/download/margarita_1/IMG-20250905-WA0023.jpg)
+![](https://archive.org/download/margarita_1/IMG-20250905-WA0030.jpg)
 
 
 

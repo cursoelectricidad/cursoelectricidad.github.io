@@ -6,7 +6,7 @@
 [https://vocaroo.com/1kU19ki9zqAq](https://vocaroo.com/1kU19ki9zqAq)   
 **Audio en Archive.org**       
 [https://archive.org/details/record-116](https://archive.org/details/record-116)   
-[https://ia801706.us.archive.org/27/items/record-116/Record-116.m4a](https://ia801706.us.archive.org/27/items/record-116/Record-116.m4a)   
+[https://archive.org/download/record-116/Record-116.m4a](https://archive.org/download/record-116/Record-116.m4a)   
 **Audio en YouTube**       
 [https://www.youtube.com/embed/WM68NVAzhX4](https://www.youtube.com/embed/WM68NVAzhX4)   
 

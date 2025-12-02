@@ -91,14 +91,6 @@ Acá te armé un **resumen de los puntos más importantes** con emojis y organiz
 
 ---
 
-Si querés, puedo hacer otra versión **tipo checklist visual**, solo con emojis y pasos de seguridad/práctica, lista para colgar en un taller o repasar rápido antes de la práctica.
-
-¿Querés que haga eso?
-
-Acá te hice un **resumen de los puntos más importantes** sobre la práctica de fotocélulas y esquemas eléctricos, con emojis para que sea más fácil de memorizar:
-
----
-
 ### ⚡ Fotocélulas y control eléctrico
 
 * 🔘 **Interruptor obligatorio**:
@@ -141,14 +133,6 @@ Acá te hice un **resumen de los puntos más importantes** sobre la práctica de
 
   * La fotocélula activa el circuito cuando detecta oscuridad.
   * Con interruptor: se puede encender/apagar manualmente si es necesario.
-
----
-
-Si querés, puedo armar un **diagrama visual resumido de los 3 tipos de fotocélula (2, 3 y 4 cables)** con colores y conexiones, listo para estudio rápido.
-
-¿Querés que haga eso?
-
-Perfecto, te hago un **resumen organizado y claro de los puntos que agregaste**, para que tengas todo junto sobre fotocélulas, detectores de movimiento e interruptores combinados:
 
 ---
 
@@ -314,17 +298,3 @@ Perfecto, con esta nueva información podemos **completar y pulir el resumen té
 * No sobrecargar el sistema: respetar **potencia máxima** y coeficiente de seguridad (\~0,8).
 * Para pruebas temporales, se puede usar **tapando el sensor** para simular la noche y activar la salida de corriente.
 * Evitar contacto con el cable sin aislamiento durante las pruebas.
-
----
-
-Si querés, puedo hacer un **diagrama visual completo** que combine:
-
-1. La **conexión de los 3 cables**.
-2. La ubicación correcta de la fotocélula respecto a la lámpara.
-3. El efecto de luz que activa o desactiva el circuito.
-4. Puntos de seguridad al usar escalera y línea de vida.
-
-Esto sería ideal para estudio o práctica.
-
-¿Querés que haga ese diagrama?
-

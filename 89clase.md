@@ -576,4 +576,4 @@ El profesor enfatiza:
 
 ##### Mi papá hizo este diagrama:
 
-[![](https://ia801606.us.archive.org/25/items/tablero_bombeo/IMG_20251106_171909808_thumb.jpg)](https://ia801606.us.archive.org/25/items/tablero_bombeo/IMG_20251106_171909808.jpg)
+[![](https://archive.org/download/tablero_bombeo/IMG_20251106_171909808_thumb.jpg)](https://archive.org/download/tablero_bombeo/IMG_20251106_171909808.jpg)
