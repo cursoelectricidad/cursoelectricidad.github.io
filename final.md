@@ -1,4 +1,4 @@
-% Clase Nº 90, 91, 92, 93, 94, 95, 96, 97: [FOTOCOPIAS] Imágenes, videos enviados por de WhatsApp.
+% Clase Nº Final: [FOTOCOPIAS] Imágenes, videos enviados por de WhatsApp.
 % Andrés Imlauer
 % 18 Noviembre 2025
    
