@@ -89,7 +89,7 @@ Temas relacionado a las preguntas de examen que hizo:
 
 #### Contactor.
 
-![](https://archive.org/download/final2_electricidad/IMG-20251203-WA0005.jpg)
+![](https://archive.org/download/2025electricidad_contactor/contactor.jpg)
 
 #### Relé térmico.
 
