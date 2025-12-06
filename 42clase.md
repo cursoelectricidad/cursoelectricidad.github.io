@@ -14,7 +14,7 @@
 Un alumno lo hizo por afuera por apuro, pero en realidad debería hacer toda el cableado adentro de la cañería.
 ![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEis_T31YlKVBdeIikaXZxgr43CTgWQOMRSBQc2M7CbJvcqqbySmYizBvPIJWkI2YWX42j-cAIJEJozDJ_AfUw3PjAaU0Y21189Dk0KQQFrtf5eAppQGl7hiCGiTEDh7TQ0_3BQ8wJeM7_hsQJW2hU2QvPYSi_Uw5pG_LbeEIvsGHjUsGxHJjc2BcDNbgv4/s4160/IMG_20250624_201423579.jpg)    
 ![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgec1Tb7cAHNYSU49SdUtlOGGjwUd5pKseYBP16boPZphNgr52W_g04AMCAvYvCME8NO5BEuF1Y6D8KBUhxGVHHi7FhsK_KAxZTx_vCK805vaRKV1VPv8gSiXkvzriJ7CgtOaOkbG5WK0dH98jCgz1e66ge6ZTSUU7g0jeg6RqZr8kC44T64yS62CEkoYc/s4160/IMG_20250624_201035822.jpg)    
-![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiomxIr7icnIqCdldavvx_9Fj61n73DIiegt_Lf5usvgbFjoGCruaG2UW6tsGgSlGZ3RmVSIU-qMx45QaRZ9vDGWIvPArxc2gLVYT35M1w8ACWpvF3bZ0rZ6415SNZnm2pR3Qr5w-vFE9I9mtpNN0YkhtRpHdVEEOmiEUWsJs5PzSBrMNRA5Dh8uiZDtoE/s4160/IMG_20250624_200840915.jpg)    
+![](https://archive.org/download/fotocelula_rotate/IMG_20250624_200840915.jpg)
 ![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhulDHy2cJWOaZnil2OUsWYMMchQDm9Cjarmj3mq9cqJ5WskcNccIZqkIgkkmOgZuYmh38dmENOrcI9IOsTiW4ggjm9EyRBAfNOwWcNHkxK0pDWrebO6ImwCdj7CjFHqxoz00AGewJD7EVmuqNimkeuaN0V9Fk3dOlQvaiYF7U-Z_Ba1yMX7Y8Q4SEp4g8/s4160/IMG_20250624_200829137.jpg)    
 ![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjP9FJEc6tTjK_oWK8gjBx2BLlAJ5DiY6Gi15Qgbot4H6zSXH4MCe6WpZe7TgnBll_Q36kmdT7oMhqNHWf26iyzYNEkPoWJTeaNA6H7k8ge0VGwD_lyX9aeukyM_scPxd9PEd17151Rvua8gGiGwcBSi_TOSi9uWBfcIrDxIsIA4aSg-zV4og7D2F_4p-4/s4160/IMG_20250624_192705593.jpg)    
 ![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEijI7TilF6nf9mS6RVAVO8Mu-H3V43MqCeiTBonKFhimWYKmKj5zGv3ByxAUv9EGOoryMY4V_9ZRbia0NGbJ5LnWPVJ_HLxHDv9Gs8cSKzQit2q_w8SZU9VRXh07gdxCyKMV-Fok2Qx018m4bEWTqRQVxQrRY8u4tW6NgO0BMdIQFz8-ITjXloiK-4njFY/s4160/IMG_20250624_192703831.jpg)    
@@ -23,10 +23,6 @@ Un alumno lo hizo por afuera por apuro, pero en realidad debería hacer toda el 
 ---
 
 Fin
-
----
-
-¡Claro! Te resumí los puntos más importantes del texto y les agregué emojis para que sea más visual y fácil de recordar:
 
 ---
 
@@ -67,14 +63,6 @@ Fin
 
 ---
 
-Si querés, puedo hacer otra versión **aún más resumida en bullets súper rápidos con solo emojis y palabras clave**, tipo “chuleta de estudio”. Esto te sirve para repasar antes de un examen práctico.
-
-¿Querés que haga eso?
-
-¡Perfecto! Te hice un **resumen con los puntos más importantes y emojis** para que sea más visual y fácil de estudiar:
-
----
-
 ### 🔌 Instalaciones y cables
 
 * Uso de **cajas grandes** para alojar varios módulos de toma ⚡📦.
@@ -101,14 +89,6 @@ Si querés, puedo hacer otra versión **aún más resumida en bullets súper rá
 * Planificación de conexiones pensando en **comodidad y futuro uso** 🏠.
 * Evitar “chanchadas” o empalmes improvisados; respetar normas ⚠️.
 * Mantener cajas accesibles y niveladas con pared para instalación estética y segura 🧱👌.
-
----
-
-Si querés, puedo hacer una **versión súper resumida tipo chuleta**, con solo palabras clave y emojis, para repasar rápido antes de trabajar con cables o hacer la práctica.
-
-¿Querés que haga esa versión?
-
-¡Listo! Te armé un **resumen con los puntos clave y emojis** de esta última parte para que sea más fácil de estudiar y recordar:
 
 ---
 
@@ -139,14 +119,6 @@ Si querés, puedo hacer una **versión súper resumida tipo chuleta**, con solo 
 
 ---
 
-Si querés, puedo hacer ahora un **resumen total de todo lo que me mandaste**, juntando las tres partes anteriores en **una sola “chuleta” de estudio**, con emojis, colores y palabras clave, para que tengas todo listo para repasar rápido antes de la práctica.
-
-¿Querés que haga eso?
-
-¡Perfecto! Aquí va un **resumen de esta última parte con los puntos clave y emojis**, centrado en lo práctico y organizativo:
-
----
-
 ### 👩 Personas y comunicación
 
 * La chica se llama **María Eugenia (Maru)** 🧑‍🎓.
@@ -174,14 +146,6 @@ Si querés, puedo hacer ahora un **resumen total de todo lo que me mandaste**, j
 
 ---
 
-Si querés, puedo **unir los tres resúmenes anteriores y este último en una sola “chuleta completa”**, súper visual, con colores y emojis, para que tengas todo listo para repasar rápido antes de la práctica o examen.
-
-¿Querés que haga eso?
-
-¡Perfecto! Te hago un **resumen con los puntos clave de esta parte**, con emojis y resaltando lo práctico:
-
----
-
 ### 🔀 Llave combinada y control de fotocélula
 
 * La **llave combinada** funciona como un **doble interruptor**:
@@ -204,9 +168,5 @@ Si querés, puedo **unir los tres resúmenes anteriores y este último en una so
 * Permite **flexibilidad**: encender manualmente en caso de falla de la fotocélula 👷‍♂️💡.
 * Base para luego implementar **detectores de movimiento** como extensión del sistema 🚶‍♂️💡.
 
----
 
-Si querés, puedo armar un **resumen final completo**, uniendo todos los fragmentos que me mandaste, con **chuleta visual**, emojis, colores de cables y pasos prácticos, para tener **todo listo para repasar antes de la práctica o examen**.
-
-¿Querés que haga eso?
-
+![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiomxIr7icnIqCdldavvx_9Fj61n73DIiegt_Lf5usvgbFjoGCruaG2UW6tsGgSlGZ3RmVSIU-qMx45QaRZ9vDGWIvPArxc2gLVYT35M1w8ACWpvF3bZ0rZ6415SNZnm2pR3Qr5w-vFE9I9mtpNN0YkhtRpHdVEEOmiEUWsJs5PzSBrMNRA5Dh8uiZDtoE/s4160/IMG_20250624_200840915.jpg)

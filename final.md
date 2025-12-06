@@ -2,7 +2,7 @@
 % Andrés Imlauer
 % 18 Noviembre 2025
    
-Falté los días 10, 11, 13, 17 y 18, 25, 26, 27 de noviembre (dejé de ir).   
+Falté los días 10, 11, 13, 17 y 18, 24, 25, 26 de noviembre y 1, 2, 3 de diciembre porque dejé de ir, en la semana de diciembre se tomó el examen.   
 El 19 de noviembre no hubo clases.        
    
 Así que no tengo ningún audio ni resumen de ChatGPT.        
