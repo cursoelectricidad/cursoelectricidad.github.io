@@ -102,3 +102,23 @@ Temas relacionado a las preguntas de examen que hizo:
 #### Tabla cálculo cañería mínima de acuerdo a la sección y cantidad de conductores.
 
 ![](https://archive.org/download/final2_electricidad/IMG-20251203-WA0008.jpg)
+
+
+
+# Tablero bombeo final
+
+## [https://www.youtube.com/watch?v=Mu44xRriwwE](https://www.youtube.com/watch?v=Mu44xRriwwE)
+
+# Tablero Guirnalda 
+
+## [https://www.youtube.com/watch?v=SA-EOAG7nG0](https://www.youtube.com/watch?v=SA-EOAG7nG0)
+
+FIN.
+
+---
+
+Este es el circo recibir el certificado que probablemente no sirve (el mismo docente dice eso).
+
+<img src="https://archive.org/download/egresados2025_electricidad/IMG-20251217-WA0000.jpg"/>
+
+<img src="https://archive.org/download/egresados2025_electricidad/IMG-20251217-WA0014.jpg"/>

@@ -3,9 +3,12 @@ title: Curso Electricidad - CFP Nº 17
 x-toc-enable: true
 ...
 
-El curso de auxiliar electricista finaliza en la clase número 47, y el curso de montador electricista comienza en la clase número 48.
-Profesor: Francisco Salvador Espeche. Ingeniero Electromecánico, inspector de obra.   
-Comenzó el 10 de Marzo del año 2025 (mi primera clase fue el 12 de marzo)    
+El curso comenzó el 10 de Marzo del año 2025 (mi primera clase fue el 12 de marzo).  
+
+El curso de auxiliar electricista finalizó en la clase número 47 (8 de Julio del año 2025), y el curso de montador electricista comenzó en la clase número 48 (29 de Julio del año 2025).    
+
+Profesor: Francisco Salvador Espeche. Ingeniero Electromecánico, inspector de obra.     
+Las fechas son de la creación de cada publicación, no son las fechas de las clases. Están ligeramente corridas.
 
 -------------------------------------------------------------------------------
 
