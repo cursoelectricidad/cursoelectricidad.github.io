@@ -13,13 +13,26 @@ Al principio son conceptos basicos de electricidad: la red de distribucion, simb
 
 Reglamentación AEA 90364-7-770 (Viviendas): [https://archive.org/details/aea-770/AEA%20770/mode/1up](https://archive.org/details/aea-770/AEA%20770/mode/1up) creo que esta es una version resumida hay una mas larga.    
 
+[https://youtube.com/playlist?list=PLaJ9_1pBg2ZeF431-Alaplgi05p2k7Cor](https://youtube.com/playlist?list=PLaJ9_1pBg2ZeF431-Alaplgi05p2k7Cor)
+
+Podes descargar la playlist entera ordenadamente con este comando: `yt-dlp https://youtube.com/playlist?list=PLaJ9_1pBg2ZeF431-Alaplgi05p2k7Cor -o '%(autonumber)%(id).%(ext)s'` tenes que saber como instalar yt-dlp tenes que saber manejar a la consola (en Windows PowerShell, en Linux bash), preguntale a chatgpt despues reproducis los videos.
+
+Foto del examen de auxiliar: [https://cursoelectricidad.github.io/40clase.html](https://cursoelectricidad.github.io/40clase.html)
+
 Este es el PDF pasado a texto se lo podes tirar a la IA y hacerle preguntas: [https://archive.org/stream/aea-770/AEA%20770_djvu.txt](https://archive.org/stream/aea-770/AEA%20770_djvu.txt)
 
-En el medio metieron talleres de Termotanque Solar, vino gente de la UCAMI a ponernos vacunas (2 clases), taller de RCP, una psicologa (1 clase), y taller de informatica de Excel. Solo fui al taller de RCP.
+En el medio metieron talleres de Termotanque Solar, vino gente de la UCAMI a ponernos vacunas (2 clases no era obligatorio), taller de RCP, una psicologa (1 clase), y taller de informatica de Excel. Solo fui al taller de RCP.
 
 A lo ultimo hicimos un poco de electricidad industrial: armamos tablero de bombeo.
 
+Estas son las redes sociales pero estan llenas de boludeces: https://www.instagram.com/centrofp.17/ https://fundacion.uocra.org/oferta-educativa-formacion-profesional/cific-cfp-n17-posadas/
+
 Las fechas son de la creación de cada publicación, no son las fechas de las clases. Están ligeramente corridas.
+
+Todo el curso, los profesores, los estudiantes parece la cultura del gatekeeping, te quieren restringir el acceso a documentos aproposito para hacerte perder el tiempo y gritarte que te equivocaste, algunos le gusta tener la razon en vez de enseñar algo. El profesor mismo fue victima de esto, le enviaron un PDF que no podia editarlo, claramente gatekeeping, lo malo es que el profesor luego aprendio a hacer lo mismo en vez de luchar en contra.
+
+Gatekeeping concepto de Google: Hace referencia a ejercer un control sobre quienes pueden tener acceso a determinadas cosas, por ejemplo, decidir quién puede pertenecer al "Hip Hop", bloquear conocimiento u oportunidades para ciertas personas o limitar que artistas trabajen con ciertos productores.
+
 
 -------------------------------------------------------------------------------
 
