@@ -9,7 +9,7 @@ El curso de auxiliar electricista finalizó en la clase número 47 (8 de Julio d
 2025), y el curso de montador electricista comenzó en la clase número 48 (29 de
 Julio del año 2025).
 
-Profesor: Francisco Salvador Espeche. Ingeniero Electromecánico, inspector de obra.
+Profesor: Francisco Salvador Espeche. Ingeniero Electromecánico, inspector de obra y gatekeeper.
 
 Al principio son conceptos básicos de electricidad: la red de distribución,
 simbología, armado de portalamparas. Luego comienza con canalización, es un curso basado en las normas AEA 90364-7-770 (Viviendas). La clase mas importante serían las prácticas de armado de tableros esquemas de montaje (Clases 22 hasta 28).
@@ -18,7 +18,7 @@ Reglamentación AEA 90364-7-770 (Viviendas): [https://archive.org/details/aea-77
 
 Estudiando AEA lista de reproducción de YouTube en la cual está basada el curso: [https://youtube.com/playlist?list=PLaJ9_1pBg2ZeF431-Alaplgi05p2k7Cor](https://youtube.com/playlist?list=PLaJ9_1pBg2ZeF431-Alaplgi05p2k7Cor)
 
-Podes descargar la playlist entera ordenadamente con este comando: `yt-dlp https://youtube.com/playlist?list=PLaJ9_1pBg2ZeF431-Alaplgi05p2k7Cor -o '%(autonumber)s%(id)s.%(ext)s'` tenes que saber como instalar `yt-dlp` tenes que saber manejar a la consola (en Windows PowerShell, en Linux bash), preguntale a chatgpt despues reproducis los videos con mpv o con vlc: `mpv .`. Sino miralo directamente de YouTube (la peor opción).
+Podes descargar la playlist entera ordenadamente con este comando: `yt-dlp https://youtube.com/playlist?list=PLaJ9_1pBg2ZeF431-Alaplgi05p2k7Cor -o '%(autonumber)s%(id)s.%(ext)s'` tenes que saber como instalar `yt-dlp` tenes que saber manejar a la consola (en Windows PowerShell, en Linux bash), preguntale a chatgpt despues reproducis los videos con mpv o con vlc sino miralo directamente de YouTube (la peor opción).
 
 Foto del examen de auxiliar: [https://cursoelectricidad.github.io/40clase.html](https://cursoelectricidad.github.io/40clase.html)
 
