@@ -8,16 +8,18 @@ El curso comenzó el 10 de Marzo del año 2025 (mi primera clase fue el 12 de ma
 El curso de auxiliar electricista finalizó en la clase número 47 (8 de Julio del año 2025), y el curso de montador electricista comenzó en la clase número 48 (29 de Julio del año 2025).    
 
 Profesor: Francisco Salvador Espeche. Ingeniero Electromecánico, inspector de obra.     
-Las fechas son de la creación de cada publicación, no son las fechas de las clases. Están ligeramente corridas.
 
-Básicamente es un curso basado en las normas AEA 90364-7-770 (Viviendas) ahí está todo lo explicado. La clase mas importante serian las practicas (Clases 22, 23, 24, 25, 26, 27, 28)
+Al principio son conceptos basicos de electricidad: la red de distribucion, simbologia, armado de portalamparas. Luego comienza con canalizacion es curso basado en las normas AEA 90364-7-770 (Viviendas). La clase mas importante serian las practicas de armado de tableros (Clases 22 hasta 28).
 
 Reglamentación AEA 90364-7-770 (Viviendas): [https://archive.org/details/aea-770/AEA%20770/mode/1up](https://archive.org/details/aea-770/AEA%20770/mode/1up) creo que esta es una version resumida hay una mas larga.    
 
 Este es el PDF pasado a texto se lo podes tirar a la IA y hacerle preguntas: [https://archive.org/stream/aea-770/AEA%20770_djvu.txt](https://archive.org/stream/aea-770/AEA%20770_djvu.txt)
 
+En el medio metieron talleres de Termotanque Solar, vino gente de la UCAMI a ponernos vacunas (2 clases), taller de RCP, una psicologa (1 clase), y taller de informatica de Excel. Solo fui al taller de RCP.
+
 A lo ultimo hicimos un poco de electricidad industrial: armamos tablero de bombeo.
 
+Las fechas son de la creación de cada publicación, no son las fechas de las clases. Están ligeramente corridas.
 
 -------------------------------------------------------------------------------
 
