@@ -1,38 +1,45 @@
 ---
-title: Curso Electricidad - CFP Nº 17
+title: "Curso Electricidad - CFP Nº 17"
 x-toc-enable: true
 ...
 
-El curso comenzó el 10 de Marzo del año 2025 (mi primera clase fue el 12 de marzo).  
+El curso comenzó el 10 de Marzo del año 2025 (mi primera clase fue el 12 de marzo).
 
-El curso de auxiliar electricista finalizó en la clase número 47 (8 de Julio del año 2025), y el curso de montador electricista comenzó en la clase número 48 (29 de Julio del año 2025).    
+El curso de auxiliar electricista finalizó en la clase número 47 (8 de Julio del año
+2025), y el curso de montador electricista comenzó en la clase número 48 (29 de
+Julio del año 2025).
 
-Profesor: Francisco Salvador Espeche. Ingeniero Electromecánico, inspector de obra.     
+Profesor: Francisco Salvador Espeche. Ingeniero Electromecánico, inspector de obra.
 
-Al principio son conceptos basicos de electricidad: la red de distribucion, simbologia, armado de portalamparas. Luego comienza con canalizacion es curso basado en las normas AEA 90364-7-770 (Viviendas). La clase mas importante serian las practicas de armado de tableros (Clases 22 hasta 28).
+Al principio son conceptos básicos de electricidad: la red de distribución,
+simbología, armado de portalamparas. Luego comienza con canalización, es un curso basado en las normas AEA 90364-7-770 (Viviendas). La clase mas importante serían las prácticas de armado de tableros esquemas de montaje (Clases 22 hasta 28).
 
-Reglamentación AEA 90364-7-770 (Viviendas): [https://archive.org/details/aea-770/AEA%20770/mode/1up](https://archive.org/details/aea-770/AEA%20770/mode/1up) creo que esta es una version resumida hay una mas larga.    
+Reglamentación AEA 90364-7-770 (Viviendas): [https://archive.org/details/aea-770/AEA%20770/mode/1up](https://archive.org/details/aea-770/AEA%20770/mode/1up) creo que esta es una version resumida hay una mas larga.
 
-[https://youtube.com/playlist?list=PLaJ9_1pBg2ZeF431-Alaplgi05p2k7Cor](https://youtube.com/playlist?list=PLaJ9_1pBg2ZeF431-Alaplgi05p2k7Cor)
+Estudiando AEA lista de reproducción de YouTube en la cual está basada el curso: [https://youtube.com/playlist?list=PLaJ9_1pBg2ZeF431-Alaplgi05p2k7Cor](https://youtube.com/playlist?list=PLaJ9_1pBg2ZeF431-Alaplgi05p2k7Cor)
 
-Podes descargar la playlist entera ordenadamente con este comando: `yt-dlp https://youtube.com/playlist?list=PLaJ9_1pBg2ZeF431-Alaplgi05p2k7Cor -o '%(autonumber)%(id).%(ext)s'` tenes que saber como instalar yt-dlp tenes que saber manejar a la consola (en Windows PowerShell, en Linux bash), preguntale a chatgpt despues reproducis los videos.
+Podes descargar la playlist entera ordenadamente con este comando: `yt-dlp https://youtube.com/playlist?list=PLaJ9_1pBg2ZeF431-Alaplgi05p2k7Cor -o '%(autonumber)s%(id)s.%(ext)s'` tenes que saber como instalar `yt-dlp` tenes que saber manejar a la consola (en Windows PowerShell, en Linux bash), preguntale a chatgpt despues reproducis los videos con mpv o con vlc: `mpv .`. Sino miralo directamente de YouTube (la peor opción).
 
 Foto del examen de auxiliar: [https://cursoelectricidad.github.io/40clase.html](https://cursoelectricidad.github.io/40clase.html)
 
 Este es el PDF pasado a texto se lo podes tirar a la IA y hacerle preguntas: [https://archive.org/stream/aea-770/AEA%20770_djvu.txt](https://archive.org/stream/aea-770/AEA%20770_djvu.txt)
 
-En el medio metieron talleres de Termotanque Solar, vino gente de la UCAMI a ponernos vacunas (2 clases no era obligatorio), taller de RCP, una psicologa (1 clase), y taller de informatica de Excel. Solo fui al taller de RCP.
+En el medio metieron talleres de Termotanque Solar (1 semana entera), vino gente de la UCAMI a ponernos vacunas (2 clases, no era obligatorio), taller de RCP (1 clase), una psicóloga (1 clase), y taller de informática de Excel (6 clases todos los Lunes). Solo fui al taller de RCP.
 
-A lo ultimo hicimos un poco de electricidad industrial: armamos tablero de bombeo.
+A lo último hicimos un poquito de electricidad industrial: armamos tablero de bombeo.
 
-Estas son las redes sociales pero estan llenas de boludeces: https://www.instagram.com/centrofp.17/ https://fundacion.uocra.org/oferta-educativa-formacion-profesional/cific-cfp-n17-posadas/
+Estas son las redes sociales pero estan llenas de boludeces: [https://www.instagram.com/centrofp.17/](https://www.instagram.com/centrofp.17/), [https://fundacion.uocra.org/oferta-educativa-formacion-profesional/cific-cfp-n17-posadas/](https://fundacion.uocra.org/oferta-educativa-formacion-profesional/cific-cfp-n17-posadas/).
 
-Las fechas son de la creación de cada publicación, no son las fechas de las clases. Están ligeramente corridas.
+Las fechas son de la creación de cada publicación, no son las fechas de las clases.  Están ligeramente corridas.
 
-Todo el curso, los profesores, los estudiantes parece la cultura del gatekeeping, te quieren restringir el acceso a documentos aproposito para hacerte perder el tiempo y gritarte que te equivocaste, algunos le gusta tener la razon en vez de enseñar algo. El profesor mismo fue victima de esto, le enviaron un PDF que no podia editarlo, claramente gatekeeping, lo malo es que el profesor luego aprendio a hacer lo mismo en vez de luchar en contra.
+Todo el curso, los profesores, los estudiantes parece la cultura del gatekeeping, te
+quieren restringir el acceso a documentos apropósito para hacerte perder el tiempo y
+gritarte que te equivocaste, algunos le gusta tener la razón en vez de enseñar algo.
+El profesor mismo fue victima de esto, le enviaron un PDF de un plano que no podía editarlo, claramente gatekeeping, lo malo es que el profesor luego aprendió a hacer lo mismo en vez de luchar en contra.
 
-Gatekeeping concepto de Google: Hace referencia a ejercer un control sobre quienes pueden tener acceso a determinadas cosas, por ejemplo, decidir quién puede pertenecer al "Hip Hop", bloquear conocimiento u oportunidades para ciertas personas o limitar que artistas trabajen con ciertos productores.
+Gatekeeping concepto de Google: Hace referencia a ejercer un control sobre quienes
+pueden tener acceso a determinadas cosas, por ejemplo, decidir quién puede
+pertenecer al “Hip Hop”, bloquear conocimiento u oportunidades para ciertas personas
+o limitar que artistas trabajen con ciertos productores.
 
-
--------------------------------------------------------------------------------
-
+---

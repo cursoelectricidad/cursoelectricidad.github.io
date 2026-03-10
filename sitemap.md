@@ -98,7 +98,7 @@ List of pages:
 * /contact.md: [Contacto](/contact.md)
 * /dudas.md: [Dudas.](/dudas.md)
 * /final.md: [Clase Nº Final: [FOTOCOPIAS] Imágenes, videos enviados por de WhatsApp.](/final.md)
-* /: [Curso Electricidad - CFP Nº 17](/)
+* /: ["Curso Electricidad - CFP Nº 17"](/)
 * /license.md: [License](/license.md)
 * /logo-license.md: [Unlicinsed bunnies](/logo-license.md)
 * /preguntas_examen.md: [Recompilación de posibles preguntas de examen para auxiliar electricista.](/preguntas_examen.md)
