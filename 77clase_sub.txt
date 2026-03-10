@@ -1,0 +1,2234 @@
+tanto tiempo.
+más gente que ayer ayer.
+Ay,
+vamos.
+Vamos
+todo
+acá lo importante
+que este es este
+tendrá posible.
+Sí,
+sí.
+[Música]
+No, ese es el
+que acá
+vamos a enchufar la calle. Ya tiene que
+andar.
+Que andar.
+Sí, saco el depósito. Ahí tiene que
+andar.
+Exactamente.
+No se preocupen. El tema mío ahora es
+tratar de hacer un tablero de bombeo,
+pero
+fue uno armado ya.
+Este es utilizo para prueba.
+Eh, voy a poner ahí algunas cosas. Sé
+que falta algunas cosas para saber qué
+es ahí, pero primero vamos a hacer la
+información. Vamos estudiar paso por
+paso hasta cómo trabaja un flotador
+automático. Este eléctrico.
+¿Qué pasó?
+Voy a tener que laar mucho.
+Estamos haciendo la
+piea.
+Eh,
+plata.
+¿Cómo?
+De la pieza plata.
+Sí, pero fíjate así
+eh tené que hacer para que lo vean para
+hay que levantar así
+su
+Bueno, mi
+ca
+primero saludar a gente nueva que viene
+de vez en cuando.
+Yo sé que a veces estamos atrasados,
+levantado, atrasados, pero
+tarde o temprano tenemos todo para
+arriba, no para abajo, sino que
+que todos sepan todo.
+Está faltando una reunión con los chicos
+nuevos porque tengo que empezar
+a practicar con ellos también el tema de
+Se vende. Usted quiere comprar,
+no hay problema.
+Ayer le esperamos ustedes porque siempre
+con el tema de cómo era que atención
+que hay atención y yo quería que ustedes
+que están expertos también hagan la las
+cotaciones al mar
+después volveremos al
+Pero usted no me contestó ese día. Sí,
+yo le pregunté si entraba un cable de
+16, el general era de 32 y la tierra era
+de 10 o tenía que respetar el cable
+ingresado.
+Sí. Eh, entraba de 16.
+Claro, por caída de tensión, por una de
+más de 50 m. El cable de 16, en general
+era de 32. Si correspondía que la tierra
+sea de 10 o de 16.
+De 16.
+Fíjate que después te voy a dar una
+tabla. Sí,
+que si hasta 16 mantiene el mismo sesión
+de conductor que la entrada después
+cuando pasa 25 sigue 16 después 35
+pero siempre el máximo está en la tabla
+ahí puesta tierra
+despuésa tierra solo puesta tierra y
+están las normas o sea que hasta 16 es
+lo correcto
+pero bueno a veces el tema que
+hay horario que no mires
+Porque aparte de ustedes tengo que tener
+toda la escuela y los problemas de la
+escuela a veces te pido que me firmen
+hagan los videos que renos tableros si
+está funcionando o no y a está contor
+tengo que estar viendo qué pasa y a
+veces habiendo que me dado a veces que
+las cuelas de estas que supuestamente
+tienen que tener técnico eh
+ni herramienta tiene.
+Ahí me me pone
+Ah, señor sí, ya seguramente, pero
+bueno, mientras me devuelvo no hay
+problema.
+Todo, todo lo que sea de evolución,
+esas cosas olvido, así que la traemos
+que
+vea. Bueno, vamos a los prácticos.
+Hay una cosa que siempre trato de
+resolver el tema de los tableros de
+bombeo. ¿Por qué hay lugares donde no
+hay presión y hay que tratar? O sea, se
+trata el tema de del cantador
+a veces cuando yo sé.
+Entonces, generalmente necesitan prisión
+y algunos hacen un sistema tanque
+elevado, entonces sí o sí necesita de un
+elemento que impulse esa agua que llega
+a la vez de un elemento o un
+dispositivo, un motor una electrobomba.
+Siempre es interesante hablar de
+electrobomba, porque esta parte de acá
+es la parte de la bomba y acá tiene un
+motor. Entonces, electrobomba de motor y
+y bomba. Generalmente la mayoría dice
+bomba. Usualmente llama Momo, pero es
+realidad de motor más el cuerpo de bomba
+que hace el sistema de impulsión cuerpo
+de motor lo hace giratorio. Entonces la
+bomba la impulsa el agua no el motor.
+Usted entiende. Entonces llama electro
+en sí. nos sirve para nosotros a través
+de un sistema bombeo que se calcula, se
+calcula, así que no hay problema de
+acuerdo al cadar que yo necesito. En
+algunos
+departamentos considera la cantidad de
+individuo que tiene ese departamento se
+multiplica por un valor de consumo más o
+menos entre 30 y 50 L por eh por día.
+Se suma todo eso y se se ve cuántos
+departamento tiene y más o menos se saca
+el valor de consumo del edificio por
+día. Entonces, de acuerdo a la cantidad
+de agua que entra, tiene que subir un
+determinado sieron sistem el tanque
+reserva. Hoy en día cuando están reserva
+también tiene la posibilidad de tener un
+compartimiento de
+agua de consumo y otro compartimiento
+para caso de incendio. Hoy en día se
+está tratando
+o aprobado a través de la esta casa de
+la gente bombero que siempre está
+interviniendo en todos los siniestros.
+No exigen tanto tener un un tanque
+reserva de gran capacidad y parte para
+la parte de
+de consumo y la otra parte para bombero.
+Bombero se no bomberos. Bombero tampoco.
+Bombero para la parte incendio. Entonces
+están haciendo edificios con un sistema
+de para que usted entienda, piletas.
+paraetas
+para que todos
+para que todos disfruten ahí arriba,
+toman sol y toda buena gente que tienen
+algo de pel supuesto. Entonces esa
+pileta utilizan como tanque de reserva
+para la parte de bombero, de bombero, de
+bombero, seño. Entonces, no es necesario
+que tenga un tanque tan grande para
+tener
+las dos los dos consumos.
+Eso pasendo, pero sí o sí se necesita un
+sistema de bomber. Entonces
+yo después le voy a dar
+a ver una parte
+estaba buscando todo porque siempre
+tengo cosas cosas cosas todo fotocopiado
+pero guardado.
+Hay una parte
+que ese sistema
+de
+sistema tanque elevado tiene la
+particularidad de que ese sistema se
+automatiza a través de un tablero de
+bombeo. Generalmente se pone en un
+sistema de departamento
+dos bombas colocad paralelo. Uno
+trabaja, la otra no. Después se hace
+cambio, alguno tiene un ciclador,
+trabaja una bomba un tiempo, después
+trabaja otra. La forma que coloquen son
+dos rumbos, porque una
+eh un departamento, un departamento, un
+edificio no puede estar
+si se quema una bomba, tengo que tener
+la otra o si no en forma discontinua,
+pero tengo que trabajar las dos casos
+bomb. Y después hay otro,
+esto es sistema de agua. Después hay
+otra bomba que en caso tengan los
+edificios tengan cochera o sistema
+subterráneo,
+generalmente nuestra
+provincia nosotros
+siempre hay filtraciones de agua,
+vertiente, algo por el estilo. Entonces
+filtrar que hace se hace normalmente si
+está a un nivel más bajo que el que el
+nivel de vereda,
+se hace
+conducto y se busca a través del nivel
+un lugar que se es como un pozo una
+pileta, lo que sea. Todo esa agua va ahí
+y después esa agua a través de un
+sistema de bombeo
+va afuera.
+depende del nivel tiene que
+constantemente en forma automática va
+tirando bombeando afuera. Eso
+normalmente se hace porque si no
+se inunda todo,
+se inunda y
+he visto en algunos casos cuando
+entramos por problema de la bomba que el
+agua ya estaba en nivel de
+la cubierta.
+Entonces ahí no más buscamos aquí
+bombear y bueno después revisar todo y
+volvé
+automatizado.
+Hay otros lugares, hasta las propias
+casas que están en forma de nivel cuando
+viene el agua se escurre y va. También
+hay que sacar esa bomba. Si no no tirar
+y a través de un sistema de bombeo, todo
+esos sistemas de bombeo, generalmente
+las bombas son la mayoría todas son
+eléctricas hasta por ahora.
+No tengo ninguna. Eso en la escuela
+anterior ha sido un sistema de bombot
+sistema manual
+y todavía está el famoso
+brazo palanca, todas esas cosas, pero
+esto es lo que nos sirve a nosotros para
+poder tratar de automatizar un sistema.
+¿Qué beneficio tengo? Yo puedo trazar o
+tratar de hacer interacciones de
+diferentes formas hasta
+automatizar el sistema de los flotadores
+con baja tensión. Generalmente piden
+baja tensión considera alrededor de
+hasta 24 V
+de tensión. O sea, que yo puedo hacer un
+sistema con sistema automático 24 V,
+pero tengo que nuestra alimentación
+principal es 220, entonces o 380,
+depende de qué tipo sea la bomba, si es
+monofásica o trifásica. Si es
+monofásica,
+sí o sí tiene que haber llegado a 20.
+trifásica puede llarsión
+trifásica, pero en algún lado tengo que
+buscar el sistema automatizado me va a
+llevar a tener culer si no no puedo
+aprender ni los focos ni los costos de
+buena o por el estilo. Entonces, ¿qué se
+hace normalmente?
+o uso un transformador
+para que esa tensión arriba y toda la
+parte de mando sea con 24 gol o
+directamente
+que a mí me resulta más fácil para no
+tener un tablero de mayor dimensión
+diminuir con ese transformador en
+algunos casos eh
+sobresale a todo el resto del equipo.
+Trabajar siempre un sistema todo por
+neutro.
+¿Qué debo tener en cuenta? Que la
+tensión que llega a la entrada acá
+mantenga la fase con fase y neutro con
+neutro. Siempre se trata de
+dejar el esquema dentro con algún lugar
+para que el equipo que conecte sepas.
+Estamos
+bueno. Aparte de eso, para que ustedes
+vayan viendo
+tablero es un tablero tablero tablero.
+Entonces, ¿qué qué tenemos que tener en
+cuenta?
+que tiene, sí,
+en principio un interruptor
+de cabecera, termomagnético de cabecera.
+Ustedes van a ver que siempre
+interruptor termomagnético cabecera, sea
+monofásico, trifásico, siempre
+interruptor termomagnético cabecera.
+Estamos en primer lugar.
+A ver qué hacía el interruptor
+magnético.
+Protege sobrecarga y
+y cortes protege el conductor. Pero
+cuando ya tengo protegido el conductor y
+tengo un dispositivo que también se el
+corriente nominal de funcionamiento,
+puede también servir como
+exactamente porque me voy a poner un
+equipo que consuma, vamos a suponer, de
+medio entre 6 7 a 7,5 amp más o menos.
+Entonces yo directamente depende qué
+característica ponga acá un interruptor
+de 10 o 16.
+Entonces llega a pasar el pico de
+corriente corta por sobrecargas
+directamente
+cualquier lado tenéis ubicaciones. No
+puedo entender que tanta gente hay. Me
+estoy poniendo contento.
+Si falta aire pongan si falta ventilador
+pongan cuenta que están en su casa. Yo
+sé que está cambiando la temperatura
+varía de acuerdo al clima.
+¿Qué vamos a prender acá para adelante?
+Por suerte tengo algunos tableros
+reparados, otros están armando y lo que
+sea.
+La idea principalmente es la mayoría ya
+sabe que un interruptor magnífico
+después que empiece, fíjense ahí hay un
+elemento que utilizado con nombre de
+distancia o con manual o lo que sea
+donde recibe toda la carga del motor. un
+contactor
+un dispositivo,
+interrumpe la corriente directamente
+recibe todas las caras de cualquier
+equipo que estaba
+más o menos ahí.
+Nosotros vamos a tener que aprender cuál
+el funcionamiento,
+cómo trabaja, cómo se elige, para qué
+sirve, pero sobre todo cómo funciona.
+Ya le voy a ir instruyendo un poquito.
+El equipo tiene una parte m una parte
+fija.
+Acuérdense que ese contactor también yo
+puedo trabajar con cualquier elemento
+de acionamiento.
+hicimos la fotocelas.
+¿Qué es otra cosa? Puedo tener un
+sistema donde tengo
+detectores de movimiento que todavía
+tenemos que hacer los ejercicio de tres
+movimientos. Entonces, conectado también
+puedo trabajar con el
+con el contactor, o sea, que tengo
+infinidad de formas de trabajar con el
+contactor que es muy útil y que toda la
+tierra recibe contactores. Para que
+ustedes entiendan todas las luces de
+qué dice,
+todas las luces,
+todas las luces, todas las calles
+funcion a través de un contacto con una
+fotocélula la mayoría. Sí, ahora están
+poniendo
+todavía no pregunté
+todos los artefactos
+que ustedes ven ahí que son todos arriba
+tiene la fotocula.
+Ah, sí, en las callales, porque a veces
+pasa que se quema la fotocéula y apaga
+todo el tablero y apaga todo un sector,
+ya sea del centro o de la costanera.
+Entonces están viendo, pero igual no
+está aprobado todo. Hay luminarias que
+vienen con un zócalo para colocar una
+fotocélula de capuchón como la que yo
+traje. Entonces con eso se elimina la
+fotocélula del tablero
+que eh todavía no lo hicieron porque
+muchas de esas no tienen la fotocélula
+arriba, sino que tienen un puente.
+Todos los nuevos que están que uno ve
+que son la pantalla plana así,
+la mayoría arriba ven un cosito
+chiquitito arriba. la todos
+por la Costanera ya alguno lo decían.
+Sí, sí, ya
+sí
+también hay mucho.
+Supuestamente dicen que
+eh
+siguen con el mismo sistema de tener en
+cuenta todo principal y ahí derivan
+todos. Pero, ¿qué hace?
+Eh, en algunos casos directamente
+trabajan con el contacto y lo único que
+hace es que la fotos prende y apaga de
+acuerdo a la crepúsculo.
+A veces que
+sí o tiene o tienen un o tiene un bp
+y bueno y según la mala lengua todavía
+no es comprobado, pero bueno, un día
+tengo que ir a hablar con la gente por
+ensamble porque no tenemos una fábrica
+de una fábrica ensamble enormemente
+ensamble dice que teniendo la fotos en
+ese sistema tengo un interruptor más
+cerca
+y
+según la mal lengua
+el presidente Tecnoly no se factura todo
+eh acá todo sistema
+de monopolio.
+Es un sistema todo monopolio. Todo lo
+que ustedes ven,
+el el más el más el tubo más grande ya
+saben quién es.
+Entonces
+no se cansa de tener acción de por todos
+lados.
+Entonces, fíjense, la puerta que puede
+ser que no tancaron.
+Ellos
+reciben plata de otro lado y cuando
+tieninen la guita, que no es
+por si
+eh sin papeles efectivos, van y compra
+un departamento
+ya. O sea, que él no tiene la tiene
+acciones,
+departamento nombre de otro, fulano de
+hijo por marido.
+Así los políticos,
+pero o sea que eh bueno, no vamos a
+hablar porque si no se va a hacer
+en síntesis
+el que ustedes van a recibir va a ser un
+esquema
+principalmente
+este
+todo hecho con
+sistema de neutro. Yo le voy a dar, pero
+le voy a definir todo en colores. Voy a
+tener que acá no voy a si no va a tener
+que dibujar todo acá y
+bueno, que ustedes entiendan, ¿no? Vamos
+a empezar por parte. Ustedes dle vuelta
+ahí. Ustedes van a ver,
+ahí tienen ojo de gey directamente uno
+indic marcha que generalmente verde y el
+otro cuando yo tengo una avería salta el
+térmico.
+Esto que está acá era no séctor
+térmico.
+Esto protege el contactor está arriba.
+térmico, protege contra.
+Hay otra forma,
+térmico.
+Hay otra forma, hay gente que pone
+guardar motor también es válido. Todo lo
+que ustedes puedan poner para proteger
+motor, pero esto es lo más fácil para
+poder tener si se uno de los dos se
+quema tienen problema, se cambia, se
+reemplaza. Tiene que tener una
+característica, todo lo que ustedes
+quieran. Pero tengo que saber qué tipo
+de bomba. Acuérdense que la bomba tiene
+una altura y un cad determinada altura
+que yo tengo que calcular. Se calcula es
+después vamos a ver y siempre aparece
+la tensión. Acá aparece 40 más 50 m. Sí,
+40 50 m. Altura sí
+sí
+máxima gradual y después por ahí aparece
+la corriente. 2, ¿cuántos son?
+Eh, acá 2,5 amp
+2,5 amp.
+Bueno, esta es de 3 cu media
+es media. Entonces ahí teica la
+corriente que tiene
+necesaria para esto.
+Entonces yo tengo un equipo un rel
+térmico. Ustedes van a ver este a ver
+conseguí hacer esto que usted rojo
+estudiar más fácil
+todo vamos estudiar parte por parte. Así
+que acá hoy está
+bueno fines de primero de noviembre tien
+que dominar.
+Estamos,
+así que vamos a estudiar por parte cómo
+funciona. Voy a ir mostrando cosas
+y en caso de que salte esto, va a
+aparecer esta luz do. Ahora le voy a
+mostrar eh no le vamos
+creo que ten un motor por ahí, pero no
+vamos a hacer. No, el motor era ese.
+No, yo tengo otro motor.
+Siempre tengo una bornera para poder
+probar o o instalar cualquier cosa. Lo
+que tiene que decir si está bien ahí y
+está bien el tono corriente. Ahora vamos
+a ver si mantienen la eh dentro con
+dentro, fase con fase. Lo ha primero
+y
+eso que está ahí son los ojos de geey
+que me permiten a mí a lo lejos de
+definir qué es lo que está pasando en el
+tablero sin a tocar nada.
+Tenemos fase entonces no que este este
+sea fácil el otro
+[Música]
+buscar
+lado
+a las próximas voy a poner
+o sea que mantenga la fase y el neutro
+para esa características.
+Bueno, levantar
+también tiene una perilla selectora que
+es esta que usted ven acá.
+¿Para qué eso? para que trabaje el
+equipo de motor manual automático.
+Como ahora todavía no tenemos el sistema
+lo que ustedes ven ahí mostrarle,
+eso que está acá es un flotador que
+sirve para el sistema tanque elevado.
+Entonces esto me ayuda para mi sistema
+manual o automático. Esto para
+automático, justamente,
+o sea, cuando baje la cantidad de agua
+se activa solo. Eh,
+un llamador.
+¿Qué?
+Llamador
+nivel.
+Nivel llamador.
+Sí, sí. Todo lo que usted importa que
+entienda para qué sirve.
+Y cuando le contestas, ¿qué te dice?
+Hola.
+Ya. Hola.
+Bueno, pero en síntesis esto es para
+sistema automatizado.
+Hugo
+auxiliar.
+Eh, Hugo es plomero, todavía. Así que le
+dije la otra vez que venga y escuchemos
+algo y hacemos justo.
+Nosotros hicimos eh no sé si usted se
+acuerdan una posición en el
+me sacabon la bomba y la bomba
+que yo me llevaron la bomba.
+Hicimos la cocanera cuando
+Sí, sí, me llevaron la bomba.
+No, pero usted hicieron la canción.
+Claro, pero me llevaban la bomba. O sea,
+es esa bombita me llevaron.
+Desapareció
+los alumnos. No, el profe
+llevó,
+le presté la bomba para que arme todo su
+sistema y después
+su que saqué mi
+perdí perdí ahí cu pierdo cosas
+termin
+no bueno hacer lo pude comprar
+la idea era hacer dos tanquecitos más o
+menos de
+500 400 L y hacer toda
+Bien hecho, pero tenía que hacer una
+torre acá
+de sistemas tod
+Sí, sí. La presupuesto, hicimos con
+balde transparente. No era
+la porquería esta para tomar agua, ¿no?
+Era eso.
+Los billones
+no. Nosotros hicimos eran sí tres
+baldes, eh, emulaba Sams y las casas y
+el nivel,
+¿no? Pero yo le dije, se puede hacer
+ahora consig una bomba ya no porque ya
+conseguí la otra vez se perdió. Pero la
+idea es, vamos a poner acá se puede más
+tranquilamente para que se vea como el
+movimiento y todo el sistema.
+Bueno, seguimos.
+Eh, le vamos a dar manual y automático.
+Si yo tengo sistema manual,
+fíjense, ya tiene que andar. Vamos a
+poner
+ahí supuestamente si esta bomba
+estuviera lo hubiéramos inyectado acá y
+esta estaría funcionando, lo único malo
+que la motor puede trabajar en vacío
+problema, pero la bomba no. Entonces hay
+que poner con agua. Por eso el sistema
+de la bomba se no voy a meter la mano.
+El rito que se escuchó que se activó el
+contactor se pegó contactor.
+Acuérdense que el contador se va a mover
+después, pero el tiene una parte
+fija y otra parte móvil. La parte fija
+tiene un sistema de, ¿cómo le puedo
+decir? hierro y pasa una bobina y ese
+hasta cuando se le
+suministra suministra a 220 eso
+se magnetiza se magnetiza
+entonces forma como un imán
+y esa imán atrae a la a la parte
+móvil que queda el contactor
+mientras esté funcionando con la
+corriente y esté magnetizado esto que
+hace
+cuando
+se corta conecta
+tiene un resorte que devuelve a su
+posición original. A su posición
+original.
+Bueno, fíjense,
+le vamos a ir para que ustedes vayan
+viendo para qué sí el otro. En caso de
+que tenga un problema esto de un térmico
+levante la la corriente mayor de lo que
+necesita que está regulado. Después cómo
+se regula
+ocurre esto. Mira
+ahora me patea acá.
+una pantalla.
+Entonces directamente el tipo que está
+controlando la distancia de que saltó re
+profe no tiene diferencial
+y en algunos casos como este tablero
+secional ya eh
+alimentación negoci
+eh cuando hacen de un tablero principal
+saco la distribución de cada tablero y
+forma un diferencial pero bueno puede
+ver
+abrir un poquito más
+abrirle un poquito más
+no vi uno ahí sería
+Eh,
+no, no de 30 porque no hay humedad y o
+sea vos tenés que la ahora si tenés un
+lugar
+pérdida perdiendo lo que sea
+pero esto conectado
+est esto son a 220
+cómo cómo
+hay ojos de que son a 24 vol que son
+justamente si más el sistema para 24
+En este caso esto aquí voy a conectar al
+220 y funciona.
+El ITM está conectado al
+a cuál de los dos cuál de los dos.
+Ah, el contactor. Y el contactor está
+conectado a
+el relé térmico se conecta a la salida
+del contactor
+y de ahí del relé térmico
+a la
+a la 1.
+Acabo lo que dijiste el ITM. El ITM es
+el principal interruptor de corte de
+equipos. corto, si están reemplazado el
+contractor reemplazo y si tengo el
+término reemplazo.
+O sea, esa es la finalidad.
+Bueno, aparte de esos ojos de
+aparecen otros que después le vamos a
+energía. Yo tengo un ojo de voltimétrico
+y otro amperométrico. El amperométrico
+ustedes van a ver que que se diferencia
+del
+del voltimétrico.
+Es un
+Sí, este punto lo voy ahí.
+Acá pasa el cable. Es lo mismo que la
+pinza perométrica. pasa el cable y acá
+me va a indicar qué corriente.
+O sea, conectas el ojito, conectas el
+ojito de como conectarías el otro. La
+diferencia es que vos tenés que pasar
+los cables por ahí.
+Estamos bueno. Bueno,
+mide el amper,
+mide el amper.
+Mire el amper la corriente.
+Cuando pasa por el anillo mide
+laón del cable.
+quería mostrar que me dieron para una
+encontrar por ahí.
+Bueno,
+vamos por parte.
+Entonces
+yo cuando lo agarro hago la lista de
+material primero que interruptor me
+manda la empresa
+ahora que me estoy viendo
+el relé
+el relé térmico contactor. Perfecto.
+El relé
+hasta ahora el relé térmico no está.
+No sé, otra casca que en casa que me
+equivoqué.
+Acá está la llave.
+Acá está la llave de tres días.
+Los cables. Hay una biroma acá.
+Bueno, el síntesis de algún lado tiene
+que estar.
+Anda perdido por ya sea por su casa o
+por
+Sí, por mi casa o si no no me dejaron
+ahí. me dejan y después le armo. Igual
+si no armo despuésa
+bueno
+entonces
+de cada cosa
+uno me va a indicar constantemente la
+tensión 220 o lo que tenga y el otro me
+indica qué corriente está consumiendo el
+motor.
+Cuando ven que hay algo así,
+ese es el amperométrico. el amperométro
+que tiene este siempre pasa el cable, la
+alimentación y ahí va a indicar que
+correte está funcionando. Pero sí o sí
+los dos,
+los dos para que ustedes entiendan
+necesita como es un elemento que tengo
+que se mide a través de necesito darle
+tensión para que esto se prenda.
+Entonces sí o sí tengo que ponerlo acá
+220 y sí así acá poner 220. Vamos.
+Si yo sí tengo que darle 20 porque si no
+no me va a marcar acá va a decir que
+corriente pasar
+y en algunos casos
+hay
+para proteger que colocamos
+una fusilera tabaquera y a veces ponemos
+2 amper con fusible ahí para poder
+proteger esto
+entre los compaser
+Creo que me demandaron todo, así que
+acá está.
+Sí,
+para proteger el ojo de Wy.
+Ojo de Wy. Exactamente. Esto menos de lo
+que se pone. Lo que hay ese. ¿Cuánto
+tiene?
+Este fusible es de dos.
+Exactamente.
+Y después
+se conecta como si se conectar una
+magnética y se coloca el fusible
+adentro.
+Después de otro fusible est que sirve
+para proteger
+el mismo
+este
+y proteges
+este ya es de 16
+característico.
+Acuérdense, todo es para
+el tincho. Tengo un pie armando
+el tardero que está
+ya en la obra ya está embutido.
+Entonces, ¿qué me hace la gente? Me
+manda
+este
+y armá.
+Espero tengo que armar darle para
+aquellos para el otro.
+Te da una portita, pero no
+salti más
+porque estáutido.
+[Música]
+Sí, es eso tiene una saga dentro
+esa después cuando sobrepasa el amperaje
+esa señ
+no permite pasar corriente. para para
+que ustedes vean, hay
+de diferentes, bueno, dos no más tamaño
+diferente el ojo de
+este es de 22, diámetro 22, o sea, que
+esto que ustedes ven acá que se hace
+este caso que es metálico,
+tengo que hacer el agujero con copa de
+22 mm, entonces entra
+exactamente. ¿Por qué le digo esto que a
+veces hay una pavada? Porque hay gente
+que no tiene diámetro 22 y pone de una
+pulgada que 25. Entonces este queda
+bailando
+que entra justo y alguien que Y el otro
+que es más chiquito que por ahí debe
+estar llegando, pero creo que chiquitito
+es ya nuestro 12
+y mecha copa de 12 no tengo, no consigo.
+Entonces tengo que hacer mecha copa de
+una mecha agujero. Tengo que hacer con
+una mecha de 12 mm. Tengo que hacer
+perforar
+una
+si
+entonces pero ese sí te te compro para
+entonces ya tengo los elementos.
+Entonces ustedes también tienen que ir
+viendo qué necesito para ir armando tal.
+Primero de todo. Acá por ejemplo
+tengo que ubicar
+que no se nota la propanda de
+Claro.
+Esto que están acá
+también una mecha mecha
+es la llave de tres vías, pero también
+existe una mecha de 22.
+O sea, que mechas de
+de copa.
+Ah,
+para hacer agujero acá. Si no, yo
+primero tengo que hacer
+ubicarlo
+todo de tal forma que tenga todo ubicado
+y perforado. Acá una vez que tengo todo
+perforado y colocado todos los ojos, sea
+para indicar cuando está en mar, cuando
+está en, ¿cómo se llama?
+Cuando actúa el relúa el relé de
+protección.
+Y los ojos si quiero hacerlo para que me
+indique qué corriente está trabajando y
+y la tensión tengo que hacer la
+preparación.
+Un foco para probar el automático,
+no trae un foco ahí, tra lámpara y foco
+ahí, o sea, que no hay problema.
+Entonces armo todo, perforo todo acá,
+armo primero y tengo armados.
+Estos me dan,
+acuérdense que no voy a armar este lado
+porque la
+la llave está de este lado, o sea, el
+tornillo principal está acá en Castro
+ahí abajo directamente y
+entonces ya tengo que ir ubicando dónde
+va. Pero antes de ubicar
+mostrar cómo se hace. Tengo que ir
+buscando todos los elementos. ¿Dónde va
+el contactor? Ya arreglé. Ese ya me está
+preocupando.
+Capaz que quedó en en la otra caja que
+me dejaron allá y después
+voy colocando y veo cómo coloco los lo
+relí recortado, me perforo todo y
+generalmente
+bien abajo.
+Es lo que ustedes van a ver ahí.
+Hay una bornera.
+Es una bornera chada de salida.
+Ahí yo conecto el flotador y la parte
+que va bombeo.
+¿Por qué? ¿Por qué interesante eso? Bien
+abajito. Transparencia. Ahí dice rotador
+y motor.
+No se puede ver que conecta porque va
+con es ya ya no poder.
+Y el flotador también.
+¿Para qué me sirve la bolera de
+flotador? ¿Por qué siempre interesante?
+Porque si vos estás solo tenés que esto
+es real
+y acá tengo la bombera, una, dos,
+tres, cuatro y acá tengo la bomera de
+motor, señor,
+en una entrada de salida. ¿Qué tenemos?
+Y esto que está acá que hace todo
+recorrido, se le va para arriba. Ahora
+vamos a ver. ¿Por qué tiene tres cables
+flotador?
+Sacó una. Sí, fíjate que algo y acá va
+el flotador.
+Yo a la gente que hace la los tableros,
+acuérdense que ese que está ahí es para
+un pozo perforado, una bomba centrífuga,
+generalmente se toque trabajar en
+paralelo, algo parecido para paralelo,
+pero ese vamos ver necesitamos un equipo
+más grande.
+Ah, tiene un un neutro para el cosito.
+Entonces, ¿para qué me sirve el
+flotador? Yo le entrego a la gente y es
+directamente con ese motor instala el
+motor y el otro flotador
+como enseño que como tiene que ir todo,
+después a qué nivel va. Pero
+dame tu
+esa
+o cualquiera.
+Entonces, fíjense qué interesante
+tener las bneras porque si yo tengo un
+problema rotadora, acuérdense que le voy
+a mandar está en la cisterna el tanque
+elevado. Hace todo un circuito y cierra
+el circuito depende qué nivel tenga la
+cisterna.
+Si está vacía la sistema, es lo mejor.
+Eso tiene que estar elevado
+y ahí recién funciona
+y allá arriba tiene que estar el nivel
+abajo para que cierre el circuito porque
+necesita agua í arriba. Entonces
+funciona. Tengo agua acá en el sistema,
+si no tengo agua en el sistema, no
+realmente algo está abierto y no me hace
+el recorrido y cierra el circuito y no
+funciona. Entonces, ¿qué pasa?
+Puede ocurrir que ese flotador de
+descompuesto entre agua, se trague lo
+que sea.
+Pongo automático, pongo automático y no
+funcionó
+o no anda.
+Entonces, en vez de subir 12 met, ¿qué
+hago?
+Cierra un circuito acá,
+¿entiendes?
+Por eso siempre la porque hay gente que
+directamente agarra menú uno de los
+cables y yo después con tengo que estar
+desarmando ahí. No sé
+acá directamente juego y y sé que el
+problema juo en automático y si está
+funcionando después de cuál el flotador
+que estaba, si es el de abajo o el de
+arriba, cualquiera de los dos. Pero con
+esto yo pruebo que realmente el
+automático está o bien o está mal.
+Entonces, ¿te cuenta cuando pongo
+automático y funciona todo?
+¿Qué particularidad tiene a veces poner
+manual? Está
+por razón escuch
+no eso, pero tiene que haber otro más
+allá de abajo. Tiene que ha aquí eso
+para que sepa, ¿no?
+Para pelota
+está por ahí.
+Este es un
+bueno, este es sistema.
+Como ustedes ven, ahí tiene un un
+elemento, en este caso una pelotita de
+acero que hace que baje que
+está rota, pero
+sí, esa era que no andaba. Alguien
+quería y acá tiene interruptor, eh,
+quería probar, le rompió y después la
+partita.
+Pero es para que usted algo parecido a
+esto. Después le voy a dar un dibujo y
+van a ver lo que está dentro.
+Y generalmente tiene tres cab
+acá tiene, fíjense,
+negro, marrón y azul. Generalmente
+siempre hay uno que es común. ¿Y qué le
+parece cuál es común? No hable. El que
+no sabe hable. No hable. Negro.
+El negro. El negro común. Después tengo
+uno de los dos cable que va arriba.
+todo sirve el circuito. Fíjense que el
+flotador arriba tiene la misma
+característica. Si el neutro va un igual
+a otro, uno de estos dos el que cierra
+el circuito.
+Vamos, vamos a ver para que ustedes
+entiendan. Vamos a hacer a prueba,
+eh, para que ustedes vayan viendo. Lo
+primero que tienen que saber cómo yo
+conecto rotar.
+Esto tiene,
+fíjense,
+está poco duro, pero bueno, esto
+seguramente por
+cuando está nuevo lindo porque flexible,
+pero en síntesis este es pongo para que
+nivele lo que hace costador a medida que
+va aumentando. Vamos a suponer que esta
+es la parte de arriba del tanque. Se va
+llenando, se va llenando, se va
+llenando, se va llenando. Recién cuando
+pasa
+ahí corta
+ahí, ahí está recién ahí pasa
+y con esto sea el nivel
+se nivel
+después se coloca este abajo y ya no baj
+bueno
+le estaba comentando que tengo un terno
+de tanque elevado. Ahora vamos a ir a
+prueba.
+tanque elevado
+y acá tengo la cisterna.
+Después le voy a aparecer el dibujito
+acá tengo el fortador ese nivel
+y acá tengo el fortador nivel.
+Estamos los dos lados tienen
+para automatizar
+cierra el circuito a través de los
+rotadores.
+No hay problema
+porque puse sistema automatizado, regulo
+el nivel, baja o cierra corta.
+Pero, ¿qué pasa si yo pongo manual?
+Piénsen un poco. Pongo manual
+que apretar cuando quiere cargar.
+A pesar y si no ahí se queda.
+El tema es más o menos más o menos no
+está bien, pero
+el agua generalmente entra en la red
+y puede haber temporada que
+no entra suficiente agua o hay problema
+abastecimiento y esto no está lleno del
+todo o está medio vacío.
+Entonces, aquí me está pidiendo esto
+el emoj
+el emojo.
+¿Y qué pasa?
+Prendo la bomba. ¿Y qué pasa?
+Lo poco que tenía subió porque le puse
+manual y después, ¿qué pasa?
+Después que
+se quema la bomba.
+La bomba no puede trabajar.
+Si está bien calculado ese también puede
+estar,
+pero
+que uno se trata de hacer de ahí.
+En algunos casos
+utilizamos el mismo flotador para este
+sistema.
+En otro caso yo pongo otro flotador.
+Depende cómo la cita, pongo otro
+flotador
+exclusivamente cuando trabaj.
+Entonces si esto prefiero que allí
+arriba empiece a desbordar el agua que
+se me queme la bomba.
+Entonces cuando se
+está nivel cuando tengo más agua, tiar
+eso cuando está más porque puede haber
+que esta parte de la sistema
+automatizado tenga algún problema, se
+trabó, qué se cualquier problema no
+entró agua.
+Solo ocurrir
+y viene el porteroamente en la escuela
+los porteros son las personas
+no hacen nada para que usted entienda lo
+mismo que usted ven los tipos que están
+tomando manta allá que son porteros
+tampoco lo mismo hacen y cuando vos le
+preguntas, "Ah, yo no sabía ah pues
+aparte nadie me dijo que toque."
+Siempre hay un problema.
+Cuando vos lo v a una escuela y v los
+tipos así sentados es porque esos son
+loseros.
+Bueno, síntese de clase.
+Una vez intentamos tratar.
+Aleluya. Como dijo, he pedido que me
+limpien y me limpiaron, o sea, que mal y
+después de dos tr semanas me limpiaron.
+Está abierto cuando quiero ocupar.
+Me da culpa habl de la gente,
+me demoraron.
+Bueno,
+entonces va a aparecer una bornera que
+generalmente le pido de se me traen de
+cuatro y bueno, anda
+perdón,
+que es lo que está ahí abajo, ¿no?
+Entonces esto que está acá abajo también
+para utilizar
+me sirve para
+esta bornita de acá abajo y eso es lo
+mismo solamente que estos están todos
+juntos tipo un peine y esas vienen
+separadas no se colocan al reloj
+acuérdese
+y algo muy importante, fíjense que esto
+tiene una cabilidad de 15 cm de ancho.
+De ancho o profundidad
+de profundidad. Luego depende donde
+miren. Yo miro acá de ancho,
+no sé si ancho. Entonces, ¿qué es
+importante en esos casos? Así como está,
+es muy difícil cablear y armar el
+tablero. Así como está. Entonces se saca
+afuera abajo, armo todo, después armo
+este pedazo y después ba coloco. Vamos.
+Así como está es difícil.
+para cómo hago para mantenimiento porque
+ahí tengo que tratar de trabajar con
+pinza de punta que una otra vez hay
+pinzas curvas también depende el tiempo
+trabajo.
+Entonces puedo trabajar tranquilamente.
+Si tengo inconveniente después van a
+ver.
+Fíjense que este contactor también tiene
+la característica para Rin,
+fijación a través de Rí, pero puede ser
+que un día como vimos la otra vez en los
+interruptores, las trabas se rompen.
+Entonces
+también tiene para poder fijar a la
+chapa,
+por lo general los conductores de de
+grandes potencias se se atornillan
+directamente a la base, no tienen para
+rendir porque son muy muy y pesados.
+Tráeme un un
+térmico ahí para
+Bueno,
+eso es diferente al que estaba
+de diferente
+en los cositos que adelante.
+A ver, por favor, contact.
+Bueno,
+no hay mate. ¿Qué pasó?
+No se preocupen
+el principio. Vamos a estudiar
+porque si no empezamos
+estudiando después no saben para qué.
+Ahora él lo va a hacer una demostración
+ahí poner automático y fijaste cómo
+trabaja el flotador.
+Un poquito ahí.
+Ya. ¿Dónde te vas?
+Yo tenía un foquito acá.
+Sí, ahí sí.
+Así está el foquito. En ese caso, voy a
+reemplazar un montón.
+Esa es la idea.
+Esa es la idea.
+Cuando hay motor o bomba, reemplazamos.
+Hacemos con un poquito.
+Hacemos con un poquito.
+Está sincón.
+Ahora está
+eh correntino. Sin corriente con
+recorriente.
+No, pero sí está apagado. Yo apagué hace
+rato.
+Bueno, el poquito porque a ver, vamos a
+Bueno, es lo que tiene que hacer al
+revés. Este, supongamos el nivel al que
+queda el cuando este baja, bajar se
+activa
+el agua. Antes dejarlo así. Eh,
+generalmente
+este tipo de tablero es para nosotros
+trabajamos cuando hacemos eh pozos
+perforados o tanque de bajo para que
+tienen por eso más simple. Si no, tengo
+que poner eh un sistema de cisterna, dos
+bombas paralelo y ahí ya va un contactor
+y un relé térmico por cada bomba. Vamos,
+hay que una bomba
+ca
+todo se trabaja de un solo tablet
+pesado.
+Eso es pesado.
+Esto está cargado por
+y esto flota.
+No tengo posibilidad de poner un
+flotante.
+Esto va dentro del tanque
+el nivel,
+¿no? Eso va alimentado
+levantado y
+en el tablero generalmente un tablero de
+arranque especial para ello. Cada bomba
+tiene su capacitor de arranque. No hay
+otra
+y si yo vi algunas instalaciones de
+esas, por ejemplo, que tienen un pozo y
+le instala un poquito adentro.
+Buenas.
+La mayoría tienen succión a 8 met.
+Ah, empezó ese
+es la bomba centrí.
+Pero no periferí porque hacía este
+movimiento la otra de profundidad son
+esta tiene turbina
+andoentos
+Benítez
+eh Botoli,
+presente.
+Cardosa,
+Espinosa,
+Leiva,
+Melgar,
+Ramírez,
+Soto
+presente. Salsa
+eh
+a ver lo que piden es de 095 yo les
+pongo
+aproximadamente uno porque es cuando
+llegue más a uno te va a dar que la
+fórmula va a variar es más fácil.
+Hay lugares, sí, sí, hay lugares donde
+realmente depende de qué equipo tenga
+ese valor de no se baja, pero unaería
+que se Entonces ahí sí utilizamos, pero
+lo ideal es siempre te da un valor más o
+menos hasta los equipos te dicen hasta
+095, 096, lo que sea vuelve por eso para
+el cálculo más exacto, pero mete
+rondeando a uno
+yo para Ellos calculan rápido
+la potencia o la corriente. Entonces la
+potencia la tensión
+corriente que teno
+ahí no quedar así como está. Acuérdense
+tanque reserva tengo allá
+el tanque reserva.
+el tanque reserva y tengo este
+movimiento. Eso que está así, el nivel
+está así
+porque me está pidiendo agua. Entonces,
+fíjense que ese a medida que va llevando
+la bomba, ese nivel va a subir hasta que
+corte.
+Estamos, pero ese va ajustándose
+corte directamente. Ahora tira para
+abajo.
+Eso cuando tengo bomba, tanque, reserva.
+Después vamos a ver otra sistema
+trabajando con
+sistema tanque elevado. Entonces va a
+haber dos.
+¿Qué características tiene? Tan seria. Y
+lo único que va va a variar pues la que
+tiene tres cables. El el negro común,
+uno de ellos es azul para abajo y otro
+rojo.
+Rojo o marrón para arriba.
+como invertir, digamos,
+sí, porque vos vos tenés dos posiciones
+de contacto de contacto en elivel, por
+eso tiene tres cables, está normalmente
+abierto y normalmente cerrado. Vos tenés
+que poner uno normalmente cerrado y otro
+normalmente abierto para que cuando uno
+se quede sin agua, el otro le pida y
+cuando el otro se quede sin agua de
+abajo corte.
+Normalmente,
+eh
+yo lo encuentro normalmente abierto y no
+el NC.
+No, no, ese no está. Ah, no,
+eso es un
+es un contactor
+que tiene su equipo auxiliar, pero lo
+que tengo normalmente abierto y cerrados
+son
+es la parte que va abajo.
+Bueno, en síntesis,
+esto es
+térmico. Yo tenía otro que tenía las
+distintas características.
+Está abierto para que ustedes vean que
+son barras de cobre.
+Lo mismo ya que como el interruptor
+magnético trabaja a través del sistema
+de dilatación. Lo mismo que ocurre acá
+el bimetálico.
+El bimetálico acá lo que se hace se abre
+para determinar esta.
+Generalmente, fíjense
+si no vieron este monofil.
+El contactor ya trabaja para tres fases.
+Puedo tener un contactor monofásico.
+Puedo tener un contactor monofásico.
+Pero a veces ese contactor monofásico,
+¿qué característica tiene? ¿Qué eh a qué
+me gusta más? que más robusto, tiene
+mejor maniobra, cantidad de maniobra y
+poco
+porque generalmente el contacto puede
+sacar por tensión, por corriente, por la
+cantidad de maniobra que va a hacer
+durante un periodo determinado. Entonces
+va calculando eso y esto es por el tipo
+de motor que tengo.
+Y el monofásico no tiene para copiar en
+un terreno.
+El monofásicofásico
+no. Pero como esto se puede hacer en
+monofásico, ustedes cuando van a recibir
+después el
+el ¿Cómo se llama?
+Este es un esquema.
+Este ya está con dos bombas con dos con
+el frotador.
+Allá tengo otro que es solo para, ¿cómo
+se llama? Pozo perforado con un solo
+flotante. Acá tiene dos flotantes.
+Todo lo que ustedes ven, eh lo azul es
+el neutro y el otro rojo la parte de
+Dios. Por eso trato siempre de que la
+gente cuando me compre me compre los
+colores. Entonces, ¿qué me permite a mí
+que cualquier problema sigan
+el plan? Este es para un uno simple
+tanque bombeo con un rotador. A mí me
+sirve para el tema del pozo perforado.
+Entonces ya armo, ya le doy a la gente.
+Total,
+a mí no me que la idea es que
+que necesite mucho,
+necesiten. O sea, que fíjense, después
+tengo
+es que está menosado. Bueno,
+después
+esto lo que vimos del flotante. Ahora me
+traje hoja de A4 porque no me gusta que
+me saquen la hoja esta oficio horrible.
+Entonces, voy a traer a cuatro y le voy
+a dar esto primero para que ustedes
+vean. Hoy vamos a suponer que la clase
+de hoy sea flotante, usted van a recibir
+esto y van a ver cómo es el sistema
+tanque de los
+igual ya ya llevamos un montón de veces
+a cuatro y no imprimo igual en oficio.
+No se quiere decir que me imprima a
+cuatro si no quiero oficio. Para eso
+imprimo lado,
+por eso no me sirve de nada.
+Entonces
+va m viendo de a poco. Después tengo
+dos, tres tableros y tengo tapas como
+así como esta.
+Fíjense que a veces eh hice tablero
+estándar
+cuando
+le pido a veces a la gente que pruebe.
+Vamos a suponer
+que estoy a 300 km.
+Entonces le hagoí a la gente primero que
+puedo
+qué pasa ahí con el lector cuando ya no
+no no pasa nada le digo, agarren estador
+se asusta. Entonces le pido que me
+hunda. En este en este caso sería el
+es la H que se ve en el medio del
+contactor.
+De contactor este tipo.
+En ese caso son los que
+Entonces pido que me prueben porque a
+veces puede ser contactador
+a veces se quema la bobina el contactor.
+Entonces si vos está ahí vos sentís el
+olor de
+el olor a quemado. O si no le pedí a la
+gente que te
+que te el contacto, o sea, sería o
+activar los platinos manualmente.
+El tipo generalmente lo que más se quema
+esto, esto generalmente
+permite otra vez Cfi y al tipo elador
+que puede con
+Si esto no funciona
+sería esto
+ahí tienen que ir para
+ahí estamos. Entonces con apretando el
+contactor puedo saber si funciona el
+motor o no.
+Puedo estar en un lugar, ¿qué es lo que
+tengo que hacer?
+Necesito sí o sí se ve
+un y pones en contacto lo que se llaman
+los platinos.
+El azul es el no
+este contactor.
+O sea, este
+sí la parte azul.
+Eh,
+¿cómo hago para saber si está
+funcionando el motor? Está el motor la
+cosa procurado lejos.
+¿Por
+[Música]
+qué está al revés?
+Entonces, directamente pongo para medir
+corriente, acuérdense, en este caso 20
+40 ampal
+de los cables uno y le do el
+posicionamiento.
+Entonces ahí ya voy a saber si
+directamente
+que está trabajando uno.
+Va a aumentar. Sí, porque necesito
+porque si no necesito saber la corriente
+que estáando.
+Estamos, pero todo lo del taldero
+puede ser cualquiera de los dos porque
+el circuito ya está cerrado.
+École.
+Sí,
+école.
+Acord de pinzar más uno a la vez porque
+si no la pinza no te tirar la
+los dos puntos
+cero
+cero
+cero cero.
+Bueno, en síntesis no. Después puede
+pasar que hay una pérdida que van a
+sentir un valor pequeño valor muy bajo.
+La vas eh vas a sentir una buena, vas a
+tener una lectura más o menos un poquito
+más alta por el funcionamiento de la
+pueden ir de un lugar a otro y va a
+tener diferencia y ese hay una pequeña
+perdida. para que
+la gente hay gente que tiene eh una
+pinza de fuga para medir y llegar que
+realmente se tiene que adaptar con lo
+que tiene y generalmente usa la pinza
+amperométrica.
+Eh,
+bueno,
+o si no se escandalizan y piden y le
+compran una pista de
+Estoy viendo en el plano acá. ¿Por qué
+se conecta
+todavía? No, no, no. Yo te estoy
+haciendo. Vamos a empezar por parte.
+Perdón, perdón.
+No, porque eh estoy explicando cómo
+funciona un tabelo. Todavía no expliqué
+ni cómo funciona eso.
+O sea, no es solamente la parte m la
+parte del contactor, también son las
+entradas, la salida, la exción de la
+si bien como funciona un contactor, como
+funciona un rel.
+Bueno, en síntesis nosotros vamos a
+empezar
+a ver cómo funciona el contacto.
+Estamos.
+Entonces yo le voy a traer varios tipos
+de contactores y primero para que usted
+entienda, lo más fácil saber si un
+contactor funciona.
+Esto tiene
+dos terminales que va a uno, a dos. Son
+los terminales, la bobina al contacto.
+Si vos tenés un desarmado por ahí,
+traemos, vamos a mostrarle.
+Entonces esa bobina tiene la
+particularidad de activar este un
+elemento que yo puedo activar a
+distancia
+o comoador, lo que sea, yo puedo activar
+distancia, pero tengo que tener en
+cuenta
+el tipo, fíjense,
+de tensión que le doy a la bobina. Este
+caso yo pido siempre bobina a 220 porque
+lo lo más cerca. A ver, si tengo un
+transformador puedo llevarlo a 24 vola.
+Tengo dos terminales, a uno y a dos. Hay
+otros contactores que tiene directamente
+arriba. Uno tiene acá y acá abajo y otro
+tengo directamente acá arriba. Uno a
+dos, pero este a un está este a dos está
+con este a dos unidos, así que yo puedo
+tomar alimentación acá ahora. Depende
+qué tipo de contactor tengan.
+Bueno, pero si anda
+es que ya está este ya está abierto.
+Está bien.
+Quiero saber después si funciona porque
+vamos traer cantidad.
+Entonces,
+¿qué características tengo que tener en
+cuenta para saber si funciona cuenta de
+todo? En algún lado yo le pongo
+la fase o el neutro. Cualquiera uno o
+dos. ¿Vieron la lámpara de prueba que yo
+tengo?
+Y bueno, entonces con esa lámpara de
+prueba para saberlo directamente, yo
+controlo esto que usted ven acá la de
+contacto está dentro.
+Esa parte que ha tocado es la parte
+móvil
+móvil y esta la parte fija. Entonces
+esto es lo que energiza el sistema a
+través de
+energiza esa bobina. La bobina magnetiza
+estos chapones un electro.
+Entonces
+esto baja y cierra
+los platinos. Acá dentro hay
+por cada punto hay una barra,
+pero esa barra no está completa,
+está cortada y arriba está el otro
+pedazo. Cuando eso me baja el otro
+pedazo y ahí permite el paso. Por eso
+cuando la bobina se quema, esto queda
+arriba,
+porque acá abajo tiene un par de
+resortes, que es lo que devuelve a su
+punto de origen. Ahí está que
+fatear
+por fatear porque
+así va a saber cómo en primera
+instancia.
+No, en serio, es peculiar el olor.
+Bueno, que no
+clásico.
+¿Cómo pruebo este contactor? Acuérdense,
+tengo la dos terminal acá. En un lado le
+pongo el neutro, el vivo, lo que sea. Y
+con la lámpara de prueba, fíjense que la
+lámpara esta
+tiene una pequeña resistencia esa deo.
+Entonces, yo puedo probar con una fase,
+pongo el neutro en un lado y la fase en
+el otro y pruebo si funciona. Entonces
+directamente va a sentir que baja o o
+abre o cierra el circuito con el
+contactor. Cualquier contactor. Si yo
+tengo un contactor está allá adentro y
+no siento el olor nada positivo que esté
+quemado, ¿qué hago?
+Uno sé que la fase o el neutro y el otro
+no. Entonces ahí le pruebo
+y ahí se siena o no.
+A veces, ¿qué problema tengo ese? Tengo
+tableros muy compacto y tengo que
+problema de rel térmico, por ejemplo.
+Y hay que acá. Fíjense,
+fíjense, tengo
+está jugando con el contactor que
+está.
+Entonces listo.
+Acuérdense que este equipo es un
+interruptor. Abre y cierra circuito.
+Estamos
+y necesito un elemento. Este es el
+térmico que protege
+el motor. Entonces esto va acá. Esto es
+un contactor.
+Tiene las tres fases de entrada y las
+tres fases de salida. Después tiene un
+contacto normalmente abierto. Ah.
+Perdón, 14.
+Y esto va así.
+Estamos
+ahí van a ver el circuito
+no quiero nuevo que tocar
+[Música]
+tengo que armar yo encima
+después un problema
+que
+entonces
+hay otra
+Yo regulo, fíjense, tiene un sistema ahí
+solo un interruptor.
+Sí, sí, sería sería un interruptor de
+gran boteza.
+Bueno, seguimos.
+Ya vimos
+con la pizza pumétrica sabemos qué
+corriente baja.
+Medimos la tensión más o menos seca la
+normal.
+Después nos crea regular
+la corriente de funcionamiento. Esa
+corriente de funcionamiento que me da la
+pinza anteriorétrica a una determinada
+tensión. Después lo que hago
+directamente es ponerlo alrededor de un
+20% un 30% más. esa corriente
+acá
+en esta perilla.
+Hab quedado nuevo por ahí. Regulo con
+esta perilla que corriente está
+funcionando el
+el motor un 20% más.
+En caso de que haya tensión, lo que sea,
+este equipo va a cortar.
+Y tengo la particularidad, el rojo,
+acuérdense, hay que resetear reseteo y
+esto que está acá, yo giro la para un
+lado, para otro se parte manual
+automático.
+Si yo pongo manual directamente eh tien
+que venir operario
+y él puede una presencia
+y por la duda se fija a ver qué está
+pasando con el motor porque puede ver
+que hay un pico de corriente o lo que
+sea o est trabado o tenga problemas de
+rodogamiento, lo que sea
+y el tipo ya comprueba si pongo un
+manual
+yo creo que este tiene tipo,
+porque lo ven de cobre, esto tiene un
+sistema de hilatación que abre y cierra
+al lado. Si ustedes ven se fijan, no van
+a ayudar. Esto se abre y se cierra
+después de la característica que tenga
+de hidrataciones.
+En síntesis,
+si yo pongo un manual, esto se enfría y
+vuelvo a arrancar de vuelta.
+Se enfría esto, recupera su estado
+original. y vuelve a arrancar de vuelta.
+que entiend entonces a ver si conviene
+colocar
+este equipo. En esto regulo yo
+el la anteraj funcionamiento, ¿no? Vamos
+hasta ahí quedamos medio locos por
+importa por parte vamos a hacer. Yo
+estoy mostrando no más qué es lo que van
+a hacer, dónde queremos entender el
+diagrama,
+dónde queremos llegar y después le voy a
+dar el diagrama, le voy a final cuando
+la parte de instalación y vamos a hacer
+todo junto de acuerdo a la cantidad de
+tableros que tengamos. Era dos o tres.
+Vamos juntos.
+¿Por qué?
+O sea, que tengo un pequeño problema con
+la gente cuando doy el esquema.
+¿Qué hace la gente?
+Mira el esquema, dice, "Ah, acá tengo un
+cable rojo, uno con este con este acá
+cable azul, uno con este y este con
+y trabaja.
+No es así. ¿Por qué?
+Porque tiene que ir pensando
+que el contactor pide una parte que
+potencia de trabajo y tengo una parte
+que es
+de qué?
+Eh,
+no, una parte de trabajo de potencia que
+va la carga principalmente y la otra
+parte
+salida
+por allá dijeron hoy
+se olvida decir
+tiene la parte que es para el comando
+comando comando
+puedo esto trabajar a distancia
+porque vos salí en un contrator tenés
+tres pero ahí hay cuatro horneras una es
+el comando Ya
+el comando
+la fotélulación.
+Ese es parao
+quiera, o sea, depende que vos tengas.
+Puede ser el explotador, puede ser la
+puede ser para lo que a vos se te ocurra
+usar,
+pero llave de usar. Lo que quiero
+decirle que este equipo puede trabajar
+un sistema de potencia va toda la carga
+y la otra parte de comando, no interesa
+que trabaje esto, sino la parte de
+comando me hace funcionar la bobina de
+contactor. La parte de comando me hace
+funcionar la bobina de contact. Entonces
+tengo una parte de potencia. La parte de
+potencia es la parte que recibe la
+carga. Si yo tengo que instalar un
+sistema trifásico en este y tengo un
+motor monofásico, en un lado pongo
+entrada.
+Eso lo pongo como porque se escucha
+el el neutro.
+Pongo el neutro entrada neutro, salida
+neutro. Acá entrada y salida. La salida
+neutro va el motor
+y después pongo una fase acá.
+sale la otra fase acá, vuelvo arriba y
+sale la otra fase. O sea, que la fase
+que sale en el segundo no sale. Vuelvo
+acá arriba y sale. ¿Qué? ¿Por qué se
+hace eso? Porque este es un tema fácil y
+se trata de que energice toda la parte
+tod
+todos los contactos
+que no quede ningún contacto sin carga.
+Sin carga.
+Entonces se suele hacer eso, llevarlo a
+monofásico, pero que la fase
+pero vuelva a pasar por
+para que se activen todos los platinos,
+tanto entrada como salida.
+Entiende cómo es el sistema. Por eso le
+estoy conentando porque cuando vean el
+dibujo, ah, ¿para qué dice la vuelta?
+¿Por qué esa vuelta?
+Con el otro con el
+No, cuando bajan, bajan los tres. El
+tema es que la idea es que se ocupe
+todas las salidas que todos los platinos
+queden utilizados. Esa es la idea,
+porque cuando vos bajas pegas y pegan
+los tres.
+Ah, y pegan y los tres tienen carísticas
+le dejas los tres una carga.
+Tienen que eh a ver saber cuándo hacen
+la interación porque si no van a saber
+porque
+se resolvió aquel tablero
+una versión diferente de
+se abre
+con toda su referencia.
+Tenemos
+cuando tenemos un
+básico y queremos hacer una instalación
+monofásica
+para un motor monofá
+es
+lación va a ser siempre la misma
+se aprovecha el 100% del conector
+ya que
+puse
+Y hay un contactor más fácil,
+no el mismo,
+pero hace el recorrido ese, la
+instalación está hecha así.
+Por eso este tema más lindo, porque abrí
+n más bien cuesta un poco más acá, pero
+por acá porque este tiene
+una parte de potencia de fuerza y otra
+parte de comando. Entonces cuando yo
+empiezo a cablear
+fijando, pues yo después no voy a cuando
+ustedes trabajen soy el tipo más callado
+que hay. Ahora se macarana le voy
+castigo.
+Ahí tenemos el callo de cómo es de 5
+para
+No, yo trato de que hagan solo después
+porque van a tener
+vamos a tener un esquemito, o sea,
+el esquema más vale si no
+claro seguro
+si no se van a quemar el cerebro
+intentando deducir cómo conectarlo.
+Claro, por eso le voy a escribir en
+colores para que no tengan problemas.
+Esa es para
+lo único que le dije es que la gente que
+tiene que pensar un poquito
+eso de este pedacito va acá este no.
+Bueno, síntesis
+a un A2 es bobina.
+A uno, a dos bobina. Esa es la parte de
+comando. A un A dos es bobina y es la
+parte de comando. No hay qué
+característica tiene que puede tener
+tensiones 220 24 vola 12 vol tenga 380
+también puede tener la bobina acá.
+Eso para el trabajo de la bobina,
+pero la parte de fuerza, esa es la parte
+que se me sirve para mí el comando, la
+parte de fuerza va a entrar neutro, como
+dijimos acá, y sale neutro por acá pase,
+entra y sale por acá. Generalmente
+cuando hacemos la parte potencia trato
+de ser una sesión un poquito mayor que
+la de
+comando. Comando con uno 1 y medio ya me
+resulta factible el valor de tabletón. A
+veces ya pongo para que la gente vea
+bien la parte y pongo 4 mm 2 y5 depende
+qué característica tenga el motor pongo
+4 o 2 y medio.
+Puede indicar de vuelta el de la fuerza.
+Acá van a aparecer después los números
+que le voy a dar. L1, L2 y L3. Creo que
+no. Fíjate
+L1, L2 y L3. Arriba.
+Sí.
+Y abajo
+L1, L2 y L3.
+Y abajo T1.
+Y abajo T, T1, T2, T13. Esas son los bon
+entrada y salida.
+Entonces va el neutro, el neutro y y
+puede ser también porque puedo poner la
+fase ahí, pero como yo quiera. Entonces
+la fase va vuelve arriba y sale después
+lo
+hace un bucle, la fase vuelve arriba eso
+está en el gráfico,
+pero varias veces, o sea, para
+no no eh no tengo tres bonnes n más.
+Entonces este ocupo el neutro y los dos
+la fase va baja, vuelve y sale 20. Sale
+la fase.
+Sí, lo vas a usar un contactor en un
+sistema monofásico.
+Entonces cuando
+fásico entran las tres fases y salen las
+tres fases.
+Sí, fácil. Por eso
+lo que siempre se hace primero la
+alimentación en la parte de fuerza.
+¿Dónde está eso?
+a la el interruptor termomagnético. El
+interruptor termomagnético va al
+contactor, entrada la la bordera de
+entrada y después dejo la parte de
+salida y ya generalmente en algunos
+casos ya pongo a la bombera del
+contactor donde dice este motor ya los
+220 las dos salidos cac
+y después viene la parte de comando.
+dijo acá ten
+después la parte de comando.
+No estoy viendo dónde está el porque
+esto es nuevo está el contactor que anda
+castigar.
+Ah, vamos a castar adentro por las dos.
+Eh, para que ustedes entiendan, una
+época era factible conseguir la bobina
+del contactor. Cada contactor tenía su
+bobina. Hoy a veces cuesta conseguir
+porque son distintos. A medida que va
+sumando el emperaje son distintos.
+Entonces
+mucho para
+Entonces
+bueno, pero vamos a suponer que usted
+tiene un contactor usado y se quimó la
+en algunos casos por ahí en alumbrado lo
+que hacíamos había contactores que
+estaban rotos, pero porque le pegan un
+palazo o por una mala intervención.
+Entonces, ¿qué hacíamos? Agarramos un
+contactor que tenía la bobina quemada,
+pero que el resto estaba impecable.
+Traíamos ese contactor, le estirpamos la
+bobina y le ponemos.
+Bueno, eh
+para que pus un contractor lo primero
+que se quema es la boina. Hay que
+conseguir repuestos y en qué caso el
+acuto la marca y lo que corresponde a
+esa ampar.
+Van a ver después vamos a armar uno, ver
+cómo la bobina contor se compra eso y se
+coloca pero antes de colocar si eso
+funcionamiento, hay que pasar una lija.
+Esa hija de cómo es tipo meril o de al
+agua. y sacar toda la impureza ahí para
+que después la la
+parte que recibe actúa como imán absorba
+la otra parte sin problemas. ¿Y por qué
+por qué motivo se puede quemar parte
+la bobina? Por falta de fase de carga de
+una sobrecarga, lo que sea.
+Y el
+la parte móvil
+fusible
+que está ahí
+la parte
+nosotros poníamos también otro que
+protegía.
+Lo ideal es poner
+antes de todo eso un cuadramotor que
+vamos a ver que era funcionando de un
+contacto de lo que pasa es que a veces
+depende qué tipo de equipo está
+protegiendo
+gastando mucho un tabel se trata de
+poner los elementos más fácil para
+reemplazar. A mí me cuesta el tema de
+que tengo que manejar las escuelas
+rurales. Entonces
+a veces le saco relé térmico cuando se
+bromó, entonces le pongo solo con
+contacto. ¿Por qué hay que protegido el
+motor la bomba? Sí puede ser, pero las
+bombas monofásicas sumergible tiene un
+tablero de arranque y ese tablero de
+arranque tiene un relevo voltimétrico
+adentro.
+térmico,
+y ya sirve para protección al
+motor
+al motor de vez en cuando salta el
+térmico cuando hay problema de
+corriente, lo que sea, el consumo de la
+corriente que está es muy elevada,
+corta,
+el mismo motor tiene su sistema de
+protección,
+la misma bomba sumergible, cada bomba
+sumergible tiene su carrero de arranque
+y de protección nosotros hacemos eso
+para mí me sirve para tener doble
+protección. Si hay problema va a saltar
+lo que estáendo ahí,
+o sea, literalmente es mejor parte de
+esto que los tos arranquí
+son
+cl porque a veces son bombas importadas
+y
+y no no consigue el repuesto.
+La bomba viene con el tablero cuando
+compra
+el sumergible.
+La sumergible
+la sumergible viene con un tabler.
+Esta no va a tener que armar los
+tableros. Eso más
+la las bombas sumergibles justamente
+porque son mucho más costosas y son así
+un monstruo gigante tienen un tablero de
+arranque que eso ya viene eh para que
+vos lo instales con la bomba y después
+antes se coloca,
+¿no? Si son monofásicas tiene un
+capacitor que ese capacitor
+exclusivamente para esa bomba en la mesa
+solo comprar una marca que era roto moto
+franca y esa era exclusivamente y la
+diferencia que tiene con la china esta
+motorac y el capacitor póngale para un
+HP era 96 microfarad
+en forma norteamericana y la otra eran
+20 o 25 microfaradio
+la china, o sea, que no puedo reemplazar
+la Eh, ecco eccole. Este es el térmico.
+Esto que está acá es una bomba motor,
+tiene un capacitor de arranque
+monofásico y un térmico ahí. ese térmico
+a veces hasta 9 amp característica tenga
+y es que a veces se cuando hay problema
+de o se jode también se jode capacitor
+pero prefiero que se joda eso antes que
+se joda la bomba porque si no esta
+defracción montaje cobran
+bueno y más o menos para que ustedes
+entiendan toda la instalación
+alrededor de casi un millón de pesos
+solo por trabajo de un día más o menos,
+un
+Pero bueno, eh es lo que hay cuando hay
+poco gerente,
+eso tiene que sacar con una grua, profe,
+con una grúa o si no cona de
+de polea si es más simple tiene polea,
+pero la mayoría tiene un aparejo eh que
+hacen que suba baje
+tiene que bajar una persona sí o sí,
+¿no? Las bombas son de 4 pulgadas que
+usamos nosotros, las que usan la,
+¿cómo se llama esta? La los barrios son
+de seis y de 11 pulgadas que son caudal,
+pero generalmente para la escuela son de
+4 pulgadas, son más o menos de 5 mm.
+Entonces baja, las bombas son como todo
+el termo ese que está ahí
+que realmente no sigable la parte de
+arriba del cuerpo de bomba y la parte de
+abajo motor.
+de motores que va instalado y que hace
+girar la parte del cuerpo de bomba tiene
+unos a la vez que hace provellín así o
+así
+tiene que estar todo de forma continua y
+hace el mismo giro para que suba
+eh
+tiene que llevar un aparejo. Algunos
+tienen un sistema hidráulico que baja eh
+una columna y esa columna queda
+horizontal
+y va sacando para arriba. Generalmente
+los primeros que pusimos la bomba tenían
+caño galizado de una pulgada
+de 6,5 m. O sea, que cada 6,5 m del caño
+que aroscado
+y hay que sacar para arriba y va
+sacando. Si está la bomba así en pico de
+metro, hay que sacar para arriba, para
+arriba. Fíjense,
+si me acuerdo bien, una empresa
+constructora
+había contratado a Marquitano que que
+hacía perporación una época hacía solo
+él para nuestro para nuestro ministerio,
+después hoy no va a hacer más, pero
+bueno.
+Eh, le pidió alcano que que haga el arco
+perforado,
+que encuentre agua, que le venda la
+bomba, los cables y la parte de
+instalación sin pegar la bomba, la la
+presa. Perfecto.
+Cuando pagan lo que me voy.
+otr quería ganar placa también deación,
+pero su obrero eran
+principiantes, entendían algo, pero
+bueno, no tenían el problema. ¿Qué
+hacen?
+Van empiezan a instalar.
+Eso va tocado. Entonces hay que mantener
+lo más horizontal posible. En algunos
+casos se hace un pero tien que ir en
+forma vertical. No pueden inclinarse
+porque si no derrumba el pozo. Después
+iba a explicar cómo se hace un pozo
+perforado.
+Cuestión que tuvieron tanta mala suerte
+que ellos no vieron que ese zona rual
+había un mono que lleva la fase,
+se mueve el caño y toca el el mono es el
+mono tiene una fase,
+¿no? no el un el conductor desnudo que
+va arriba y va un transformador, después
+la tierra hace de de neutro y después de
+transformado sale 220 para la casa.
+Bueno, siempre sí
+una descarga
+medio por suerte como era pesado el el
+caño galonizado
+no quedó no quedó mucho tiempo si no se
+desprendió
+revanecido el tiempo
+en por qué le cuento esto porque a veces
+la empresa por economic gana plata a él
+Eh, la empresa de la otra ya estaba con
+equipo todo lo que se había dominado la
+forma madre, mi esposo habían hecho.
+Entonces la empresa quería ganar
+algo también sobre el pozo perforado y
+hizo eso casi muere un operario
+un operario.
+O sea, qué voy yo que a veces por querer
+ganar más plata
+enterrar tu empresa porque más seguro
+que tenga el pa tienen que pagar por
+una.
+Bueno, en síntesis
+eh la mayoría de las cuelas rurales como
+no tienen agua potable ya que se secaron
+por el tema de la
+del monte.
+Toda la vertiente que había en algunos
+sectores
+monte
+se fueron perdiendo
+esa ley que tenía ecología de que si yo
+tengo una gardinda acá tengo un radio de
+100 m que tengo que estar protegidos que
+los árboles no se ven no le dan
+importancia. Entonces, hay lugares que
+quedan sin
+se tuvo que hacer pozo perforado y esos
+pozo perforados hoy en día que depende
+la lluvia son filtraciones en algunos
+casos de lluvia y otros algunas
+retientes que se van formando abajo en
+las cavidades que son según dice que son
+estos volcanes una época que hubo y se
+van formando huecos y ahí se va dejando
+el agua. Ustedes me dice, "Sí, pero
+nosotros tenemos el afijo ahí." Sí,
+perfecto. No encontrado agua 1 y pico de
+1800. Entonces no tiene forma laedad es
+que 1200 y
+llegaron hasta allá
+del sur que hacía petróleo. Llegaron
+hasta el fondo, consiguieron la bomba,
+el agua que está ahí abajo caliente
+iba a salir para termo. Al tiempo se
+quemó la bomba. Tiempo se quemó la
+bomba.
+Entonces hoy en día traen agua no más y
+calientan un poco y le tiran unos cosas
+para o que es el agua.
+¿Qué es lo que pasa en lafer? Acuérdense
+esto es Brasil
+y esto es Argentina.
+Baja el acuífero. Acá tengo un acuífero
+con respecto al nivel de piso entre 60 a
+70 m en Brasil. Y acá tengo arriba los
+800,000 y pico alguna vez esa donde dice
+que agua misonera llegaron a lafer, pero
+llegaron a una sería una ramificación de
+la
+considón.
+Yo le pregunté a la empresa que perforó
+y me dijo, "No,
+es una una rama
+para llegar todos seguir perforando.
+San
+nivel de coso también en San José, o
+sea, que para llegar aquí, pero tenemos
+todo un nivel de agua que algún día
+cuando haya que hacer nido nosotros
+vamos a meter toda nuestra tierra y hay
+gente que va cosiddad.
+Espero que esa época ustedes sigan
+todavía
+había allí arriba.
+Pero es así, nosotros vamos perdiendo
+todo porque el agua es muy importante
+ahora en el mundo y ese acuífre tiene
+buena agua.
+O sea, que algún día así como metimos
+acá los japoneses o chinos ya que están
+comiendo todo nuestro pescado,
+lo mismo va a ocurrir cuando tenga la
+Y fíjense
+la gente de Brasil
+50 m toda esa agua hacen tratamiento,
+sacan ponen en venta y hacen agua
+mineral y exportan dónde
+el país que tiene petróleo y tiene
+guita.
+lo
+y le le mandan y se hacen plata con eso.
+O sea, que tenemos diferentes tipos de
+pensamientos donde ellos encuentran una
+renta ya hacen negocios. Nosotros
+tenemos que ver a quién le mangamos
+primero y cómo coinamos con la empresa
+para poder exacta y y perdemos
+otro que piensa que hace negocio.
+Nosotros pensamos cómo vamos cómo
+agarrar
+es así. Bueno, lo que ustedes vieron es
+lo que nosotros tenemos que hacer acá a
+fin de mesa. Quiero que todos hagan,
+dominen, entiendan qué es un tablero
+bombero. Para que ustedes entiendan,
+un tablero bombero mano de obra
+conseguido todos los materiales y uno
+puede cobrar hasta 300 a 500,000 pesos.
+Solo puede ser instalación.
+Inclusive se vende armado.
+Se vende armado también.
+Sí. todos los materiales y muchísima lo
+ten que solo, ¿no?
+Y entonces vend
+sí
+tenía que especificar para qué bomba es
+para qué bomba tenía característica de
+todo. Pero lo que quiero decirle que
+y ten que tener esto. Okay. Estos
+materiales no son baratos,
+¿no? Después el tema es
+eh
+cómo hace mantenimiento.
+Hoy en día mucho
+de Chile y la
+Esto ya tiene otro precio.
+[Música]
+que me mandaron la foto.
+Pero no es de ellos y otra bomba nueva
+cambió
+y bueno ahora porque pusieron
+la capacidad que tenía otro y se
+apareció la otra bomba
+la escuela
+así. Así que ahora estoy esperando que
+solucione o
+que elo no tiene agua.
+otro que
+sacar la duda. Bueno, le voy a empezar a
+mandar cosas.
+Me preocupa la gente nueva. Esto es lo
+que me da bien.
+Vamos a tener que empezar con el tema de
+los circuitos.
+Voy a traer fotocopia, me estudian y
+después vemos.
+La única forma de la nueva y vamos a
+hacer ejercicio, pues si no estamos muy
+avanzando y después va a faltar
+información.
+No sé cuál es.
+Sé cuál era nuevo este seguramente.
+Sí,
+una clase.
+Ah, claro.
+Vos te compraste
+cómo tu tablero
+o que no hay problema de
+inclusive yo había dicho que la fase iba
+para arriba
+y tengo un enchufe.
+Todo enchuco
+el
+por arriba
+y el salía por abajo.
+Es lo que te hacía disparo
+recuerdo negro.
+Vamos.
+mucha más calidad.
+La voz de
+acá.
+Voy a pasar
+tocar
+el otro.
+Lo primero que tengo que hacer imprimir
+entonces más o menos est
+¿Cuánto gente?
+¿Cuánta gente?
+[Música]
+1 2 3 4 5 6 7 8 9 10 11

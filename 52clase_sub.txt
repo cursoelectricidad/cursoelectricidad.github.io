@@ -1,0 +1,2615 @@
+Estamos acá
+todavía tenemos media hora, así que más
+bueno este municipal para acá tenemos
+que incidencia nosotros. ¿Qué otro
+problema ocurre
+en el sistema?
+Preguntado ahí, la potencia, la suma
+total de potencia va a ser igual. ¿Qué
+me determina a mí que la sesión de
+entrada va a ser menor? Pero, ¿qué me
+requiere dentro?
+Que yo equilibre las cargas porque no me
+no Buenas tardes.
+¿Qué esto requiere? Si yo en mi
+instalación domiciliaria instalación
+trifásica y me adquirir la carre no me
+sirve nada porque puedoar una
+total. ¿Y qué pasa? Lo que me consume eh
+en vez de ir en las tres fases una fase
+propio
+tener
+la sección de una de las fases. Lo ideal
+es las cargas. ¿Cómo hago las cargas?
+Digo, pues si tengo instalación de luz
+es bajo controlar.
+los tomas de mayor carga de usos
+generales y después voy incluyendo, por
+ejemplo, equipos de aire acondicionado
+que tengan una vivienda que tengan el
+mismo tiempo de uso. Exigo una pas acá,
+otra pas acá y otra pas acá. Ahí puedo
+prender los tres equipos sin problemas.
+Fíjense qué interesante, porque a veces
+si tengo líneas tripásicas hasta una
+ducha eléctrica, puedo eh usarlo
+juntamente con los tres equipos
+funcionando.
+En cambio, un sistema monofáico depende
+de la sección conductor que yo tenga. y
+uso la fase y un y todas las cargas de
+esos tres aires coloco en la misma fase,
+probablemente tenga un problema después
+donde
+en el por qué después veremos, pero
+generalmente siempre cuando en ese el
+consumo es demasiado, dónde salta la
+magnética en interruptor principal de
+entrada el que tiene una curva de que es
+más sensible posible que la curva se
+entonces la reacción es más rápida de
+donde me tratar
+o sinistamente esquema de conductor.
+Pero esa es la idea, equilibrar las
+cargas y yo puedo ocupar más equipo en
+la misma.
+Es un sistema de
+bueno la simbología
+y después dale después
+eh
+la simbología todo para los nuevos
+después le falta algo. Vamos una carpeta
+y después que el que falta le saque
+fotos.
+Bueno, después de esto
+termino ya
+después el tablero sesional. Acuérdense
+que yo tengo, ustedes van a ver ahí que
+probablemente, no sé si está bien
+marcada, pero la línea que está que une
+la red con el medio es la línea
+principal o la línea de alimentación.
+Línea de alimentación o acometida por la
+línea de alimentación.
+Tengo el medidor, tengo la protección
+para ese conductor, después tengo el
+gabinete medior representa
+esquemáticamente así. Después tabelo
+general se representa un rectángulo con
+dos diagonales. Y después entre este
+medidor y este tablero principal tengo
+la línea
+la línea principal que es del medidor.
+Esto, acuérdense que la línea tres lado
+viene fase y neutro, en este caso este
+monofásico y sale fase y neutro y va al
+interruptor principal este que sería
+raro. Entonces, la línea o el conductor
+que une el medidor con el
+interruptor principal de corte es la
+línea principal.
+Y ahí,
+fíjense, aparece también una simbología
+nueva para ustedes. En algunos casos
+aparece, otra no. Importante que eso que
+está ahí son símbolos básicos. Ustedes
+tú pueden poner ya generalmente
+esto, o sea, sería
+esto es
+el PAT o puesta tierra, la simbología y
+todos los tableros tienen que tener esas
+características. Nosotros podemos ver
+bien la parte de,
+¿cómo se llama? De puesta a tierra.
+Y bueno, después del tablero general,
+generalmente hay
+gabinetes medidores que están retirados
+del del edificio 1 2 5 m. Entonces
+aparece dentro de la vivienda y quien
+maneja de todos los circuitos el talbero
+seccional.
+Este tablero secional tiene esta
+característica que sí también aparece el
+sistema salud de puerta tierra y ahí va
+cada circuito, circuito uno, circuito
+dos, circuito tres dentro de la vivienda
+puede ser una variedad de circuito. Cada
+circuito tiene su protección dentro del
+tablero secional, pero también puedo
+tener en el fondo
+otro tablero sesional, un ejemplo
+clásico de la gente que tiene un en el
+fondo. Entonces de este sale un tablero
+seccionar allá en el fondo también puede
+haber o puede haber a otro tablero si yo
+no tengo agua, por ejemplo, puedo tener
+a un tablero de bondadeos también puedo
+tener un tablero sesional pero se todo
+de esta alimentación estamos hasta ahí
+más o menos. Bueno, eso que ustedes ven
+ahí es el inicio
+y dice ahí
+cuál es la parte o qué es la línea de
+alimentación, qué es la línea seccional,
+qué es la línea principal y todo lo que
+ustedes ven ahí es lo que está en el
+tema. ¿Iesa que lean? O sea, esta parte
+principal,
+esto es el inicio de nuestro
+de nuestro la
+el inicio de nuestro y esto aparece
+regamento, o sea, que a partir de ahí
+ustedes van a ver dónde tenemos
+incidencia nosotros y ahí la la línea la
+la gente de la proveedora, en este caso
+sería sino cualquier otro cooperativa
+eléctrica.
+Lo otro que lo que reciben acá son
+símbolos eléctricos. Estos símbolos
+eléctricos generalmente son los más
+utilizados dentro de un plano eléctrico.
+Después aparecen otras cosas, pero es
+para que ustedes entiendan. Ahí atrás
+también hay otra boca, hay boca de
+iluminación, hay boca centro. Fíjense
+que yo y si tengo de pared aparece
+técnicamente
+una boca con esta característica. Acá
+tengo la pared
+y esta es la boca por la aplique que le
+llaman.
+Todo esto está acá después porque es
+importante el tema de las
+toma de usos generales. Toma de uso
+general y aparece la característica ahí.
+algunos especiales le marcan
+el toma directamente ahí o si no
+directamente yo pongo 20 ampamente no
+bueno
+para no escribir para que no se sea tan
+grande. Sí. Y todas esas cosas que lo
+que tiene que entender acá, por ejemplo,
+de usos generales. Si tienen un gap y
+pongan al lado 10 amp módulos. Si tienen
+toma de usos especiales, pongan al lado
+20 amp.
+¿Entiendes? Ahí acá pon
+Sí, ahí los tomas son los módulos son de
+10 amp y los otros son de 20 amp. El
+especial de acá no. Ahí, ahí es 20a con
+mayúscula.
+Sí, 20a. Y acá a A con mayúscula. A
+quiere decir amper. ¿Qué amper? La
+unidad de corriente eléctrica. ¿Por qué
+es importante? Porque con la corriente,
+con los signos de la corriente o el en
+este caso consumo, yo puedo calcular
+el conductor, puedo calcular el
+interruptor que protege ese conductor y
+así voy desarrollando mi cargo y mis
+protecciones dentro de mi vivienda.
+Allá
+no.
+Bueno,
+eh
+empezamos a tener, ¿cómo le puedo decir?
+Algunas repercusiones
+como iniciar nuestro eh
+instalaciones eléctrica domiciliaria.
+Siempre acuérdase que parte reglamentos
+te doy información para que cosa lean si
+no tienen esa esa o no entienden
+pregunte porque lo más feo es leer
+algaron
+[Música]
+cuando uno le pregunta no sabe. Entonces
+la idea es esa. Estamos para todo
+general. Así
+sube una carpeta de toda la fotocopia.
+Por eso primero vamos poner adelante la
+asistencia. Ya ahí todo la gente nueva
+entonces yo sé el día que leí está el
+fotocopio. Porque ocurre que a veces ir
+el día de no tengo ninguna fotocopia
+no hay sang evaluación para que
+entiendan. Gracias.
+no examen una escuela
+eh secundaria o lo que sea, esto es
+evaluación para que saber qué es lo que
+uno sabe o qué es lo que ustedes saben.
+Yo sé lo que ustedes hagan, si no
+entienden por eso entonces ahora los
+primeros
+y que recibió una fotocopia se llamó una
+carpeta con toda la fotocopia que est
+entregando. Voy a dejar, por supuesto,
+eh alguna foto propia y el al que le
+falte también ese corresponde a ustedes.
+Si le falta algún
+alguna hoja el día de mañana, sáquen
+y me saquen la original, sáquen para que
+todos tengamos la misma idea.
+Bueno,
+hoy empezamos con esto,
+¿eh? Eh, después seguiremos avanzando,
+pero no eso no implica que ustedes no si
+están con duda algo, pregunten.
+Esa es la idea. Bueno, yo este símbolo
+no había visto todavía montante.
+Bueno, ese ese símbolo montante, ¿qué
+significa? Primero, para definir la
+montante, yo puedo tener una montante
+horizontal o una montante vertical.
+depende mi recorrido de los conductores.
+Una montante horizontal, por ejemplo, en
+este caso nosotros pusimos afuera una
+bandeca y ahí tengo la alimentación a
+cada del tablero principal a cada
+tablero sesional que está en cada
+a cada aula. En cada aula pusimos un
+tablero sesional. ¿Por qué? Porque
+tenemos equipos y a veces nosotros sin
+querer hacemos un experimento y se
+corta, salta allá y salta a veces acá.
+la cocina. E sí,
+claro.
+Bueno, eh en la cocina
+hay una alimentación de una línea
+trifásica hasta la cocina y ahí
+distribuye todas las aguas.
+Esa parte interviene yo, pero bueno, eh
+después hay que hacer una mejor arreglo
+para toda la parte que está allá, pero
+más o menos esa es la idea principal.
+En síntesis tengo una montante
+horizontal. En este caso se replazó la
+cañería a través de un sistema de
+bandeja.
+Eh, en vez de utilizar
+en algunos casos conductores
+subterráneos, que es lo más
+correcto que pide la
+las normas, utilizó uno parecido que es
+conductor de tipo taller de la misma
+característica
+creo que era 2 por o 4
+en síntesis de alimentación acá. Eso es
+montante
+horizontal. Si tengo un edificio, ahí
+aparece un sistema que se llama o en
+otra en otras cosas yo puedo tener eh
+una vivienda duple, también puedo hacer
+una montante horizontal y hago abajo
+primero y después hago arriba y hago la
+distribución arriba. Pero
+en un edificio va a haber en algunos
+casos un ducto, otros ya hacen o dejan
+preparado un orificio car todos los
+camiños.
+Falsa columna,
+una falsa de columna. Eso, esto que está
+acá está lleno de caño. Y cada caño, ¿de
+dónde sale? Directamente en un
+en una, ¿cómo se llama? edificio.
+Ustedes si ven ahí un esquema
+dice individual que es una biblia y acá
+es
+llamos
+interción múltiple
+interción múltiple que un sistema para
+un edificio
+entonces sale desde el medidor que es el
+el lugar principal gabinete. Bueno,
+gabinete
+la alimentación
+viene directamente
+llega acá y de acá va a cada
+eh departamento.
+Yo puedo tener cinco o seis de pisos y
+en cada piso puedo tener cuatro o cinco
+departamentos y ahí hago la
+distribución. Pero, ¿por dónde voy?
+Puedo ir por cualquier lado. Acá se
+forma un ducto y ese ducto va acá
+un conductor correspondiente para cada
+departamento. A eso se le llama
+montante. Montante vertical. lo que
+aparece la simbología ahí está un
+poquito grande, pero parte de
+vamos a suponer
+encontré mi casa,
+así que voy mejorando.
+Vamos a hacer algo más sencillo, un
+duplo
+esto nivel de piso para para que ustedes
+entiendan a qué se debe el símbolo de
+montantes. Yo tengo, vamos a hacer un
+corte, tengo planta baja, acá tengo el
+tablero seccional
+de esa planta alimentado, ya sea
+el tablero principal,
+el tablero seccional.
+Este sería el tallo sesional principal y
+aparece acá arriba
+el tardero seccionar planta uno y puede
+ser que en vez uno tenga la misma casa
+tenga otro y así sucesivamente el
+tablero sesionando
+y otro.
+Entonces,
+esto que ustedes ven acá
+es un ducto, un ducto o conducto para
+usted y te transporta la alimentación de
+acá y
+pero suele ocurrir
+en este caso, en algunos casos aparece
+una caja de paso y la alimentación puede
+venir acá y va hasta acá y directamente
+esto no pasa por acá, sino va
+directamente
+allí arriba
+está. Entonces
+todo acá, por ejemplo, si llega esta
+alimentación de abajo, entonces voy a
+tener o tener así también
+así.
+Bueno, entonces ahí significa que está
+entrando o llegando a alimentación desde
+abajo y eso no
+el símbolo de llegar a en algunos casos
+puede aparecer también otro que tengo
+y su vaca lo que sea, pero es así el la
+simbología de la montante o el caño que
+están llegando a ese eh tablero desde
+otro que está en otro sector bajo o
+arriba, o sea, Si ya se llama ese
+simbolito ahí, en otro caso se hace de
+otra forma, pero
+esa es la idea principal. Bueno, se
+acabó la hora. Disculpen la otra gente.
+Se acabó esto.
+Ahora
+me voy a concentrar. Segimos con nuestro
+eh mañana hacemos nuestro recorrido,
+vamos avanzando.
+Eso almacene y vayan llevando. Yo voy a
+llevar la información
+es lo que le di ahora para que ustedes
+para saber.
+Hasta ahora somos seis, éramos siete,
+ocho.
+Bueno, el otro ya no venía.
+Le gustó que le diga que está charando.
+Bueno, la única forma de
+no.
+Bueno,
+eh este cerrano correcto
+acuérdense a otra gente que necesita
+algún esquema o algú fotocopias,
+¿no? Ahí está.
+Vamos por parte.
+Ya empezamos la escala esa.
+Ustedes ven
+puestos perolígicos, pero la idea
+principal es que ustedes vayan viendo
+qué sigo en el tema de tomamos partida a
+través de una revisión en este caso en
+este caso un objeto principal llevarlo a
+tamaño papel y ese tamaño de papel se
+hace a través de un sistema de escala en
+la cual nosotros a través de cualquier
+elemento estáita
+podemos
+hacer
+cualquier cosa que no propongamos,
+especialmente calcular la lista de
+materiales. Estamos hasta ahí, estamos
+hasta ahí.
+ustedes
+como hay, acuérdense que hay escala de
+ampliación, escala uno en uno y escala
+escala de reducción, o sea, toda esa
+escala que nosotros utilizamos, vamos a
+ver cuántos son. 1 2 3 4 5 6 7 8 9 10 11
+12 13 creo que hay y convo 14. tiene que
+haber 14 de fotocopia,
+así que van a recibir. Ustedes ahora van
+a recibir
+dos cosas importantes. Acuérdense,
+empezamos a tratar de definir qué era la
+escala y directamente trabajamos con la
+cuadrícula para poder hacer una
+representación en este caso de un
+de un este es la 4* 6
+4* 6 ahí y 4* 6 de un recinto
+cualquiera. En este caso nosotros
+tenemos una el dibujo de una planta y
+ahí empezamos a ver conectar y colocar
+los los símbolos en este caso
+iluminación, toma corriente y toma
+corriente uso general en este caso de
+condicionado.
+A partir de ahí ya más o menos tiene una
+idea de cómo hace un proyectista
+y no solo proyista, sino depende también
+del arquitecto. El arquitecto es un tipo
+que en algunos casos nosotros somos
+losistos no define en qué lugar tiene la
+iluminación.
+en algunos casos colocando algunos
+muebles, otros colocando
+qué si ya tiene o él tiene una idea de
+qué luminaria necesita en esos momentos,
+profe.
+Sí,
+a mí me parece, bueno, ayer compañero
+había dijo que era cuando estábamos
+hablando en la escala
+que para él creía que era al red, pero
+es porque la fotocopia parece está mal.
+Dice, si la cara es la relación
+aritmética en la cual el denominador es
+la medida del segmento a dibujar y el
+numerador es la longitud del segmento
+real, ¿verdad? Real. Sí, por eso que
+apague el compañero
+y más o está parte también de el sería
+el numerador en la parte de arriba es la
+lo que vamos a dibujar y y y el
+denominador es la escala real digamos el
+el
+el número abajo. Sí.
+Y yo nosotros habíamos puesto mis la
+gente dice, "Yo y revés, el numerador es
+el dibujo y el denominador es el real,
+el tamaño real."
+Bueno, vamos a ver.
+Voy a ver
+1 porque 1 cm
+va a representar 100 cm, o sea,
+1 cm
+no porque está, mira,
+va a representar 100 cm. Sí,
+ahora metro y este se al revés.
+Después te confirmo porque yo a veces
+recibo la
+he recibido en la
+pero eh
+oigente y a veces puedear, pero voy a
+confirmar bien ahí que pero generalmente
+es una relación porque hay un factor de
+escala que es el llamo ese factor de
+escala que depende eh escala de
+reducción ampliación o sea depende de
+una medida real que yo tenga en el plano
+o la medida real y la otra medida que
+tenga el plano. Entonces, cualquier cosa
+que yo tenga, necesito tener un elemento
+para definir
+una referencia,
+una referencia para decir, bueno, esta
+medida que yo estoy tomando en el plano
+es valor de 1 m, por ejemplo, y entonces
+puedo ir a la obra y decir dónde colocar
+las bocas, porque este trabajo
+ya está en la medida puesta en el plano.
+la distancia con respecto a cualquier de
+la parte interna de la pared. Acuérdense
+que nosotros entramos cuando está la
+parcha, no cuando está asignada con la
+pared hecha, generalmente está hecho el
+reboque,
+ahí entramos y empezamos a obtener
+distintas consideraciones en ese caso.
+Entonces, para eso no ha sido el plano,
+para poder nosotros a través de un
+simple papel poder tomar una medida que
+nos ha
+implementado el arquitecto necesidad que
+tenía eserente en donde vamos a colocar
+los tomacentes. Estamos entonces,
+¿qué tenemos que saber nosotros como
+integradores?
+que cualquier simbología que ustedes ven
+ahí, el toma, la caja, la llave, lo que
+sea, son caja de cinco por 10. O sea,
+deo cuando miro el plano, ahora vamos a
+intentar hacer alguna como le puedo
+decir, una distribución, pero va a
+aparecer ahí distintos ítem y va a
+aparecer caja ortogonal chica, caja
+ortogonal grande y nosotros tenemos que
+saber qué es lo que pusimos ahí o qué es
+lo que está en el plano. ¿Por qué?
+Porque esa lista de material es la lista
+que necesitamos para poder realizar la
+obra. Lo primero
+que nos pide generalmente
+el dueño o los
+es dame la lista de materiales. Pero,
+¿qué de los materiales? Laserías.
+Entonces, si echaste un plano, te va a
+pedir la canería. Primero yo tengo que
+tener en cuenta que la escanería
+y la escaja es lo que voy a colocar
+primero, porque generalmente hoy depende
+las circunstancias
+el tipo te va a dar las cañerías, no va
+a querer almacenar los conductores
+porque necesitas menos terminas
+alcanería.
+En una hora importante,
+un edificio, por ejemplo, ya está más
+paro o lo que sea, primero que se hace
+las cañerías. Entonces, ¿qué le pide el
+tipo laserías?
+Si yo tengo un edificio, interesante el
+edificio porque en algunos
+edificios puede tener si o nueve pisos y
+cada piso son simulacros, o sea, son
+iguales al otro.
+Entonces nosotros que somos los
+calculistas,
+calculamos bien un edificio que tiene
+cuatro departamentos. Como son dos
+iguales,
+esto es muy distinto.
+Si son cinco pisos y ya hice cuatro
+departamentos,
+un solo piso, después multiplico por
+cuatro y tengo la lista de materiales
+para todos esos
+más o menos.
+Pero entonces
+voy adquiriendo
+conocimiento con respecto a esto. ¿Por
+qué es interesante saber el tipo de
+cañería? Yo siempre sabé qué estoy
+aplicando en este caso principal
+que me pide. Después vamos a empezar
+mañana con algunas cositas que
+reglamento. Cuando yo tengo que unir
+cajas con dos cajas
+entre una y otra y acá va una cañería,
+me pide que sí o sí tenga un conector.
+sea que trabaje con caño de hierro,
+cambio metálico, caño rígido, porrogado,
+lo que ustedes quieran meter, sí o sí
+tienen que ir el conector
+Entonces ustedes lo que tienen que
+después que pide también, si esta boca
+estás en un silazo sorprendido, como te
+dije acá, aparece sí, un gancho u y
+tengo que
+Como
+en la lista no se pone me compre ganch
+todas las posibilidades que se tienen
+los interpicios, los agujeros para que
+ustedes vean para colocar ya gancho U sí
+o sí. Porque por qué es necesario el
+gancho U? ¿Por qué es necesario el
+gancho U? Esta es la caja octogonal que
+está ahí abri.
+¿Por qué? Porque esta caja va fija a la
+estructura del techo y esto me sirve
+como punto de sujeción para cualquier
+cosa. Puedo colocar una lámpara. Sí, una
+lampa. Puedo colocar un artefacto. Sí,
+puedo colocar un ventilador, sí, siempre
+y cuando la fijación que hago la boca
+con respecto a arriba eso. Yo fijo
+primero las cajas. fijo las cajas
+y en algunos casos casos
+cascos cascos casco tragadora dice
+el casco que la cabeza
+dig pero para qué me puse el casco si
+todo sin cascos sí lo que pasa que hace
+mucho
+le dije
+entonces yo también me iba a sacar
+casco, le digo,
+pero
+si llego a pasar por un lado, usted me
+tiran tengan cemento
+se vaya fuera y no porque la idea del
+carro es proteger de cualquier elemento
+extraño que estén trabajando en altura,
+por ejemplo, y pasar sin querer
+no solo cemento, se puede tener una
+herramienta, se puede tener un escro,
+cascote,
+o sea, tienes que elegir entre o el
+calor en la cabeza o tener un hueco en
+la cabeza. Sí, hay dos posibilidades.
+Fíjense que está una obra
+más o menos 8 nu pisos y se le cae un
+tornillo.
+Tornillo
+y sobre el casco le hace el agujero,
+pero por suerte no le pega.
+Fíjense si no tenía casco. Igualmente
+por lo más la cabeza que tengamos.
+Bueno,
+¿qué tiene la cañería esta?
+No nada. ¿Por qué el color negro este?
+Eh,
+no, esto es exclusivamente para la
+rumbre.
+antió
+para antiócio y un antiócio eh
+es un protector anticorros,
+pero todas las cajas que tienen esta
+característica
+tiene la posibilidad
+de serutida,
+pero hay que tener en cuenta
+eh hay algunosistas que son, ¿cómo le
+puedo decir?
+vivo,
+no vivo, sino aprovechan la nordesa del
+del capatá de obra y no hacen la mezcla
+y ocupan la mezcla que tiene gran parte
+cal.
+Entonces fijan la caja con esa cal y te
+hace corrente.
+Al poco tiempo los caños corrido y esto
+también. Entonces, ¿qué se hace?
+Espada es tres hacen la mezcla mortero
+se llama de qué arena
+tre de arena de cemento. Es mortello y
+eso con eso yo fijico la
+por eso es importante en la obra. Yo he
+visto y he sacado que la gente cuando
+trabaje que para que usted entiendan yo
+trabajo con interesa para seguir
+trabajando de hierro. El reglamento está
+hecho a la medida de de la cañería de
+metálica
+y fue una obra directamente tipo
+politicista. Estaba
+estaba con la mezcla con
+¿Qué le dije?
+Sacarme todo.
+Sacar le digo, "No podo."
+Sí, pero noería
+cañería de hierro.
+Estamos
+porque después viene el rebosque, todo
+lo que usted quiera, el fino tiene que
+quedar bien, pero esto tiene que ser
+como bueno, así he visto el
+Hay gente que
+dice, "No, esto con el tiempo
+eh desarmado después las quinquenales
+con ganería de hierro." Fíjense la
+queenale del año 1945 todavía o antes y
+todavía hasta lasías están en buenas
+condiciones.
+¿Qué es eso?
+Bueno,
+para que ustedes entiendan, mañana vamos
+a empezar con el tema de cañería que
+estamos y hay una parte que dice
+canalización. ¿Para qué sirve la
+canalización? A ver,
+mi amigo,
+eso es muy fácil. Yo lo puedo contestar
+porque
+para proteger los conductores de
+para proteger los conductores
+para proteger los conductores.
+Gracias.
+Generalmente conductores que trabajamos
+dentro de una vivienda son unipolares.
+Unipolares todo lo que ustedes ven ahí
+ese cable que está acible que tiene esa
+característica. conductor unipol
+necesita protección
+contra quién y contra todos hasta
+paraora, porque puesta arriba una rata y
+tiene que esa escar esto y por
+estamos capaz en momento van a encontrar
+porque yo mismo he encontrado adentro de
+la pared o adentro de estos caños un
+cable con una funda negra el tipo taller
+eso no va dentro de esto, no de esta
+medida se puede hacer, pero con un caño
+mucho más
+bueno también se encuentra Entra murado
+directamente en la pared. Eso
+es
+prohibido
+o si no no digamos nosotros que somos
+los vendedor de cañón no pero está
+prohibido
+contacto con los caños que guard aunque
+sea los caños esos subterráneos tampoco
+se puede colocar así una pared
+subterránea no todo a través de
+canalización
+entonces por qué echarlo esto un
+bastidor ahí para que veas
+La idea de acá es que ustedes prendan
+las conexiones
+y no que yo le ponga una lámpara acá,
+les pongo el interruptor acá y después
+llegan el cable de acá a acá, ¿no?
+Ustedes cuando hagan en los trabajos
+prácticos para acuerdo a la cantidad de
+circuito, van a pasar como si fuera por
+cañería. toda la instalación,
+las las concionados se hacen cajas,
+cualquier caja y todo sigue por
+canalización. No me vengan con No, pero
+me salté acá, lo que pasa que era más
+fácil, no me interesa. Tiene que hacer
+por canalización, si no no sirve. Y lo
+mismo que hacemos en obra se hace en un,
+¿cómo se llama esto?
+Presidencia.
+bastidor en la cual representa como si
+nosotros tuviéramos est presenta aunque
+ustedes no quieran una escala.
+Hacemos una instalación domiciliaria en
+escala reducida, en escala reducida para
+que sepamos cómo va los circuitos, cómo
+va o cómo hacemos
+las conexiones. Y hay una cosa
+importante, ya que estamos hablando de
+canalización,
+esto es para proteger conductor, pero lo
+que no puedo seguir, parte dice que
+dentro de un yo no puedo unir los
+conductores, está reprohibido,
+está por más que la gente dice, "No,
+pues si no se conservadores,
+vamos a utilizar
+tiene que aplicar si el conductor quedó
+muy chico, saque otro.
+Eso es importante porque el reglamento
+me está diciendo, no me haga eso porque
+cualquier problema que tenga va a tener
+problemas por
+eso es importante
+que le cuento, pasarme en superrá.
+Fíjense, es un conductor super,
+pero sí se puede hacer un empalme si
+está justo en una caja de
+Eso sí,
+todo el derivación de una,
+ya sea cuadrada, octogonal o rectangular
+siempre en las cajas nunca dentro de la
+cañería.
+Importante para que ustedes vean, yo
+tengo dos tipos de cajas acáonal grande
+y otagonal chica.
+grande. ¿Por qué se usaonal grande?
+Generalmente se usa la chica, pero tengo
+tonal grande cuando tengo algún
+arquitecto que tiene una cierta manía de
+no
+colocar caja de paso.
+Caja de paso usado. Entonces ahí tengo
+que usar el grande que tengo más
+superficie y ahí puedo hacer las
+conexión y pasar lo que tiene. Estamos
+ahí
+a podría escucharme decir los se
+cumplió. Bueno, este es cuando está
+subterráneo. Habíamos dicho que pues un
+lado que viene hoy que era la tormentida
+y otro puede ser con todo la orgulación,
+todo lo cual quiera, pero este me sirve
+para puedo llevarlo directamente dentro
+eh de un inducto o del pozo a tierra
+directamente o a través de un sistema de
+canalización. Pero, ¿qué me interesa de
+esto?
+Este conductor yo puedo llevarlo a la
+interferie a través de un sistema de
+canalización. En qué caso ustedes ven
+allí afuera donde puedo utilizar,
+pero
+este tiene otra particularidad,
+puedo llevarlo por abajo y si me este
+cable tuvo algún problema, algún corte,
+la unión de esto no puedo hacerlo bajo
+el suelo, directamente tengo que
+llevarlo a algún lugar o levantarlo a
+una altura a través de un sistema o caja
+de paso y ahí hacer la unión, ¿no?
+Dentro para que usted entiendan y a
+veces ocurre algunos cimientos, pero
+después un par de
+en una escuela importante recién
+entregada le recién entregada sería 4 o
+5 meses.
+Eso esa obra tiene garantía por unaria.
+¿Qué pasó?
+se metió un conductor subterráneo de que
+hizo una cometida subterránea
+a través de una
+poste APR bajaron por abajo, entraron y
+entraron a fuma subterráneo
+al medidor al medidor. ¿Qué pasó
+después de 5 o se meses?
+una explosión.
+Bueno,
+un ingenio responsable me mandan a mí.
+Entonces dice, fíjese, verifica la
+instalación que hago yo. Empiezó del
+tablero seccional de dentro de la
+escuela principal. Empiezo a realizar
+toda la instalación y ningún problema.
+Hizo un protcircuito y explotó los APR.
+Sí, dentro de la de la escuela probando
+con todo elemento, no había ninguna,
+¿cómo puedo decir?
+Ningún tipo de falla,
+ningún tipo de falla, ni cotocircuito,
+nada por estilo. Entonces me quedaba la
+parte de afuera. La parte de afuera
+en ese caso,
+el caldero general tenía un sesionador
+bajo carga. No es posible.
+Podemos meter un interruptor después de
+la potencia también puede colocar su
+sesionador tetrapolar, no trifásico
+bajo carga.
+Desarmé todo porque siempre tiene
+contrafrente
+para que nadie toque ahí tiene un
+contrafente. Entonces saco todo y miro.
+Y qué es lo que detecto?
+Que
+vamos a suponer que este saltaro
+venía
+una aureola negra
+de la parte de abajo,
+como si tuviera hecho este
+subterráneo iba hacia arriba y subía a
+través de un sistema de canalización
+y la expresión ocasionó y aula me entra.
+Es como si se hubiera quemado o un
+cotochito grande. Bueno, esa negra
+estaba en la parte de abajo.
+Como eso está bajo tierra, está embutido
+en la mapotería.
+Encima tiene garantía.
+Y bueno, lo primero que hago el informe
+que probablemente
+ese conductor subterráneo que estaba ahí
+estuviera conectado,
+empalmado
+dentro.
+¿Y cómo se produce eso? Porque la
+cañería baja a través de de un ducto
+del poste, baja ahí y ese caño
+constantemente va tomando
+agua.
+Se inunda,
+se inunda
+entonces, ¿qué pasa? Como tenía unión y
+tenía
+eh vamos a suponer, podía tener
+eh primero se pone la la cinta
+cinta vulcanizada. cinta vulcanizada,
+primera cinta común y la otra cinta
+arriba para que no humedad. Pero por más
+que lo hayan hecho a la perfección
+anteriormente, para que usted entienda,
+había botellas
+para entre
+supuestamente quedaba duro y la conexión
+entraba humedada. Pero bueno, en ese
+caso
+hicieron el empalme dentro, entró agua,
+se aflojó eso y como era fácico,
+evidentemente el agua propaga de la
+corriente. Entonces un sistema de dos
+pases, tenéis tensión 380, es muy
+probable que tenga una buena cintita.
+No se ve.
+¿Qué lo hago yo? Un inform,
+conecten acá y saquen el conductor de
+afuera a la empresa de la cometida y
+revisen.
+Es muy probable que esté cortado con
+es cortado.
+¿Algún problema tuvo?
+para hacerlo más eh, ¿cómo le puedo
+decir? Más suave, dije, probablemente
+esto hubiera cortado laación.
+para ser más sutil para que pueda
+romperte a la pero tiene que sacar
+el conductor.
+O sea, a fin de cuentas la idea es decir
+lo más suave y tranquilo posible para
+que no vengan a asesinarse, que hay que
+sacar la empresa saque eso, la empresa
+que está saque y que revise
+si
+encuentra un defecto que,
+¿cómo le puedo decir?
+no solucionable
+que cambie el conductor de entrada de
+hasta allá. Sí, saquen el que estaba la
+misma.
+En síntesis, todo, si yo tengo un
+sistema o conductor subterráneo, debo
+hacerlo en un lugar
+a un nivel mínimo de 30 cm con respecto
+a mi nivel de piso. ¿Por qué? Porque
+supuestamente ahí no puede entrar.
+Está
+bueno. Esas cosas generalmente pasan en
+obra. Después se descubre, bueno,
+pero a veces puede pasar años y después
+aparecer. Yo tengo aproximante que salud
+bueno
+seguimos con el tema de canalización.
+Eso no puede estar la interpel igual.
+O sea, eso puede estar afuera. El
+problema es que el ese trecho si
+expuesto a la humedad, eso no puede
+estar cortado, ¿no? En algunos casos lo
+que hacen es que porque eh ¿qué hace el
+sol?
+Esto en vez que
+queda blanca solicción
+un problema.
+Después le vamos a dar una tabla para
+que ustedes sepan.
+¿Qué diferencia hay entre un conductor
+y un conductor subterráneo? ¿Qué
+capacidad y resamblado tambén
+yo puedo tener un conductor?
+Pregunta
+así.
+Vamos a tener, fíjense, tres tipos de
+conductores que cuatro tipos de
+conductores
+en una interción
+y este vamos acá un un ¿no?
+y ese conductor, o sea, tengo tres
+características o cuatro características
+de conductor
+para que ustedes vean
+este.
+Vamos a empezar por el que la gente a
+veces
+reemplaza esto con esto. Fíjense el
+sistema deción que
+esto. Se usa exclusivamente
+para retración.
+Para el caso de que yo tenga que tener
+un prolongador, esto es
+siempre y cuando en la obra esto esté
+por arriba.
+Por arriba, exactamente,
+esté levantado.
+Entonces este tipo de talleres se puede
+utilizarlo como promador. Perfecto.
+No sirve por está
+este polar.
+Vamos a empezar con las sesiones igual
+sesión. Este unipolar se usa siempre con
+sistema canalización porque hay que
+proteger este conductor.
+Después tenemos este preensamblado que
+es exclusivamente para instalaciones
+aéreas. Este conductor fue ensamblado de
+instalaciones aéreas. Hoy pide los
+reglamentos y está en que el conductor
+de cometida sea preizambado.
+Ya no se tiene que instalar porque
+ustedes van a ver que en algunos casos
+aparece ustedes van a ver y conductor de
+seis o de 10 o de 4 mm que es vivenda
+cometida.
+Una casa, por ejemplo, hoy en día que no
+se puede utilizar. Sigue viendo de
+nueva, la gente te conecta solo si vos
+te metes en sancado o super
+estamos.
+Pero vamos a la otra cosa importante.
+Cada conductor tiene una sección
+determinada que ustedes habían visto de
+2,5 para el corriente y cominación 1,5.
+Si es la entrada, la mínima o el mínimo
+conductor de entrada es 4 mm.
+Generalmente hoy toda la vivienda son de
+seis o de 10. ¿Por qué? Porque aumentó
+consumo.
+Los equipos horno eléctrico y todo
+generalmente de seis o de 10 o de cuatro
+ya no. El reglamento en algunos casos ya
+quedó viejo porque dice eh líneas
+principales de una vez eh de 4 mm. Eso
+era antes cuando no había ni aire
+acondicionado.
+Pero bueno,
+cuando pasaron. ¿Qué cosa importante
+saber y definir?
+Si yo tengo este conductor incolar de
+sección, vamos a poner cero.
+Tengo este preensamblado
+de sección de 6 mm y tengo este
+conductor
+subterráneo de 6 mm. ¿Qué diferencia
+tengo en con respecto a la corriente
+máxima que puede soportar?
+Ya
+este tiene, vamos a suponer de cuánto,
+de seis o de 10.
+De seis.
+De seis tiene una capacidad máxima de
+32.
+Corriente máxima que puede soportar el
+conductor de C 31. Este no es
+ese no es para ejemplificar.
+Claro, porque acá tengo también de 10 y
+el otro.
+O sea, es suponer que todos son de seis.
+Todos son de seis. Entonces, la
+capacidad máxima de un de un conductor
+unipolar de seis es 32 amp. Capacidad
+máxima es decir es la corriente máxima
+que puede soportar conductor. Ahora, si
+yo tengo un preensamblado de al igual
+que un sráneo de poca diferencia, pero
+tiene una capacidad de corriente máxima,
+la misma sección
+en algunos casos y 10 y a 2 amp más.
+Entonces, esto equivaldía tener 42 amp
+de de corriente máxima y acá también 42
+amper de corriente máxima. ¿De dónde
+sale eso?
+De la reglamentación,
+¿no?
+De una tabla que da la el tema de
+fabricación y para qué sirve cada.
+Entonces es importante que tengan en
+cuenta eso. ¿Por qué? Siempre cuento lo
+mismo, pero interesante.
+Es un electricista,
+me llama un amigo, me dice, "Tengo una
+visita acá y me dice que tengo cambiada
+la cometida."
+¿Por qué? Sí, porque dice que el
+conductor
+unipolar
+que va del talero general que usted
+tiene unito ahí. alocional
+de 10.
+E de 10.
+Entonces la cometida
+con prensa lado
+es o subterránea
+es
+y hay que cambiar la cometida. ¿Estás
+seguro?
+Bueno, para que vos te quede tranquilo,
+le dije,
+es lo primero que hace elista dice,
+"Está todo mal. Esa palabra está todo
+mal me me resulta, a ver chocante porque
+está funcionando está todo mal. Algo
+tiene que estar dentro, pero
+ven una instalación, fíjense
+que mal habla, un pas conductor y lo
+primero que dice está todo mal porque
+habrá la ventilación tiene que ser
+circuito bipolar
+a cantar un señora
+Andrada
+Antonio
+presente.
+Barrosa
+Bentos
+Benítez
+Botoli,
+Cardoso,
+Espinoa,
+presente. Chua
+presente. Landi
+presente.
+Leiva
+presente.
+Learejo,
+presente.
+Cel
+soto
+presente.
+Salsa
+salsa.
+Salsa
+salsa y barbosa.
+Barosa.
+Barbosa.
+Barboso.
+Barbosa.
+Sí. Barboso. El
+Ahí está.
+Acá hay uno.
+Sí.
+El otro se descartamos
+no puede hacer una conexión.
+Eso
+está hablando del amperaje que soporta.
+Ah, el amperaje que soporta. Entonces me
+llama el bar dice está todo mal hay que
+cambiar la cometida
+y me da la característica del curso, me
+saca la foto y le digo, "No,
+lo que pasa que dice si está tiene idea
+tiene idea cuánto soporta un conductor
+de 6 mm, pero no tiene idea cuánto
+soporta unipolar, pero cuánto soporta el
+anlado."
+Pero eso siempre cuando la distancia
+permite, o sea, la caída de tensión,
+porque
+porque si yo tengo una casa que está a
+50 m.
+Ah, bueno,
+sí, porque bueno, a nosotros no nos pasa
+más de 25 m ya,
+pero ahí ahí tienes que hacer cálculo.
+Claro.
+Y pasa con
+tiene una capacidad tiene eh
+por ahí ya de para 32 tenes que irte a
+16. Entonces tener que ver esto el
+cálculo primero, pero ahí dice cuando
+usted Bueno, en síntesis después que
+vemos eso
+normal
+de la característica de cada conductor y
+le rayo
+ahí visitar en espeso
+y bueno le digo, pero si vos crees
+y queres cambiar cambiar. Digo, pero el
+chico está consejo porque el tipo no
+puede te puede decir que está mal. Sí,
+porque aparte
+está seco, pero
+bueno, en síntesis,
+¿a qué hago yo? Ahí de acuerdo a
+fabricante aparece una lista o una tabla
+que indica la corriente máxima. Después
+te dice cada cuánto kilómetro
+había de tensión por kilómetro.
+Sistem otro.
+Profe, eso lo que condiciona eso,
+digamos, sería la calidad del cable,
+¿no?
+Claro. Para determinada cosa. Por eso le
+le volví a recalcar que cada sesión
+igual. Entonces esto tiene una capacidad
+de corriente máxima. Yo de la polarte
+está dentro.
+Lo que vos preguntaste por lo por cuánto
+soporta o por la pedida de transcción.
+Claro, por lo que soporta
+y y
+porque la sección si bien es la misma,
+¿no? Pero uno mejor calidad, por eso se
+está hecho de otra manera.
+De otra manera tiene otros conductos,
+¿no? La marca siempre igual.
+¿Cómo la marca?
+No importa qué marca sea. El asamblado
+siempre va a ser este se va a tener esa
+capacidad. Está normalizado.
+Está reglamentado eso reglamento te
+indica. Por eso no va a ir en una sola
+norma qué es lo que tiene que ser. En
+síntesis
+no cambió y todavía duración
+duración
+están hechos para cosas totalmente
+distintas.
+Bueno,
+entonces volvamos otra vez.
+Ustedes recibieron
+un tema de esta. ¿Para qué sirve acá?
+Específicamente tengo dos escalas.
+Eh, esta que está acá
+escala 1 50.
+Cualquier plano que ustedes reciban van
+a tener escala 1 50. ¿Para qué me sirve?
+es lo que empezamos ayer
+para poder definir la vistas de
+materiales.
+Entonces, en algún lado
+vamos a tomar este, vamos a tomar lo que
+ustedes pensaron ayer. Todos son
+ejercicios para que ustedes vayan
+entendiendo cómo se hace un plano
+eléctrico y de dónde tomo la
+alimentación, pero siempre tienen que
+tener idea de que sea un tablero
+sesional. Después si yo tengo una
+habitación cualquiera va una caja de
+paso. Si quiero hacer una habitación,
+¿dónde tomo? Hay gente que están
+simpática, hace unación acá y toman
+de esa boca,
+de la boca más cercana.
+La boca más cercana porque pica está ahí
+y se conecta desde acá y ahí
+dice, "No, pero si acá cerca no no va a
+tener mucho consumo,
+pero está mal."
+Lo que quiero decir en en síntesis
+que a veces el exquisitista, recién volv
+vuelvo a transmitir lo que hacen los
+electricistas,
+va una vivienda, encuentra circuitos
+unipolares en vez de tener un
+interruptor bipolar, que es lo que pide
+la instalación ahora que todos circuitos
+sean bipolares, tienen circuito
+unipolar, o sea, que corta solamente la
+fase. ¿Y qué hace elista? Dice que está
+todo malo.
+Está todo malo. Salud una reglamentación
+anterior que era válida y que también
+tenía seguridad. Entonces, bueno, este
+este es medio viejo, pero se tiene.
+Claro, esto era
+son diferentes normas. Esto es norma le
+y esto es norma americana.
+Profe, ¿y este el unipolar sigue
+permitido para iluminación o no?
+A ver. Vamos por parte.
+Especifique su pregunta.
+Vamos por parte.
+Eh, a ver, si yo tengo una instalación
+nueva,
+si tengo una instalación nueva, o sea,
+tengo que hacer circuitos bípolar.
+Si tengo una instalación vieja,
+tengo
+la obligación de decirle al tipo, no que
+está mal, sino que podemos mejorar su
+instalación de acuerdo a las normas
+actuales.
+¿Entienden? Esa es la palabra clave. Yo
+no puedo decir si tengo unipolar,
+fíjense,
+para que ustedes entiendan. Ah, y
+después me pueden decir, "No, pero si
+todavía siguen viviendo
+eh interruptores vinculares,
+¿me puede decir?
+Se sigue vendiendo,
+se sigue vendiendo, no hay no hay
+problema. Fíjense que en algunas casas
+que he cambiado interación
+eh unipolar
+por bipolares,
+¿qué hice?
+Esos circuitos de interruptorio unicular
+hecho uso ahora para solo para
+encendido. ¿Qué hago yo? Una cancha de
+pate moda ahora la cancha de fútbol 5.
+Pongo todos los interruptores
+bipolares como elemento de protección
+principal de la alimentación de los
+circuitos. Y este solo para encendido,
+como si fuera una llave de punto
+solo para eso sirve.
+también tiene una protección, pero para
+eso utilizador
+estamos o depende qué característica
+tenga la regulación. Después cuando
+veamos el tema de tero de bombeo, va a
+aparecer una base corta posible
+que es la alimentación para el relé para
+proteger relé térmico. Eno caso utilizo
+es ahí
+o 16 como máximo, pero para eso utilizo
+no más para otra cosa. Pero tiene un por
+qué
+porque
+antes protegía solo conductor fácil
+en la instalación y el neutro era
+recorrido por un solo conductor
+por todos lados.
+Entonces para hacer para cerrar un
+circuito, yo necesito fase neutro. Si yo
+tengo un circuito abierto, no meo ni
+péndula luces porque ya tengo un
+circuito abierto. Pero si tengo un
+circuito cerrado, el neutro me hace
+cerramiento, me tomo el 220 para poder
+tener la particularidad de encender una
+lámpara o un elemento receptor que puede
+ser un un motorcito por ahí o cualquier
+elemento que necesite 20.
+¿Qué pasaba? Vamos a suponer todo entra
+eh se toma como dice
+monofásico tiene un capacitor para
+arrancar el capacitor le da la corriente
+de arranking y eso está trabajando.
+Entonces esa corriente que que aumenta
+en algunos casos tres a cinco veces esa
+corriente, ¿dónde va
+la conductor?
+Sí.
+El inter el el
+circuito era un circuito cerrado puede
+aparecer por el el nutrio, esa corriente
+y como el nutro está por todos lados,
+¿dónde baja lación?
+Un equipo cualquiera.
+Puedo bajar un equipo electrónico que
+una más sencilla. Baja,
+se descarga lado,
+se descarga. Entonces ahí empezaron a
+ver, porque pues hay tipo inteligente,
+empezaron a ver que esa interacción hoy
+en día debía ser mejorada y a partir de
+ahí empezaron a ver los circuitos.
+¿De dónde sale el neutro?
+por cada circuito va directamente
+neutro. Cualquier problema, ya sea por
+la fase o el neutro se desconecta,
+salta.
+Entonces, es interesante tener la idea
+exacta que esa instalación que estaba
+ahí eh que todavía está durando,
+anda, está protegida, de lo que nosotros
+le digo al cliente podemos mejorar así
+un circuito bipolar y el tipo te dice,
+fíjense que también
+bueno hacem cambiame los cables, ¿no?
+Porque también tiene que ver tema de
+cañería, si no puedo esa cañería que
+está eh con una cierta cantidad de
+conductores
+pod introducir más conductores.
+Acuérdense que eso vamos a ver también
+que siempre hay hasta un 35%
+de la capacidad la sesión del conductor.
+Esto es el caño. Acá tengo los
+conductores. El 35%
+ocupado por conductores. Entonces, si
+tengo que arreglar la instalación de de
+ese individuo, tengo que ver cómo hago
+la transición para determinados
+sectores. Puedo ocupar acá en este caso,
+por ejemplo, teniendo los tonos hasta
+ahí puedo llegar hasta la caja de paso,
+después tengo que ver cómo alimento acá,
+¿entiendes?
+Esto es importante que tengan en cuenta
+porque
+hay gente que dice, "Bueno, vamos a a
+mejorar su interación.
+más conductores dentro de la cantería.
+Eh, cuando nosotros hicimos el curso de
+auxiliar, nos habían dicho que cuando
+queríamos pasar circuito Cellán que
+iluminación podía ir juntos, toma
+corriente podía ir juntos, pero que no
+podía ni junto iluminación y toma
+corriente. Mentira, mentira. Lo nuestro
+ha sido solo, una mentira.
+Una simple mentira.
+Acá hay una cosa muy eh sencilla.
+¿Qué me dice la impresción que después
+le voy a pasar? Porque eso mañana vamos
+vamos a hacer dos días por semana
+retroceder un poco y después volvemos
+por la gente que me escucha ahí.
+Después vamos terminando la otra parte.
+Eh, ¿qué dice la reglamentación? Es
+importante que tengan en cuenta
+cañería y esto principal para todo esto
+es importante que tengan en cuenta
+porque una vez que yo invento, esto es
+la reglamentación y y de hecho yo aplico
+en la obra. Así que, ¿qué me dice esto
+es una canalización?
+Vamos a suponer en principio, no vamos a
+hablar ni de fase nada porque vamos a
+decir sistema monofásic
+sistema monofásic una misma fase.
+Entonces, ¿qué me dice
+las normas? Que por una cañería puedo
+pasar hasta tres circuitos.
+tres circuitos.
+¿Qué te dice ahí? En la misma fase,
+pero estamos trabajando con circuitos
+monofásicos. Puedo pasar tres circuitos
+de menos fáciles. No me interesa. Acá un
+circuito, dos circuitos, tres circuitos
+más tierra, más tierra más tierra más t
++ t.
+Entonces puedo pasar tres circuitos
+y eso no me dice que f iluminación y
+toma corriente de uso
+puedo pasar
+una iluminación
+y dos de toma corriente o al revés dos
+de iluminación y y uno de toma
+corriente.
+Tengo que que saber que después de
+acuerdo a la sección del conductor, este
+cambio
+tiene una cierta sección de acuerdo a
+tabla.
+Le pongo le voy a dar la tabla. Ustedes
+van a ver después la reglamentación
+firmando con categoría de hierro que me
+gusta a mí, que es la que se nació la
+reglamentación y después aparece el tema
+de lo PVC
+que a ella no le gusta tanto.
+Aparece el PVC
+condiciones, pero igual
+en palabra simple para no que no sea tan
+complejo. Si mientras se cumpla que
+ocupe solamente el 35% del caño, pueden
+pasar tras tres circuitos en la misma
+fase,
+¿no? dicho así dos de 24 V. Sí, eso van
+en galería.
+Bueno, eso es baja tensón, eso sí, baja
+tensón, bacanía independiente.
+Ahí todavía hay una minación y
+pero si tengo especiales
+directamente ya va en cañería y va un
+circuito por poría.
+Eso es lo ideal, un circuito por
+cañería. Ahora sí tengo que alimentar un
+tiro de acá,
+la alimentación principal, ya sea fase
+monofásica o trifásica, va a dar hasta
+acá una sola. Lo que no puedo hacer
+si yo tengo la alimentación del tablero
+general que está atrás allá a la entrada
+de la escuela hasta acá, lo que no puedo
+hacer en el mismo cambio de alimentación
+al taldero
+colocar
+circuito de iluminación, por ejemplo,
+eh, al pasillo.
+Sí, sí,
+eso no puedo hacer.
+Estamos ahí,
+pero sí líneas seccionales
+líneas secional solo si, pero es
+importante que se eh a ver
+mañana le voy a dar
+ahí tengo fotocopia de esa parte
+precisamente para que ustedes vean esa
+la reglamentación y hay otra citas que
+indican directamente
+qué es lo que debo hacer con la cañería,
+los conductores que puedo pasar
+estáentado, o sea, que si uno aplica eso
+y todavía no ha tenido, ¿cómo le puedo
+decir? Problema de instalación interna y
+si en una esquina hay una caja de paso
+10x 10 y vienen dos circuitos, o sea,
+dos cañas de 3 cuart más un circuito de
+de 7 octavos en aire acondicionado,
+suponiendo, pueden pasar los tres por
+esa caja de pase.
+Caja de paso,
+no hay problema.
+Lo que sí es importante que en en esa
+caja de paso sea solo caja de paso,
+eh solo caja de paso para
+este
+circuito de aire condicionado para que
+no tenga problema o una ducha eléctrica,
+por ejemplo. ¿Por qué? Porque ahí va a
+ser tu punto de empec una lucha
+eléctrica ahí en ese empalme puede ser
+que te ocurra problema en mayor
+sobrecarga porque todo y eso ya mañana
+puede ocasionar tej pero nada más que
+eso hay una carta de paso
+lo único. ¿Por qué le digo esto? Porque
+visto la instalación
+que puse una lucha eléctrica. Ahora no
+sé porque mi idea reojo, si de la ducha
+eléctrica la caja de paso tomaron de una
+toma corriente cualquiera.
+Eso no sé pod ocurrido eso. ¿Cuándo se
+hizo?
+Y le dije eso ducha eléctrica. ¿Y qué
+debemos hacer? y cambiar primero la
+alimentación de la ducha eléctrica y
+después sacar todo ese circuito de de
+ducha eléctrica y después ver que lo
+podrían pasar ellos cambiar los
+conductores de toma corriente o o
+iluminación que tenía esa caja.
+Pero bueno, eso es
+bueno en síntesis volvemos a trabar el
+kilómbo este. Lo importante que ustedes
+entiendan y que tengan conocimiento
+suficiente para opinar dentro de una
+instalación cualquiera, usted le van
+contratar y el tipo le va a decidir qué
+necesita, eh si necesito una ampliación
+o tengo problemas de corto circuito
+sobre calcha. Voy a ver qué tipo está
+trabajando la misma línea. Para eso
+tengo que tener eventos especialmente
+medir la corriente como tenía grad.
+Entonces, ¿qué hac? ¿Qué consumo está
+teniendo cada circuito?
+Funciona todo, ¿no?
+Y después empiezo a controlar qué pasa.
+Es importante tener idea exacta qué
+produce un sobrecalentamiento o una
+sobrecarga.
+Tranquilamente
+voy acá al
+al interruptor si está bien calculado
+y tengo su descarga está trabajando al
+límite. Este se va a recalentar sentir y
+cualquiera de las partes va a sentir un
+recalentamiento en interruptor. Entonces
+es que hay una sobrecarga que está
+trabajando al límite en interruptor.
+ temprano se juega al interruptor
+o directamente sea el conductor si no
+está bien calculado. Es importante que
+tengan en cuenta porque es lo primero
+que aparece.
+Si hay cotoocircuito,
+yo levanto el interruptor
+y automáticamente
+salta el inter,
+o sea, si hay cotocircuito
+levanto el interruptor,
+porque hay un cortoocircuito.
+Ahora vamos al revés. Si hay sobrecarga,
+después voy viendo cada levanto el
+interruptor y anda tranquilamente en un
+cierto tiempo. Puede ser media hora, 40
+minutos hasta una hora y después salta.
+¿Por qué? Porque hay sobrecarga. La
+sobrecarga no actúa tan rápido. Demora
+un tiempo y después corta. Vamos ver
+porque esto está relacionado
+internamente. Hay una un bimetal,
+son dos metales y distinto,
+¿qué cosa? Dilatación.
+Entonces el calor que produce en la
+corriente hace que ese
+uno de los dos ponezca fico y otro se
+deforme. Entonces ahí se cruce la
+sobrecarga
+y este va a saltar. Pero no es
+instantáneo, sino que empieza a 25.
+Cuando se produce eso es importante, el
+corto circuito ustedes van a querer
+levantar y tac y a veces van a aparecer
+unos destellos. Es porque constantemente
+está en cuocirito. Cada vez que levante
+se produce un destello ahí en la de
+carga. Hay que esperar una vez que se
+abrió el coeficiente, el la plantilla de
+de dos coeficientes deción distintas con
+materiales. Hay que esperar que se
+enfríe y después te vuel su posición
+original y ahí levantar. Generalmente
+hay que esperar un minuto porque si no
+vuelve.
+¿Qué particularidad tiene esto en
+duración?
+Esto puede durar
+años.
+¿Por qué? Si está bien calculado y la
+sobrecarga o está bien dividido los
+circuitos, esto dura tiempo.
+Ahora, si constantemente está en otro
+circuito, está con sobrecarga por todos
+los circuitos están acá, porque hay
+veces que ustedes van a ver o ir a un a
+un tablero
+y generalmente en algunos casos aparecen
+dos térmicos sin una térmica que maneja
+toda la casa
+y hay circuito y te sal y te salido
+de duración,
+o sea, que no es que si hay
+constantemente por circuito
+constantemente sobre carga. Este
+interruptorio va a durar poco tiempo,
+poca vida útil. Poca vida útil.
+Bueno, otra cosa importante, hagan
+preguntas.
+Bueno, en síntesis
+van a recibir esto
+todo tiempo.
+Bueno,
+nosotros
+esto que hicimos ayer era interesante.
+Estamos uniendo. Acuérdense que línea de
+tro indica la línea de cañería. Y esto
+entendieron más o menos.
+pregunta de él.
+Ya me calenté porque
+vamos a acordar la canción
+porque el tablero seccional
+señal
+si era de la misma siempre formación me
+enojo.
+No, porque puede decir eso.
+¿Dónde te dijeron? en la escuela de
+jóvenes y adultos la 17
+para que es
+no eh es importante que tengan porque
+esa es la condición fundamental que no
+no hay está reglamentado y está
+evolucionado, se está haciendo con esa
+característica y todo así ella.
+Bueno, pero
+sí hay proyectos de arquitecto y
+profesionales que no sé si son
+arquitecto maestro mayor de obra o
+técnico electromecánico que uno mira un
+tablero, el tablero, un plano eléctrico
+y ¿qué aparece en el plano eléctrico?
+Circuito de cañería de iluminación por
+un lado, circuito de eh coma corriente
+por otro lado, circuito
+por otro lado, especial por otro lado.
+Y cuando uno va a la obra, ¿qué entidad
+deía?
+Y esto
+para qué sirve
+queuda la la casa de Cañería.
+Porque el el plano decía circuito y puso
+todo por separado.
+Cantidad de generos,
+no es así. Estamos
+antes que me olviden otra vez.
+Acuérdense tres circuitos
+por canería. Si tengo fases tiene que
+ser de igual fase. Tengo una línea
+trifásica tiene este tres circuitos por
+cañería igual fase. ¿Por qué? Ahora que
+me acordé para ver cómo cilíro. Yo tengo
+un tablero. Esto es un tablero a nivel
+de piso más o menos una altura 50. Tengo
+una alimentación
+trifásica de 80.
+Tengo cuatro conductores, tengo
+el ITM. ITM significa
+interruptor
+termomagnético.
+Entonces vienen los cables. Siempre es
+importante que vaya entendiendo. Yo
+acuérdense que yo hablo demasiado de
+acuerdo, pero la alimentación siempre
+por arriba. Esto siempre por arriba.
+Interruptor termomagnético siempre por
+arriba y la salida por abajo. La
+alimentación principal por arriba y esto
+por abajo. Pero tengo una alimentación
+trifásica. Ya pued esta alimentación la
+tablerose la tablero sesional principal
+puede ser subterránea o aérea.
+Cualquiera de las dos es importante,
+pero tiene que llegar las tres fases más
+neutro arriba. Tres fases más neutro
+arriba. Vamos a suponer que yo tengo una
+alimentación trifásica y tengo
+mínimamente
+ocho circuitos.
+No vayan a hacerlo como siempre, pero
+ocho circuitos. Fíjense que tengo ocho
+circuitos. Si tengo ocho circuitos,
+depende que si tengo iluminación, toma
+corriente, lo que sea,
+vamos a suponer que son solo
+ocho circuitos.
+Solo
+iluminación,
+una casa grande, por supuesto, y toma
+corriente
+de uso general y hablamos como tipo
+especial.
+Entonces, ¿qué debo hacer o qué se hace?
+Lo mínimo si tengo esto, una
+alimentación trifásica,
+un caño, dos cañon y tres caño.
+Acá
+van los ocho circuitos,
+tres fases diferentes.
+Esto puedo tener
+para tres aires. Uno, dos, tres aires,
+tres cañerías independientes para tres
+aires. ¿Por qué le digo esto? Que hace
+un electricista,
+vamos con poco conocimientos de obra,
+experto, falta de experiencia.
+Hace lo mismo ahí
+y esta parte
+me pone 1, dos, etcétera. 8 salidas.
+Ochoso me pone
+para una interación trifásica.
+Ocho fíjense con tres ocupos tener hasta
+nu nueve circuitos acá.
+Lo único que tengo que tener en cuenta
+la sesión del camino.
+Pongo
+cómo es tan sencillo. Si sabes si
+sabesamento, por supuesto, y cómo
+trabajar en obras. ¿Entienden cómo es el
+sistema?
+No es difícil, sino que
+eh por eso eh a medida que vayan
+leyendo, pregunten. Se queda callado.
+Callado fuerte,
+profe. Y el
+te veo con cara de poco amigo, aunque
+vos no creas, yo te estoy eliminando. Si
+vos no entendés, avisar, si no te gusta,
+decime. Si que que ahorita aprender otra
+cosa, decime. O sea, todo es cuestión de
+de que fale. dijo, "Porque si no yo lo
+que veo eso, que gente perdida, sino que
+necesita información. O a veces tengo la
+idea de venir a un curso, como vinieron
+gente,
+eh, vino una gente, una,
+no sé, clase combativa, un grupo de
+gente tenía casi 50 personas
+y
+eh a veces era difícil 50 personas.
+Después empezó a pedir gente que para
+que se ligue los 12 hasta 30 y después
+los 20 iba para otro curso acá hacíamos
+también y bueno, pero había personas que
+venían con la idea de hacer solo
+eh,
+a ver como reemplazo de
+de interruptores.
+Interruptores. toma prog especialista
+especial querían ser la parte de la
+de una vivienda, pero con todos los
+circuitos básicos.
+Perfecto. Digo, pero acá lo que
+proponemos acá proponemos una persona de
+oficio que tenga suficiente conocimiento
+técnico,
+¿no? Que no salga de una capacitación un
+técnico industrial o escuela industrial,
+pero que tenga un oficio para que le
+sirva en el desarrollo de su tarea
+dentro
+de lo que es un montador en
+instalaciones eléctricas. Vamos. Por eso
+yo le digo, ustedes chicos nuevos tan
+atrasado, vamos a hacer todos los
+circuitos. Perfecto, pero les tengo que
+contar de dónde sale eso, no de dónde no
+sale. Puedo venir acá y poner los
+cables. Digo, este cable es fase y
+neutro.
+Eh, de acá también fase un neutro.
+Enchufo acá y acá doy 220 y pongo una
+lámpara.
+¿Entiendes? O sea, la idea acá es que
+sepamos de dónde nace, qué es la
+corriente eléctrica, qué qué es lo que
+pasa por dentro un conductor cuando pasa
+la corriente eléctrica, ¿qué provoca?
+Porque esto que usted acá lo que ven son
+conductores de cobre que todo el manojo
+me da una sesión determinada de
+conductor y esa sesión determinada es la
+que me permite soportar la cantidad
+de corriente de cada consumo que yo
+tenga. Es estamos Bueno,
+eh yo siempre muy confundo. Bueno, en
+síntesis
+lo que me interesa de acá, aparte la
+escala que detecten la simbología y a
+partir de ahí armamos
+una lista de materiales.
+Ahora por eso que está más está más
+prolo, no por eso que no se entiende
+nada. Claro,
+la ventaja de la
+no se entiende nada. Mentira, Pablo,
+pero
+usted y yo entendemos. Sí, no está bien,
+pero eh el que estaba en el principio
+sabe cómo va esto y
+eh por ejemplo había dicho que que si
+tengo, por ejemplo, un ITM de 10
+ampinación se soporta hasta 15 circuitos
+o 15 o 15,
+no puedo poder poner hasta 15 bocas por
+circuito. Ah,
+o sea, ¿qué dice el reglamento? Que yo
+en el
+circuito
+que sale directamente el interruptor,
+ese circuito yo puedo conectar
+hasta 15 vocas.
+15 vocas
+como máximo, dice. Te dice que ponga
+15 hasta
+hasta 15 bocas.
+Si no te queda en el medio mejor. Bueno,
+pero eso mi pregunta es, por ejemplo, si
+yo tengo una caja seccional, se citea,
+ahí va a estar mi estos y de ahí hago
+todo loado.
+Yo tengo 10 boca
+y y no, pero vos podés salir
+esa boca de dominación no es que esté en
+el mismo lugar, sino que puedes ir acá y
+acá hace la distribución. Acá ya tenía
+1, dos, 3, cu, cinco o seis.
+Ponerle vos salís allá.
+Vos venís, ponés al medio y ahí te haces
+la discusión.
+Claro, vos sabés que está haciendo tu
+distribución y depende dónde tu vo se
+hace el encendido, eh, ¿dónde dónde
+colocó el interruptor? Ahí
+porque no digo para el tablero no para
+que quede más prolijo. Ahí llega solo
+pase neutro hasta una caja y ahí hago
+todo el desaro. Pero fíjate, ahí yo
+tengo una caja de paso ahí.
+Sí,
+yo hago una eliminación acá. Perfecto.
+Después sigue y va acá y ahí
+voy tomando la puede llegar a 10 o nueve
+de boca, no hay problema. Lo que te dice
+máximo de 15. Yo qué hago que porque en
+una casa yo tengo distintos ambientes.
+Yo hay casas que vos podés poner, eso
+depende de la electrificación para que
+ustedes entiendan, hay electrificación
+mínima, media y superior. ¿Qué significa
+eso? que yo puedo tener una iluminación
+como este caso eh superior que una
+entidad de artefacto. Puedo tener una
+media que pueda ser la mitad de esta o
+uno solo acá.
+Son distintos tipos de electrificación
+que me permite también me permite al
+operario al al oferente al propietario,
+qué es lo que él quiere. Por eso es
+importante el plano eléctrico, el
+esquema que ustedes hagan, para cuando
+vayan a hacer sepan qué es lo que quiere
+el tipo. Si quiere una boca acá no más,
+voy a pon una boca acá. Ahora si quiere
+tres bocas más, esto es fácil. Aquí
+estamos. Sí, hago uno, dos y tres
+cuadritos. Entonces siempre hago tres,
+hago la diagonal, diagonal acá otra vez
+y diagonal acá otra vez. Esto después
+borro y tengo las tres bocas ahí.
+Ahora si quiero seis después enseño que
+cosa, pero ahí tengo tres bocas para
+colocar. Eso depende del grado
+deficación que yo quiera. Hasta ahí
+vamos bien. Entonces si yo tengo una
+casa, la casa tiene distintos
+compartimentos. Tengo dos mitorios, tres
+dormitorios, tengo libre, comedor y
+después tengo cocina, lavadero, lo que
+quiera, eh, iluminación inferior, lo que
+sea. Entonces, ¿qué trato de hacer?
+juntar, vamos a suponer los dositorios
+más el
+el baño, un circuito de iluminación
+y después que tenga de toma
+el un circuito de iluminación
+justamente depende si tengo la cocina
+al lado
+al lado, pero la cocina tiene una
+pequeña particularidad. Hoy en día la
+cocina es una fuente donde tengo los
+mayores cargas.
+exuando la ducha eléctrica, pero ahí
+puede tener uno eléctrico, puedo tener
+una cocina
+eléctrica o una nafa eléctrico, o sea,
+tengo que ir previendo que esos son
+circuitos
+especiales. Entonces voy armando mi
+tablero con la cantidad de cosas que voy
+o sea así se hace un porque ustedes
+tienen que entender si se van algún día
+que esto es máximo máximo positivo,
+pero yo puedo dividir esto en algunos
+casos 7 y o en dos circuitos más. ¿Y qué
+me implica que hago yo recorrido y en
+vez de una térmica pongo otra térmica
+más?
+Aumento mi capacidad de la dimensión de
+tablero, pero tengo mayor protección
+porque tenía un lugar acájo con un
+interruptor en el otro sector el otro
+interruptor y protejo la otra zona, o
+sea, ya voy sectorizando mis problemas
+si tengo un protcircuito principal en el
+de 15 que
+yo por ejemplo tengo
+te había comentado que tengo ya un un
+cableito ya hecho embutido.
+Sí. Bueno, estuve mirando y tengo es un
+departamento chico, tengo eh un
+interruptor para
+una habitación, digamos, y tengo otro
+interruptor para la instalado.
+Entonces, yo quería sacar uno y así
+hacer el espacio para meter una una.
+Entonces iba a poner todas las
+iluminación en un solo que vaya una sola
+eh termomagnética
+y ahí me quería un espacio para poner el
+que tomar en cuenta también de que es eh
+qué apagan ese anterior. ¿Apagan solo
+las luces o apagan?
+No, no fue porque como que me dieron dos
+dos para iluminación, dos interruptores
+magnéticos para iluminación y dos para
+toma.
+Ay,
+y podes poner, puedes poner la
+iluminación en una sola.
+Una sola. Claro, yo quiero que me sobre
+el espacio
+eso puede hacer.
+Sí, puede ser,
+no hay problema.
+Pero por ejemplo lo de palma y todo eso,
+trato de ver una en una caja solamente
+en una btera de distribución podría ser,
+¿no? Hay que ver. Él va a tener que
+revisar primero la caja de paso, cómo
+está, cómo sigue la
+y después ver.
+Exacto.
+En tu caja cosa más cercana, ahí vo a
+tener que fijarte a dónde van tus
+circuitos. Ahí vos le palmas y después
+delimitas la vamos a suponer que vos
+tengas, como escuché, no sé, pajarito,
+vos tenés iluminación por un lado, dos
+circuitos de iluminación y dos circuitos
+también. Entonces, si vos tenés por
+separado eso, no está mi ten separado,
+¿qué hago yo?
+Dos circuitos de iluminación y dos
+circuitos de toma corriente. Acá no más
+hago el empalme acá arriba acá. Ahí está
+la administración. No sé si me
+entendéis.
+Sí.
+Voy a tener dos circuitos de iluminación
+junto estas dos acá y las dos tomas
+junto ahí que me sobra el espacio
+y a quedar. Claro, porque para qué voy a
+tocar la la caja si está funcionando,
+para qué voy a hacer tocar las si está
+funcionando. Hay tal o no.
+Y eso está permitido.
+Eso sí.
+Sí, supongo.
+Por ahora sí, porque él está
+consiguiendo esto. Si la aquí se boca
+que él ponga esté en el mismo.
+O sea, lo más fácil es que vos
+desconectes la salida de un circuito.
+Tiene dos piezas. No creo que tenga
+tanta iluminación. Dos piezas.
+O sea, que
+cuáto tiene tres focos cada pie.
+Ahíamente seis en el baño.
+Ah.
+Toda tu casa,
+eh,
+toda tu casa. Un departamento,
+una una cocina de comedor, un dormitor
+de compent las 15 boca,
+¿no? Pero digo el junta ahí todo, saca
+la la la función que va a cumplir qued
+lo mismo para eso siempre y cuando estén
+separados así. Si ya preocupate.
+Se puede poner un
+también puedo hacer lo mismo.
+Un terminal TI, unir los dos cálos.
+Terminal tip.
+Hay hay un terminal que es terminal TIF
+justamente doble para eso.
+Bueno, eh
+parece tener la pinza suele apretarse
+¿Qué me queda?
+Vamos a hacer,
+vamos a hacer ese lo mismo que está ahí,
+pero vamos a hacer juntos, pero no vamos
+a hoy porque si tenemos aquí espacio. Lo
+importante que yo le voy a explicar
+y que todo lo que ustedes tienen ahí,
+nosotros tenemos que llevarlo a un papel
+para la cantidad de de cañería que
+cañería. Ayer empezamos con cañería 7
+octavo
+que es del aire acondicionado. Siempre
+es importante en cualquier lugar que yo
+tenga, por más dibujo que esté cuadrado,
+la alimentación tomo en forma recta.
+Cañería va forma recta. No voy a curvar
+en estilo sin la cañería de esto que va
+hasta acá es recto. Está depende qué
+tipo de escala utilizo a través de
+escalímetro o en algunos casos se
+llamaban triple calímetro porque tiene
+todos los valores de escala. La otra vez
+estaba mirando un video y justo para
+esto es un centímetro
+y hay escalímetro que también figura por
+una escala y dice metro.
+Ese está el metro.
+Sí, no, hay alguno que dice metro.
+Acá es centímetro. Uno en 100 cm. Ahí
+que dice metro. ¿Por qué? Porque es un
+escalímetro o un para eh superficies más
+grandes. Un mapa, por ejemplo, un
+recorrido de una ciudad urbana.
+Entonces, ya está en metro, es decir, y
+algunos están en kilómetro.
+¿A qué voy yo? Siempre hay un elemento
+que yo puedo tener en mi mano para poder
+definir.
+Vamos a suponer que crear un plano o en
+este caso un mapa. Sepa de acá de
+posado, ¿verdad? Mido así, abajo aparece
+una escala y teniendo un elemento mido
+acá y sé cuánto kilómetro queda de acá
+ahora.
+Todas esas cosas interesantes porque
+está hecho en escala, o sea, que no
+puedo eh
+tengo que tener la suficiente, ¿cómo te
+puedo decir?
+Idea de que es una escala.
+Entonces tengo un plano en planta.
+Perfecto. Plano en planta.
+En este caso,
+tomo la medida de acá, que lo había
+empezado ayer. Este es 7/8 derecho hasta
+acá me da un valor.
+Después esto habíamos dicho que es 030,
+por eso que está
+altura 230 con respecto al nivel de
+piso. La sirazo de 3 m. Entonces, tengo
+la caja de paso a este lugar, se hace el
+eh la distribución y se y se utiliza
+como caja de paso para colocar esto.
+Después trazo los temas de la cañería
+y fíjense
+que después vemos el tema de conductor
+porque el primer paso que hacemos
+nosotros que somos instaladores es
+canalización.
+El primer paso que hacemos es
+canalización.
+Entonces
+vamos a mover y vamos a hacer
+una tablita en la cual vamos a poner
+todas las cajas, las cantidades para
+un esquema chiquito.
+Después el día de mañana le voy a traer
+un poquito
+y el día de mañana van a tener una
+casita chiquita.
+¿Para qué le sirve esto? Porque ustedes
+tienen que tener, como que puedo decir,
+eh
+una forma
+de poder
+dimensionar
+las cantidades de materiales que yo
+necesito para la acción. Acuérdense que
+esto es una parte muy importante porque
+cualquier empresa constructora le
+contratan y lo primero que le van a
+decir, vamos a esta obra, quarteate el
+plano, le dame las cantidad de
+materiales, sea las cañerías.
+y tiene que saber.
+Distinto es si yo hago mi interacción
+propia, pero si van a trabajar por una
+empresa que digo que la empresa me
+amiga, lo que sea,
+mandarme gente que sepa
+le los planos,
+leer los planes y se me saque los
+las materas de materiales.
+¿Por qué interesante?
+Acá cuando ustedes le den los materiales
+al al propietario
+viene, vamos a suponer, fíjense, vamos a
+reverización
+y viene y le contrata a un tipo, le
+dice, "Sácme la lista de materiales el
+tipo de cable que necesitáis y las
+cantidades."
+Fíjense como élita.
+Eh, necesito un rollo de 100 m rojo, 100
+m azul, 100 m de todo de 2,5 verde
+amarillo. Después necesito 100 m de
+conductor de 1,5 rojo y 100 m.
+Entonces, eh
+esto como que es real.
+Ya meñaba me dice, "Eso que hace el tipo
+es
+después se queda."
+Supone
+supone que esta vista de materiales que
+está bien, pero es mentira porque le
+hizo valor aproximado y probablemente le
+haya con exceso, o sea, con
+materiales
+sobrantes un poquito más de lo que
+necesita. Un poquito más que necesita.
+Entonces el primer el tipo que no sabe o
+el propietario que no sabe primero va a
+comprar. Si el tipo está constantemente
+en obra va a ver que le va a sobrar
+cable
+si noamente todo lo que sobra lleva
+fulano.
+Entonces
+ese tipo
+después pierde credibilidad. Acuérdense
+electricita.
+Ver
+agarro mi electricita. Yo soy
+electricita es. Ah, bueno, saca la y me
+una tarjetita. Mira, así de acá y se
+vería nombre y ya.
+Pero acuérdense una cosa, esto no sirve
+si soy un buenista. Puedo tener tarjeta
+que yo quiera, pero lo que vale es el
+trabajo, la honestidad y encima sobre
+todas las cosas el trabajo bien hecho va
+de boca en boca.
+Entonces
+dice, "Che, es que tú ah sí contraista
+bueno y me hizo una interacción tanto el
+tipo vaya a mirar sí cómo se llama el
+número." Sí, le voy a llamar o así
+trabajo de visita, ¿no? Porque yo tengo
+acá hay veces que hay sal internet así
+producto electricita
+domiciliario con capacidad industrial y
+cosas ahí eh
+consulte,
+hago relevamiento y doy presupuesto.
+A
+al tipo que no no no puede ser que le
+invite la primera vez que le haga
+presupuesto.
+Hay una voz donde esta chica dice
+relevamiento
+e podría mirar póngale un valor seguid
+llama por teléfono. el tipo
+eh, ¿qué le peso por realizar su
+interación y
+por eso bueno siempre y cuando yo sea un
+buen
+Estamos?
+Es lindo la parte eléctrica ahí la
+burro.
+Pero fíjense, tengo casos especiales.
+Interruptor se quemó el interruptor
+estaba en el tercero general, curva B,
+había que cambiar.
+Esto viene la alimentación por arriba y
+la salida por abajo.
+Desconecto acá,
+saco dos cables que va la casa. Me
+faltaba la parte de arriba.
+desconecto.
+Fue a mirar medior desconectó la fase
+que no tengo energía para
+entonces cambia el el interruptor de
+alimentación y cambia la
+compró el interruptor estando,
+¿verdad? Vamos precios de hoy. Estoy
+hablando hace 5 años atrás.
+Va y cobra estuvo y media hora, póngale
+a fecha de hoy. Mínimamente le cobró
+entre 60 y 80,000 pesos.
+En esa época de 60,000es
+y
+como era
+profesor de una escuela, no sé si era
+y con
+lo mismo que me pida el profesor de aire
+acondicionado que cambi una térmica le
+cambes.
+Y como con pich va
+bueno primero hago cuenta
+dije loco, sacraste
+y no, pero es lo que yo pensé en lo que
+era un precio accesible
+que no me sangraste
+porque no hiciste nada de otro mundo.
+tiene otro que metí, pero eh el peligro
+que se dio se empezó a buscar excusas en
+síntesis. ¿A qué hago yo? Después vamos
+a ver el tema de los precios que se
+cobran para que tengan idea. Eso aparece
+en una revista. Si van a comisión
+aparece electrocalador,
+eso de Buenos Aires,
+y tiene bastante
+eh valores de mano de obra. Si van y
+compran algo enemisiones, le digan,
+"Che, pues voy a meter una revista y le
+dan una revista chiquitita que después
+le voy a traer y aparece en la última
+hoja
+los precios que se cobra por mano de
+obra y
+canalización y mano de obra por cableado
+y después para poner algunas técnicas
+tienen como bases. ¿Por qué le digo?
+Porque yo no puedo poner cosas.
+que tiene un valor de referencia y ese
+revista instalador es a nivel nacional y
+preguntan
+sí preguntan en cada provincia los
+valores más o menos la información de
+distintas provincias. Entonces hay un
+valor promedio decir, "Bueno, esta zona
+noreste tiene este valor y eso valor que
+en algunos casos para otra provincia es
+bastante
+alto." Entonces tengo que buscar la
+forma de que qué es lo que me permite a
+mí trabajar con que gane bien y un valor
+aceptable y tendré como punto
+referencia. Después vamos a ver, pero
+para que ustedes entiendan
+que empezamos con canalización.
+Entonces
+todo el compio de la obra es
+canalización y cableado de iluminación,
+por ejemplo. Entonces, si peso solo
+canalización,
+el presupuesto y la mano de obra de
+canalización es un 60%
+de valor de la mano de obra
+total.
+¿Qué significa eso? Canalización más
+cable
+un 60%.
+Yo hago la canalización,
+cobro
+el 60% de la mano de vamos a suponer que
+era 80,000
+o sin valor o 60,000.
+El valor de una boca picada, la pared
+eh todo si manejado bien que dejar bien
+firme, bien se ha combustible toda la
+canalización
+la gente final y fácil fino y esto queda
+finito, bienadito. Perfecto.
+ente la cantidad de boca
+pasó un valor
+dijimos 60 por 60%
+sería
+36,000 pesos por boca
+la mano de obra
+canalización
+por quar otro porcentaje para el
+cardiado. Entonces, ¿qué hace? El primer
+tiempo en un momento hacemos la
+callación, contamos la cantidad de boca,
+o sea, siempre ya usted han tenido el
+presupuesto que yo le di a él
+propietario, este presupuesto sale la
+obra por mano por mano corriente y pongo
+abajo un agregado que dice forma por
+boca, ¿cómo le puedo decir? adicional
+adicionales
+¿Por qué? Se lo entonces hago todas las
+bocas hace poco.
+Sí,
+ahí es importante la gente que hace el
+trabajo es importante que sepamos qué es
+lo que está haciendo los p ¿Cuánto
+cobre?
+Eh,
+si quieren ya les digo ya hay una página
+que se llama costo de mano de obra que
+toma la referencia en las distintas
+provincias y del precio que se le yo
+cobro el 40% menos.
+Este dice
+ahora voy a traer una revista
+actualizada y
+o sea si quieren saber mi precio de ese
+que figura ahí sac 40% eso
+bueno de ese 40% el total si me contrat
+mi referencia
+el otro 40
+llego a serado hoy cobrase 40
+aument
+elite de la cuerda del 100.
+Fíjense, este haciendo un negocio, está
+buscando, está buscando la forma
+como el chiste de la
+Bueno, pero el problema es que pasa
+muchas de las revistas como en el
+instalado distintas páginas que te dan
+un precio a nivel nacional, muchos son
+muy altos y hoy es de o de mundial
+conocimiento que acá la mano acá la mano
+está muy jodida, los materiales son
+caros y la mano de obra es car y yo Como
+todavía no estoy en la necesidad de
+tener que trabajar todo el tiempo,
+porque si no no voy a comer, porque yo
+todavía tengo la suerte de vivir en con
+mi viejo y yo lo lo que yo hago para
+ayudar en mi casa, yo busco un precio
+que a mí me permita trabajar y que la
+gente también pueda pagar.
+Esa es la realidad hoy en día, porque
+nuestro trabajo es importante, pero
+nuestros materiales trabajes muy caros.
+Bueno, eh nosotros lo que estamos por
+buscar es los materiales, ¿no? Lo que le
+quiero decir que lo primero que se hace
+la canalización y se puede ocurrir la
+canalización y a veces ocurre lo
+contrario. Hicimos la canalización y el
+propietario
+agarró y dijo, "¿Has conocido que
+hiciste ahí?" Che, fíjate cuánto me hac
+por cableado. Yo tengo un plano, un
+esquema más o menos y vos fijaste cómo
+vos podés
+dar un precio y ahí ya empieza el juego
+de pero nosotros cobre la canalización.
+Lo mismo que a mí me hacen hacer el
+proyecto después, ¿no? El proyecto tuyo
+se va a pagar con la dirección técnica y
+a veces
+ahora ya no si no pagar no tener
+proyecto, pero a veces cubre hasta las 3
+te vamos a contratar para la dirección
+técnica y de ahí vamos a introducir tu
+proyecto. En síntesis, lo primero que se
+hace la canalización, después se cobra
+eso y a veces
+podemos cablear y a veces no. Después le
+vamos ver propietario.
+Claro, a veces hacemos aparecer los
+planos, entonces el tipo por lo menos
+tiene que empezar a investigar dónde va
+la canalización para poder yaamos los
+sentimientos no llevamos los plan.
+¿Entiende cómo fue el tema?
+Bueno, seguimos con media hora antes.
+Mañana les vamos a ver otra cosita. Eh,
+el esquema general es importante para
+conocer dónde hacemos la interacción y
+cómo empieza nuestros sistema
+y el recorrido de la cometida, de todo
+el sistema. Pero esa es la base. Yo le
+voy a ir adelantando cositas.
+Eh, saqué fotocopia. A medida que voy
+entregando la fotocopia, guarden. El que
+no tiene fotocopia me levanta la mano.
+Se lo voy a pedir. Si no tengo ahora,
+traigo para la mañana. El tema acá es
+que todos tienen la misma información,
+no hay eso que tú cuando se hace la
+evaluación,
+ay, no sabía eso no tengo.
+Entonces,
+eh,
+estamos mal.
+Y encima la la que viene después al
+final es a carpeta cerrada.
+Sí. La la de visita fue carpeta abierta.
+Ahora ya el montador de cita ya es un
+poquito más exigente porque van a salir
+una cierto oficio y ustedes van a
+charlar con elo
+y no puede ni llevar una carpeta así a
+esperen yo voy a contestar seguida eso
+me preguntó está acá leo y después me
+apunta acá en el otra vez
+después vemos o sea esa no existe.
+Tienen que ver con una idea. Solo la
+auxiliarista puede tener una cierta
+ayuda, vamos así
+ayuda, ¿no?
+Auxiliar puede tener, ¿cómo le puedo
+decir? Un un desconocimiento o
+expresarse mal,
+pero el montador ya no tiene que ser
+otra otra responsabilidad,
+otra responsabilidad,
+el recao de toda la instalación
+eléctrica y él es responsable de
+instalación eléctrica instalar. Yo soy
+responsable del proyecto
+pero el instalador es responsable de lo
+que hizo en la obra.
+Se hizo mal con el proyecto y si yo hice
+mal el proyecto, bueno, responsable yo,
+pero eh generalmente instalador debe
+conocer el proyecto
+y el plano y saber por qué es esa cosa.
+Todo es parte de la reglamentación. O
+sea, que
+bueno, vamos a meterle un poco de teoría
+a a la gente nueva y después vamos ir
+viendo cómo hacemos unas prácticas
+chiquitas para que ustedes ahí
+probablemente sian más obras, eh, si no
+les ponderemos por ahí, harán la parte
+de de práctica y acá seguiremos con la
+otra gente para que gente nos aburra,
+pero igual viene bien siempre saber más
+cosas.
+Lo que hizo el tipo acá fue demasiado
+bueno.
+Ahora no sé si puede imprimir todo. Ah,
+se puede imprimir todo.
+Sí, se puede imprimirse para que tengan
+muy bueno
+sacaste foto
+que hablamos.
+Así que
+todo lo que hicimos hizo un sitio
+weballado
+espectacular.
+se que todos los días notaste todo lo
+que se habló, lo que se dijo,
+todo lo que dijo, todas las fotos que
+se le cayó el al profesor, todo
+mandar el grupo ahí para ver una chica
+vino el tema de la inyección que estaban
+buena la que pusieron en inyección
+también puso
+muy bueno muy bueno un punto de
+no realmente me sorprendió Yo yo
+realmente no pensé, yo pensé
+yo miré la letra azul y entraba en la
+letra azul y
+bueno. Eh, lo único eh
+adelante con nosotros
+ahora que que terminaste ahí, fíjate de
+lo poné una raya, esto ya es montador,
+¿entendés? Entonces, ya tenemos definido
+el auxiliar y yo tomo como base para
+este
+ese no va a faltar, pero eh empezamos
+Bueno, cualquier cosa me interesa
+eh siempre y cuando necesiten la
+información, yo estoy acá. Eh, si
+alguien lo entienden o tienen otra idea
+del curso, avisen. Yo lo que le doy es
+lo que realmente estamos trabajando en
+la calle, o sea, que lo que se hace en
+la obra.
+Voy a la obra, lo que hago es lo mismo.
+Eh, quizás no tenga la los que están
+trabajando no tengan la suficiente
+capacidad intelectual porque hay gente
+que aprendió con gente distinta de hacer
+las cosas y a veces no sabe parte de
+lación. Yo trato de explicar, no así
+obstante, obstante, un alumno, fíjense,
+citaba, citaba un auxiliarista
+y le mandan para que citamos auxiliar
+electricista y bar. ¿Qué hace
+el montador?
+Toma examen
+di en vez porque va a ser el ayudante,
+¿cómo va a tomar examen si vos sos el
+montador que hiciste? Vos le tomá examen
+a medida que vas trabajando así, mira,
+ponerme esta cañería de tres cuartos,
+esta cajita acá a esta distancia, altura
+llevo, ¿cómo le va a tomar examen? Lechó
+luego y después dice, "No tengo
+no tengo ayudante", me dice, "Le
+quisiste pero si te mandaron." No, no,
+pero no me conformó.
+Ah, dije yo.
+Él él toma decisiones. No necesito
+ayudante. Bueno, ese ayudante me va a
+ayudar a resolver toda la instalación.
+Yo le voy a dirigir, por supuesto, acá
+ponerme esta caja. Esta caja yo lo hago.
+Eso entiendes. Ese mismo que viene
+siempre ahí que habló bastante y que
+dijo que estaba todo mal. Ese mismo le
+echó al
+Entonces, ¿a qué voy yo?
+Yo para hacer eso
+necesito ayuda. Yo no me basto solo.
+Acuérdense que una instalación puede
+ideal que mínimamente sean dos personas.
+ayudamos para hacer y todo y hasta para
+todos los hombres.
+Bueno, en síntesis el bado
+le iban a conseguir otros, pero le dije
+primero en la hora vos segundo vos sos
+responsable la boca porque si no te va a
+voz porque se vino el dueño y le dijo,
+"Señor, está todo mal. Esto está fuera
+del reglamento. El no tenía nada. ¿Cómo
+está todo mal? A mí me cobraron por lo
+que estaban hecho.
+O sea, ¿a qué voy yo? Cuando te contrato
+una empresa o ten que hablar mal de esa
+empresa, no mal de la empresa en si no
+vos s responsable de la interacción.
+Ahora te contrataron a vos como
+montador, entonces vos encargado de
+reproducir si hay algunos errores vos
+mejorar.
+Si no tiene que hacer otro
+ese tengo que hablar con los dueños de
+ahora me la hora mañana o pasado si
+mejoró si sigue hablando mal con la
+empresada
+que la empresa que está pagando, o sea,
+que ninguno puede hablar más de de de
+tu de que te da la del
+Claro. Otro tipo que le está pagando la
+pesa si está todo mal.
+Bueno, en sí, los problemas que tengan
+eh en obra o lo que sea,
+comuníquenlo con nosotros.
+Sí. Y el otro que si tienen otra
+perspectiva de que este curso era otra
+cosa que necesitaban,
+yo le estoy dando lo que realmente
+necesitamos para
+se desarrolla en la práctica.
+En la práctica trabajen para empresa o
+trabajen de forma independiente o
+cualquier abuso que hagan en su casa
+sepan hacer. Exacto. Y siempre centrado
+en las normas. Nosotros no nos partamos
+de las normas. Las normas nos dicen es
+la canalización a 90 gr. Tienen que hay
+gente que coloca la canalización, dice,
+"Bueno, no, pero acá más fácil." Y le
+mete un arco acá, dice, "En forma oonal,
+forma ortogonal, quiere decir que va a
+90 gr. Ortogonal, instalación ortogonal.
+Esa curva que va de acá o hasta ahí no
+sirve.
+está pidiendo que trabaje bien y de
+entrada tiene que hacerlo así.
+Después seguiremos moviendo con la
+canización, o sea, yo le traté de
+introducirle primero la simbología eso y
+después veremos otra cosa mañana.
+Después de cualquier cosa
+estaba abierto

@@ -1,0 +1,2387 @@
+unas ideas que
+el piloto
+y ayer saltaste. Sí.
+cuando falta se asustó no s qué
+mismo pregunta examen.
+El martes martesc
+el lunes feriado. El lunes, claro, el
+jueves, el martes es el miércoles,
+el martes
+alumno.
+Sí,
+una
+es de puntero. O sea, hay gente que
+empieza a la mitad y al fin de año el
+montador.
+conocimiento.
+más eh cómo probar una instalación tipo
+busca polo, eh lámpara de prueba,
+probador de tensión y teste la secuencia
+que tenéis que hacer para probar. Claro,
+paso digamos lo lo básico, eso no va a
+tomar
+dijo diferencia entre interruptor
+diferencial y puesta tierra. Puesta
+tierra diferencia. ¿Cuál es la
+protección
+protección para Sí,
+los tipos de puesta de tierra?
+Ah, sí, la protección al ITM
+la protección de que la tierra laina.
+Sí. Y después dijo que
+la potencia, esa fórmula que dimos de
+potencia automático. Ah, potencia de
+fórmula que la fotocopia
+el cálculo ese que hicimos. Cálculo
+220 dividido
+sobre wat dividido 22. Sí, cada 20 W. O
+sea, que lee tod la fotocopia. Y con eso
+sacábamos la sección del conductor. Y
+después
+con ese sacar la térmica. La térmica.
+Sí, sí. Y dijo que el disuntor va
+después de la térmica.
+Esa es una punta. Ese es otro otro
+punto.
+Ah, la primera fotocopia. Eh, en la
+primera fotocopia decía que una
+instalación es segura cuando fue hecha
+por un electricista eh habilitado.
+Habilitado. Eso no dio el luna, ¿no? La
+copia de Luna, ¿no? Eso de la primera de
+la primera. Los primeros que dio. Hay
+que leer todito. Entonces, todas las
+copias. Paso, paso
+el lunes dije que va va bajar esa
+pregunta.
+Una interacción segura. Es segura.
+Ahí está.
+¿Cómo va?
+primer
+para afuera
+sobre todo
+ayuda.
+Símbolo di que
+Sí, todas las
+diferencia entre neutro y tierra. Dimos
+mayor diferencia neutro y tierra. Sí.
+Tierra tierra neutro.
+La diferencia. ¿Cuál diferencia? Dijo
+que va a tomar el esquema de la
+fotocopia. Esquema
+la segunda fotocopia que vimos del
+esquema esa de la cometida. sentida. Sí,
+esquema eléctrico de luces. Esquema
+eléctrico de luces, tipo eh llave
+combinada, todo eso. Toma. Eso dijo, hay
+que hacer dibujo tod Sí.
+Pregunta de canalización, dijo.
+Canalización
+fotocopia. Agrupación de conectores.
+Agrupación de conectores
+de de conductores de conductores.
+Agrupación de
+acá tengo acá.
+Y si y si la la boca de iluminación
+tiene que estar fija y todo eso.
+Y estos son los temas que acuerdo
+ayer, ¿no?
+Las las magnitudes también dijo que iba
+a tomar. ¿Qué es voltio, qué es amper?
+¿Qué vol? Ah, es la tenía. Sí, una de
+las últimas. Sí, sí.
+Sí,
+ya
+qué es un interruptor diferencial, qué
+es puesta a tierra y es
+una
+Me faltó
+falta
+como anda la gente menú
+ahora.
+Cámara acción.
+El día de hoy es 11
+11 12 13 14 15 16.
+Entonces 17 va a empezar a ser
+eh
+tenemos más cualquier cosa
+aquí una duda el otro día
+comienza
+como por las 18.
+No sé pueden empezar
+a a repasar, ¿no?
+Sí, ya lo olvidan y el otro día de
+continuo
+a veces
+te prometir la mayor cantidad de de
+preguntas, así que pero siento referido
+el
+cositas
+para el tema puesta tierra hay muchas
+cosas para hablar, pero primero vamos a
+empezar con lo básico y para qué sirve
+y después comprobaciones que se hacen.
+Vamos a suponer que ustedes van a
+revisar una interacción y lo primero que
+tienen que saber es si a veces puede
+figurar o dejar previsto que están las
+tres los tres terminales
+y el sistema
+tierra en el toma corriente y no aparece
+el toma corriente.
+La forma más fácil de
+provocar que eso se armas revisen
+lacióno. Sí.
+Es el
+que hace.
+Bueno, y entonces la mejor forma de
+comprobar es
+sacarlo, pero si yo tengo varias tomas a
+la vez, varios módulos, varias cajitas,
+voy a perder mucho tiempo. Entonces, los
+ideales y revisando por parte y en
+algunos casos se utiliza generalmente el
+tester
+entonces uno mide
+fácil y neutro
+tiene que dar un valor relativamente
+cerca de los 20 minutitos.
+Después dejo
+la fase en este lado y tomo
+elo con tierra.
+Si me da la atención
+y parecida a 220
+220 y pico es porque realmente tengo
+puesta tierra. Si me da tengo puesta
+tierra. Es una forma más fácil comprobar
+si yo tengo esta tierra. Es una forma.
+Después hay otros métodos, pero a veces,
+a ver, ustedes ven que por qué tiene una
+lámpara de prueba,
+entonces pruebo la lámpara de prueba.
+Bueno, fase pr neutro con las dos dos
+terminales.
+Me va a prender la lám.
+Entonces dejo la fase ahí y vuelvo a
+repetir con la tierra.
+Si tengo buena puesta de tierra, se va
+para prender. Si no, le va a dar un
+sistema en un despacito.
+Eh, tiene tierra, pero en realidad no no
+suficiente para poderar
+esa ese neutro
+tierra.
+Ahí
+lo ideal dicen ahí la la teoría no
+si yo vino con el tester vamos a poner
+230 20 o lo que sea
+tiene que haber
+si yo mido fase y neutro una diferencia
+no mayor a 5 V
+entonces fue a tres y dos. Entonces,
+quiere decir que yo tengo una puerta.
+Estamos más o menos eso para comprobar
+rápidamente si la interación puesta de
+guerra. Luego a veces este revisar toda
+la interacción
+manda, pero yo reviso los terminales y
+los principios y algún toma intermedio.
+Entonces hay un otro.
+Bueno, esa es la parte de puesta tierra.
+Pero que hay
+eh teoría de la puesta tierra hay
+infinidad. Eh
+también hay infinidad, pero no vamos a
+mí hoy me interesa que usted conceptos
+para qué sirve, qué objetivo tiene, cómo
+yo compruebo, qué tipo. Hay una falta
+ahí de reglamento también que hacen
+mención a la puerta tierra.
+El frío me tiene malo, pero bueno,
+alguno malo,
+para que no entiendas,
+la luz una vocación
+eh es ganas de enseñar porque uno cuando
+estaba en la facultad yo tenía gente, yo
+era técnic, tenía gente que era
+bachillero y se puso estudi
+y a veces les cuesta más a ellos que
+nosotros porque avanzado la parte
+técnica que y tener que explicarle y los
+dibujos tenía que tratar de ayudar, pero
+bueno, es interesante
+porque uno después cuando va sabe más o
+menos que
+Pero esa es la idea principal.
+Voy a leer algo que me interesa
+para que ustedes esto está
+directamente en el reglamento
+y da una definición
+de puesta tierra o elemento de
+protección. Pero una parte que más
+interesa es que dice el ingreso de cable
+de puesta tierra en instalación como
+debe ser.
+Yo antiocjos porque me gusta mucho
+para
+dice el ingreso de cable puesta tierra
+de interacción. Se recomienda que el
+ingreso del cable de puesta tierra de
+interacción, cable que vincula la toma o
+electrodo de tierra con la barra
+potencial. As y existiera a veces no
+puede ser que no exista que ustedes van
+a revisar tamb un pedal todo un empalme
+es prolijo
+pero tiene un empalme entonces no hay la
+bomera
+entonces qué hacemos
+con la barra que potencial principal
+o con la barra principal de puesta a
+tierra juego de bones principales de
+tierra reinación. Puede haber un unas
+bomeras también
+y ahí o para que usted entiendan puede
+haber un tornillo
+con una tuerca
+y nuestra tarea importante, van a
+tenerse en el lado de los símbolos de
+puesta tierra y eso algunos lo hacen
+directamente
+eh uniendo dos demás cables con
+terminales y apretan las
+una forma de de tener eso tener talo de
+este tipo gabimiento otro tal aquello
+que no tengo espacio primero y bueno
+tengo que hacer la unión lo mejor
+posible en su caso.
+Estos impesducto
+de puesta tierra favorece a las
+condiciones para protección contraciones
+transitorias.
+Eh, bueno, se puede ver que otra
+transitoria, pero tiene tipo corriente
+de fuga en algunos elementos
+electrónicos también hay corriente
+transistoria. Un capacitor puede tener
+una corriente
+eh transitoria porque puede tener
+recargada el la corriente y descarga en
+cualquier movimiento y con esa descarga
+puede pasar por la pu esta tierra.
+Bueno,
+acá hay una tabla y esto que me interesa
+sucesión. Sí. Eh, no iba a decir algo
+usted que el cable que vincula
+el Claro, usted el cable que vincula la
+puesta tierra con la barra de puesta
+tierra. Claro. Eh, hay una una sección
+determinada que determina a través de
+reglamento. O sea, yo les voy a leer
+ahora. A ver, la idea es para que
+ustedes entiendan qué es lo que dice la
+tabla, esa y qué sección yo debo colocar
+en estos casos principales
+con respecto ese ideal.
+Porque a veces uno dice, "Bueno, como yo
+siempre le digo, el conductor tiene que
+ser igual al
+al conductor de trá la sesión del
+conductor de pérdida pero eso no hay que
+experiment sino que se acarpa a el
+reglamento."
+Y fíjense
+esto está acá en el reglamento dice
+sección nominal de los cables de línea
+de espacio en interacción si fuera una
+sección menor igual que 16
+mm si yo tengo un conductor de entrada
+igual o menor que 6 mm
+conductor de puesta tierra ese será
+igual a la sección del conductor.
+O sea, hasta 16 mm yo puedo tener 6, 10
+o 16 mm de entrada. Conductor de
+entrada, el conductor de puesta a tierra
+tendría que ser igual a la sección del
+conductor de entrada. Eso dice acá el
+reglamento y la parte de la planilla.
+Fíjense cómo va cambiando.
+Dice secciones de 16 mm².
+Si ese es igual es menor que 16
+y mayor, no sería mayor que 16 y menor
+igual que 35 mm².
+La sección que se debe colocar
+en en el conductor de puesta tierra
+tiene que ser
+16.
+O sea, quiere decir que por más que yo
+aumente mi sección de conductor de
+entrada pasando un cierto límite, que en
+este caso sería 16, el conductor de
+puesta tierra o el desnudo, lo que
+ustedes quieran llamarlo, ese debe ser
+16.
+Y el intervalo ahora secciones mayores
+que 35 porque yo puedo tener una
+instalación con grandes conductores para
+grandes potencias en la cometida de
+entrada debe ser igual a la sección de
+conductor dividido 2. Vamos a suponer
+que yo tengo secciones de 50 mm² de de
+cometía.
+Entonces, la sección del conductor de
+entrada acá puesta a tierra va a ser
+igual a la sección de conductor de
+entrada y en ese caso sería
+26.
+¿A qué voy yo, o sea, eh la idea de
+reglamento es darle una pauta de qué es
+lo que se debe colocar por seguridad?
+Entonces está especificado eso y
+aparte que hay ahí que todas las bocas
+con un conductor de 2,5 recorrido,
+entonces que ustedes ya saben, pero eso
+lo da reglamento.
+Estamos eso vamos a ver más adelante
+porque yo no quiero complicar reglamento
+con cosa
+e un poquito más sencilla. interesa
+ahora que ustedes sepan los conceptos
+bien claros y puedan definir a la gente
+que llegó un poquito un poquito más
+tarde e
+el día cu
+17 de julio, junio, no junio
+vamos a tener oraciones de julio. El 17
+de junio, vamos a empezar la oración
+teórica.
+varias preguntas, algunas fácil y otra
+un poquito. Algunas veces se me ocurre
+meter 20 preguntas, pero son sencillas,
+no se califica por pregunta,
+no hay como la secundaria que calificó
+hizo 10
+el modo de desarrollo del concepto y me
+interesa cómo evalúa chocó meter la
+pregunta varias preguntas
+y la idea es tener un concepto bien
+claro qué es lo que saben ustedes
+Eh,
+bueno, vamos ir viendo algunas cosas.
+Podemos terminar el 18, por ejemplo.
+¿Por qué dice 18? No, empezamos 17. Lo
+único que no pueden hacer es llevar a su
+casa papel, ¿no? que ellos
+se va la pregunta si quieren, pero acá
+puede ser que no justo el otro día no
+vienen y bueno,
+eh otra cosa importante que no se
+asusten, pero a veces ahí hay
+no redoperatoria se llama eh puede venir
+otro día va a haber otras preguntas no
+más porque me apareció el tema y
+mejorar
+No, no es cosa de otro mundo, así que
+acuérdense que tienen, a mí lo que más
+me gustaría que tengan toda la
+información igual, entonces pero igual
+yo le voy a traer como
+para que lea que
+bueno, vamos a ver algunas cositas que
+quedaron Integres.
+Yo había dicho
+siempre
+revisando algunas cosas.
+La la parte de tablero. Vamos a ver
+después
+porque ahí me quiero complicar esas
+cosas.
+Eh, ¿qué otra cosa importante?
+[Música]
+Este es un catálogo de 100 en una época
+hace mucho tiempo atrás, ¿no?
+para nosotros los electricistas o la
+gente que trataba de conseguir las
+mejores marcas en producto de
+dispositivo, protección, para nosotros
+era eh un elemento confiable
+a 100.
+Entonces,
+todos los catálogos que ellos nos
+mandaban y nos daban información para
+nosotros era de gran utilidad y teníamos
+la certeza de que ese elemento
+era de buena marca.
+Y
+esto me ocurrió a mí, así que
+nosotros cuando hablamos deyuntor
+diferencial
+de mostrar de lejos, no
+anteriormente se había posibilidades
+de hacer este bifásico y en vez de
+volver arriba
+tratar de hacer todas las conexiones se
+podía hacer por abajo.
+Acá si esto viera acá salía todo por
+abajo y después la salía por arriba, no
+había problemas. ¿Por qué? Porque
+habíamos dicho que el interruptor
+magnético trabaja de la dos formas.
+Entonces,
+pero por eh los tarderos se hacía de
+esta forma
+instala un bifásico y todas las
+bipolares coleccionan por abajo y
+después salía por arriba.
+Hoy en día se trata de
+la otra parte,
+hacerlo normalmente. Y una cosa que a mí
+me
+me gustó porque una vez
+eh
+voy a una obra y
+faltaba un disyunctor
+monofásil
+y habíamos conseguido un disyuntor
+trifásico.
+Entonces
+interesante las conexiones.
+Le digo por qué vi porque si no no me
+iba a traer esta información porque
+capaz que sería esto le iba a pasar para
+que ustedes vean
+lo único que respetado en este caso, si
+yo tengo fácil neutro,
+el neutro designado ahí en el en el
+disunto,
+directamente podía utilizar ese
+interruptor diferencial como interruptor
+el tetracolar, como interruptor
+monofásico solo plentando la fácil.
+Estamos
+quedan mirando cómo se
+puedes ver o no.
+Bueno, de última después la foto para
+que vean qué siento algún día voy a
+traer el proyector Ch esta semana
+criticar.
+Lo que quiero que quiero decirles que a
+veces uno estando en obra o est en un
+lugar está en otro interruptor
+diferenciales que no sirven que no
+sirve. conecto un trifásico y yo
+monofásico formando esta característica
+uso fase y neutroamente fase y neutro
+salía
+como si fuera un disutor
+si yo hago así
+tapo estos dos y me va a quedar como si
+fuera monofas la función y la misma
+no hace falta la no hace eh no hace
+falta anular con cinta y la
+no está alimentado no está alimentado
+directamente internamente ente no está
+son pueblos distintos.
+Después, ¿qué otra cosa importante
+viene?
+Fíjense que la sensibilidad en
+cualquiera de los casos de 30 mamp.
+En realidad lo que dijiste se traduciría
+como un tetrapolar se convierte en un
+bípolo. Eso. ¿Y por qué habla en
+monofase?
+Porque tiene una fase porque bipolares
+es fácil neutro, pero eso es
+tetrapolare. Tenés tres fases y un
+neutro. Trifásico se le dice al
+interruptor magnético solamente tiene
+tres nombres. Tetra. Ese es tetra porque
+tiene cuatro. Y esto es bipolar.
+Eh, eso es un tetrapolfásico.
+El tetrapolar llevado monofásico. El
+tetrapolar llevado monofásico. Aunque
+sea bipolar. Un monofásico puede ser
+bipolar. En un monofásico es bipolar. Es
+b
+como se dicen en castellano.
+Bueno, pero lo más interesante es
+fíjense, no sé si todo desacaste o solo
+esto. No, a los dos. A los dos. Hay un
+pancito de abajo le tapó su mano. Ahora
+después vengo este esta parte que está
+acá también interesante. Si tengo
+interruptor diferencial tetrapolar
+y fíjense cómo está acondicionado.
+Fase neutro.
+Así
+no
+entra la línea. Fase neutro. Fase
+neutro. Vuelve a hacer el recorrido.
+Entra otra vez en la golera tres y
+cuatro. Fase neutro, fase neutro y sale
+sistema monofase.
+Pero, ¿qué gano?
+doble de raid la reacción no vano tener
+menos sensibilidad sensibilidad o sea
+antes tenía 30 mamp que es una
+sensibilidad normal de cualquier disutor
+este disutor trifásico normal pero
+haciendo esta esta conexión en un
+sistema tetrapolar lo que hago es ganar
+sensibilidad porque pasa dos veces por
+el argamiento. Algún día vamos a ver qué
+pasa internamente para que el diagrama y
+qué es lo que hay internamente dentro
+del cuestión que lo hace que este sea
+más sensible
+también para qué le meto tiene que ser
+para después. Pero revisando, no
+revisando uno encuentra cosas. Entonces
+dice, "Ah, esto yo lo utilicé." Por eso
+quiero comentarle esto porque realmente
+me sirvió para poder no encontramos
+eh fíjense dicho que había interruptor
+diferenciales de 10 de sensibilidad y ya
+pasa 30
+estaba tener menos si crea que 30
+que esta forma 15 en un sistema monop
+le aumentó al de 10 un poquito.
+Claro, lo que pasa es que me conseguí de
+entonces lo que hice es tratar de ver.
+Bueno, esto me enseñó el catálogo
+y pude llevarlo a a la mitad, 15 mamp de
+sensibilidad. De 30 a 15. De 30 a 15,
+¿no? Ah, disminuye. Disminuye. El mismo
+equipo de 30 mamp hace pasar dos veces
+por el por el equipo. Ah, salta con los
+15. Con los 15. No es fera hasta los 30
+saltes. Ex porque hago pasar dos veces
+la conexión monofásica por interruptor
+tetrapolar. Ahí está el lujo. Por eso
+dice sensibilidad.
+O sea, para que ustedes entiendan,
+el interruptor diferencial actúa por
+sensibilita, ¿no? Esos 30 mampan
+la característica de que revisen todo el
+núcleo que ustedes ven. Lo otro, el
+calibre que permite que la corriente que
+pasa por el interruptor principal vuelva
+por el disutor, pase sin ningún efecto
+contrario, o sea, que no da ni al
+interruptor diferencial. Por eso que
+siempre dice que el interruptor
+diferenciales tiene que estar carrado o
+tener un calibre mayor que el
+interruptor eso si yo necesito, digamos,
+menos sensibilidad. Claro, para una
+pileta digamos. Sí, ten sensibilidad un
+lugar humed por ejemplo tengo uno de 30
+le hago pasar todo eso. Claro, siempre y
+cuando tenga siempre y cuando sea un
+dos veces por un
+el tema cae porque a veces ocurre uno
+que está trabajando generalmente en
+varios lugares cambian el traductor o le
+trae mal. Entonces eh ante la
+necesidad uno busca la forma de esa
+característica colocando esa forma. ¿Y
+acá qué es otro?
+Ah, fíjense,
+esto no probé todavía, pero algún día
+voy a probar seguramente
+que un interruptor tetrapolar
+lo haga
+o cómo le puedo decir, de acuerdo a
+estas conexiones, yo puedo hacerlo con
+dos salidas de circuito.
+como si tuviera, fíjense, una
+alimentación y dos días circuito y los
+dos me protegen con el mismo
+interruptorio
+por la
+es esas cosas eh eh teórica y que se
+realiza de ese eh
+está un poco avanzado. hace un puente,
+hace un puente y vuelvo a salir por
+abajo. Pero lo que quiero decirle que eh
+yo no sé para qué está
+es para complicar brasileiro, ¿no? Eh,
+uno revisa, yo tengo eh varias carpetas
+de interruptores, varias carpetas de
+contactor y justo flo así y encontré
+esas cosas que realmente yo instalé y
+dio resultado. Eso eh pero punto se
+tiene que dar esa eh se tiene que dar
+esas condiciones que Claro, por eso le
+digo, una particularidad, sí, porque eh
+como le dije, yo siempre tengo eh a ver
+interruptores yyyuntores
+de respuesto, porque uno sale antes
+hacía mantenimiento de clínica y todo
+salía de noche y dónde comprar, entonces
+tenía que llevar cosas y tengo
+almacenado ahí porque Uno siempre compra
+en gran escala para poder,
+¿cómo te puedo decir? No, no te falte
+nada.
+Sí. Entonces, bueno, ya me están por
+echar de casa, así que alguna tiene que
+tirar eso. Tanta porquería usa, ¿no? Y
+los viejos traigo generalmente traigo
+para que algún día ustedes hagan los
+tarderos porque
+la idea de que ustedes después hagan los
+puentes y todas esas cosas. Bueno,
+seguimos. Pero ese catálogo es
+argentino. En Alemania no te proponen
+eso ni loco. Eh, eso era de de 100, así
+que eh estaban también unos tenía unos
+libros así
+y te daban las cosas. Te daban. Sí. Eh,
+había una casa que estaba antes era el
+contacto allí abajo en Mitre. Ah, sí. Y
+tenía los los libros así grandes
+técnicos. Ning uno iba y miraba,
+iban a dar, pero vos podías sacar copia.
+Esa época todavía no teníamos el lugar,
+así que tampoco había wifi y esas cosas
+como tenemos ahora.
+Hoy en día, por ejemplo,
+eh
+vamos a suponer que ustedes necesiten
+información, entran
+la que no me gusta a mí, inteligencia
+artificial le llaman, pero uno en Google
+ya entra en varios lugares y como hay
+mucha información a veces interesante
+tener una exta idea porque si no entra a
+un lugar y le va a pasar mandando por
+otro lado.
+como dijo él que él vio un ah no, él un
+video de 2 horas
+de un ingeniero
+ahí en resistencia,
+un curso de electricidad y bueno y
+algunas cosas eh vio que estaban, ¿cómo
+le puedo decir? No autorizar
+ese no sabías no actualizar.
+Así que usted cuando diga que no sabía
+no no está actualizado.
+Esa es la idea principal.
+Bueno,
+algo importante.
+¿Qué otra cosa importante en el sistema
+es?
+Cada vez que miro aparece una fotos. Así
+que la próxima empezamos con fotos.
+Acuérdense
+esto es fundamental,
+es algo sencillo que yo no me olvidé la
+otra vez, tenía la fotocopia esta y daba
+la posibilidad, pero cuando dice
+proteciones
+habituales transición eléctrica
+domiciliaria y esto es la síntesis,
+Escucha, recibieron ustedes ahí parte de
+arriba dice las normas. No le di mucha
+importancia porque si usted se pone a
+leer todas esas cosas y mediciones van a
+quedar,
+¿cómo le puedo decir? Van a salir el
+tema porque es lindo. Pero bueno,
+¿qué otra cosa importante? Acuérdense
+el tema de canalización.
+Siempre es importante que ustedes tengan
+en cuenta que
+la boca
+esto es porque acuérdense que es otro
+símbolo. Los símbolos me interesa que
+ustedes tengan los símbolos que más se
+usa en una instalación domiciliaria.
+Entonces,
+cambio, entonces
+boca iluminación,
+llave de un punto
+y interesante
+vamos a suponer que tenga tener una caja
+de paso por ahí esto venga acá y esto
+venga acá. que ustedes sepan y parte de
+la norma si yo tengo unión entre una
+caja, ya sea caja de paso o una caja
+colbonal, en el caso representa una boca
+de iluminación,
+está conectado por un conducto con un
+cambio, ya sea el PC o el hierro, ese
+cambio tiene que estar unido
+con eso es fundamental
+y esto
+Todos esos son conectores, o sea, que
+esas son preguntas chiquitas, pero que
+ustedes entienden que tienen que que
+saber porque cuando ustedes arma
+cualquier canería tienen que tener esa
+particularidad de fijarse que no
+conector. Si no está conector
+y esta boca si está suspendida,
+¿qué es lo que tiene que tener aparte
+estar fija?
+Ancho.
+Exactamente.
+¿Para qué sirve? Para colocar cualquier
+artefacto, porque está bocado está fija,
+entonces puedo fijar cualquier artefacto
+pesado, viviano, lo que sea, pero de
+ahí. ¿Por qué es importante la fijación
+de de la boca y del gancho U? Porque
+generalmente hoy hoy
+se está reemplazando el machimbre y
+utilizando el PVC. Entonces PVC
+eh por suerte para nosotros que estamos
+en la parte eh de escuelas, por ejemplo,
+ponemos artefacto doble.
+Antes era artefacto
+fluorescente y tenía un balazo. Ese bala
+era pesado
+y encima en algunos casos se recalentaba
+y calentaba la chapa.
+Acuérdense que todos son el chap
+calentaba la chapa y la gente en vez de
+fijar
+a la boca, al gancho fijaban al PVC. ¿Y
+cómo fijaban al PVC? solo con torillo.
+Entonces, ¿qué pasaba? Con el tiempo se
+recalentaba la chapa
+el tornillo, no más el plástico se
+calentaba y después
+se venía para abajo.
+Entonces, ¿qué le exigía a la gente eso?
+Que por lo menos me pongan un tarú ahí.
+Carugo era otro elemento más flexible y
+por el calor no tenía problemas.
+Después había otro método para poder
+sujetar eso.
+Así también ocurrió el tema de los
+lumos.
+Empezaron a aparecer a traer unos
+sujetadores para poderar los artefactos
+sin tener la boca fija, pero lo
+interesante ahora es que la boca.
+Bueno, seguimos con canalización.
+Acuérdense que yo tengo dos tipos de
+canalización.
+embutida y embutida y a la vista
+anterior. Entonces, importante que
+ustedes tengan en cuenta esa parte que
+se utiliza en un caso en otro.
+Y si empezamos con el tema,
+va a aparecer siempre el diagrama o uno
+le llama esquema de interacción
+eléctrica, domiciliaria y generalmente
+eh
+aparecer,
+¿no? Eh, no me alegro que están
+bastanteo. Faltan dos hermanos Chun y el
+otro señor que nos cuento más, pero
+sí.
+El el tema es siguiente.
+El esquema
+es fácil, no no no tengan otra idea dada
+y está esquematizado.
+deía sacar
+va a salir
+utilizar
+el señor va a ser un sucesor de
+acá
+justo
+apareció una empresa dice y me dice,
+vamos a colocar lo que él pasó ayer, el
+paradio con Punta Franklin. ¿A qué
+altura? ¿Qué altura te parece? ¿Vos
+queres que te calcule yo o calcul? No,
+pero mínimamente me diga qué es lo que
+tengo que poner en una columna y qué te
+pide que sea mínimamente
+5 m arriba de la altura más alta del
+tanque de reserva.
+tener que ser una columna de cinco y
+después fijarse que la protección
+o el ángulo de protección caiga
+exclusivamente
+donde él quiera
+la edificación.
+Dice, "Pero si sale solo un pedacito,
+me falta la otra mitad. Pónganle 50 m
+más de la edificación
+y tengo que poner otro.
+Entonces me dice, "Pero, ¿hay otra
+posibilidad?" Sí, hay otro parayo que va
+al encuentro del del rayo
+y tiene mayor,
+pero dije la única diferencia es que se
+vale 10 veces más lo que vale
+barato
+y no y el otro para rayo punta la otra
+punta pónganle en esa época hoy en día
+vamos a suponer vamos a hacer lo más
+barato posible
+que la punta valga
+20,000, la otra valga 200 y pico mínimo.
+Igual va a tener más o menos así la
+la ecuación
+después hizo un tranking y o sea como
+dije ayer. Pero bueno, también depende
+mucho lo importante es el el lugar de
+protección con muchos protejos. de
+cualquier radio o o descarga exterior a
+atmosférica. Entonces,
+pero eso no se preocupe, no hay
+preguntas en esas características
+importantes. Bueno, rápido.
+Acuérdense que yo dibujo, leo, hablo, ya
+dibujo. La mano es más
+rápida que la hago, a veces al revés,
+pero interesante. Siempre parte del
+esquema principal.
+Entonces,
+la red exterior 220 380.
+Esto que llega después línea de baja
+tensión esta característica
+ahí que va
+a ver si va posible y ahí directamente
+voy a
+medidor tablero general
+y hasta acá recuérdense línea municipal
+de acá a acá accionamos nosotros de acá
+a acá la rescatar y ahí sigue
+esto.
+parte de una manera. Tablero secional.
+Tablero seccional. Todo es cada uno. Si
+está bien va a tener puesta tierra. Cada
+uno puesta a tierra.
+De acá sale directamente
+a todos los circuitos
+y puedo salir también
+a dónde?
+A otro tablet seccionar.
+el pinchito que tengo,
+¿entiendes? Rápido así. Entonces, la
+pregunta a veces surge,
+acuérdense que esto que está acá
+cometida.
+Y después dice que valores, cuál es la
+línea principal, todo eso está ahí. en
+generalmente los esquemas que mandamos,
+así que no no
+va a haber problema.
+Eh, ¿alguna
+pregunta
+puede haber definición? ¿Cuál es
+principal y cuál sesional?
+tienda sobre este aspecto es donde
+empezamos nuestro eh análisis
+de dónde nosotros tenemos
+diferencia
+y a partir de dónde y qué es lo que
+tenemos que saber acá cómo conecto esto
+a la red.
+importante acá en este coso, por
+ejemplo, viste,
+tengo que saber que esto
+y para saber que es no fásico tengo esta
+característica. Puede hacer la línea
+fásica, tengo esto y otro.
+Son condiciones simples, sencillas, no
+son difíciles, sino que directamente
+ayudan para una interpretación más
+rápida.
+Si yo hago este esquema, cualquier
+pregunta con respecto a esto ya voy a
+saber, o sea, yo
+entonces por eso a veces va a hacer este
+tema esto, porque puede decir cuál es o
+a qué se llama línea principal o
+secundaria o lo que sea.
+Estamos es un esquema fácil.
+está en el reglamento, está en la
+fotocopiadora, fotocopiador, fotocopia
+fotocopiadora que ya
+entonces no hay problema.
+esquema general interacción. A ver si
+tengo acá
+ese
+bueno
+voy a tener que hacer como la escuela
+industrial. A ver, tu carpeta está todo.
+No
+completar la carpeta.
+Así así la escuela técnica
+significa
+[Música]
+cuando
+te ibas a la parte de
+Bueno, mostramos otros cos
+ahí tiene la chica.
+Claro,
+este,
+¿cómo se llama la otra parte?
+Las preguntas están aquí.
+Esto está acá.
+Acá también aparece ahí. Sí, yo no tengo
+el verde. Capaz que Ah, era la
+fotocopia.
+Bueno, ahora el verde voy a sacarle que
+tengo
+sacarle ahí
+cualquier cosa está en el en el equipo
+tecnológico.
+Ese está en el tecnológico
+porque sacamos pero está en un equipo
+tecnológico.
+Entra una averiguada.
+Entra una averiguada. Está ahí.
+Ese es uno y el otro es el
+cabeza.
+¿Cómo te ves la cabeza?
+La cabeza
+porque ya tiene todo marcado.
+Ah, o sea, hay varias fotocopias que lo
+mismo, lo mismo que está visto acá.
+Parece que para un sistema
+de una vivienda más, no departamento ni
+varios departamentos, son todos
+parecidos la misma cosa. El mismo de
+canal dijo
+el mismo cable de canal.
+Bueno,
+ya más o menos están entendiendo las
+pautas.
+Ahí,
+ahí está el
+está en el en el WhatsApp.
+El único que no tiene celular es aquel,
+me dijo.
+Bueno, entonces, pero mientras tenga la
+la fotocopia no hay problema.
+Bueno, avanzando. Yo que ser un tipo
+bueno que
+me acuerdo algunas cosas.
+Ay, completo
+está en el celular.
+Hay físicos celulares física. Eh, ¿cómo
+se llama? en la inteligencia artificial.
+Hoy le vamos a poner un cero ahí al
+señor que vino.
+Tengo todo
+pero como llegué tarde eh la oportunidad
+oportunidad de
+todo acá.
+Bueno, vamos acá porque ¿Cómo se llama?
+¿Cómo se llama?
+El documento es
+un
+[Música]
+Bueno,
+gracias.
+A ver, muchas preguntas no más eh
+importante.
+El documento se llama simbología.
+Simbología.
+Sí, porología y todas
+y ahí esquema esquema seguro
+con los últimos que mandar
+es un archivo, un documento se llama
+aproveché que me mandaron Sí, es lo
+mismo
+de como
+por suerte,
+¿no? Eh, eso que me mandó me mandan
+siempre gente, entonces
+antes de que se me pierda trato de
+ponerlo en un lugar seguro.
+Hay a veces que hay algunos manuales que
+ya la la idea principalmente para que
+usted entienda,
+eh la gente que generalmente está
+haciendo electricidad, ya sea
+domiciliaria o tema industrial,
+a veces es importante no tanto el
+palabido, sino los esquemas eléctricos.
+Entonces,
+vamos a poner,
+antes había
+libro exclusivamente
+de esquemas eléctricos para, vamos a
+suponer, salo de bombeo, contactores,
+todas esas cosas. Y uno mirando y con
+una determinada
+cantidad de colores uno seaba para poder
+resolver los todos los tabelos.
+Hoy en día ya no existe eso.
+Entonces hay que aprovechar y tratar de
+ver las cosas que no mandan otra gente
+que son solo libro de esquema y
+perfecto. Yo estudiaba con libro de
+esquema porque me resulta más fácil. Una
+vez que sab cómo está el contactor, qué
+es lo que es interruptor termomagnético
+y diferencial, después me quedaba armar
+no más de la mejor manera teniendo los
+esquemas.
+Bueno, ¿qué otra cosa importante?
+Cuéntenme, hijo. Cuéntenme spoiler del
+examen.
+Vale, lo que le falta viene bien, viene
+bien con los spoilers. Bueno,
+esto entra seguro, así que como yo me
+llamo que está apurada por trabajar y
+acá apurado por presupuesto.
+Presupuesto. Trabaj acá presupuesto.
+importante en algunas cosas
+aparte de eso. A ver,
+cómo un interruptor termomagnético, ¿qué
+qué es lo que se lee en el frente?
+Acuérdense para tener para qué sirve,
+para qué cose. Y qué es lo que se lee en
+el frente. En el frente, acuérdense que
+lo que yo siempre le digo, es como si yo
+tuviera, a ver, qué cosa
+es como si yo me frente acá.
+Es que es importante esto porque arriba
+de esto hay un,
+¿cómo es que se llama? Una tapa, un
+contrafrente se llama para que nadie
+pueda tocar o tocar ningún boro.
+Entonces contra frente y lo único que
+aparece es una parte elegible.
+Sí. Sí.
+Entonces es interesante que ustedes
+sepan que dice el porque ustedes no van
+a eh van a revisar el tablero. Así este
+tablero característica que de
+calibración para qué sirve. En algunos
+casos no está identificado
+qué circuito
+es.
+Ahora cuando veamos el tema del tablero,
+se aconseja
+como el tablero que tenga
+esto es un tipo gabinete acá tiene la
+tapa,
+cierras. Entonces en la contratapa, no
+la etapa principal, sino en la
+contratapa se aconseja y se exige en
+algunos casos que est un diagrama
+unifilar. Eso usted van aar después. Hay
+un diagramailar.
+Ese diagramailar
+indica todo el sistema de conexionado,
+pero con la siguiente raya y la
+simbología que usted van a ver.
+Entonces, como acá hay en contraente,
+ustedes lo importante que sepan qué para
+qué sirve y qué es lo que dice
+contrafrente.
+Bueno, y otra cosa importante,
+hay una tabla que ustedes saben que hay
+un corriente de cada sesión de conductor
+tiene una corriente máxima.
+Entonces
+le voy a dar cuatro o cinco lo más usado
+en sistema de conductores.
+Ustedes lo que tienen que poner es la
+corriente máxima de cada conductor
+y
+con qué interruptor es. No me interesa.
+No vamos a poner ni esa vicinular
+estatular y nada. Quiero saber si
+ustedes entienden que el elemento que
+protege el conductor que el interruptor
+termomagnético
+tiene que ser para hacer esa sección de
+conductor tal. Podemos repasar que se
+lee en el enfrente. Sí.
+Yo yo voy a voy a hacer al revés. A ver,
+alguien levanta la mano y le
+y me dice
+línea ruptura lateral.
+Entonces vos decías
+porque viste a veces es importante que
+la gente que también entendió algo,
+yo te escucho no más oí ahí
+traje
+dice la bueno la el amperaje. Claro. Eh
+ahí aparece fíjese eh él agarró justo un
+interruptor curva C. curva C. aparece
+una curva que algunos se ve ahí
+4500. Y bueno, y tiene una calibración
+acá se cuánto dice al lado 16. 16.
+O sea, que es interruptor
+por mirarlo es como uno mira a alguien
+entonces dice, chico, por mirarlo sé que
+este tipo es por alfa porque tiene 2 por
+estamos la calcitación que viene arriba.
+Entonces dice ahí curva C 16 amp.
+Eso 16 amp significa que ese interruptor
+termomagnético protege un conductor de
+2,5 mm²ción.
+¿Y dónde se usa exclusivamente? Tomac ya
+sabemos en toma. O sea, es sencillo como
+hacer pan. Te caes en la masa, ponen
+agua y sale y listo.
+Entiende como el tema. O sea, es cosa
+sencilla,
+después le vamos a ayudar, ¿viste? Pero
+la la idea principal es que ustedes
+puedan leer lo que está en un tablero,
+nada más que eso no es complicado, hay
+cálculo.
+Endo, hijo de ella,
+tengo un señor que me
+prepara un mate
+eh Alves,
+Benítez,
+Botoli,
+Cabañas
+Cabral
+Cañete
+Cardoso Juan
+Carloso Javier
+Gente
+presente.
+Leiva presente. Melgarejo.
+Ramírez presente. Selva
+Torres presente.
+Estamos Bueno,
+después
+contamos ahí que dice el cuadradito de
+después eso que abajo.
+Eh, 4500 en la línea de
+aparece un rectángulo. Ese rectángulo
+tiene un número. Ese número varía entre
+3,000 y 10,000. Ese tiene 4500.
+Eso es la capacidad de máxima de ruptura
+que puede soportar, porque en otras
+palabras es la corriente que puede
+soportar el elemento sin producirse
+avería.
+00 amper
+estamos. Entonces, ¿qué pasa?
+Bueno,
+ahora vemos el el el número tres, pero
+antes de nos dice algo de tensión ahí
+menos
+400.
+Bueno, ese implica que ese interruptor
+puede aguantar hasta 400 V. ¿Por qué?
+como es monofásico
+220 de 240 que es lo que realmente un
+sistema monofásico de la tensión puede
+variar pero
+por circunstancia
+una tormenta algo por el estilo, se
+desliga el neutro y en vez de entrar una
+fase entran dos fases llega a 380
+entonces quiere decir que este puede
+entrar 380 y puede soportar hasta 400
+porque
+440 400 estamos. Esa es la razón de esa.
+Y el número tres, ¿qué? ¿Qué se liga
+neutro? Se liga neutro que no tenga
+neutro, pero el transformador de afuera.
+De afuera. Entonces, por una de las
+fases,
+por campo magnético puede entrar por el
+neutro. Entonces una de las fases de las
+tres fases puede entrar y ya una vez se
+entra lo hace cuando entra a tu casa y
+empieza a explotarlo. Eso es lo que hace
+que se quemen los motores de ladera en
+su momento. En algunos casos sí puede
+ser por eh sobresión que se le dice.
+Claro. O en ese caso 380 o directamente
+por baja tensión. Hay diferentes formas
+que se puede quemar.
+Eh, después vamos otro elemento para
+proteger la línea en caso de que se
+tenga esa descarga. Vamos ver más
+adelante, pero la ese número tres
+significa hay distintas categorías de
+interruptores,
+un dos y tres.
+1, dos y tres. Y ese generalmente uno se
+usa y aparece en vez en cuandoo dos y
+tres. Hay gente cuando es dos ni
+figura aquí
+tres sí, porque tiene eh ese número tres
+significa que es una buena clase, actúa
+bien y limita,
+vamos a suponer el caso de corriente de
+cortircuito, en vez de soportar toda la
+corriente de cortocircuito, corta antes
+esa corriente, porque la corriente
+deocircuito tiene un pico.
+Entonces, antes de llegar al pico corta
+antes.
+Por eso categoría tres es la acción más
+rápida. El tiempo en menos tiempo para
+que ustedes entiendan.
+Eso significa la categoría tres. Es un
+elemento bueno para usted enseñar.
+Eh, después
+en algunos lados aparece el tema de
+seguridad
+y otro de norma en ese significa que ese
+elemento fue comprobado,
+así que no se haga problemas.
+Estamos
+es sencillo,
+¿entienden? Japonés.
+Yo tenía un tengo un un compañero de
+aburo
+de japonés
+y de vez en cuando manda uno chiste pero
+sin
+porque viste uno nuestro edificio al río
+que río grande
+el río grande. Y el día grande
+y el otro dice, "No, eh, nosotros no
+hablamos con él, chino.
+Son cosas que igual, pero si no qué
+hacer, cómo está todo el día tenes que
+mandarte una vez en cuenta. Bueno,
+estamos hasta ahí más o menos.
+Bueno, ya saben
+qué es lo que protege. Ta ta ta ta ta. Y
+cómo uno lee eso
+antes que me olvide,
+ya vamos a pasar otra cosa, pero después
+vamos a pasar.
+Es interesante que ustedes vean después.
+Acá tengo mi servador automático.
+Fíjense que todavía no le puedo agarrar
+la mano. Nosotros en el ministerio
+tenemos un termo
+propulsador y todo yenta tiene
+resistencia.
+También quemó varias cosas, pero ahora
+pero ¿qué pasa? La mayoría toma
+toma.
+Tomo mantecido café o o usted lo que
+tenga. Usted sabe que yo pongo todo.
+Cuando pongo el el agua, yo no puedo
+tomar porque es muy caliente y está
+tomando mante. O sea, que es otra
+temperatura. Pas pas
+increíble.
+Bueno, tomando ahí probando a ver si
+encuentro.
+Bueno,
+profesor, una pregunta
+este
+protege sobre
+el interruptor magnético protege el
+conductor principalmente.
+Alguno dice que protege el conductor más
+sector, pero la idea principalmente es
+el conductor
+contra
+ahí
+sobrecarga y cortocircuito.
+Sobrecotocircuito, claro. El
+cortocircuito de instantáneo, o sea,
+corto fácil neutro, automáticamente puse
+una corriente grande y corta
+sobrecarga
+es porque directamente después vamos a
+hacer una prueba. Dijo recién si hay de
+la red, no, eso es corto circuito, pero
+sobrecarga es porque vos tenés un
+conductor
+acá, vos suponés de 2,5 está poniendo
+una estufa. Después la misma línea poner
+un calefactor,
+un horno eléctrico, un horno eléctrico
+poner la pava eléctrica. Entonces la
+suma de los amperajes es mayor la que
+puede soportar tu conductor. Pero, ¿qué
+pasa? Vos tener el interruptor
+termomagnético. Si es 16,
+antes que se queme el cable, ¿quiénes el
+cable?
+El introductor.
+Lo que yo quería preguntar es si hay
+baja tensión,
+si me viene de la red baja tensión, eso
+no protege.
+¿Qué te va a proteger?
+Si tiene baja atención, hay otro
+elemento que proteges. Claro. Cos
+después te va a mostrar. Sí, dicho que
+estamos por ahí apagado. Varios tengo
+por ahí tirados.
+es otra cosa, pero bueno, estamos más o
+menos definiendo eso.
+Eh,
+él te va a mostrar cuál es el elemento
+que protege.
+Si ustedes quieren ver,
+caminen para allá, vayan al terrero
+principal, hagan la tapa despacito y van
+a ver un protector tetrapolar. tiene eh
+un display de tres fases
+y es en protector
+de presión eh baja o alta presión,
+depende que tenga porque tiene un rango
+determinado y ahí figura
+en el instante ahora que ustedes miran
+sí van a ver 230, 240 o y pico.
+Cuando llega a una determinada y si
+fácil tiene 380
+390 antes que llegue a 450.
+Profe, eso se instala antes de del ITM
+general. No necesariamente. Vamos a
+suponer lo ideal, vamos a suponer
+trabajando un sistema monofásico, esto
+tendría que estar aquí
+después.
+que te mandan un mail ote.
+Sí, ese tengo, ese. Vamos a hacerlo.
+Tengo otro que ese para que est en
+tablet y después tengo otro que
+el reloj fr que está
+usted acá porque en casa no voy a
+colocar eso. Bueno, eh más o menos
+entendido ese. Yo conozco el nuevo.
+¿Qué importancia tiene? Porque me empecé
+a acordar cosas.
+Acuérdense que yo tengo dos pollo acá
+fácilmente,
+entonces puede aparecer
+eh cuando vemos tema de tensión,
+que la tensión
+aparece en la parte puede ser cómo mido
+esa tensión
+en un elemento, en este caso
+micróomagnético,
+pero tiene que seguir
+los polvos
+para si me entro y me da un valor o si
+tengo un sistema trifásico, pero no
+vamos a menofásico porque trifásico
+vamos más adelante. Este
+este sí este se puede puede ir fase
+neutro, neutro fase diferencia del Sí.
+¿De qué depende?
+Eh,
+realmente, generalmente, para que
+ustedes entiendan, nosotros como por lo
+que hacen tableros va a depender
+exclusivamente del interruptoragné
+para no entrecusarse los cables, uno
+hace la forma de que si es fácil neutra
+acá, entonces vengo al primer
+interruptor
+termomagnético y voy, ejemplo, paso
+neutro, copio y después acá voy al al
+distribuidor
+con esa misma característica para
+mantener
+la nomenclatura.
+Eh,
+hoy en día trato de que todo se haga con
+color distinto, que se vea neutro.
+Antiguamente
+había una forma de
+trabajar loseristas,
+usar todo por médico, no me importaba si
+era A, B o C, todo negro. Era lindo
+porque usía estos blanco con negro y
+tenían unos
+identificadores de circuito.
+Esa cosa también teníamos tipo unos
+anillos. Entonces, que venía de acuerdo
+la sesión del conductor era todo negro
+y poníamos
+en este caso RCT
+P y en algunos casos los circito 1 2 3
+todo negro para que usted vean la parte
+industrial se llama así hoy en día trato
+de que todos los cabellos ya tengan
+identificado con el azul y los otros
+colores cuál es cuál
+y minutos para que se vea eso
+todavía.
+Yo me río a veces porque yo exijo eso y
+cuando hice
+cuando compré la casa y tuve que hacer
+todo el tendido en línea, ahora veo que
+en esa época usábamos
+el negro como neutro y el blanco como
+neutro
+y después los otros colores como fase
+rojo y marrón y esas cosas.
+Eh,
+hoy en día a partir de las muchachas se
+da cuenta que el color convencional que
+se te debe utilizar lo que
+se probablemente tengan ustedes ahí
+cuando dice la agrupación de conductores
+y cantería está aparecen los colores
+aparecer ahí para que usted vayan y
+vean.
+A mí lo que me interesa, hay una parte,
+acuérdense, hay dos partes
+o dos preguntas capaz que depende cómo
+esté de ánimo. Esto es el fin de semana.
+Buen ánimo, por eso que si le llam el
+interior sonamos,
+¿no? Mañana pase vist ahí descarga en el
+interior, ¿no? Entonces, ¿qué puede
+aparecer?
+Como le dije yo, eh una de las preguntas
+que vimos la otra vez es cómo yo en una
+en la parte práctica compruebo que está
+pasando con interacciones, qué elemento
+utilizo,
+pero sabemos eso
+eh la prueba,
+atención después teste de cualquiera
+para la tensiones.
+Eh, ¿cómo le di? Como cuando uno empieza
+a caminar, ¿qué elemento necesito? lo
+básico, no hay otra cosa. Entonces,
+tarde o temprano se van a acordar que
+eso es lo que yo necesito para para como
+elemento
+para comprobar qué es lo que está
+pasando en la red o en el caso que yo
+saco una instalación, un tablero.
+Lo que sí es interesante y eso siempre
+mismo constantemente,
+que aparece eh
+cómo yo identifico, no lo identifico
+sino directamente con qué letra,
+figura,
+en algunos casos le quieren meter un
+perro, pero dice cómo se no dicen
+tensión, sino diferencia potencial
+o fuerza de
+pero en realidad es tensión.
+Entonces, hay que ver, a mí me interesa
+que
+cómo yo di en una
+en esa nomenatura, en un instrumento de
+medición, cómo yo leo eso, eso tiene que
+saber bien
+como
+y la lectura que me da el equipo en qué
+unidad es. Entonces si es tensión tiene
+que ser bueno. Si mido la corriente
+tiene que ser an, si mido resistencia
+tiene que ser y aparece. Eso es un no
+hay otra forma. Si ustedes empiezan por
+eso, ya van a entender
+que algo le queda, dijo, y después
+aparece dice, bueno, ya saben que la
+atención tiene esta nomenclatura y esta
+unidad.
+Ya aparece como mido,
+comoido. Acercando la punta.
+Acá en este caso con cualquier elemento
+que tengan vamos a suponer tester hacer
+una medición exacta y pruebo los dos
+polos.
+Estamos lo que mono fácil como en fase
+núcleo dos polos de un interruptor
+termomagnético en un tablero.
+Estamos ya que está conectado o
+evidentemente
+pruebo en un toma corriente
+así.
+En algunos casos les dice, ¿dónde está
+la fase y dónde está el negro?
+con respecto al otro
+al hombre de la tierra siempre a la
+derecha
+porque la otra vez hay un un
+video y estaba
+al revés ahí por ahí,
+pero nosotros siempre la derecha mirando
+de frente ahora mirando atrás al revés
+porque ahí está conionado atrás
+conionado de frente
+no están viendo atrás concionado.
+Entonces ahí se gira, pasa distinto.
+Están, ¿cómo le puedo decir? Toquitos,
+chiquitos
+para que ustedes
+no se lo ve lean, sino sepan d cositas.
+Bueno,
+el otro que siempre es importante
+en cualquier hora que ustedes tengan o
+como dijimos la otra vez para hacer el
+cálculo,
+lo importante en una instalación es
+saber
+qué corriente está consumiendo cualquier
+equipo.
+Entonces usted lo importante que tiene
+saber con cualquier fórmula,
+principalmente
+en la fórmula que se llama W. Es fácil
+aprender, voy a apagar, pero el físico
+se llamaba W. Entonces ustedes saquen
+que cualquier elemento, cualquier
+dispositivo, cualquier motor, figura una
+placa que va a figurar con letra P que
+se potencia. Entonces esa placa va a
+tener un valor de potencia determinada,
+potencia eléctrica, porque la gente que
+estudia refrigeración hay otra que es
+potencia frigorífica y es distinto de la
+potencia eléctrica. Hay que multiplicar
+por un valor o dividir, no sé, por
+siento y algo para que la potencia
+eléctrica. La refrigeración
+es distinto a la potencia eléctrica. Con
+la síntesis aparece esta potencia divido
+por la tensión para ser rápido y tengo
+una corriente.
+Esa corriente en amper me permite a mí a
+través de una tabla,
+a través de una tabla saber qué sección
+de conductor utilizo. 12. Si sé qué
+sección de conductor utilizo, voy a
+a elegir un interruptor magnético para
+proteger ese conductor.
+Más sencillo, más sencillo.
+Después ya no tener la cabeza puesta
+así.
+Yo automáticamente, acuérdense, yo uso
+la tabla y
+lo que me dice el reglamento que
+conductores deben ir en cada elemento,
+si es toma de uso general, toma especial
+y iluminación.
+Mi cálculo yo hago el recálculo para
+saber cuando tengo dudas y si lo que
+dice están en buenas condiciones. O sea,
+que siempre el conductor que yo coloque
+tiene que ser mayor la capacidad.
+que me permite la fórmula o el elemento
+es un poquito complicado, pero no vamos
+a tanto por ahora. La exigencia mía que
+después eso para que usted entienda qué
+es lo que importa en una instalación
+eléctrica es conocer la corriente,
+¿no? El correntino, la corriente,
+claro, es importante porque
+eh a veces juen con el tema de qué es lo
+que mata la humedad.
+Y bueno, acá en este caso es la
+corriente
+que puede
+afectar cualquier pasaje del cuerpo
+humano. Pues corriente. Estamos nosotros
+saber con qué elemento contamos para
+proteger.
+Bueno,
+eso que no quité lo Argentina.
+¿Qué manera de su hijo?
+Primero hay que saber su fe y su mon
+para después para encontrar
+igual
+no me está invitando por ahí a Venezuela
+si juegan así de ahí va a estar
+no no
+creo que este no ando hay uno que es
+nuevito, no sé igual que este. Mir
+jugando. Ahora sé que no anda. Este es
+nuevito. Está cuatro falta. No, pero
+este fíjate que
+Ah, sí, queda
+ya le cambió, pero bueno.
+Bueno, ¿qué otra cosa? Cuéntenme, voy
+contándome para mi tablero. ¿Qué tablero
+ten? No, debe seguir todo igual. Te
+vamos regalar uno que nos sirva. Hasta
+te regalaron el real todavía necesit.
+Bueno, pero tengo que comprar es no este
+encima había notado acá la fecha en
+marzo por ahí habíamos hecho
+como dice amigo. Qué cosa seria.
+Pero bueno, ¿qué otra cosa importante?
+Ah, que lo había dicho él,
+va a aparecer realiza un esquema
+eléctrico de tal cosa.
+Sencillo. Lo que vimos ahí en práctica
+es lo que usted hay gente que hizo el
+esquema así, así que
+tan grande
+el esquema de montaje, no de montaje,
+sino esquema eléctrico. ¿Por qué? Qué
+interesante usted el día mañana que hoy
+es cosa sencilla. Agarra un un esquema y
+el día de mañana va a leer un esquema un
+poquito más complicado. Yo mandé un
+manual ahí para que ustedes vean de
+esquema
+me mandaron. Es son esquemas eléctricos
+y la idea es
+de lo que hicimos nosotros, no lo que
+está ahí. Hay varios esquemas
+eléctricos.
+Siempre y cuando, vamos a suponer,
+siempre
+ustedes tienen que tratar de que algún
+lado llega la alimentación, en este caso
+puede hacer una caja de paso, lo que
+sea, línea de alimentación y un lugar
+que puesta un taberas
+fase
+neutro y tierra.
+Entonces, cualquier prolongación que yo
+quiera hacer, vamos a suponer que quiera
+hacer una presión por allá o lo que
+tenga idea o si ustedes tienen una pieza
+y quieren hacer una pieza más para acá,
+ustedes saben que en algún lugar ustedes
+tienen que tomar la alimentación
+de esos tres elementos. ¿Dónde llega ese
+elemento?
+Vamos a poner no, pero yo quiero tengo
+la boca acá y esa boca que es solo de
+iluminación
+y ahí va a llegar fase y el retorno de
+la llave. Entonces si yo pronunción ahí
+está dentro tengo dónde está la tierra
+tengo, pero solo prendo. Tengo que
+prender la luz hasta que tenga 220 acá.
+Entonces tengo que ver dónde tengo la
+alimentación.
+En este caso es para que ustedes se
+ubiquen, hagan un esquema eléctrico y
+bueno, si yo acá llego acá y quiero
+hacer una prolongación allá y no tengo
+fase neutro, solo cuando enciendo allá
+tengo el retorno, tengo que traer una
+alimentación o una fase directamente
+allá hasta y ahí después paso, o sea,
+ese ese para que usted entienda que a
+veces alguna prolongción o una vivienda
+o algo nuevo, tengo que tomarle una caja
+que llegue
+220 y cualquier eh ampliación que haga o
+quiero poner más boca ahí afuera. Justo
+me llegó y tengo ganas. Bueno, este
+vamos a suponer que est hacia el frente
+de mi casa quiere poner tortuga
+y tengo justo
+esta lámpara.
+¿Qué tal si hago la alimentación de acá?
+Paso allá y y pongo todo al exterior las
+tortugas.
+Entonces reviso acá y voy a encontrar
+no neutro y el retomo.
+Entonces trae una alimentación ahí en
+fase y vuelvo acá y recién cuando
+explico fácil ahí sé que puedo seguir.
+Que ustedes más o menos tiene. Bueno, en
+síntesis todos los esquemas que que
+vimos
+vamos lo que vimos, no lo que no vimos.
+Entonces yo le iba a pedir haga un
+esquema eléctrico de tal cosa, de dos o
+tres lámparas, lo que sea, y una llave
+de punto, dos llaves de un punto en un
+mismo lado. Hacen la listo, no es
+difícil, no hay otra cosa.
+Cualquier cosa y el agua le va a prestar
+los esquemas.
+dibujce
+este para que se vea para que tenga
+problema, tenga, claro, no tengan
+problema y que se vea bien.
+El desmontaje ese montaje después otro.
+Bueno, para que usted entiendan,
+me gusta porque sí que sí van a hacer el
+esquema eléctrico.
+Cuando ustedes estén más ducho, ducho,
+más avanzado,
+empecemos a la parte est un poquito de
+planquema eléctrico en planta, entonces
+va a aparecer ahí pedir lo que dije la
+otra vez.
+Fácil.
+la planta,
+los caños y bueno,
+vamos a suponer
+ahí aparece esto.
+Esto es quema en planta. Esto cuando
+tengamos para hacer los cambios vamos a
+poner qué es lo que dice arriba y acá
+vamos a poner 2 por 1,5 más tierra hasta
+acá
+y arriba qué tipo de cambio. Eso vamos a
+hacer después. O sea, vayan a apurar.
+Nosotros lo que vi
+eh quiero ahora es que me hagan el
+circuito eléctrico, el esquema eléctrico
+eso vamos a ser completo después. va
+aparecer esto o va a aparecer otra cosa
+que acá hay el esquema eléctrico más
+avanzado.
+Hoy en día es sencillo.
+Y la otra que me estoy olvidando,
+el tema de la corriente. Entonces,
+va a dar una pregunta de cómo hacer que
+la corriente se representa con la letra
+i.
+No van a decir y porque
+está mayúscula, que sea de la unidad es
+alguna aparece la lo que aparece
+cualquier cosa
+y aparece
+dónde mido eso
+cómo mido la corriente.
+Entonces, hay dos posibilidades para
+conseguir, pero la forma más práctica es
+a través de un instrumento que se
+denomina
+pinza.
+Es la pizza perométrica está
+tenés dos formas, pero esa pinzaométrica
+y ahí no queda ahí, sino que vos tenés
+que decir
+cómo hago tomando
+o pinzando o uno de los cables.
+Entonces, mío la corriente número dos
+que hacer.
+Si yo hago con un tester que también
+puedo medir la corriente,
+ahí coloco en serie para ver seramos.
+Tiene que pasar por el el tester,
+tiene que ser corriente pequeña. Si
+corriente grande más que el equipo
+pinzando la alface
+uno de los dos cables. Cualquiera de los
+cualquiera, pero uno a la vez. uno a la
+vez. Entonces ahí tengo el valor real de
+es importante que tengas
+conozca que hay un elemento que mide la
+corriente.
+Laa la pisa perométrica mide el campo
+magnético, ¿no es cierto? del conductor
+y transforma. pasa la corriente, la
+corriente genera un campo magnético. Ese
+campo magnético es lo que entra ahí tipo
+imán adentro del sistema ahí y eso es lo
+que genera transformación. Exactamente.
+Esa es la idea.
+Para
+Bueno, pero son cosas sencillas, es lo
+que vimos siempre. Acuérdense que
+ustedes son auxiliares. Ahí estoy viendo
+una chica se va de machala, pero no
+importa. No me asusta cuando está así.
+No sé qué hacer. No, no. Eh, le van a
+ayudar, no se preocupen. O sea, la vida
+acá es que eh las preguntas no son,
+¿cómo le puedo decir?
+A nivel de escala grande, sino todo lo
+que vimos.
+tiene que poner nervioso. Acá le hice
+una representación de la dimensión de la
+corriente. En el caso de un tester, se
+cuenta que esto no tiene una pinza.
+Vamos a poner las puntas. En este caso
+en un tester les va a aparecer una otro
+slot que va a decir 10 amperios
+directamente.
+Van a colocar en la punta la roja y el
+negro en común y la van a poner en la
+instalación. Sería de esta manera. Sí.
+una punta
+de esta forma, ¿no? Cuando los cambios
+conectados, entonces la corriente va a
+entrar, va a pasar, le va a dar la
+lectura lleva así para estar conectado
+en serio. Y si es con la pinza, lo único
+que se va a ser pinzaro
+neutro, un cable y ahí les va a salir la
+lectura hasta acá.
+¿Entienden?
+quedó medo en el aire, pero bueno. No,
+pero eh
+a mí a mí en mi cabeza me quedó vos
+deciste está perfecto, pero a mí me
+cuesta.
+Mire, lo importante es que sepa que hay
+un elemento que mide mide la corriente
+nada más. ¿Cómo se llama? Pinza
+perométrica. más que eso. Después vamos
+a ir avanzando. Yo veo si se complica no
+le voy a poner cómo se mide, sino que
+sepan qué elemento o dispositivo de
+medición tengo que tener para medir la
+corriente. Nada que eso, que eso. Es
+pizza o multit. Multit.
+Pero
+así, hermano, no. Después cuando estén
+en montadores ya le vamos a exigir un
+poquito más como pinza y el tiempo.
+Claro. ¿Con qué instrumento se corta un
+cable? Ese sería ese contestar mal. Y
+sabes qué con qué elemento se le di un
+elemento cortante ahí elemento
+con un chillo con un
+trinch.
+No está bien
+legal
+esa pregunta. No, no está bien. No,
+pero eso no no no es, ¿cómo le puedo
+decir? Una evaluación a a muerte. Es una
+evaluación para que ustedes vean de lo
+que hicieron y que aprendieron nada más.
+Nada más que eso. Estamos más o menos
+entendidos. Voy a ser sencillo.
+No se apuren. No, acá nadie le corre.
+alegría que todos tengan la misma
+oportunidad y sean nada más. Y si tengo
+que traer
+libro así para que ustedes lean, no hay
+problema.
+Después de eso, profe, la feliz de
+vacaciones.
+Feliz de vacaciones. Ah, me voy.
+La semana que viene hacemos la prueba,
+¿no? La semana que viene hacemos la
+prueba.
+Si tengo la oportunidad que ahora voy a
+tratar de comunicarme con la gente esta
+de RCP un día de riesgo eléctrico.
+Explicar algo y el otro día como reanimó
+una persona que recibió unación.
+Generalmente me ayudan esa gente.
+Hay distintas videos,
+hay distintas formas, pero generalmente
+que trabajan con eh,
+¿cómo puedo decirle? con tableros de
+grande potencia que a veces eh están
+trabajando y muestran cómo debemos en
+caso de que reci una descarga, cómo
+debemos sacarle del
+contacto.
+Lo primero que te exigen es que baje la
+baje la la energía,
+baje la de donde viene la alimentación.
+Segundo, si está muy lejos, dice que hay
+que buscar la forma de sacarle
+un elemento aante que no le toque, si
+que le toca este queamos pegado los dos
+y viene él que vamos en cadena.
+Pero
+suelen aparecer que se trabajan en
+centrales de alta potencia que tienen un
+gancho. Entonces, cuando est una cierta
+distancia y ya está preparado
+esa la idea. Sí.
+Pero vi un video
+que va que va subir como un interruptor.
+Ah, es es una exterior. Eso es una gran
+y como que lean todo el
+chup es que eso que esos ese fusible por
+lo general nosotros lo conocemos como
+cuchilla y eso es lo que cierra la
+alimentación a los transformadores
+y suele pasar que cuando vos cerrás la
+cuchilla si se genera un arco muy grande
+y suele rentar
+algunas veces no sé. Bueno, pero no te
+no te atrae, no no te atrae, sino que el
+la descarga o el chispazo para que vos
+entiendes, en vez de cuando vos cerrás
+no se cierra bien. En vez de hacer el
+recorrido normal viene por se, o sea,
+baja por la pérdida. Así se llama. Sí. Y
+esa viene Cristo
+lo único que que es feo para cerrar eso
+tiene que tener la pérdida de
+preferencia tiene que serante pero suele
+fallar y ten y es un guante ya de un
+calibre bastante importantísimo porque
+algo está cerrando eh como es línea de
+alimentación de de media son 13200 vol
+es el que está por más 13200 o es Sí,
+por lo general identifican porque los
+más viejos suelen estar en las torres
+esas que son de cemento.
+Ese ese exactamente ese, ¿no? El
+problema principal es que eh
+hay dos formas
+en baja tensión
+casi en la mayoría ocasiones la muerte.
+El otro también, pero te quema y cuando
+te quema es impresionante las fotos que
+hay como hace y abre el como dije yo a
+través
+un árbol y se le abre
+acá en la internet que abre
+que saca todo el árbol.
+menos ahí
+agarre y listo. Siempre me acuerdo y esa
+siempre meado patente porque justo
+estaban filmando o había un
+sí un justo en el frente de donde
+estaban ahí andó caco un sitio
+caco estaban afanando, querían afanar a
+un doctor de cobre. Había una
+alimentación superranda y justo ellos
+querían cortar y era de media, entonces
+están cortando señor generalmente si vas
+como subterráneo en algún lado eh está
+el sesionador que que hace que esa línea
+qued conectada, no est trabajando con
+el está trabajando y recibe la descarga
+medio peso a
+llega la ambulancia y la policía
+levantan al vago.
+Cuando el vago hace esto, estaba todo
+negro negro.
+O sea, que es como si cae una corriente
+por acá y sube acá se calor y bueno,
+solo quinto otra vez y estaban filmando
+ahí y el médico
+todavía tenido vida, te sube la
+ambulancia y se le cae parte
+de la carne.
+Ese problema.
+¿Cuánta plata podría haber sacado?
+Pero generalmente esas personas no están
+en uso razón, sino generalmente están
+porque no es fácil.
+Bueno, cuestión que muestre la cámara
+esa parte los pasos que cómo sale el
+pedazo del puerto y
+creo que a la hora
+de
+Y ahora hay cursos especiales para que
+trabajan en red.
+sistema de seguridad.
+Imagínense que si yo tengo una red,
+vamos a suponer añada que se cortó,
+una de las dos partes hay que llevarla a
+tierra el caso de que yo tenga una
+descarga o descargue la línea se conecta
+a tierra
+problema
+que vaya por la persona.
+Por eso que hay varios sistemas. El tema
+es
+llegar a tiempo, llegar a tiempo,
+todas esas cosas sencillas. Bueno, a
+veces
+a veces te da pena porque
+y también dice que allá vino en el video
+la línea de alta atención en Estados
+Unidos que pasan de un lugar a otro,
+generalmente de una montaña a otro que
+sigue el sistema nacional de red y a
+veces se desprende o tienen que arreglar
+a grandes alturas aparece un helicóptero
+así lleva los tipos. Dice que esa gente
+por de trabajo gana.
+Yo vi que yo vi que tocan con algo y
+después se agarran y ya. Claro, se hacen
+una descarga con caso de vuelo, pero a
+esa altura
+el tipo del pon
+una vez que se almacena, arruina de todo
+desnor,
+igual que los que hacen
+telecomunicaciones también que van esas
+antenas. Bueno, esa gente gana buena
+antena.
+Pues tiene que cambiar un foco, ¿no?
+Lo de las
+Ah, todo interesante.
+Que si no te llegas al foco abajo por lo
+general de pende la altura. Laur tenés
+es como 4 o 5 horas para subir y 4 o c
+horas para bajar
+de recorrido.
+La otra vez estaba viendo un video que
+se le cae la pizza. Se le cae por qué se
+le cae la cinta en la
+que no hay nadie abajo.
+Fíjese esto interesante. Es un
+no sé si llamarle, pero generalmente es
+un
+un folleto que manda en este caso
+la gente en Ney en tema seguridad, pero
+hace una afirmación a lo último.
+Fíquense, dice, "Es indudable que los
+cambios surgidos los últimos años
+respecto a la mejora de nivel de
+seguridad eléctrica en las instalaciones
+van a disminuir en gran medida los
+índices de accidente e incendio. Y esto
+se logra fundamentalmente debido al
+trabajo en conjunto
+y en la evolución que está llevando
+adelante los principales actores del
+mercado eléctrico,
+proveedores de materiales
+y lo que
+estamos. Entonces, por eso es la idea
+que va a presentarse.
+A mí antes no teníamos cursos y
+directamente teníamos
+eh,
+no sé si miniconferencia,
+nos llevaban de un lugar a otro 4 horas
+y poníamos mismos.
+Entonces eso la filación
+y todos lados,
+o sea, es la es la industria la que la
+que actualizaba los electricistas.
+Claro, no eran los proveedores los que
+actualizaban los electricos. Eh, ahí es
+todo un conjunto porque eh
+la industria lo que trata es mejorar
+seguridad trayendo mejores elementos y
+más rápido, lo que sea en la auración.
+Después la idea es que capacite a la
+gente que está trabajando, en este caso
+los visité y que los proveedores tengan
+los productos.
+Por eso hay definidad de, como le puedo
+decir, de marca y a veces no es que uno
+se casa con una marca determinada, sino
+que es la seguridad que te da a uno en
+este caso como técnico y de 40. Entonces
+yo sí tengo que recomendar
+qué debo hacer a un a un,
+¿cómo le puedo decir? un dueño que
+necesita que sea una interación nueva.
+Yo lo que le aconsejo que la mejor marca
+que yo le digo que coloca acá
+que son los principales tableros que fue
+acá puede bajar la
+y acá va por cada circuito. Si este
+tengo problemas
+como es menor precio que esto, no hay
+problema, cambio después, ¿no? Pero esto
+que son los principales también civil
+para cualquier protección, o sea, esto
+para mí es lo principalmente los son
+positivos, entonces solo un circuito
+problemas tener problema toda la casa o
+toda la vivienda o toda la escuela en
+este caso, pero es interesante
+y como todos un lado la mejor marca
+siempre tiene
+mayor costo mayor costo. Hubo alguno que
+era buena y con el tiempo ya no se puede
+recomendar. Eh, tiene mala fama. Chica
+tiene muy mala fama, pero tiene un alta
+pre y tiene publicidad
+en el fútbol. Había antes una marca que
+se llamaba y no sé si el ensamble estaba
+en Turcumán Tubio, esa desapareció.
+tenía un cierto nivel y
+no sé si
+eh usábamos esa, pero
+¿qué qué te daba un mucha información
+técnicamente? Después apareció Atma
+también
+técnicamente te daba mucha información
+técnica y te decía que este elemento
+todo el verso que ustedes quieran.
+Eh, es una cosa importante, siempre me
+acuerdo de hablando de alma,
+hay una parte importante que dice el
+interruptor.
+No te preocupes que no poder meter,
+¿no? Lo que decía siempre, ¿qué pasa con
+un ITM o interruptor termomagné?
+se llama interruptor termométrico.
+Entonces decía que este interruptor
+siempre es importante que esto protege
+el conductor y no la carga. Y hay otra
+parte que también te dice ahí protege el
+conductor y no la carga. Hay un papel
+que dice ahí cuando vimos interagnético.
+¿Cuántor y no la carga?
+La carga es un anciente.
+En caso que tenga un motor y entró en
+otro circuito en la noa corriente y va a
+salar el otro. Lo importante es que
+protege el conductor y no la carga. Yo
+calculo el interruptor por el conductor
+que voy a colocar. Estamos otra cosa
+importante,
+¿qué diferencia entre posible y
+interruptor magnético
+interruptor?
+el los dos en el conductor reutilizador
+uno se rompe. Sencillo
+sencillo como
+un
+Pero venga, no. Eh, fíjense,
+hoy contando rápidamente son 15.
+La idea es que los 15 aprueben.
+Yo los tres últimos que que dije, los
+dos hermanos y el señor que estaban ya
+pueden sorprender.
+las horas, pero si carpeta si podemos
+carpeta obvio lo que no tenga y es el
+siguiente que faltó
+curso mínimo de que cumplir
+lleg,
+¿por qué me sirve a mí?
+Eso aprendí de un profesor
+que el que recién inicia nunca lee nada,
+justo en la parte teórica va a leer
+porque tiene que escribir,
+necesita escribir y si necesita escribir
+va a leer lo que hice ahí para poder
+llenar lo que estaban las preguntas.
+Entonces, por lo menos algo
+va aprendido
+bajo eh hay una cosa muy sencilla para
+que usted entiendan. Vamos, vamos al
+tema de enseñanza.
+Eh, hay diferentes formas de enseñarse,
+pero para cada
+persona distinta el aprendizaje.
+Dicen que
+lo mal que yo hable todo el día,
+dos o tres horas acá a ustedes, hay un
+un tiempo atención de atención que es 15
+minutos que dice que es donde la memoria
+conectiva del ser humano
+lo otro
+pues está jugando al juito como jugaba
+puesta celular y
+está ahí no más. Entonces, TDH,
+todo lo que usted quiera.
+A veces es difícil, a veces no manda
+cosas por
+celular y nadie lee. Entonces, eh es muy
+difícil a veces tener un concepto bien
+claro de cómo están captando las cosas
+que uno quiere que capten, pero bueno,
+eh, ya depende mucho de uno.
+eh te mandado información
+para que lean.
+Entonces ahora la idea es tratar de
+darle cosas sencillas. Eh, hay gente que
+ni nota, entonces
+se tampoco mandó todo. Eh, algunas cosas
+importantes están adotadas ahí.
+Eh, una vez hice, no sé por ahí para
+auxiliar un libro
+cosas fundamentales y sencillas y parte
+no había dado la fundación u otra
+especie de fundación
+y hice una carpeta para la auxiliar
+electricista
+cuadernillo
+y
+tomé la la idea de sacar copia todo.
+Era un poco hiero,
+conseguí que me financiar inmediato.
+Después
+no había tanta información, había
+computadora, pero no teníamos un acceso
+de tanto celular. Entonces, ¿qué pasó?
+Apareció uno de esos y es como que tengo
+acá.
+Estoy desde un centro de formación de un
+amigo.
+Todo lo que hacen ellos allá y cosas que
+me interesa voy sacando, pero solo
+hojitas no copio todo porque derecho
+autor no se consigue. O sea, pero hay
+que hacer voto un trabajo con referencia
+a eso directamente tenerlo como base, no
+puede darle para que reproducir
+reproducir prohibido. Entonces
+reproducir en un lugar y yo dije a
+partir de ahora yo necesito que mi genja
+perque otro entonces ya no hago más.
+aparecieron sistemas en la época teníos
+varios proyectores, o sea, uno era para
+justamente la parte eléctrica,
+pero es tan hombre grano y como ahí está
+la base de la boca a nivel provincial
+estaban y salían gente
+y vamos a suponer como era una
+recién empezamos 2012, 2013 por
+Los proyectores están tipo biblioteca
+arriba de un mueble.
+El otro año cuando volvimos
+estaba la carga y habían puesto papel
+diario para que quede agustado.
+Pero cuando vamos acá.
+Entonces, viste, Pedro, no, aquí culpa
+si movimiento de gente, eh, la fundación
+tiene su secretario, gente también ahí,
+entonces, bueno, quedamos sin un
+proyecto
+y era interesante algunas cosas
+más que uno, no sé si filmaba,
+generalmente sacaba fotos de las cosas
+buenas y las cosas malas que se hacían
+en la obra. Entonces, es interesante ver
+lo que se hace.
+Y después nos tocó,
+creo que la fundación no tenía un tipo
+un tangier,
+eso allá cerca de los titán, allá cerca
+de la
+rotonda por ahí, no me acuerdo más, pero
+una casi tres y
+hacía mantenimiento, no sé qué cosas,
+unido con otra gente de la municipalidad
+y bueno, me tocó hacer la interacción
+eléctrica.
+Lo que pasa que trabajamos de lle por
+ejemplo 6 6:30 y trabajamos hasta 8:30
+porque nos consiguieron todos los
+materiales
+y
+en un pus hacíamos una parte, después el
+otro cuadrimestre, otra parte, pero no
+es lógico porque a veces cuesta mantener
+eh Sí, el ritmo a veces no hay,
+¿cómo se llama? Materiales y hasta
+teníamos conseguir la escalera y todo y
+un poco, ¿cómo le puedo decir?
+A ver, eh,
+incómodo, un lugar tan lejos y teníamos
+que llevar todo nosotros como la
+herramienta.
+Entonces, a veces
+después tuv invitaciones con otra
+empresa
+eh constructora, pero ¿qué pasa? La
+empresa constructora tiene mínimo siete
+horarios trabajando a las 5:30 de la
+tarde hora.
+Y si nosotros salimos de acá, tenemos
+que tener seguro
+y depende si la obra está bastante
+limpia,
+eh, con escombo y todo bien arreglado,
+no hay problema, pero si no es
+inconveniente
+y peor si hay hueco de escalera y no
+estáado.
+Fíjense lo que pasó
+en este edificio que está ahí.
+Eh, medio raro, pero estaba cuidando ahí
+medio raro de todo
+a eso es lo que voy. Pasa que leía plata
+y se cayó sin querer. Pero bueno, son
+cosas que pasan.
+Eh,
+lo bueno que ahí para que usted entienda
+un arroyo
+pasaba.
+Entonces un terreno que
+la caja está allá tenía ciertas
+dimensiones y bueno, pasaron al
+trabajaba para la empresa constructora
+hizo
+un hormigón. Bueno,
+una baseón, o sea, acá acá y siguió
+siendo pasando rollo, ya que la
+cantarilla, la cantarilla, todo problema
+ahí, todo el sistema de rosa, o sea, que
+vos estás ahí, no
+sabé si queré poner oío lo único bueno
+me gustó ahí que hubo una buena
+cuestión. Ah,
+bueno, pero lo que quiero decir que
+fíjense el edificio que está ahí, eh.
+Eh,
+yo solo estuve en el inicio, después la
+otra parte ya
+no estuve más, no había tiempo,
+pero siempre me acuerdo acá otro
+edificio que está ahí, ¿qué sería acá de
+la esquina?
+Después la despensa un poquito más, un
+edificio de tres, cuatro pisas nada más.
+Siempre me acuerdo porque
+y siempre cuento lo mismo.
+El no. Sí, acá cerquita que que el tipo
+Sí, pues centenario. El tipo trabajaba
+con empresas y la empresa constructora
+hizo toda la parte de los
+y tenía cartel grandes
+eh todo habitación municipal.
+Después cuando hizo todas las dosas,
+cuando hubo que hacer cerramiento, el
+tipo consiguió gente más barata a
+Paraguay
+y es la casualidad que uno de esos tipos
+se cae y muere.
+Lo primero que le culpaban empezar
+porque estaba gente de
+responsable que són uno salvó a la
+empresa de que ellos tenían un contrato
+de hacer exclusivamente todas las losas
+y la otra parte quedaba a a
+que el cliente le iba a avisar si seguía
+con ello en la parte cerramienta.
+Después no sé cómo quedó el tema. La
+prensa se salvómente
+y y el tipo de abogados. Claro, pues
+tío, pero igual
+el el tipo el pad de July Fran y lo car.
+Bueno, entonces lo que quiero decirle
+que eh a veces uno una empresa
+constructora puede tener problemas eh si
+no hace bien los papeles. Ahí terminó el
+contrato, se pagó tal día la empresa
+dejó de gozo, pero dejó el cartel.
+Ahí
+iban a pensaban continuar, ¿no? Pero es
+que tú has tenido problema tipo, bueno,
+ese ya es otro si sa de algún curro
+estado,
+pero le digo cosas que pasan así,
+accidentes laborales sería, pero
+probablemente
+personas o las que estaban ahí no tenían
+Eh, 15. Ahorita falta uno, pierde.
+El lunes no hay clase. El lunes no hay
+clase. Exactamente. Porque soy el día de
+mi amigo
+a los realistas. Sí. Y el mismo 17 estén
+supuestamente el martes. Martes
+supuestamente tengo las 3. No, no
+importa. Cualquier cosa saber que
+cualquier cosa puede seguir el otro día.
+Claro. Y cualquier cosa si falta seguir
+el otro día.
+Falta solo un problema con el problema.
+No, porque no quieran. No, no, no hay
+problema.
+No, no, no.
+Me preocupa la gente que hace así.
+No va a dormir.
+Sí.
+Vamos, fuerza. No es no es
+difícil. Difícil importante que lean
+algo y después información
+lo que vimos acá.
+No hay otra forma de lunes.
+Hasta el martes. Hasta el martes. Que
+pasen bien. Feliz día del padre, la
+gente que es padre
+al padre.
+Chao. una

@@ -1,0 +1,945 @@
+que sea otro desapareció
+el que no
+viene esto está tomando solo una platita
+ya de vacaciones
+de vacaciones
+Bueno,
+se nos olviden de hacer los trabajo
+prácticos que nos quedó que no le da
+otro, así que no se preocupen.
+Otro trabajo.
+Hay uno que
+material,
+pero no hay que entregar.
+No hay que entregar porque es el una de
+las cosas para si no tener que hacer
+otro.
+30 gr.
+Bueno, 29.
+Vamos a ver si vienen los dos hermanos
+ahí.
+Lo importante que tengan todos
+podemos porque si no muchas prácticas
+después
+quedan todo con práctica y
+funciona.
+a los dos que están ahí. Perdón, vamos a
+ver si
+tengo las
+un tablero.
+Le vamos a hacer es hacer un tablero de
+un para dos números.
+atrás.
+Bueno,
+me interesa que hayan entendido cómo yo
+protejo el motor.
+Entonces,
+para que usted en línea de contactor
+solo es un interruptor. Ahí está.
+Es un interruptor. Entonces, ¿qué
+necesito para proteger el motor?
+Nada más, nada más y nada menos ocurre
+el término.
+¿Estamos hasta ahí o no?
+¿Por qué es importante aclarar eso?
+Porque aparte de eso, existe
+un elemento que coordina los
+el contactor de red térmico que se llama
+guarda motor.
+¿Verdad?
+Entonces en forma,
+no sé si experimental, pero generalmente
+si uno quiere una buena protección
+va a tener que poner primero Estaba
+La duda
+antes que nada,
+¿cómo andamos unos trabajos prácticos?
+José hizo todo,
+¿eh? Sí, pero no tengo que entregar
+no te hablo. Si te traj
+Ah, no, no hay que continuar.
+¿Cómo andamos tú?
+acá viendo dos van a hacer
+a ver cómo andamos. Ya te atrasó,
+¿eh?
+No estaba pensando
+ahora te sacaron con un
+con una bomba.
+Voy a buscar,
+vamos a hacer con dos bombas.
+Ustedes van a hacer, pero tienen que
+estudiar. Yo no le voy a decir nada
+hasta que saquen saben hacer uno y lo
+otro es que es un enclavamiento nada
+hacer con las cositas ahí y creo que
+tengo la tapa
+y
+Vamos primero
+vamos a curar, pero creo que se van a
+hacer
+hay que buscar todos los elementos.
+Bueno, en síntesis,
+interruptor principal,
+acuérdense que nosotros dijimos que el
+contactor es un interruptor, nada más
+que eso. Forma activa
+a distancia puede porque yo lo único que
+hago tratar a través de un sistema de
+comando puedo accionar la bobina del
+contactor. Estamos ahí.
+Relé térmico. Relé térmico. ¿Qué es?
+¿Para qué se usa? Para proteger el
+motor. ¿Estamos hasta ahí o no? Ahí le
+falta ahí a ver si ustedes le quieren un
+poco
+cómo se calcula que mismo. Algo algo
+mismo. Así que puede decir que no saben
+cómo calcul térmico para contactar
+todos.
+Un motor de un HP y medio, 2 HP.
+la cara de
+¿Cómo se calculaba?
+Se pasa de HP a W.
+Claro, exactamente.
+O sea, un HP es 7
+746 W.
+Entonces, teniendo el W, aplicamos la
+la ley de
+la fórmula de potencia.
+sacamos la electricidad deente.
+Sacamos la ventricidad con corriente.
+Hasta ahí vamos. Perfecto.
+Y con el amperaje para el relé térmico,
+¿sí?
+Eh, que tiene un rango,
+¿sí?
+Es 20% más o menos. Claro. Exactamente.
+Entonces me da un valor
+que a veces no puede ser exacto, porque
+nosotros tenemos distintas
+eh fábrica y y distintos intervalos, así
+que depende qué marca uno tiene, uno
+tiene que buscar la característica.
+Estamos de
+aparece otro
+contactor es la intensidad del motor por
+58% más estamos. O sea, que ese
+contactor y ¿dónde aparece ese amperaje?
+aparece cuando yo pido el contactor
+en ese 58% y yo pido el valor de ese
+ahí en amperaje, o sea, trabaja por
+potencia amperaje.
+Eso no más quiero. Yo no quiero todo el
+desarrollo. Quiero que aprendan a o
+sepan el día mañana cuando revisen un
+tablero que sepan que ese ese motor y
+ese térmico funciona para que yo una vez
+puse por culpa del
+del propietario un rel térmico menor
+porque no compró y él estaba seguro que
+andaba.
+Este
+prove
+para acá.
+¿Y qué pasa? Chico, no te puedo creer.
+Andá esperar que abra el que compró en
+la Unión a las 3 de la tarde me trae uno
+y otro.
+Dice que le dije que le cobré como dos
+tr horas al pedo tomando solo. No le
+cobro si si la culpa era él. Le
+especifiqué todo y me trajo un
+y aparece otro tercer elemento para
+proteger que es el guardamotor.
+Fíjense, está nueva relé térmico,
+contactó y el guardamotor se coloca
+antes. Está él cumple la función llaman
+interruptor diferencial o lo que sea
+interruptor diferencial y también actúa
+como relé.
+Tengo un dos y tres.
+¿Qué característica tiene? Hay un
+fenómeno que se llama selectividad.
+Si yo aplico esto guarda todo contacto y
+rel térmico, o sea, que guardamos todo
+cumple la función de de contactor y
+retérmino en uno solo.
+¿Y por qué se pone acá?
+Yo puedo tener
+el relé térmico graduado en el mismo
+amperaje
+que funciona, o sea, un 20% más, lo que
+sea un cachito más, un 10% con respecto
+a la corriente que trabaja el motor
+y el contactor y el contactor el
+guardamotor también lo regulo porque
+tiene para regular a la misma corriente
+que yo regulé.
+¿Qué pasa?
+Estamos dando selectividad.
+Vamos a contar porque si no
+el tema es siguiente.
+El relé térmico, relé térmico de abajo
+tiene la particularidad
+de que a una cierta corriente corta,
+igual corta.
+en tiempo.
+Acuérdense que que
+había tenido dentro
+bimetálico. Entonces ese pan metálico
+acciona antes que el que tiene adentro
+el guardam.
+Es como los diferenciales selectivos.
+Sí.
+Así.
+Por eso es importante tener los tres. Yo
+tengo los tres y este me falló a qué iba
+a salir.
+Es interesante cómo yo el dije un
+guardamotor, una característica que
+otro, pero acuérdense esto estamos en
+una parte que se llama electricidad
+industrial. Nosotros tenemos que ver
+eso. Acuérdense todo esa parte
+selectividad
+se habla mucho cuando trabajamos.
+electricidad. Nosotros
+hasta tablero de bombeo, bienvenidos
+sea.
+Después mañana le voy a traer cómo se
+calcula una bomba.
+Eh, no es difícil,
+pero se calcula de acuerdo a la
+cantidad. Primero la altura. Si yo tengo
+una sistema acá y tengo el el
+tanque arriba de reserva y calcular la
+altura que va acá primero.
+Primero, segundo, si una bomba
+centrífuga tengo que saber si la
+cisterna
+que
+lo que aspira, ¿cómo se llama eso?
+Necesito saber cuánto aspira porque me
+puedo poner una bomba centríf o 6 m de
+de profundidad, sino tengo que tener
+casi generalmente son 2 m como máximo.
+Y después tengo que saber si donde tengo
+la bomba y tengo el el la salida de la
+cisterna,
+si mi tanque de reserva está bastante
+lejos, tengo que tener la distancia. Esa
+distancia se calcula por cada 100 m de
+manguera,
+5 m de altura.
+No sé si me entiendes. Yo tengo una
+longitud de acá hasta allá la manguera,
+esa esos 100 m de manguera.
+En altura isométrica tengo que contable
+5 m. Tenía un tanque que estaba a 16 m
+de cuenta los 5 m de que va de acá
+y ahí tengo la altura y después juega el
+papel de el caudal. ¿Cuánto tiempo
+quiero que se pene el tanque?
+Muy difícil.
+Está más o menos.
+Bueno,
+vamos a hacer una cosa.
+Témico para que más o menos igual le
+pasé, pero no sé si miran, pero es una
+cosa.
+Le voy a leer un pedacito no más que se
+una hoja. Así que este salen de otro
+mando el contactor de motor asentrónico.
+Siempre hay empresas que trabajan en
+tema de teoría.
+Leo,
+sí,
+el relé térmico. Las fallas más
+habituales en las máquinas son las
+sobrecargas que se manifiestan a través
+de un aumento de la corriente absorbida
+por el motor y de ciertos efectos
+térmicos.
+El calentamiento normal de un motor
+eléctrico con una temperatura ambiente
+de 40ºC. Fíjense, generalmente
+cuando habla temperatura ambiente
+siempre 40ºC.
+Ya vimos la otra vez el tema de los
+cables. Ahí empieza el valor es a esa
+temperatura después sube y baja de
+acuerdo a al gradiente que uno tiene
+siempre 40º Consideran temperatura
+ambiente normal.
+El calentamiento normal de un motor
+eléctrico con una temperatura ambiente
+de 40ºC
+depende del tipo de aislamiento que se
+utilice que utilice. Cada vez que se
+sobrepasa la temperatura límite de
+funcionamiento, los aislantes se
+desgastan prematuramente
+acortando su vida útil.
+La correcta protección contra las
+sobrecargas resulta imprescindible para
+optimizar la durabilidad de los motores,
+impidiendo que funcione en condiciones
+de calentamiento anómalas.
+Garantizar la continuidad de explotación
+de las máquinas o las instalaciones
+evitando paradas imprevistas.
+volver a arrancar después de un disparo
+con la mayor rapidez y las mejores
+condiciones de seguridad posibles para
+los equipos y las personas.
+Bueno, está bien. Explica más o menos
+qué es lo que hace térmico. Acuérdense
+que el cuerpo por hilatación eh un
+tiempo breve pasa una cita de
+sobrecarga. Lo mismo que
+veíamos con el tema interruptorio de
+magnético. Antes que nada,
+aguantemos me voy acordando cosas porque
+voy leyendo y mirando y veo videos y
+algunas cosas son interesantes. Yo,
+cuando hablamos de carro
+electromagnético
+aparece unipolar, bipolar, tetra, eh
+trifásico y después tetrapolar. O sea,
+tengo cuatro tipos de interruptores
+electromagnéticos. Depende que de
+instalación sea monofásica, trifásica o
+lo que tengamos. Pero es importante
+tener en cuenta,
+fíjense cuando ustedes ponen un
+interruptor diferencial,
+sí o sí, acá tenemos un interruptor
+tetracuent y acá hago un diferencial.
+El diferencial que habíamos dicho que en
+estos casos siempre aparece un lugar
+donde va el neutro,
+indica.
+En un trifásico yo tengo las tres fases.
+Si pongo un tetrapolar así
+tengo cuatro.
+Pero, ¿qué me está diciendo? Vamos a
+suponer que yo tenga y dependo de
+el diferencial, el diferencial me indica
+que puede estar
+en cualquiera, escuchen bien esto, en
+cualquiera de un interruptor tetrapolar,
+¿dónde coloc
+en donde nos indica el diferencial
+o no? Eh,
+eso para que quede ordenado, pero para
+que ustedes entiendan los cuatro
+cuatro ordenes que tengo acá en
+cualquiera puedo poner cualquier lado
+puedo ver qué característica tiene que
+esto tiene más que el la parte que
+habíamos dicho que la magnética y el
+térmica, o sea, que cualquiera de los
+tres las cuatro partes tienen la misma
+característica.
+Por eso es importante tener en cuenta,
+porque a veces, ¿qué pasa? A veces
+usamos el trifácio,
+entonces son tres bornes positivos y el
+neutro quedaba por ahí. Al usar prpolar
+la gente decía, "No, yo este no sé dónde
+está el neutro."
+O sea, cualquier lado puedo usar neutro.
+Lo que pasa que para que quede prolíguo
+uso igual que un extremo, pero puedes ir
+para acá.
+Eso quiero que entienda porque a veces
+eh siempre dice, "No, pero si neutro no
+está marcado
+cualquier
+me acordé porque estaba viendo un equipo
+que estaba conectando, ¿dónde coloco?
+¿Qué te parece?"
+Y bueno, siempre yo hago razonar primero
+y después les cuento. Bueno, eso antes
+que por la instalación que estaba
+haciendo el tipo
+los relés térmicos
+no me entendió. Quedo perdido.
+Ya estoy perdido. ¿Qué?
+Lo que dije recién,
+¿no?
+Eh,
+perdido.
+No,
+no, por la cara, porque yo me asusta la
+cara a veces. No, eh, si yo tengo el
+interruptor tetrapolar las tres fases en
+neutro,
+en cualquiera de los
+de los bornes de arriba o de abajo puedo
+colocar el neutro. Eso para que tiene
+no es necesario que mantengan los
+colores
+o la característica que tenga el
+el disunto.
+Acá sabemos que cualquier cortircuito
+corta los cuatro
+a la veces trabaja todo junto y corta
+cualquier problema que tengo.
+Bueno, ese vamos a seguir.
+Los relés térmicos de biláminas son los
+aparatos más utilizados para proteger
+motores contra las sobrecargas débiles y
+prolongadas.
+Ah, muy bien.
+Débiles y prolongadas.
+El bien metálico que tiene ahí en el
+interruptor
+relé térmico. Débiles seguid
+se pueden utilizar
+en corriente alterna o continua. Sus
+características más habituales son
+tripolares,
+compensados, es decir, insensibles a los
+cambios de temperatura ambiente,
+sensibles a una pérdida de fase, por lo
+que evitan el funcionamiento monofásico
+del motor. Es importante que tengan en
+cuenta, por qué hay gente que dice, "No,
+esto voy a poner para evitar eso y si
+tengo dos fases
+puede ser que se me quede el motor. No,
+si calibro bien el térmico, en en dos
+fases va a levantar la temperatura,
+levantar la corriente enseguida se
+corta. Entonces, ¿qué me propone la
+gente? Está bien, una protección más.
+A ver si algo de fase.
+Eh, parecido, un protector de fases
+eh secuenciador, así que ustedes van a
+ver. Protector de fase que esté en las
+tres. Eso tiene un sistema de comando
+que activa
+una parte de la bobina del contactor en
+caso de que me falte un fase por falta
+de fase.
+Entonces es distinto al protector de
+motor.
+El protector de motor rel térmico.
+Eso es.
+Pero, ¿qué hace el rel térmico? que
+cubre ese esa falla trabajando tempér
+porque ese es un par metálico que hace
+cuando hay un problema en vez de ser un
+trifásico trabaja dos eh dos fases,
+eh aumenta la corriente y eso te hace
+que seate el las dos, ¿cómo se llama?
+Las dos cositas de cobre y corta.
+¿A qué voy yo?
+Hay tipo que viene diciendo que todos
+esos
+ya son 150,000 pesantes.
+¿Por qué?
+Si vos tenés Sí, pero por las dudas. Por
+las dudas.
+Cuando más eh
+elemento de protección pongano, mucho
+menos. Eso es siempre así, pero ¿qué
+pasa? Siempre depende que
+nuestro
+que nos contra todos, porque si no
+también eh dejamos que pongamos todas
+las cosas más interesantes y después
+cuando que querramos nosotros eh
+que nos pague la mano ahora, ¿no?
+Entonces tenemos que evaluar la cara del
+cliente que se dijo de otra parte que
+hay que aprender en el tema de la joven
+porque yo puedo con esto a lo mejor
+pero tengo que explicarle cada cosa
+estoy poniendo a tiempo para que diga
+no, este tipo está protegiendo lo que yo
+necesito.
+es muy probable que me pague lo que yo
+pida porque si no
+hoy en día la mano de obra es
+considerada
+puede ser depende la característica y la
+cara al cliente
+siempre tiene
+eso es lo malo que tiene pero siempre
+conviene hablar antes.
+Solo una empresa
+me piden que haga y hago después le cro
+hay otras que ten que dibujar espiritual
+te gusta.
+Y hay empresas que directamente,
+fíjense como o sea que uno va conociendo
+la gente
+adelante un 30% si no
+te voy a así porque si no te hacen la
+bod.
+Pero eso con el tiempo uno va
+adquiriendo experiencia, porque si no he
+logrado trabajar con arquitecto y me
+pagar en un año un proyecto que si me
+pagaban el mismo en el mes, que era la
+realidad, yo ganaba plata en un año
+pierdo.
+Entonces
+esa gente ya no
+por más compliche que sea así. Bueno,
+seguimos. La última parte
+Rearme automático o manual. Claro.
+Acuérdense que ustedes recibir una una
+pérdito que tiene
+un real manual automático.
+térmico. Elador acá dice manual
+automático.
+El azul este manual automático.
+Acuérdense que acá yo gradúo la
+corriente
+alineador regulo a qué corriente quiero
+que corte directamente de término.
+Entonces si yo pongo manual
+ahí me va hacer a mí o el tipo que hace
+mantenimiento ir directamente
+ver qué es lo que está pasando y le
+vuelvo a conectar
+si pongo manual el azul pongo manual si
+pongo un automático va a saltar por lo
+que te mi motor pero qué va a pasar
+Tengo
+la posibilidad que el equipo
+actúe y funcione
+sin ningún contacto de una persona
+extraña. O sea, trabaja en forma
+automática, se enfría el patio metálico,
+vuelve a su posición original
+y funciona el motor.
+Pero, ¿qué puede pasar
+que haya problema de tensión?
+Arrancada de vuelta cuando un tiempo
+otra vez atrás.
+Con el tiempo térmico
+porque tiene una determinada cantidad
+y maniobra
+térmico opama la paisanada
+y hay gente si no está por ejemplo con
+una cita experiencia cuando este se me
+revienta
+no tengo más saco este y conecto
+directamente al contractor
+o sea no va a tener protección Si yo
+directamente
+voy a opcionar la bomba o lo que sea con
+el contactor, el relé térmico
+hasta que no compre otro,
+pero es importante que sepa cómo
+funciona.
+Estamos
+manual automático.
+Sigue tú, hijo.
+Graduación en amperio motor.
+Visualización directa en el relé
+corriente indicada en la placa de
+características del motor. Claro,
+ese yo regulo.
+Principio de funcionamiento. Los relés
+térmicos tripolares poseen tres
+biláminas compuestas cada una
+por dos metales con coeficientes de
+dilatación muy diferente unido mediante
+laminación y rodeadas de un bobinado de
+calentamiento.
+Eso que mismo. Cuando ustedes vieron las
+cositas que estaban ahí, todas las
+tapitas tienen uninado
+y después tipo un resorte. Bueno, es es
+lo que está dentro. Por eso le digo, el
+tipo que inventó estas cosas
+hay que inventar, no es cualquier cosa.
+Cada bobinado de calentamiento está
+conectado en serie a una fase del motor.
+La corriente absorbida por el motor
+calienta los bobinados y se dilatan las
+biláminas. Exactamente.
+Tienen un
+folleto algo que recibieron ahí por
+internet
+y ahí aparece como relé cómo graduo,
+como hay una partecita que es
+directamente sacada de la
+cuando uno compra un relé térmico. Ahí
+aparece en algunos casos una parte
+teórica que depende de la marca y te
+dice cómo funciona, cómo actúa, cómo
+regulo. No hay problema de sentido. Ten
+que saber para qué es nada más. Estamos
+de
+Bueno,
+José, ha volvido hace mucho
+dije
+allá también.
+Bueno, el tema es así, lo siguiente.
+Eh, vamos a ordenar un poco.
+Vamos. terminar la parte de bombeo.
+Eh, había un lo que le vamos a hacer que
+ellos van a hacer ahora. Yo no no meía
+ayudar nada.
+Siempre hizo lo mismo y siempre nunca
+cumple lo que hice.
+Bueno, pero no. La idea es conseguirle
+todos los elementos hasta voy a traer
+una mecha copa que ellos hagan un
+tablero
+para dos hombres.
+Contactor ya tiene ese creo que tenía
+después
+tenemos la caja. Falta el anaranjado por
+ahí está. Usted también va a empezar a
+meterse y igual usted igual va a
+terminar haciendo trabajo.
+No, ahora yo sigo así
+que hacer yo le explicar lo que tienen
+que hacer traerle todo elemento a hacer
+sin apuro porque este no es para jugar
+carrera, sino que usted les a explicar
+ellos 15 minutos van a terminar,
+¿no? tienen que hacer bien y tienen que
+picar porque ese ese va a ser la
+consigna porque ya saben hacer
+para una bomba generalmente son y ahora
+van a ser para dos bombas. Hay que traer
+hasta acuérdense que yo tengo que traer
+una mincha copa
+para hacerlo agujero, para poderse bomba
+uno, bomba dos.
+Eh, voy a ver todo lo que necesita,
+pero tenemos que tener todas la los
+materiales para poder solucionar
+desde el principio auxiliar que no se
+meter y siempre
+bueno por sí es y la voz no hizo nada
+así estaba en
+empezamos el tablero, pero
+empezó el tablero ah vos con aquel
+pero importante que si él él termina
+después desarma todo y vos hac
+sin, o sea, o mirando
+sin copiar.
+Igual yo no hace tanto, así que yo le
+puedo poner el día.
+Listo. Bueno,
+ahí también hay un tablero
+entre tres y un dos
+acá y a veces es un octavo, pero hace
+rato que no.
+Sí, algo dijo, mandó una un video del
+contactor nada más en la parte interna
+dentro. Eso es lo que pude.
+Manda un video de cómo limpiar el
+contactor.
+Sí, eso es lo que hicimos la otra vez
+cuando hacía el el contacto ahí.
+Ayú, tú, ¿cómo estás tus?
+No quiero saber como yo me olvido de
+tantas cosas que usted cuando usted no
+viene, yo me olvido las cosas. No
+hiciste el talbero de bombeo o no
+hiciste
+y de ahí.
+Bueno, eso después quiero saber que
+ solo
+en sí
+para que ustedes entiendan qué me está
+faltando a mí para que marchemos hacia
+la frontera.
+Este es el tardero de bombeo de lo
+último que se ve.
+¿Por qué hacemos ahora? Porque a mí me
+interesa que ustedes aprendan y después
+veamos las cosas más sencillas.
+Ahora vamos a ver el tema detector en
+movimiento
+para que ustedes vean y cómo trabaja el
+contactor con detectores de movimiento
+también y solo también, o sea, detector
+de movimiento y ahí tengo uno que es
+360 gr y otro que directamente se tiene
+que poner en la pared para que
+Okay,
+eso. Vamos a ver
+ese como aquel yo tengo uno. Vamos
+armar, van a armar y después vamos a
+hacer uno para que ustedes vean
+por qué se está utilizando mucho
+detector de movimiento más a los
+hoteles.
+Muy simple. Alumno se pone directamente
+lo que yo vi allá en en Brasil así.
+Entonces la persona iba caminando, iba
+prendido la
+demoraba tiempo con el después se
+apagaba. O sea, volvía otra vez en el
+pasillo
+y otra vez. Este se está usando mucho.
+¿Por qué? ¿Y qué nos ayuda a nosotros?
+No tenemos que poner los pulsadores.
+También vamos a ver sus pulsadores para
+que usted vea que se pueden encontrar
+con un
+un hotel en mantenimiento y que vean que
+eso existía se puede mejorar y se puede
+arreglar lo que sea. Pero, ¿qué pasa? En
+algunos casos esa boca que estaba ahí
+depende qué característica tenía, tenía
+que hacer todo el recorrido del caño
+hasta acá. Yo hoy a veces por comodidad
+ya no se pone más se pone directamente
+la luce con el detector muy
+eso vamos a hacer. No se preocupe, pero
+bueno,
+después,
+¿por qué le estoy avisando
+después? Hay una parte linda que la
+parte teórica que es lo que tiene que
+saber y tiene que presentar, tenemos que
+presentar. Acuérdense ahí ya le comenté
+que trabajo práctico, tiene que tener
+todo ahí y luego se
+Sí, lo terminar de revisar. Entonces
+estoy un poco complicado con el con el
+santo agarrato en el que me
+Es que cree que todo es fácil.
+No, no, pero no, pero esto esto son
+palabras mayores. Estos son palabras
+mayores. No puedo creer la chinchada que
+Bueno, pero eh
+o sea, me voy a tardar un ratito, no
+tanto, pero me tard un ratito
+para que ustedes entiendan. Le
+le di una obra para que se imagine, pero
+todas las obras requieren. A ver,
+ingeniero, paciencia.
+Primero del arquitecto esté bien
+definida la obra. Nosotros tenemos
+arquitecto, tenemos, ¿cómo se llama la
+chica?
+decoradora
+y todo piensan distinto y nadie se reúne
+y después le tiran el
+solucionado.
+En síntesis se hizo todos los pisos en
+algunos pisos ya se colocó las bocas en
+el y
+se movió un poquito. Que siempre se
+mueve un poquito. Primero eran tres
+departamentos por piso y en algunos
+casos va a ser dos departamentos por
+piso y el y el que está solo.
+Aparentemente
+hay un valor que ellos consideran por
+metro cuadrad. Cuando más grande el
+departamento, más caro es para
+poder vender y como tiene buena vista
+gente que va a comprar eso. Pero, ¿qué
+pasa al mover o
+dimensionar
+otros, ¿cómo le puedo decir, de
+compartimiento,
+la boca que estaba acá en el medio quedó
+por acá o la que estaba por ahí que por
+acá? algunas que casi quedaron eh
+adentro de la pared
+y la bajada de esas bocas que estaba
+dentro de la pared, alguna pared
+quedaron bien, otra o de los caños que
+están ahí. Bueno, hasta bien el sistema,
+pero ¿qué pasa?
+Esa hora cambiaron tres o cuatro
+electricistas
+y en principio se iba a poner si los
+raso suspendido a una distancia por lo
+menos 10 cm.
+de la losa.
+Ahí metíamos todos hasta los ces agua,
+todo lo que quiera
+bien hasta ahí se terminó un par de
+pisos.
+Esas bocas que estaban mal colocadas no
+se no se reutilizó y se usó las cañerías
+sobre así la
+candida y brazo. ¿Qué pasó
+cuando hicieron el el
+piso con con
+ese departamento
+grande?
+Uno mirando de acá, bajándose los
+brazos, queda una, ¿cómo le puedo decir?
+un paisaje fácil que quede abajo,
+¿enti? Bajar 10 cm, pero esa sensación
+de amplitud
+estar más bajo el techo,
+¿entiendes? Entonces, ¿qué dijo el
+dueño?
+Vamos a sacar todas.
+Y nadie dijo nadao
+tampoco estaba. Entonces
+todo esto que está acá y a cual acá está
+el todas las agas que pasaban acá para
+allá alimentación todo se sacó. Sacan
+todo eso y quedó pelado esto. Pero,
+¿cómo cómo hago para la alimentación de
+acá? Vamos a suponer que ahí están las
+piezas de aquel lado.
+O sea, más o menos donde está el
+profesor está tablero. Sí. Hay un está
+todo lo que viene siendo el recibidor,
+living, lo que sea y más o menos a esta
+altura empieza un pasillo que da a los
+baños, a la zona del lavadero y ahora
+empieza.
+Por ese paso no quieren nada de cañería
+arriba porque quieren que se vea la losa
+y ahora ya no hay cañería en la losa
+embutida.
+O sea, que el único camino que nos queda
+por el piso. Esto que va aislado, este
+que va aislado allá porque no hay nada,
+no hay forma de cruzar aquí por abajo o
+por abajo.
+La única forma que nos queda es por el
+piso y todos los registros que ya habían
+quedado previstos, todo hay que sacar
+porque ahora cambiaron de lugar el
+sistema de de eso de esa agua exploacal
+y donde están todos los registros me
+sacaron toda la caja.
+O sea, que tengo que conectar un
+registro nuevo y le tengo que mover con
+hasta llegar hasta pasar el
+y que vamos a buscar la pared,
+no tengo que ranurar, tengo que, o sea,
+de la pared tengo que bajar ranurar por
+el piso y y levantar un registro en una
+parte donde pueda usar la cañería
+exterior.
+Simba.
+Aplicamos, Sigimos la teoría. Eh,
+aparte del piso 7 al 12 es la vista.
+tiene un sector tiene
+normalmente un circuito de iluminación
+circuito de tomar ahí va bien.
+Después tiene
+tres, vamos a grande tres aire
+acondicionador que tiene que meter por
+tres lados son tres.
+Tres a condicionad
+uno en el living y uno por pie.
+Después tiene
+cocinacerámica.
+una
+cocina o si una nafe
+las cocinas de inducción esa que se
+enchufan más
+sí y después el termotanque
+y el termo tanque.
+Entonces si vos queres aplicar bienas
+cosas ya no podés algunas cosas tenemos
+que hacer. Yo lo estaba pensando y esto
+es para que ustedes vayan viendo.
+En una época
+pasó algo parecido, pero
+era una eliminación indirecta. Se hizo
+a 20 cm de arriba una garganta de esta
+forma.
+Eso de la iluminación directa, o sea,
+que eh quedaban las luces.
+Bueno, chaval, entonces la posibilidad
+que tenían era que tengo, yo les había
+planteado gargantas
+adentro de esa garganta ahí pasar la
+cañería y que quede la iluminación.
+indirecta,
+disfrazada, indirecta.
+Y después veremos cómo
+aparte también te da un tono de que es
+más grande el lugar,
+eh. Después veremos cómo bajamos por la
+pared, bajamos la pared ahí. Bueno, pero
+tengo que hablar con todo, o sea, que
+quiero que lo con todo que ponerse
+acuerdo
+y con y todo lo que se hizo, ¿quién lo
+va a pagar?
+Y se vuelve a pagar vuelta, qué sé yo,
+porque ese literalmente romper y empezar
+vuelta.
+Eh, todo un problema.
+Entonces es una obra, fíjense para que
+ustedes entiendan,
+en un pasillo generalmente los pasillos
+importantes para la montante. La
+montante es la cantidad de caño, de
+subida bajada que va a otro hasta el
+medio.
+En el pasivo está el ascensor para que
+se una idea.
+Sí, cerca del ascensor en el pasillo.
+Asensor cerca, no el ascensor está acá
+en el pasillo. ¿Qué pasa que no tiene?
+Yo tengo que ser parte
+y la única opción que tengo por afuera,
+entonces tengo que hacer tabijes. Hay
+uno tabique ya que está ilegalmente
+bandeja con conductores subterráneos,
+pero la luz de de pasillo no puedo meter
+por afuera que va a ser solo conducto
+eh, ¿cómo se llama? Bandeja y
+cómo se llama y conductores subterráneo.
+No hay con tapa.
+todas esas cosas.
+Íbamos avanzando bien hasta que el tipo
+se le ocurrió que no quiere el caño acá.
+Entonces y encima plomero.
+Acá había una cantidad de mete la desar
+por acá, rompe todo.
+Le digo a ello, le presento los coso.
+Bueno, vamos ir para allá. Entonces, si
+no me van a echar a mí. Sí,
+porque dice que yo no comparto,
+no comparte alumnos
+alumnos.
+Y sí, él va a explicar algo ahí sobre
+sobre cómo el precio estaba con ese
+trabaj con eso.
+Se quemó mi termotang eléctrico.
+Sí,
+parece ser que que puedo cambiar la
+resistencia y tal vez el termostato.
+Claro, vio como tenía el termostan.
+Claro que es un caño. Así.
+La cosa es que para saber qué tengo que
+cambiar tendría que medir. Me parezca
+uno de esos cositos de medición
+de continuidad.
+De continuidad. Eso
+un test.
+Voy a ver un par de videos porque no no
+sé bien dónde tocar, pero no podemos
+cuando estás intercando. Se ven las dos
+patillas.
+Eso es la resistencia.
+Pero para
+el termoado. Sí.
+Ah.
+Eso es
+una tapa donde está el switch. Cuando
+bajas esa tapa, el termostato, el
+termostato.
+[Música]
+La resistencia
+va encaptado no más en la resistencia.
+la resistencia y la resistencia
+separadas.

@@ -1,0 +1,24 @@
+cómo
+[Música]
+bueno aquí tenemos un contacto de la
+familia se hace y un relay térmico de la
+familia sea r2 aquí lo que estamos
+haciendo es controlar lo que es un motor
+trifásico que tenemos a nuestra
+izquierda y estamos alimentando la 220 y
+nuestro contactor es de 110 la bobina
+para poder utilizar el relé térmico como
+controlan estamos en un arreglo
+eléctrico el cual nosotros lo pasamos
+por un botón de arranque y aquí tenemos
+la escala de lo que es nuestro
+cervelli térmico
+y ahí podemos ajustar el amperaje el
+cual nosotros queremos que se abra el
+circuito podemos hacer una pequeña
+demostración
+aquí al activarlo nuestro motor se
+enciende
+y vamos a utilizar el botón rojo
+simulando que nuestra corriente llegó al
+límite ajustado para detener el motor

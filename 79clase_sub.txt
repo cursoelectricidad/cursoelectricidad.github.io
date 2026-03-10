@@ -1,0 +1,769 @@
+No, el que pedí,
+eh siempre
+la gente a ver cómo puede hacer.
+También es necesario de
+presupuesto, laía de cálculas cosas
+inteligentes
+pero si le dan el presupuesto que yo le
+había pedido el presupuesto, esas cosas
+que necesitan interés que entiendan
+dónde yo meto la la fórmula y puedo
+sacar cualquier valores, para mí eso
+estupendo porque son,
+a ver, ellos que saben y tienen todos
+los programas ahí, me pasan en la vía
+positiva y le pican ahí. Ustedes hacen
+cálculo rápido con la computadora porque
+la computadora sale, hay que aprovechar
+la computadora. Entonces,
+para mí me viene bien. Yo lo que único
+me olvidé mandarle es un presupuesto
+tipo que tengo yo que es por boca boca
+puede
+sacar la lista de materiales también
+todo. hasta puedo directamente poner
+después la cantidad de longitud de los
+cambios y automáticamente aprieto este y
+me sale la cantidad que divido por tres,
+me sale la cantidad de o sea, todas
+cosas sencillas y útiles para que
+ustedes puedan a ver si es si es lo que
+yo pienso porque a veces me pueden
+mentir a mí también. Eh, la idea es que
+tengan algo de información con respecto
+a la
+computación
+artificial para
+Ah, yo ni leí eso.
+Yo ni leí eso que había eso.
+Entonces, no
+me parece marketing.
+Sí, por eso digo, yo lo que quiero es
+que me enseñe planilla de cálculo. Sí.
+Entonces yo le doy algunas cosas y él
+pone la cómo pone la fórmula o
+porcentaje
+y por eso está todo en YouTube. Ya,
+claro, va a ser que es más rápido para
+que
+Y bueno, ese es uno y después aparece el
+tema de de
+psicóloga psicóloga
+el tema de
+¿cómo se llama
+este?
+algo.
+Ya me acuerdo. Que que hay mucho caso de
+suicidi suicidi entonces
+eh
+fíjense que yo quiere una clase sin que
+yo esté, así que siempre
+la psicóloga
+así con la psicóloga,
+¿no? El tema es que yo siempre
+eh yo escucho, pero a veces hay algo que
+no me gusta y tengo que decir a veces
+digo yo, a veces, pero sí me gusta,
+o sea, palabras burdas no quieren que
+esté por mete,
+pero es así.
+Bueno, miren, todo esto que traje acá es
+una simple
+cosa que yo siempre tengo para
+respuestas, funcionamiento, le cambio,
+le vuelvo y para que prediquen ustedes.
+Algunos andan bastante bien, todos estos
+que están ahí en casa tengo otra gran
+cantidad, pero que no funciona. llegado
+ahí. Algún día le voy a comprar los una
+época salía más caro comprar
+la ¿Cómo se llama?
+No, la parte adentro que es la que se
+quema primero y la bobina
+y uno iba a comprar salía por lo menos
+60 70% de lo que era
+el contactor de cielo como nuevo. Pero
+eso iba quedando y después empezaron a
+desaparecer. bobina para determinada
+marca, determinada cosa, todas las
+marcas tienen una característica
+distinta de del castre de la bobina,
+pero todo
+el mismo funcionamiento.
+Para que ustedes vean
+lo primero que tenemos que probar un
+contactor estos generalmente hay
+contactores en monofásico, pero lo que
+más uso y más práctica tiene, aparte más
+robustos son los contactores de estas
+características.
+trifásico.
+Siempre traten de hablar trifásico
+porque no hay en este trapol no aparece
+neutro acá cuando yo conecto la parte de
+fuerza,
+entonces
+tengo la posibilidad
+de probar. Entonces, ¿qué es lo que se
+prueba? Primero
+no traje acá mi tester,
+pero lo primero que se tiene que probar
+es qué valor tiene resistencia y si
+tiene continuidad de resistencia porque
+eso es lo que si está quemada seguro que
+no tengo continuidad, tengo que medir
+los dos extremos.
+¿Con qué medio los dos extremos?
+Continuidad o resistencia.
+Con el tester.
+Con el tester en la parte que dice,
+eso se tiene que decir cuando va la
+hora. a un
+Pero eh eso primero, primero vamos a
+marcar este y este
+si tiene continuidad y después vamos a
+ver el valor que tiene la resistencia
+500 y algo tiene valor de la resistencia
+así.
+Puede ser que no fíjate un poquito de
+dos
+que tengo traje una bolsa, pero vamos
+otro es este cabasto.
+Generalmente es lo que está numerado a a
+med
+eh me viene la resistencia.
+A ver, si tiene resistencia
+480.
+Sí.
+Bueno, ahí sabemos que la resistencia
+402. Si estuviera cortada
+482 resistencia
+más o menos alrededor de 500 valor
+resistencia normal.
+A ver si 500
+530.
+Estamos seguimos. Vamos a mirar otro.
+Dep que depende esto tiene ahora vamos a
+ver cómo elegimos el contactor.
+692.
+Ese es 12 y pico.
+12. Y este debe ser
+11.
+11. Y este debe ser 10.
+No, ese es nueve.
+Nu, por eso que va bajando. Vamos a la
+otra.
+Eh, si me dio una resistencia
+es muy probable que funcione porque no
+está si se hubiera cortado cero.
+Cer
+cuando yo le apreto tiene que medir la
+continuidad,
+¿no? Eh, porque ahora cómo probar.
+Ah, ese med continuidad los platinos
+cuando se le aprieta. No, no,
+ese
+vamos a ver si después detención.
+Ah, ahí probar
+600 y algo.
+657.
+Es, ¿qué característica tiene? 10.
+10.
+Alrededor de 500 600 es alrededor del
+escucha 1000. ¿Qué característica tiene?
+12.
+Sí, 12.
+Marca Monter.
+Mira ahí, ahí saca acá este
+05.
+Bueno, 500 ohm 500 600 ohm o menos el
+valor de la resistencia. Así que
+tengo un tablero. Puedo mirar
+tranquilamente
+si la resistencia funciona o no.
+Vamos a
+Sí.
+Entonces, pero la forma más fácil de de
+poder,
+¿cómo le puedo decir? A ver si desarm
+otro no. Ah,
+desarmando
+las eh como toda la mayoría de estos son
+220, puede haber de 24, pero
+generalmente
+no son todos 24, yo eh 220, así que yo
+no me lo que utilizo son 220. Entonces,
+lo que le vamos a dar
+fácil metro, le vamos a la bobina para
+ver si funciona que es lo más fácil.
+Entonces ahí no hay forma de, ¿cómo le
+puedo decir?
+Eh, poner fallo directamente si está
+tomada, no funciona la bobina
+no va a pegar,
+no va a pegar y que no.
+Así que eso es lo principal.
+Bueno, mientras él prueba, eh,
+generalmente lo que él tiene que probar
+tranquilamente, fíjate, me traje mi
+lámpara de
+generalmente siempre ponemos en un lado
+de la bobina como 220 el neutro y el
+otro hacemos tranquilamente, tomamos
+fase para con la lámpara de prueba, creo
+que tiene las puntas, entonces es más
+fácil tocar y prar tocar y probar.
+Entonces, sin darle, ¿cómo le puedo
+decir?
+Uniendo las dos,
+las dos, ¿cómo se llama?
+Los dos bonita.
+Bueno, yo después le voy haciendo cosas,
+le voy mostrando primero porque la idea
+es que primero las cosas entran por la
+vista, igual que el amor dice por la
+vista primero y después por el corazón.
+Pero así acá como ustedes ven,
+eso sería la excitación más que el
+esto que tiene acá es una
+concentró
+son llaves de marcha y parada están
+puestas juntas. Esto puede venir de
+forma individual. Yo estoy sacando mis
+cosas para poder tratar de encontrar lo
+que está individualmente y yo lo voy a
+traer mañana.
+Eh, despelote que tengo siempre es
+normal, así que lo otro que llevé
+todavía no tuve casamiento de todo todo
+así que no pude armar
+el equipo ese, pero yo tengo que
+perforar la base y voy a traer acá para
+armar junto y le voy a mostrar cómo se
+arma algunas cosas. Bueno,
+después hay un sistema de llave de tres
+puntos. Ahí tengo otras llaves, pero
+esta llave, una llave que tiene tres
+puntos. El medio,
+por más que yo tenga seis bornes acá,
+actúan siempre lo que está en
+horizontal. O sea, eh
+esto sería 0 1 y 2. O sea, que la llave
+tiene la posibilidad de girar 0 1 y 2.
+Entonces, ¿qué pasa?
+o uno.
+Acá se rompió un pedacito, como siempre
+la gente toca porque le gusta ver qué
+mire este. Bueno, pero es así. Entonces,
+¿qué pasa?
+Esto, ¿qué me sirve si yo tengo que
+hacer el tablero de bombeo? Es que le di
+a usted por ahí
+el prototipo ese.
+Entonces, ¿qué pasa? En cero no tengo
+nada. Si yo puedo girar para un lado,
+puedo poner manual.
+o tiro para otro lado y puedo poner en
+automático. Entonces, tengo que saber
+qué estoy haciendo.
+Si pongo en automático,
+ahí aparece una compañía nuestra que son
+los contadores. A ver, yo les voy a
+pasar una cosa para que ustedes tengan
+ahí.
+mis amigos dice,
+dice cualquier cosa necesitar pasar a
+tus alumnos acá no más el nombre del
+centro de formación y de pasar la
+formación.
+condición. Esto es el flotador,
+eso que digo una otra vez flotador y
+tiene tres tres cablecitos.
+Uno común que ten idea siempre
+si explotas
+ahí ya trabajando cont
+sí eso por la duda después
+hay quear adentro et pero lo ideal
+siempre es tener como yo tengo la
+¿Cómo se llama
+la lámpara de prueba. Entonces, de un
+lado pongo el neutro, el otro agarro la
+fase,
+que es lo que yo hago en un tablero,
+porque en un tablero yo no puedo hacer
+esto, esta conexión
+porque tengo que cerrar todo. Entonces
+sé dó miro está el neutro y ahí pruebo
+con la la lámpara de si anda o no. Si si
+anda maravilla, me ahorro.
+Me ahorro valor en agregado.
+Okay.
+Depende la marca. Lo contactó hoy es más
+barato. Creo que el Chin
+y está entre 30, ¿no? 32. Lo va subiendo
+también. Después tenemos que ver cómo
+elegimos contactor.
+Vamos adelantando ya porque yo soy medio
+chismoso ahí y le quiero contar todo una
+sola vez.
+como el hijo contactó. Ustedes cuando
+van a ver ahora en algún lado aparece un
+valor.
+Bueno, es lo que está probando ahora
+para que ustedes vean.
+Cuando él energiza la bobina, los
+contactos que estaban abiertos, estaban
+un reposo estaban abiertos, estos se
+juntan, entonces se empieza a ver
+y tengo que tener continuidad en cada
+obra,
+pero ese ruido normal,
+no
+este no eso pasa porque lo contar a
+veces adentro oxígeno o junto, eso fue
+con una limpieza, una ligei limpia
+contagio. ¿Qué anim?
+No, no tiene que hacer. A ver, vamos a
+lijarle ahí. Ahora después vamos seguir
+probando a ver si hay algunailla.
+Problem otro. Pero fíjate si le podemos
+hacer
+cuando solo el neutro.
+Solo un neutro. Entonces le probamos con
+la con la fase que es lo que yo hago en
+un tablero, por ejemplo. Si no, si hago
+lo que hace él y voy a estar media hora
+más. ¿Por qué? Porque van a haber
+cantidad de cables colgados
+y voy a tener que uno por uno
+y después tengo que probar si anda el
+relé. El relé, acuérdense que relé que
+está línea abajo que tenía las
+protecciones
+pero es para proteger un motor. Relé
+térmico es para proteger un motor. Ha
+una característica que depende de la
+corriente del motor y bueno, a partir de
+ahí se hace el cálculo de todo, pero lo
+importante es que ustedes primero de
+todo comiencen a ver
+cómo el contactó, cómo funciona y cómo
+prueba.
+Pues
+va a haber distintos tipos. Generalmente
+en un costado va a decir 10 que 10 amp.
+Eh,
+como yo dije contactor, contactor puede
+ser disfrácido
+y puedes
+cos
+eh después van a mirar acá, entonces van
+a probar, van a probar después cuando
+trae las puntas más fácil para que pero
+no hay que tener miedo al sistema porque
+le está dando 220, lo máximo que puede
+hacer es no no hacer ese ruido, no no
+tomar la la parte fija y nos funciona
+porque no hay que tener miedo eso.
+Siempre y cuando yo trabaje ahora sí
+meto el dedo justo en el
+y austo qui tenga miedo te cuentas.
+No, pero yo cuento porque por qué es
+importante contar todo lo que uno
+experimenta es que contar.
+Ah, arreglar el portero en la casa. la
+del portero, ¿no? Eh, anda aprendiendo
+más cosas, así que él tiene que contar
+lo que hace.
+Todo es chisme, pero es bueno,
+interesante. Es una experiencia.
+Yo lo que quiero saber es por qué la los
+los obreros idiotas, porque los idiotas
+tapan los registros con el silicón y un
+pedazo de cerámica queda escondido y no
+se ve.
+Bueno, pero eso ya hay culpa del de todo
+de capata de obra. Primero, ¿a quién le
+va a echar la culpa capa de obra? Y
+segundo, a mí lo que me da, ¿cómo te
+puedo decir? Escosor a veces que en una
+misma hora cambian dos veces o tres
+veces el que exista. Ahí
+siempre el primero el que va a saber más
+que lo otro y el que termina más que
+todo, pero a veces que termina se
+esconde una como esa cosa.
+Si mete una caja de coso y puso y metió
+el la cerámica.
+O sea, usted ven una pared con cerámica
+hay un registro 20 por 20. En este caso,
+en vez de poner una tapa de registro que
+indica como lo haría una persona normal,
+cortaran un pedazo en la misma cerámica
+como decimos una cerámica negra.
+Pusieron silicón negro en el borde y
+pegaron eso y después mir
+lo vas a encontrar
+cosa que est un buen rato buscando y
+miro cómo es
+cl pero ahí que el dueña casa
+eso no se hace por no poder tapar un
+registro menos está cabado si ya
+estuviera vacío ojera que élite no se va
+a usar ahí es válido pero bueno podes
+tapar un registro menos si pasan cables
+adentro
+hay un hay un aparatito que viene un
+detector de cule
+elo que queres detectar agua,
+montañería. Sí, no, pero también metal,
+eh, algo eléctrico.
+Bueno, trabaj
+Bueno, pues yo no tengo tanta plata y la
+gente en la que trabajo no la va a
+comprar así,
+pero suele ocurrir, o sea, esa cosa
+mira que ocurre.
+Bueno, yo le voy pasando
+para que usted vaya mirando.
+Eso es lo que hace contador con el
+sistema automático
+sistema de tanque elevado. Ustedes tenga
+una idea.
+Eh, siempre tienen que acordarse que
+había
+un
+un elemento que control de nivel se
+llama sistema de tanque elevador que
+tiene tres cables. Y los tres cables
+ahí van a ver después uno, el común, ese
+sí o sí está conectado.
+Abajo tengo uno para cerrar el circuito
+y arriba tengo otro color. O sea, si yo
+subo si toco el neutro, el neutro, el
+neutro, el negro que es neutro, no es
+neutro, el sería el común, va conectado
+acá y va conectado arriba. O sea, si yo
+tengo el flotador, el común siempre va
+conectado y lo único que faltaría
+identificar estando el
+nivel arriba abajo, ¿qué cable conecto?
+Si conecto el rojo, el marrón acá arriba
+o el marrón acá abajo y el azul o el
+azul arriba. O sea, eso es lo más para
+definir. ¿Y de qué depende?
+que esos contactos normalmente abiertos,
+cerrados es lo que hace que abre, cierra
+el circuito. Una bolita que es simple,
+esa bolita de acero se mueve a medida
+que va aumentando un nivel o está vacío,
+entonces tac,
+cierra. Nada más que había otros
+flotadores que tienen otra
+característica. ¿Qué característica
+tienen? Eh,
+no es parecido a esto, sino parece que
+va como un capuchón arriba un sistema
+flotante también que empuja para arriba,
+o sea, el flotador está arriba tipo una
+tortuga que está arriba y abajo tiene un
+sistema para que abra y cierre el
+circuito nada más.
+ese otro sistema, todo depende de qué
+característica
+tenga o consiga. Yo generalmente estoy
+usando eso y hasta ahora me da buen
+resultado. A veces falla como todas
+cosas, pero eh estoy colocando esa.
+Con eso yo me acuerdo con la municipa.
+Con eso reemplazamos lo de la terminal
+más
+no tanco. Sí, tiene alguna
+característica
+para conectar.
+Bueno,
+le vamos a dejar
+en estado de stock, che de esos dos pus
+dos
+ese no. No, no, porque el que probable
+con la lámpara.
+Está bien.
+Este funcion
+ese hace ruido, así que hay algunos que
+hacen ruido, pero generalmente no tiene
+que hacer. A veces hace el famoso,
+eh, ese sería un ruido que es como si
+estuviera chillando la bobina. Hay otro
+que hace
+eh cuando se toma ustedes van a sentir
+clac clac, nada más que eso. Y cuando
+está tomado hace, no se siente nada. Eso
+va a mover ahora.
+Bueno, ¿qué otra cosa importante?
+Yo estoy vendiendo, yo vendo cosas eh
+eh voy a tratar de esto es una síntesis
+lo que un contactorista acá dentro.
+Acá dice que un mecanismo cuya misión
+era de cerrar y contacto para permitir
+el paso de corrente a través de ello las
+partes para que ustedes tengan idea.
+Interesante
+que sepa cómo funciona y para qué sirve
+esto. Después vamos a trabajar con
+fotos.
+Qué raro que la gente nueva no vino.
+Hoy es culpable.
+Eh,
+bueno, en síntesis
+ustedes van a recibir eh el símbolo de
+un contactor generalmente esta esta
+característica.
+Entonces
+va a aparecer contacto nuevamente
+cerrado, nuevamente abierto. Acuérdense
+que
+generalmente
+este tiene u tiene cantidad de contacto
+normalmente cerrado y todo normalmente
+abierto.
+Esto para distintas características,
+distinta función, todo lo que sea. Estos
+son una marca antigua que casi me sale
+que son los contactos.
+contactores de acá nacieron todos los
+otros derivados
+la que se contores.
+Entonces, ¿qué pasa? Acuérdense
+una de las marcas
+más importante en la época era de origen
+alemán y origen alemán
+así como dice el como dijo Sócrate. No
+me acuerdo.
+A una de las a una de las partes de las
+lámpara de prueba a un punto de la fase
+y la otra punta a la otra parte de la
+está
+así. Este no se escucha.
+Ahora, ahora habría que decir
+si están contacto con el platino.
+Sí, después yo quiero que ellos vean eh
+acérquese a uno para ver cómo va el
+tema, ¿no? Porque el tema es que si
+están de lejos es lo mismo que yo pruebo
+acá y
+no veo. No ve no veo. Por eso entiende
+cómo es. Yo les saludo ahí. Vean cómo
+es, porque es importante que vean el
+tema
+de cómo funciona esto.
+lámpara de prueba, otro a una bobina
+una parte una punta de lámpara de prueba
+a la fase y la otra al otro extremo de
+la
+esa otra forma de probar si no es darle
+porque lo que estamos haciendo en
+realidad es darle 220 si no si no
+funcionara el contactor o la cortada lo
+que hacer es que se prendería el foco.
+Se prendería el foco. Ah,
+esto actúa como una resistencia para
+después no entregarle toda la carga al
+resto del contactor o si tiene algún
+problema.
+lo que es una serie en realidad, lo que
+estamos haciendo una serie. Entonces,
+acá y acá
+y este no hace ruido. Habría que ver si
+están en contacto todos los platinos,
+pero así funciona el contacto no se
+tiene que escuchar si hace ruido o o
+chilla, como le decimos nosotros.
+Se enciende la alambra, eh
+se enciende la alambra.
+No,
+no,
+si se enciende porque no anda.
+Ah, porque no anda.
+Sí. ¿Cómo es? Sí, ese chillo que se
+escucha a veces por un mal contacto en
+los platinos o simplemente porque está
+sucio.
+Si no hace nada
+ahí está perfecto y si no los contactos
+está perfecto.
+Es importante acá para qué hace esto
+para ver si el contor funciona. Esto
+acuerden sé que tiene la bobina 220 y yo
+lo que hago esar la bobina.
+La bobina está alrededor de un núcleo de
+hierro que son como un sistema espiral.
+Entonces, ¿qué hace? Hace pasar energía
+20 por ahí se forma un campo magnético.
+Si el campo magnético el núcleo y un
+sistema de imán y ese imán es lo que
+hace que la parte fija se tome. Esa es
+la idea.
+¿Y esa qué otras conexiones tiene abajo?
+¿Dónde? Acá
+el no
+esta parte abajo
+la
+no es estas son las principales tres
+salidas.
+No, no, ese verde. ¿Qué
+qué verde? Esse no ser este es
+esta es la entrada neutro de la bobina.
+Por lo mismo, tienes que darle fácil
+neutro por A1 y A2. Acá lo que estamos
+haciendo es dejar el neutro conectado,
+suponiendo que el tablero esté
+instalado, dejas el neutro conectado y
+la fase vos la puenteas con la lámpara
+de prueba. Entonces, si tiene un
+problema en contactor, este va a ser un
+efecto de serie y no vas a perjudicar
+ningún otro punto de la instalación.
+Mir qué interesante. Acuérdense que los
+dos extremos, A1 y A2, son la bobina. Sí
+o sí. Puede ser que esté acá o que esté
+o al costado.
+En este caso tenemos uno acá al lado,
+uno al lado. A veces está acá y a veces
+está acá. Pero
+acá para que ustedes vean, acá hay un
+tornillo. Estos tornillos de salarme acá
+y acá.
+Eso sostiene la parte fija y la parte
+móvil del contactor.
+Entonces cuando uno quiere desarmar
+desarma,
+puede sacar. Esto tiene unos bornes, va
+encastrado directamente, depende qué
+marca es. Los bornes de la bobina. Les
+puedo mover uno.
+Yo tengo en casa algunos que están
+eh, ¿cómo le puedo decir? Sin
+desar más. Esto estamos probando para
+poder ver qué cantidad tenemos.
+Yo esta vez qué hace.
+¿Cuál era ese? Este es el que no
+marcamos número
+que no marcó número dos. Si no vamos a
+mirar
+este que hace ruido, o sea, que este
+vamos a limpiar
+este le vamos a hacer le vamos a poner
+unos anos
+que seas como servi digamos
+problema si
+no hace su calidad.
+Lo que pasa que esto se elige
+generalmente por la cantidad maniobra
+que tienen.
+Salta de 20,000 30,000 o 4000, así que
+no hay problema. Trabaja bien problema
+de función
+se quemó contra no se quemó contra se
+quemó la tiene que ser la Entonces,
+pero si tu bobina se quema no genera
+campo magnético, entonces no se cierra.
+Y todo lo que recibe la carga son los
+contactos arriba.
+O sea, los términos para la habilidad
+contor se dice o se quemaron las
+entradas o la salida o los platinos o la
+bobina porque el contactor es el
+conjunto entre los platinos, la parte
+móvil y la bobina. Todo eso el contacto
+o puede se quemó todo el contacto.
+preguntar porque se enoja
+estamos
+a ver importante a ellos
+lo hago días
+una carga
+A ver,
+puedes ir tranquilamente para ayudar. Yo
+estoy acá cosa no le gusta.
+Algo bueno tiene que haber ahí
+el miércoles hay psicología.
+y me está atrás no quiere que escuche
+este que a veces no quieren que son
+esa que me dijo
+el
+preparar todo
+un diagrama nosotros primero van a
+probar eso que estamos haciendo. a cada
+uno y cada uno. Después depende que la
+cantidad de contactores que tengamos y
+yo lo lo sistema que pueda traer, yo voy
+a traer algunos tableros ya para que
+hagamos solo arranque y para que veamos
+cómo trabajan
+solo para
+con estos comandos voy a el dibujo acá.
+van a sa y después haremos todo lo que
+que falta ahí. Eh, los que tengo más
+información a ver si puedo sacar sacar
+esto. Ya le doy ahora
+que me saque fotocopia de esto. Depende
+la gente que estemos y van leyendo. Dijo
+que está en modo normal.
+Esos están arriba. Yo estoy viendo los
+de abajo.
+No, claro.
+Pasamos este y ahí como que no entendí
+bien la función. La la función que es un
+un interruptor y si tiene la posibilidad
+de de trabajar a distancia y cualquier
+equipo que vos tenga parte a una cuatro
+celular usa con el contactor y te puede
+encender tranquilamente sin que tenga
+usar varias cosas juntas.
+Varias cosas juntas.
+Esto en gran escala está en algumbado
+público ahí
+público
+enciende prende todo
+pero a poco, o sea, para qué sirve esto
+es para
+en un contractor grande voy a tener los
+comandos al costado que en este voy a
+tener un comandos arriba
+las tres salidas inferiores son las
+salidas de fuerza las arribas son las
+un capacitor
+aumenta C veces la corriente nominal,
+vamos a suponer que es 5 amp y eso eleva
+y esta todo
+bien
+soporta todo las cargas para eso.
+Pero también le sirve para que lo que
+ustedes es un diagramao de bombeo.
+Reciben eso. Entonces vamos
+tres salidas de fuerza y50
+los que tienen tres, o sea, los que
+tienen números grandes
+son los auxiliares
+y depende si tiene tres o
+no porque si ves un contorno
+tr cu o un dos son depende normalmente
+ah está normalmente cerrado bien
+no porque si yo te traigo un contactor
+de característica de 40 el contactor va
+a ser grande como este
+otro número más grande va a ser lo único
+que veas porque no va a traer los
+chiquitos para ahora vamos a ir
+no depende del tamaño de los nombres,
+sino de que volteas los contactos y que
+entiendas dónde están los auxiliares y
+dónde podían estar ubicados.
+Bueno, vayan porque si no ven acá
+conmigo que este
+Sí, sí, después vendemos
+hasta las 9 después de las 9.
+Vamos ver que hay
+no hay
+ella y
+y medio.
+No, no.

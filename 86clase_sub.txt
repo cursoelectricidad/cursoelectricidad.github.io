@@ -1,0 +1,19 @@
+Trafo sí o trafo no para el armado de un
+tablero de bombas. Pensemos que en el
+circuito va a haber un flotante, un
+automático de tanque para el tanque
+cisterna. Bien. Y también vamos a tener
+otro automático del tanque elevado. ¿Sí?
+Entonces, para eso vamos a utilizar
+estas borneras, ya que desde acá va a ir
+hasta el tanque cisterna y otras
+borneras que van a ir al tanque elevado.
+Ahora, la tensión que deben llevar estos
+automáticos es con una tensión de
+seguridad de 24 V. ¿Y cómo es posible
+eso? Mediante el uso de un
+transformador.
+Acá se conecta 220 V y sale 24 V.
+Tensión de seguridad. Por eso es muy
+importante para el armado de tablero de
+bombas utilizar un transformador.

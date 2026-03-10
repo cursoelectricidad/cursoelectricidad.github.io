@@ -1,0 +1,2288 @@
+y este
+Ah, sí. 27
+Aá.
+Ok.
+Todo bien conopa.
+[Música]
+Bueno,
+No.
+¿Cómo anda?
+Bien.
+Bien.
+[Música]
+algo.
+Estoy sacando algunas copias para la
+gente.
+Ah.
+Bueno,
+Ya empezamos.
+[Música]
+Acá hay una cita
+en todos lados hay.
+Bueno,
+[Música]
+mucha interacción ya todavía no empezar
+con las interacciones.
+Vamos a ver.
+Primero lo que vamos a hacer ahora es lo
+siguiente. Yo voy a explicar acá eh esto
+es algo parecido.
+Eh, todo es medio
+idéntico. ¿Por qué? Porque la idea
+principal acá es que ustedes tengan la
+posibilidad de primero entender la
+escala y segundo cómo yo voy
+colocando las bocas, los tomas
+y después vamos a ver cómo marcamos los
+cambios y cómo calculamos cada cosa.
+Entonces, por eso me interesa que
+ustedes no se apuren de entender, sino
+que esto le va a servir. Después yo le
+voy a dar cositas, así que
+impreso unas cosas para que tenga, pero
+acá la idea de trabajar todos juntos
+para que sepamos cómo es la secuencia y
+después el día de mañana saber cómo
+hacemos la lista material. Esa es la
+idea. Estamos primero a dar la escala.
+¿Qué escala te aplicando? es cada a 46
+uno en 50 y uno en 100 y lo que más
+utilizamos en la parte eléctrica.
+Después los pasos que que hacemos para
+poder diagramar, que esto se hace en un
+plano, pero después cuando ustedes le
+toquen un trabajo particular y tengan
+que esquematizar, sepan qué lo cómo
+hacerlo si no tengo reglas, tengo una
+una hoja cuadriculada, ¿cómo hago el
+esquema? Sin tener
+hasta un ni usted necesita un metro,
+pero usted tiene que saber, ojo, a veces
+necesito un metro, pero no necesito
+saber. ¿Cuánto es mi paso?
+Generalmente en algunos casos en momento
+aproximadamente, pero sirve para poder
+menos
+idea exacta
+de cuánto estamos no vamos paso tan
+grande tampoco, sino que es importante
+tener una forma de medida para poder
+esquematizar si no vamos a esquematizar
+y no tenemos valores aproximados.
+La otra de tener mos. Esa es la idea
+principal.
+100 marcadores.
+Ahí viene otro conando.
+Este igual que cuando uno
+algunas mujeres tienen mucha
+cartera que no saben cuando están
+saliendo los años y se necesitan
+est la otra es lo mismo.
+Perdón, mujeres.
+Esto que está acá es otro,
+son los primeros, ¿cómo le puedo decir?
+Eh, aún la que tuvimos por eso que era
+chiquita y la generalmente, pero no da
+una idea particular. Esto acá revisando
+la computadora tenía un práctico ahí.
+Así que bueno, pero insiste. Sí, estamos
+acá.
+Hicimos el esquema a través de la escala
+1 en 10 o 1 en 50. Empezamos a colocar
+la boca. No sé por qué no está.
+Acá había un coma de aire acondicionado
+que se aparecido. Y acá había
+una llave y acá había, si no me
+equivoco, otro toma por acá era algo me
+acuerdo todavía
+y una caja de paso.
+en algún lado eh a la a la gente nueva
+si dice bien las cosas bien la
+fotocopia. Ahora le voy a dar algunas
+los símbolos más usados que hacemos para
+lectura de plano eléctrico y
+generalmente arquitectónico.
+Debe estar por ahí, así que
+ya debe estar por ahí no más.
+Lo primero que le voy a dar la clase
+porque si no tienen los símbolos no van
+a saber que estoy escribiendo.
+que está acá
+[Música]
+video.
+Bueno,
+lo importante que todos van tener la
+misma
+las mismas cosas, así que no
+Bueno,
+lo importante de todo esto que ustedes
+conozcan los símbolos, eso es lo que más
+me interesa a mí. Y yo después le voy a
+regalar algunos planos que tengo por ahí
+tirados y atrás cantidad.
+Y la particularidad es siempre que
+estemos haciendo una instalación saber
+de dónde sacamos la alimentación.
+Generalmente, ¿qué alimentación
+necesitamos? Do 20. 2 dónde podemos
+conseguir o dónde podemos
+encontrar en un tablero. Este tablero si
+no está acá directamente está en un
+lugar cercano o en algún lado donde tomo
+la alimentación.
+Acuérdense que esto es tablero seccional
+completa tierra. Ahora vamos a ver
+seccional este,
+o sea, que de algún lado yo estoy
+encontrando flexionom.
+Yo escribí así también.
+Acuérdense que siempre atrás el tablero
+general,
+atrás del medidor está el tío general,
+dentro de la vivienda está el caro
+sesional y ahí está sesional en la cual
+está generalmente
+todas las térmicas oomagnéticas que
+protegen al conductor de todos los
+circuitos. Así que en algún lado yo
+tengo que tener la alimentación de eso
+principal y a partir de ahí cualquier
+lugar que yo tengan
+vivienda, lo que sea, en algún lugar,
+algún sector, generalmente va a dar una
+caja de paso. ¿Por qué va dar una caja
+de paso?
+Porque necesito tener derivaciones a
+distintos lugares. Entonces, en algún
+lado tengo una caja de paso, por eso te
+puesta la caja de paso acá. A partir de
+ahí se empieza a trazar
+líneas. Esta línea, ¿qué indican? Estas
+líneas indican generalmente
+a yo estoy hablando demasiado. ¿Qué
+indican las líneas?
+Las cañerías. Entonces
+est vamos a suponer que está
+puedo bajar por acá directamente.
+Esto como es un toma de aire
+acondicionado, este es toma de uso
+generales siempre acuérdense toma de uso
+generales generalmente aparece una silla
+vací
+y son generalmente lo que
+tengo alimentación para cualquier
+artefacto o aparato
+que tengan eh potencia alrededor de
+menor de 2000
+que tenga ID después los otros toma
+especial y automáticamente
+vamos a tener la posibilidad.
+Generalmente
+la mínima canería que utilizamos
+nosotros
+más que en los proyectos sino
+directamente vamos a hablar en forma
+comercial
+tres cuartas
+en forma de cualquier gráfico que
+encontremos. va a aparecer 19 sobre 16
+RL o RS.
+Esto indica cañería
+metálica. Ya. Después hay otra que era
+tr.
+Esto indica
+caño rígido. O sea, que depende cómo uno
+lea el plano se va a dar cuenta qué tipo
+de cañería es. Generalmente en algunos
+lados, algunos planos que curan.
+en un reverso, un costado, lo que sea,
+qué tipo de cambio estamos utilizando,
+principalmente los materiales.
+19 16, ¿qué significa
+19? Significa diámetro externo,
+acuérdense,
+diámetro externo y el diámetro interno
+es 16. Es que un camiño
+de hierro 16 sería el diámetro interno.
+Y lo que nos interesa a nosotros el
+diámetro interno. ¿Por qué el diámetro
+interno? Porque hay una parte del
+reglamento que dice que internamente
+depende la cantidad de circuito,
+hay un 35%
+de ese de esos cambio
+que debe ser ocupado por los
+conductores.
+Estamos lo otro espacio libre. ¿Para qué
+el espacio libre? de que la corriente
+cuando pasa por conductor genera calor.
+Ese calor de de ser disipado, ¿de dónde
+se disipa? En laería.
+Si el calor es demasiado o el consumo de
+cualquier equipo es demasiado,
+muy probable que con el correr del
+tiempo esos
+cantidad de circuito, los conductores
+empiecen a perder que lación
+primero y segundo empiezan a quedar en
+vez de esos que sean maleables. un
+cablecito se resecan y entonces ese
+conductor que estaba calculado por una
+cierta cantidad de potencia un pequeño
+de alcance y quizar duro. Cuando ustedes
+vean un conductor y revisen y ese tiene
+elasticidad
+quiere decir que pasó una corriente
+demasiado grande o está pasando una
+corriente demasiado grande. Esto es
+elasticidad. Todos los conductores con
+este sistema tienen elasticidad. ¿Por
+qué? porque tiene hilo de conductores
+internos que
+hacen que esto sea maleable.
+Entonces, si la corriente pasa por
+dentro del conductor, como todo se cobre
+directamente,
+esto empieza a sufrir
+calor. Entonces, con mucho consumo,
+mientras esté prendido, la corriente que
+pasa acá es una corriente muy elevada,
+después se enfría y después se vuelve
+otra vez. Es como si nosotros
+estuviéramos en un herrería. No sé si
+usted alguna vez calentaron un hielo
+después
+en frío de vuelta con el agua. Eso sea y
+es lo mismo ocurre con el niño. Entonces
+queda duro, pero pierde rigidez, tiempo
+se va resecando, entonces provoca que
+ese conductor día mañana pierda la
+aración y es que ese conductor que está
+aado queda a
+cono y directamente si hay otro
+conductor con una característica puede
+ocurrir que hayan los
+fuerza.
+Bueno,
+entonces
+una de las de los símbolos más
+importantes es
+¿Por qué? Porque cualquier plano que
+ustedes vean va a indicar en su parte
+superior, vamos a suponer que este sea
+puede aparecer 19 16
+o directamente o no es igual 16
+está dado milímetro.
+Pero comercialmente nosotros pedimos un
+calma de 3 cu. Estamos comercialmente,
+pero en un plano técnico, lo que sea,
+para ser aprobado
+tiene que aparecer 19 o 16. Eso está en
+mi línea. Estamos más o menos. Y abajo
+aparece un número. Fíjense,
+para conformar o para hacer un circuito
+de tangente, yo necesito
+mínimamente dos conductores.
+Sistema monofásico, entonces desfáce
+neutro y tiene un elemento receptor.
+Entonces va a aparecer un número primero
+multiplicado por la sesión del
+conductor. la sesión de conductor
+depende qué característica tenga, pero
+normalmente para que ustedes entiendan,
+dijo, el reglamento que no nos
+posibilita a nosotros tener una idea
+exacta o aproximada, porque podemos
+recalcular eso, me está indicando que
+iluminación generalmente siempre desearé
+utilizar secciones de 1,5
+mm cu.
+Esa es la sección del conductor.
+Estamos
+de conductor. Este 1,5 mm cuad sección
+de conductor es exclusivamente para
+iluminación.
+El reglamento me dice, "Si vos estás
+haciendo iluminación, comprarte un
+conductor de 1,5, hacer todo el
+recorrido de los cables
+y poner cualquier elemento o artefacto."
+Hay algunos que dicen, "¿Para qué tanta
+sesión de conductor si últimamente
+estamos utilizando
+LED que tiene bajo consumo?"
+Pero no sabemos, puede ser que utilicen
+otro artefacto con otra característica,
+pero nosotros que somos instaladores
+utilizamos como
+iluminación
+y toma corriente
+sí o sí, 2,5 mm² sección.
+Sí.
+Eh, me importa el tamaño del cable. Por
+ejemplo, si un cable hasta 1,5 y pasa
+una corriente no la a 1,5.
+Sí, no es una décima parte aguanta eso.
+No, no pierde energía.
+No, no, porque es lo mismo siempre.
+Acuérdense y esto es para todo lo
+general, hacen una comparación entre
+agua,
+una cañería de agua y la parte
+eléctrica. Entonces, ¿cómo se llama?
+Fueran conductor. Entonces, ¿qué hace la
+cañería de agua? Cuando más sección
+tenga la cañería de agua, menos
+resistencia al paso del agua de
+teléfono, eso es normal. Y lo mismo
+ocurre la sesión de conductor. Lo más
+grande es la sesión de conductor es
+mejor el transporte energía de la
+corriente, o sea, no va a sufrir
+deteriores, no va a tener, o sea, eso es
+la idea. Después vamos ver un poquito
+eso con ustedes.
+Sí, muestra cuenta se me explica
+Bueno,
+entienden más o menos hasta ahí.
+Entonces, iluminación y bueno, el otro
+más caliente. Bueno,
+realmente para toma especiales siempre
+mm. Estamos no vengan con el tipo ese,
+¿no? Que si usted pone para acondicionad
+siempre eso,
+¿no?
+demasiado para acuérdense de cómo una
+tabla en la cual se haya la sección de
+del el cambio a través de la sección de
+conductor, las cantidades de circuito
+y la parte del reglamento de las normas
+te dice sección mínima de calería,
+sección mínima de ahí para arriba.
+Lo mismo se utiliza
+secciones de conductor
+siempre la norma te habla de mínima
+porque te da una seguridad después si
+vos querés poner más grande por más que
+el cálculo te dé un valor de sección
+menor, lo ideal es poner lo que dice el
+reglamento.
+Esto que está acá es algo parecido ahí,
+pero estamos tratando de que el trabajo
+que estaban haciendo, hicimos toda la
+instalación, iba a haber directamente
+una cañería en este caso que es 7
+octavos. Vamos, vamos a trabajar con
+pulgada porque va a más fácil para
+verlo. Después podemos cambiar de
+pulgada. Usted van a recibir después
+algo de esto parecido para que tengan
+idea
+generalmente en todos los planos o si la
+gente ya tiene una idea de o experiencia
+tiene que saber qué es este símbolo que
+generalmente una caja de 10*5 que me
+implica una caja de 10x 5 que yo puedo
+colocar en estos casos dos puntos y un
+toma. Si ustedes vistan algunos planos
+que ponen
+una caja de 10* 5, un toma y tres
+módulos,
+lo ideal
+ahí está hablando de tres módulos de
+toma, o sea, que teniendo cuatro traer
+una cajita por ahí, o sea, los módulos
+normales usted dice, "Sí, pero se puede
+puede haber más más
+llave, ¿sí? ¿Por qué? Porque ese módulo
+que era realmente uno puede ser dividido
+en dos. Entonces puedo tener también
+otros módulos con otra característica
+y traer un bastidor no más, pero
+generalmente en una cajita entran
+normalmente tres módulos. En este caso
+va a entrar exclusivamente, fíjense,
+dos módulos. de llave de un punto de un
+tomaente
+para que ustedes vayan viendo. Entonces,
+tengo la idea de qué cosa va. Fíjense
+ahora los tomas.
+Cada toma va a aparecer o tenemos que
+tener la idea, apenas veamos el símbolo.
+Esto es un módulo,
+un bastidor y esto es un módulo.
+Entonces en este bastidor tranquilamente
+con esta
+característica va a entrar tres módulos
+más de eso
+no significa que haya otro, como puedo
+decir, otra marca.
+que tenga más módulo.
+Estamos, pero lo ideal es esto. Hay marc
+no se preocupar que
+entonces cuando yo miro un plano
+directamente entiendo
+tengo conozco la simbología de entrar
+tengo que saber dónde está la cajita 5%.
+Toma, toma, toma, toma.
+Caja 5x10
+y después tengo que ver el tema la
+altura.
+Eh,
+si no le doy hoy, mañana cuando
+empecemos con la otra gente,
+si quieren venir más temprano, yo le voy
+a dar la simbología y le voy a dar una
+clase para ver las aberturas para que
+ustedes tengan idea de qué es lo que
+estamos haciendo. Y bueno, y ahí vamos a
+empezar de poco para arriba.
+Y acá le vamos a poner, fíjense que esto
+ya vimos,
+no sé dónde quedó, pero habíamos dicho
+que la altura
+en una un tomo normal a con respecto al
+nivel de piso se lo a met. ¿Por qué es
+interesante esto? Porque fíjense que ya
+acá eh se le dio una altura de 3 m.
+¿Para qué de 3 m? Porque después tenemos
+que sacar la diferencia entre 3 m y esto
+para sa
+la longitud de cambio. Siempre se
+preocupe. Estoy contando qué es lo que
+estamos haciendo para que ustedes
+tengan la idea.
+Eh, antes
+él lo hizo la escala.
+los dibujos de cara. O tampoco. Sí,
+sí tenés. ¿Quién otro no hizo
+a que las caras
+separar de la superficie? Porque esto
+que está acá que habíamos dicho 4 con6
+en una superficie de una planta y ahí
+estamos colocando la boca.
+Acá era fácil, ¿se acuerdan? Mitado,
+dos diagonales y tengo los dos puntos.
+Entonces, si quiero meter tres, fíjense,
+acá tengo seis, entonces hago dos y dos,
+puedo hacer tres
+rectángulos, ya de 2* 4, 2 y tres y
+trazo y puedo colocar hasta en el medio
+me sale una y me sale una acá y otra
+puedo tener hasta tres bocas, o sea, que
+lo que aquí estoy diseñando es un poco
+más lo que hacen los los proyectos,
+porque depende la característica el tipo
+te va a decir, "Necesito tres bocas cada
+dos bocas, necesito que tenga cuatro
+bocas." Eso depende qué características
+tenga o si no venga, viene un
+profesional que es el arquitecto y le
+dice, "Necesito iluminar esto con cierta
+cantidad de lúmenes, va a haber este
+tipo de artefacto." Entonces se va
+proyectando de acuerdo a la
+característica que tenga esa obra en
+particular.
+Pero es fácil hacer la
+Bueno, le la chica muy amable. Le vamos
+a hacer un monumento,
+¿no? Hoy salí 3:30, así que a esta hora
+ya tengo el carguero cero.
+Bueno,
+fíjense que habíamos dicho que vamos a
+empezar por el toma especial. El toma
+especial y el aire acondicionado.
+Este acá que estaba acá arriba era un
+un toma de pared
+toma de pared para un aire acondicionado
+emitido
+de la época de antes. Estaba colocado a
+175.
+Pero vamos a suponer que ese es un
+split.
+Yo quiero escuchar que dice,
+eh,
+sí, vamos a suponer, vamos a redondear a
+3 m ahí para que ustedes tengan idea,
+pero si yo tengo un speech, habíamos
+dicho que esto
+está a menos 030 redondes, si lo raso.
+Si yo tengo un silaso suspendido,
+acuérdense esto, lo ideal es que
+nosotros como instaladores
+hagamos menos esfuerzo.
+¿Por qué? Trato de hacerlo todas las
+cañerías por arriba y abajo. Está Sí.
+también para que usted entiendan,
+he tenido distintos tipos de gente.
+Uno siempre trata de hacer el mismo
+esfuerzo porque te cansa, hace más
+rápido por arriba, bajar solo acá, picar
+la pared. Pero he tenido un alumno que
+estaba haciendo una obra y después me
+muestra, pero vamos a suponer que es el
+caso de este toma que está ahí
+que estaba acá arriba.
+¿Qué hizo el mi amigo?
+No tuvo la mejor idea que picar toda la
+pared, toda la pared hasta allá y bajar
+a camería.
+¿Para qué?
+Se avisa todo estos recorridos. Si yo
+tengo así los brazos suspendidos, tengo
+que tratar de de mandar todas las
+camionas que puedo por arriba y después
+bajo. Lo mismo ocurre cuando hacemos
+Estamos muy de moda ahora trabajando con
+el tema de construcción en seco, las
+paredes,
+con los perfiles y de todo. Entonces
+hacer las boca ahí si puede o tener
+cerca otra boca un directamente montando
+para arriba y después empezar a unir.
+¿Qué características las posibilidades
+que tenemos? Tenemos una boca autogonal,
+una boca autogonal que tiene ocho
+salidas porque diceonal.
+Eso que ustedes ven que son las cajas
+que están a boca anuales ocho salida, o
+sea, que podemos hacer varias
+derivaciones por arriba.
+Hoy justo me acordé porque una parte de
+las normas que hice cómo agrupamos los
+conductores, cómo hacemos los circuitos,
+todo viene la reglamentación. Entonces
+ya empecé a imprimir algunas cositas
+para Espero que lea a la gente vieja que
+que no tiene esa fotocopia le voy a
+hacer. Tenemos que tener todo igual
+para que lean
+o si no vamos a tener que hacer fotos
+copias para después.
+Importante que se
+o tengan un lugar
+para consulta, un libro de consulta. El
+reglamento, acuérdense, el reglamento es
+grande y tienen muchas hojas y para leer
+todo el reglamento
+hay cosas que no van a entender, otras
+que no son utilidad para el desarrollo
+de las prácticas. Entonces, lo ideal es
+que lean lo poco que yo le dar. Después
+si quieren algún día tienen más
+paciencia, leen todo el bueno
+pusimos todas las cañerías acá,
+lo mismo que hacen ustedes ahí.
+Entonces tenemos 78
+y el conductor que va ahí es 2* 4
+más tierra.
+Vamos circuito de aire acondicionado.
+Esos circuitos especiales van a pararte
+en cañería parte. Generalmente el mismo
+conductor que utilizamos es de 4 mm.
+En algunos casos, cuando la ducha
+eléctrica
+está a una instancia bastante,
+¿cómo le puedo decir? con respecto de un
+saco de alimentación de un calero
+general y depende qué potencia tenga la
+lucha eléctrica. Generalmente una
+potencia
+normal
+5500 y puede llegar a 6000 y pico,
+depende qué característica de lucha
+eléctrica tenga.
+Esto es era
+o aprender o a pagar. Este es la
+potencia. Entonces, ¿qué pasa?
+Depende qué lugar esté mi tablero y
+dónde traiga mi alimentación,
+ese conductor mínimo de 4 mm. Pero
+después de la distancia hay una fórmula
+que después vamos ir viendo que es por
+caída de tensión puede provocar que ese
+4 mm depende qué longitud tenga puede
+variar y llegar a 6 mm.
+Estamos esa caída de tensión aceptable
+depende de la distancia que tenga el
+artefacto es de
+máximo 3% de caída de tensión admisible.
+Eso, ¿qué significa? Si yo tengo 220
+allá, 3% sería
+llegará acá con 100 y pico, 80 y algo,
+pero
+eso me puede variar con respecto
+al conductor.
+Eso vamos acá los cálculos. Hoy estamos
+dando escala. En la escala estamos
+diagramando las bocas. esas bocas
+considerando
+lo que yo necesito para cualquiera
+plano que yo tenga. Esta es lectura.
+Entonces, si yo agarro un plano primero
+tengo que saber qué tipo de escala. Si
+yo no tengo la escala, ya que estamos al
+revés, ¿qué hacemos?
+Me dan un dibujo cualquiera.
+Acá dice una escala de una de 100, pero
+no es con una de 100 porque chocó lo
+hice imprimí no más.
+Entonces,
+¿qué es lo que tengo que ver? Porque
+pueden ser que ustedes reciban un plano
+eléctrico y no miren las escalas. No
+miren o no sepan qué escala está pasando
+ahí.
+Eh, triple
+tripl.
+¿Cómo se hace? Yo yo te dedicto para que
+veas cómo se hace para elegir la escala
+o una escala aproximada para saber que
+el dibujo que me están dando
+qué medida tiene.
+Entonces, ¿qué hago?
+Mido en escala 1 en 100. Acá me dice 3
+m.
+Acá en este caso 4 m
+y qué y tengo que ver el dibujo en el
+plano qué medida tiene.
+Estamos qué decía la escala. A ver si
+leyeron algo.
+Era una proporción de ¿qué?
+El numerador.
+El numerador el denominador.
+Y denominador. ¿Qué decí el numerador?
+La
+el real,
+no real, el
+la escala representar
+eh arriba indicaba algo quejo que estaba
+en el plano
+y abajo la
+la medida real,
+¿no? Pero si vos tenés uno en 100, por
+ejemplo, ahí te dan una unidad 1 met que
+vos ve ahí son 100 cm.
+1 met 100 cm.
+Esa
+lo que vos estás haciendo es si yo tengo
+al revés, marco 100 cm y digo que 1 met
+o yo le doy la característica a esa
+escala o esa proporción que esos dos
+cuadraditos que o 1 cm me indicaba 1 m.
+Después
+1 cm de es 100 cm y 1 m son 100 cm.
+Entonces, 1 cm en dibujo, en dibujo, en
+cada uno en 100 me va a indicar 1 m de
+la vía real, están 1 cm. Eso es la idea.
+Entonces, si yo tengo esto que está acá
+porquera porque usted
+medir acá yo tengo acá
+8 men.
+Fíjense para sacar un cálculo de
+cualquier lado, para saber que
+acá este bien así todo
+ahí será menos
+17,2
+17,2, pero vamos a suponer que tengo 17
+cmido
+en escala 1 en 100 en ese coso. Entonces
+yo tengo acá
+3 m,
+entonces tengo que dividir, fíjate, 17
+cm,
+¿cuánto es?
+Son tres. Son
+5,63.
+5,63
+es una proporción
+de la escala o suponer que yo tengo que
+multiplicar todo la medida que yo tenga
+por se para valor de estoy teniendo
+calor. Ahora voy a mostrar mi remera
+nueva prometina.
+No me gusta esto. Demasiados fanáticos.
+Mucha propaganda,
+mucha propaganda y está pesando
+la primera vez que esto es lo peor que
+puede haber dado poner
+esto no va a ser suficiente,
+pero que bueno.
+Entonces cualquier medida primero vamos
+a resolver esto para que ustedes vean
+después cómo se hace cualquier medida
+principal. Yo le voy a dar después unos
+dibujos. También hay diferentes escapas,
+pero la idea principal es que ustedes
+tengan y vean cómo se hace un plano
+eléctrico.
+Entonces, tengo las caras,
+tengo hecho el plano, paso de acuerdo a
+la simbología y hago toda la lascañería.
+Acá me está faltaando una cañería.
+No se preocupen, después yo le voy a dar
+algo parecido para que ustedes tengan
+una idea, pero me interesa que ustedes
+sepan cómo se hace un proyecto y cómo se
+va diagramando.
+¿Qué otra cosa importante acá? Bueno,
+¿qué habíamos dicho? Tengo una caja de
+pasos. Generalmente en la caja de
+espacio, la caja de derivación llegan
+todas las alimentaciones principales
+porque hay una parte de la norma que
+dice dos, entre 2 y 15 m tengo que
+colocar una caja de paso. Yo tengo una
+cañería de alimentación cada 12 m o 15 m
+una cañería de paso. Generalmente, ¿qué
+hacemos nosotros? Y colocamos entre 8 y
+9 met más o menos. ¿Por qué? Porque la
+cinta métrica que más se usa y la que no
+se enrolla tanto es de 10 m, después
+pasa 15 y después pasa 20. Y ustedes ven
+que cada vez que eh
+compre una cinta más larga, hay
+probabilidad de que cuando ustedes pasen
+el cable después se forma una después
+del uso, una famosa galleta.
+Pero generalmente la que no se utiliza
+es de 100 m. Entonces se trata de hacer
+que la caja de espacio esté una
+distancia menor de 10 m.
+Sí o sí, acá
+me van a llegar mínimamente
+uno. Yo puedo hacerlo
+que eh
+ahora casi no se utiliza los circuitos
+mist.
+Pero generalmente hoy las normas me
+están pidiendo que todos los circuitos
+sean
+independiente
+y me parece que no, sino que
+directamente se haga circuito de
+iluminación,
+circuito toma corriente
+y
+circuito especial. ¿Por qué?
+Porque cada circuito va a tener
+un sección diferente y esa sección
+diferente voy a tener un interruptor
+termomagnéfico que va a proteger ese
+conduc.
+Fíjense si yo tengo uno mixto. Este sabe
+la chica la otra gente
+empiezan a contestar porque si yo
+contesto a mí me ran
+no a la gente
+para que piensen no más la gente nueva.
+Vamos, yo tengo acá dos sistemas
+alumnos, gente nueva y gente vieja, pero
+no por por edad, sino que por
+por antigüedad,
+por antigüedad, nada más que eso.
+más
+así que no. Fíjense, si yo tengo un
+circuito mixto, ¿qué quiere decir un
+circuito mixto? Que yo pongo en el mismo
+circuito, toma corriente e iluminación.
+Entonces, cuando la do me está diciendo
+que yo pongo iluminación 1,5 y 2,5, en
+algún lado aparece 2,5 y 1,5.
+¿Ese circuito dónde nace?
+En el taldero sesional,
+el taldero sesional nace circuito mixto,
+pero el interruptor termomagnético que
+protege ese conductor tiene que ser al
+menos otro. Fíjense que de qué protege
+cortircuito sobre carga. Entonces, ¿cuál
+debe proteger primero?
+Eso sí contesta
+es el viejo viejo.
+A ver,
+el de menor sección. efecto que están
+pensando. Entonces el interruptor que va
+a estar en el tablero va a ser
+interruptor para proteger el conductor
+de Estamos. Estamos.
+Entonces, si yo tengo un circuito mixto,
+voy a caminar un rato, así no se aburren
+la chica.
+y tengo un circuito de menor sección,
+fíjense,
+y pongo un interruptor, ya le había
+salteado un poquito, pero si yo pongo un
+interruptor magnético
+ITM, se llama interruptor magnético de
+como es bipolar 2 por 10 amp.
+Después vemos por cómo se hace, pero
+este protege conductor 1,5.
+Si yo pongo
+un circuito iluminación y tomo toma
+corriente acá,
+le estoy limitando
+a la sección
+se debate del 2,5.
+Sí.
+Circuito mixto se refiere a que hace
+derivaciones del 2,5.
+Circuito aumento. Eh, tiene circuito
+aumento tengo unito en su recorrido
+toma corriente e iluminación. Eso
+la iluminación le hace una derivación
+con 1,5.
+Eh, sí,
+si deriva desde el circuito de toma de
+iluminación o de iluminación,
+¿no? momento vos salís con 2,5
+y si justo en el camino tenés
+iluminación, bueno, ahí te agarras esa
+iluminación y baju
+te que seguir porque ya acá 2,5 sí o sí
+2,5 no me interesa si pasó,
+pero todo el sistema elevaciones, pero
+cuando yo protejo ese circuito tengo que
+proteger con un interruptor de 2 por 10
+protejo al menor conductor. Entonces
+algunos me dice, "¿Para qué pusiste
+circuito si vos me está limitando la
+potencia?"
+Eh, nosotros sabemos eso los baños, pasa
+por la iluminación y baja el toma de
+y los baños único lugar,
+fíjate que me piden las normas, que
+ahora todos los circuitos sean
+independientes, o sea, que tome circuito
+de iluminación por un lado y toma
+corriente por otro.
+Pero, ¿qué está pasando?
+¿Qué me dicen las normas?
+Que en esta misma casa, esta caja, esta
+misma caja, no casa, no puede haber
+dos circuitos. Puede pasar un circuito
+por acá porque esta puede ser caja de
+paso para abajo y va al tono corete,
+pero no puede haber una conexión de dos
+circuitos diferente.
+Entonces en el baño el único lugar donde
+se pone toma corriente acá
+eh con la llave de punto y esa
+característica
+o o el interruptor que está protegiendo
+de se supone que uno va a meter un
+equipo ahí.
+Fíjense, eso ocurrió en una leyenda
+en invierno, hacía frío
+y
+pusieron una
+estufa
+y se puso a bañar.
+Al poco tiempo salta el interruptor
+y quedó oscura la casa.
+Entonces
+dice, "Pero yo no hice nada de
+no." Eh, para que ustedes entiendan, eh,
+las casas antiguas tenían gran
+superficie, no sé por qué pasa que se
+cambiaban y todo así, ahora son todos
+reducidos, entonces no pasa que
+pasó evidentemente
+al principio no pasó nada porque ella
+colocaba acá, se bañaba, la ducha
+eléctrica estaba también emocionando
+y con el tiempo se empezó a reseca que
+ella sentía
+¿Cómo le puedo decir sobrecargado el
+conductor que estaba quemando lación?
+Pero el típico la goma le mandó. No sé
+qué hizo la tipa.
+Esto no consultó, dijo, "No, si no si
+nos salta el interruptor, no, no hay
+problema."
+El problema es que
+eh viita le puso en poner y le puso de
+de 10 o de 20 pasó de 16 o 20
+bañaba tranquilamente moraba
+después que una instalación conductor
+recién se dio cuenta que estaba mal
+calculado el elemento que le protegía
+con Pero eso vamos ver o sea
+Acá lo que tienen que tener en cuenta
+que hoy las normas te piden iluminación
+por un lado, toma corriente por otro
+lado y el único la única sesión que es
+de la regla es el el enchufe que está en
+el toma corriente que nosotros sí o sí
+llegamos con 220 ahí del mismo del mismo
+circuito mixto y hacemos la derivación
+para la luz semana más peso.
+único
+bueno
+tenemos 11 cajas. Generalmente
+la más simple
+10 * 10
+por cinco
+pero vienen otras que son un poquito más
+anchas que vienen 10 * 10
+por 7 y después 10 * 10 * 10.
+¿Qué me implica eso?
+Yo necesito
+ver que esta caja de paso, que la caja
+de paso, distribución y derivación ahí
+en palme. Entonces tengo que tener una
+caja que pueda trabajar tranquilo.
+Hay gente que va, revisa instalación y
+ve esa caja de espacio y saca y empieza
+a salir los los carros
+y ni entienden por qué, pero con el
+tiempo, con paciencia y buena dedicación
+le van peinando y arreglando los
+circuitos.
+Entonces
+esa caja de paso para que ustedes
+entiendan también reciben toda la
+el calor para que ustedes entiendan por
+efecto y un el aire acondicionado ducha
+eléctrica lo que pase por entonces hay
+fórmulas que hacen los proyectistas que
+depende de la cantidad de viaciones y
+depende también del de qué conductor
+pasa por la caja, esa caja tiene una
+determinada sección, pero normalmente
+una vivienda 10 por 10 o 15* 10 lo que
+más se usa varía entre 5 y 7, depende
+qué características. A partir de esta
+caja
+vienen las cajas con con
+tapa
+compra la caja, tiene un valor
+determinado y ya viene con tapa. Las
+otras de 10 por 10 por 10
+todavía no. Una época había problemas
+con la las cajas de plástica de hierro
+porque uno ponía la tapa ciega que tenía
+atorillada y no coincidía.
+Después empezó a mejorar cuando vio la
+gente de hacer la, ¿cómo le puedo decir?
+las capacitaciones.
+Entonces se le planteó eso y se le
+mostró
+finamente esa caja tapa que antes venían
+de chapa color blanco generalmente
+colocado ahí y no no coincidía.
+Entonces dijeron que las próximas iban a
+ponerse en campaña de hacer la conexión
+a través de la fábrica, que cualquier
+chapa o bota, coincida con eso. Es lo
+que realmente estamos utilizando.
+Bueno, seguimos.
+Ahora no sé cuál de estos era nu
+seguramente
+los cuatro números
+esta caja. Vamos a suponer que 10* 10
+por ahora
+y ya parte
+un caño 7 octavo y un circuito 2* 4 más
+tierra de acá directamente hasta ahí.
+Acuérdense, una línea me indica
+una cañería. Yo también cualquier
+cualquier arco,
+cualquier otra forma me indica una
+energía. Estamos a veces en el dibujo
+uno trata de hacer una, ¿cómo le puedo
+decir?
+Eh, una quebradita. ¿Para qué sirve eso?
+para poder tener una mejor lectura.
+¿Por qué le digo esto? Si yo tengo
+triple, lo que usted quiera,
+escalímetro, regla, lo que usted tenga,
+entonces hasta el
+en el metro, de algún lado apareció el
+metro, desapareció el metro, pero en
+algún lado está como siempre
+las medidas siempre se toman
+de boca a boca. Tengo acá, acá a medida
+acá.
+Ahí tenemos todo compramos.
+Ah, la señora.
+Entonces voy tomando así. Eh, una vez me
+preguntaron, "¿Y si tengo la curva?" No
+se toma así, simplemente así en forma
+recta. Vamos. Ahí, ahí y ahí todo eso.
+Pero cuando aparece
+una pared,
+esa boca que estaba ahí alimentaba esto
+ahí
+en toda par
+una bajada. Esa bajada yo no puedo tener
+cañería sin elemento que en este caso la
+curva.
+Entonces, el tipo que está haciendo el
+proyecto
+aparte ya va ir viendo
+que esto que está recto acá,
+perfecto, llega hasta la pared, pero
+después va a tener que bajar a través de
+una curva
+como si los brazos está a 3 m. Fíjense.
+3 m.
+Con respecto al a nivel de piso 3 m -
+040 que tenía que estar la cajita
+entonces 260 es este cill
+estamos 260 es esta cañita a yo le estoy
+tratando de que
+encausaros más o menos para que ustedes
+sepan cómo se hace la revista de
+materiales y qué debo tener en cuenta.
+Si le encuentro una pared, tengo que
+bajar si tengo las cajas en esa pared
+una curva y después tengo que tomar la
+diferencia de la altura del cielo brazo
+menos
+la cajita
+que soporta los tomas me va a dar un
+valor ese valor el tema de la caña que
+está acá. O sea, en síntesis será el
+valor de
+esto
+más la baja, estamos más o menos
+entendido. Y fíjense que sencillo, qué
+habíamos dicho acá. Acá tengo cuatro.
+Esto hasta acá, ¿cuánto es? Si tengo
+cuatro estita
+dos
+sigu ya tenemos una distancia 2 met
+llega hasta acá.
+Después
+aquí
+Barbosa,
+[Música]
+Barriento,
+Botoli,
+Cardoso, Juan,
+Espinosa,
+Paincher.
+Le
+so
+salsa
+un
+Dejo
+guardar metro ¿Sab?
+Ah, claro.
+[Música]
+Bueno,
+ese sí el suyo.
+Este es el mío.
+Sí,
+feo lindo todo parecido.
+Bueno, cuidar nuestro
+lo que quiero decir en otra palabra
+sencilla, que cualquier
+planta, si yo tengo las dimensiones, yo
+también puedo hacerlo. Eh, sin, ¿cómo le
+puedo decir? Una precisión, ¿cómo le
+puedo decir?
+Un escalímetro o lo que tenga, sino
+directamente utilizando como base las
+medidas. Siempre acuérdense que las
+medidas internas lo que necesitan, ¿no?
+O ustedes necesitan, ¿no?, las externas.
+Entonces,
+primero lo que vamos a hacer ahora,
+fíjense, le voy a poner qué cañería
+están utilizando. Todo 3 cuart
+3 cu 3 cu
+que sería 3 cu
+3 cu
+y 3 cu.
+Utilizamos la cañería especial a partir
+de de acá 78.
+Seguimos.
+Ya tenemos el tipo de cañería, pero nos
+está faltando, ¿qué?
+Los conductores.
+Para la gente nueva, para que est
+ustedes entiendan, es interesante ver el
+tema de circuitos que se llama circuitos
+cerrados
+y ver cómo se
+se arman.
+eh los esquemas eléctricos básicos me
+Entonces eso vamos también
+eh todo su tiempo, dijo, todo van a
+aprender, van a probar acá van a veo van
+a utilizar herramienta, lo que sea para
+ver como hay veces que se cansan la
+gente, acuérdense la gente vieja acá se
+cansan. Él siempre lo pide lo mismo,
+pero cuando viene a probar acá tiene que
+si van a hacer 100 veces trabajo
+práctico, 100 veces van a utilizar la
+herramienta. Eso ya después les queda en
+forma automática el día mañana si tienen
+todas la herramienta, por supuesto, cómo
+accionan directamente en un des perfecto
+o qué herramienta utilizan y cómo
+utilizan.
+Para mí es muy importante. Tienen que
+hacer 100 veces y 100 veces repetir lo
+mismo. Tarde o temprano eso queda en la
+memoria.
+Estamos
+le queda el trauma en la cabeza.
+Sí, le queda un trauma. Cada que pasen
+acá ya van a decir otra vez. Pero es la
+única forma eh visible
+que después no se olvida más
+o no se olvida más. Chéc. No, pero esa
+es la idea. Acá es con un poco elemento
+o herramienta que tengan pueda
+ver o revisar una instalación sin
+problemas. Pero para que ustedes
+entiendan, a veces
+eh
+se contratan una empresa, van a revisar
+una instalación
+y ponen
+relevamiento o
+verificación de la instalación
+eléctrica.
+Fíjense o la empresa contrataquisita
+dice, verificamos la instalación
+eléctrica como está.
+Y después por un valor,
+un valor bastante, ¿cómo le puedo decir?
+saladito. Eso hacen empezar con rotor
+y
+aducen que relevamiento y la inspección
+y todo lo que ellos vienen oscurar en
+sucho
+estoy mirando casi los focos para
+hacerme alguna interacción que ya tan
+rico revisar como productores.
+Pero algunas empresas hacen esto,
+revisan
+perdón, disculpe. Tiene todos los
+interruptores, no funcionan
+que revisando conctores que están ahí.
+Cur otra, o sea, si vas a colocar un
+valor, aunque sea ese porcentaje de
+valor real total,
+voy improvisar todos los cables, que va
+a hacer con los cables si están
+sobrecargados, si un fotocito, todo esto
+informal. Es un regulamento bastante
+hecho. Si todos escuitos son horarios
+por horarios que la pasamos está los
+interruptores están correctamente
+adecuado,
+pero qué hacen la empresa constructora
+que son bastante
+amigos.
+¿Qué hacen la empresa constructora?
+directamente agarra y dicen y cobran un
+precio por ese relevamiento
+solo por
+eh visión ocular
+y la lita es buena.
+Entonces a veces yo lo rechazo y si
+quieren pongan como arreglo recable de
+un lugar o eso, pero no ponga
+relevamiento e infección ocular.
+un 10% del valor real de la ON.
+Para eso no se usa megómetro. Sí, pero
+si vos hace bien ten que decir revisé
+tanto circuito, me con tantas estas
+características y me dio esto la puesta
+tierra
+valor bien hecho.
+medía que después dice, eh, voy al a la
+escuela y te dicen directamente
+qué hizo la empresa constructora con
+gente de electricidad y cambió artefacto
+y te pone ahí eh reparación de la
+interacción eléctrica. No hay que ver
+porque hiciste, lo único que hiciste fue
+el cambio de lo artefacto,
+no es reparación y operación eléctal.
+¿Entienden? Porque a veces hay una,
+a ver, ¿cómo le puedo decir?
+Ustedes arriba no saben lo que tiene
+hasta que no le dicen. Hay una forma que
+se llama vicio punto. Hay una cañería.
+Se supone que hay dos conductores
+arriba, no sé, no saben si hay caño, o
+no hay cane. Para revisar tienen que
+sacar el plafonet,
+eh, todas esas cosas,
+ese vicio oculto a veces si no pasa
+nada, no tengo ningún problema de otros
+institutos, sobrecarga, lo que sea,
+pasan los años y problema el día que
+haya un problema, ese servicio oculto
+hay que revisar.
+Hoy en día la pandemia se hace conazo
+de PVC. ese culosc para poder vos entrar
+arriba como un telador no tenés
+posibilidades. Acá por ejemplo tenemos
+los brazo y hay una entrada de hombre 60
+por 60 y hay posibilidades de que yo
+revise
+pero en el cierto caso tú veces no hay
+que romper si hay que romper no se rompa
+no una placa sino varias placas y
+depende de qué lugar vaya sacando y ahí
+empece a revisar. O sea, que hay un
+vicio oculto que no se de. Entonces, ¿a
+qué voy yo? Si quiero hacer una revisión
+deción eléctrica, yo tengo que cobrar
+porque dice, hay que cobrar por lo que
+uno sabe.
+Sí, pero solucionarme el tema de que
+tengo por circuito, decirme qué problema
+tengo, qué sobrecarga tengo, si tengo
+puesta a tierra, no. Yo si impección
+ahora lo primero que hago es revisar
+los tomas si tienen puesta tierra.
+Y después, ¿qué es lo que hizo en toma
+doble?
+Si no estáado,
+si no estáado, si los módulos no
+estánados, si los módulos que están acá
+no están puenteados, tiene que tomarse
+directamente de dónde?
+Del conductor.
+Conductor.
+Nada. el conductor. O sea, si yo tengo
+esto, tengo que esto conductor de acá
+también no puedo hacer.
+¿Por qué?
+Contesten quien sea.
+El valor.
+A ver, acá hay uno.
+Te da otro valor,
+¿no?
+¿Por qué eso? Porque el original se se
+genera consumo.
+Para que ustedes entiendan así, la
+sección de conductora de 2,5 tiene una
+capacidad máxima de corriente de cuánto,
+18 amp. A veces pasa algunos, pero 18
+amp la corriente máxima es 2,5.
+Pero, ¿qué pasa si yo uno viene el
+conductor de 2,5 y acá uno al otro? Esos
+famosos puentes.
+Acá sobrecarga la
+se suma,
+se suma. Entonces,
+¿qué me dice? Este módulo de amper, el
+conductor es 2,5.
+Entonces sobrecargo este conductor. Lo
+ideal es que que toda
+artefacto que yo instale o enchufe para
+que ustedes entiendan, me soporte el
+conductor. No
+estamos. Hay veces que se ve que usa
+plancha y yo traje elemento, ahí está
+planchando y a veces aparece un
+un quemazo,
+un quemazo, una sobrecarga.
+Entonces, ¿qué hace la norma? M al
+conductor.
+Lo que sí es importante que la puesta a
+tierra sí o sí tenga continuidad. Y a
+veces
+esto que está acá cuando ponían o se
+ponen los módulos
+tiene una característica
+de que toca. Entonces,
+hay que entrar así de costado y después
+girar.
+de todo, pero tiene que estar lo
+la puesta de tierra conectada. Si está
+si está
+cortada ya no sirve y tiene que estar
+continuidad en todos sus proyectos para
+que usted vayan viendo n más algunas
+cositas que a mí me interesa que la
+gente que hace electricidad ponga ahí en
+el A ver. Ay, me falta olvidar eh todo
+lo que nuevo necesito,
+¿cómo se llama?
+El celular para yo tres o cuatro ya
+puse, me faltan los cuatro. Más o menos
+con T8
+quién no está en el grupo.
+Bueno, todo esos que están
+tienes teléfonos acá con con internet.
+Ahí por ahí está
+lo mismo. Lo único que cambié fue el
+por ahí está.
+Bueno, en sí,
+¿por qué necesito eso? Porque la idea de
+mandar información
+eh constantemente,
+pero
+cuando puedo hago fotocopia, cuando
+puedo, cuando no puedo lo mando por y
+ustedes vayan recibiéndose en
+información y todos tengamos la buena
+idea.
+Cuando salí en casa, no sé si está
+sí está por
+en algún lado dijo que iba a aparecer,
+pero no
+se desarmó no
+todavía saqué fotocopia, pero mañana yo
+le voy a dar este lo mismo que le dije
+al chico allá va a haber dos escalas,
+uno en 50 y uno en 100. Esto ya es más o
+menos para que ustedes vean. Cualquiera
+de las dos escalas que nos tome para
+calcular la lista de materiales es
+porque si tomamos
+con 1 metro o con una regla normal, si
+tomamos la escala 150 que se hace
+después dividido dividido la medida
+dividido para que se la med
+que este es
+1 50 y este un 100
+ya sale con computador así que
+La computadora hizo más ya no.
+Bueno, por algún lado está, no te
+preocupes que está temprano
+después van a recibir algunos planos que
+quiera llevar para para hacer la
+tiro. Bueno, estamos acá. Entonces vamos
+a empezar. Acá no hay problema porque
+tenemos solo una medida ahí 2 por 4 más
+tierra para los acá me interesa.
+Es importante que tengan en cuenta si
+viene una línea
+del tablero sesional, lo correcto sería
+que venga con dos conductores
+de la misma característica. O sea, si yo
+tengo
+toma corriente y tengo iluminación,
+generalmente cuando uno hace los
+proyectos,
+pero tampoco está mal, yo pongo
+directamente, fíjense, acá va a haber,
+vamos C1 y C2,
+C1 y C2, C1 iluminación y C2 va a ser
+toma corriente.
+C2 toma corriente. C2 toma corriente.
+Entonces, si yo vengo de lejos de un
+tero secional, ya vengo una cañería con
+los dos circuitos y generalmente para no
+confundir, ya traigo, ya pongo,
+acuérdense que la fase que era, ¿qué
+color?
+Rojo o marrón y el azul que era neutro.
+Siempre es un número colores
+convencionales en el reglamento sí o sí
+que revisen y tengo que ver.
+Sí, pero me dicen el otro verso, no, el
+propietario me compró un rollo del mismo
+color.
+Después le explico cómo se hace. La otra
+gente sabe, pero voy al currículo. Lo
+que sí que tengo que diferenciar y en
+cada boca que yo revise tiene que haber
+decir ese rojo
+que está ahí que tiene una silueta o
+tiene pegado un un una tela.
+tengan la posibilidad de que igual
+después pongan por la duda en el planito
+de Messi
+el la asistencia para que yo después
+controle si están todos. Esa es la idea.
+Estaba diciendo el rotulado los cables.
+Ah, rótulo. Si yo tengo dos colores
+iguales, vamos a poner rojo, de algún
+lado, cuando yo abro una boca, tiene que
+aparecer un rótul. un rótulo queía que
+ese ese cable que está ahí diferenciara
+el otro ese la fase o el otro de nivel
+el verde, el verde el verde y amarillo
+no tiene que aparecer es no puedo meter
+otro cable de color negro lo que sea
+porque ese que pusieron est eh lo otro
+sí, pero si yo paso el mismo color ahí
+en esa boca tiene que decir que ese que
+está rotundado la fase acá aparecer
+rotundado que está la fase y así
+sucesivamente. Toda que yo abra tiene
+que aparecer rotundado un
+tipo una curita así que ese
+que ese cómo se ese conductor de la
+fase. Estamos más o menos.
+Bueno, eso me arreglaron la mandíbula
+todavía sigo así.
+Entonces, si yo tengo que hacer eso,
+para mí es mucho más fácil poner
+directamente cuatro conductores
+de 2,5
+más. Año mano está en el grupo.
+Está cuando aparece una T grande en un
+dibujo significa que es T1 + T2.
+Total T1 + T2 T1 + T2 cuesta tierra.
+¿Por qué? Porque hay vamos viendo
+después, pero cada parte de la norma
+dice que el conductor de protección debe
+salir directamente en la bornera de
+puesta tierra del tablero principal por
+cada cit
+acá no tengo.
+Acá tiene la puerta abierta, pero tiene
+que tener, hay una bombera acá, tiene
+que tener un conductor de puesta tierra
+por cada cita,
+por eso que a veces tengo quedaría muy
+largo ahí. Y en algunos planos,
+como sabemos que es milímetro cuadrado
+la sección, no es necesario poner toda
+esta algunos planos se pone 4* 2,5 mm² +
+3. Esto es en la secundaria esto ya no
+se usa
+la que no se usa, sino que queda muy
+grande. Yo no usab eh
+yo no usaba mis planos estaban
+no
+no tomas me odiaba odiaba no hay hay
+plano que aparece 2,5 pero en realidad
+no no se figura solo 2,5 estamos no
+milímetros cuadrados.
+Bueno, seguimos.
+Profe,
+ese cable desnudo de 2,5 de tierra se
+está usando o no?
+No, no,
+no, no. tiene un por qué, pero después
+va a montar la parte puesta tierra.
+Generalmente usamos solo nudo en la
+bajada de para rayo o directamente
+cuando yo pongo un calorio tengo que
+hacer y colocar la puesta tierra ahí
+a la jabalina.
+A la jabalina. Es cuando se
+a veces no siempre.
+El tema pasa por lo siguiente.
+Nosotros antes, yo sigo haciendo
+todavía, pero utilizamos en el día de
+ayer.
+Eh,
+¿qué pasaba? El conductor de nubes no
+tiene nada que ver con la con la
+cañería, sino directamente
+se formaba tipo un espirilar
+o pasaba los conductores normales y este
+conductor
+se hacía tipo una espiral y cuando vos
+quería pasar otro conductor o aumentar
+la capacidad conductor, tení que sacar
+todo y
+ese es un problema. Y segundo,
+decía, la gente siempre dice que si hay
+una pérdida se transmite por toda
+cañería. Puede ser, pero yo tengo la
+puerta tierra y tengo el el diferencial
+reacciona más rápido,
+pero siempre hay conversa. Ahora, ¿quién
+poner PBC? Fíjense cómo va cambiando los
+tipos de materiales. ¿Por qué?
+Porque
+si ustedes ven todos los medidores que
+hicimos, hasta los medidores
+eh habitacionales y de vivienda, tienen
+eran todos compañerías
+eh de Chapo, material,
+todo el material de Chapo, metálica.
+¿Qué pasa ahora? Un convenio con la
+gente de HW y y otras empresas que hacen
+la parte de PVC y están trayendo PVC.
+Estamos es todo arreglo comercial.
+¿Qué diferencia uno otro? No, porque
+explica como interper y el agua puede se
+puede tener pérdida del agua.
+La realidad si vos estás bien protegido,
+¿no?
+Pero hay
+eh
+creo que a partir de un mes y medio, un
+mes por ahí salió la nueva exposición
+que todo esto se va a dejar a usar y
+vamos a usar todo PC comprado a
+a la multinacional
+y se va a aplicar
+y cuando eso pase el ingeniero de
+trabajar.
+Ya no, pero voy voy mirando a ver cómo
+va cambiando el sistema. Bueno,
+se nota bastante interesante el tema es
+en la
+en los edificios creo que tiene los
+ginetes son más rígidos para hacer todo
+gabinet importante.
+Hay que ver cómo se comporta el PVC. Yo
+vi uno no está.
+No,
+el metal mejor, pero
+cómo se instala,
+cómo se instala. Bueno, seguimos.
+Llegamos hasta acá. Fíjense, viene de
+acá, pasa por todo el sistema acá y
+llega hasta acá.
+Ya que estamos ahí,
+vamos a llegar hasta la boca 4,5 y ahí
+empezamos a dividir.
+Acá va a aparecer el circuito C1 y acá
+va a aparecer 2* 2,5 más tierra.
+Estamos.
+¿Por qué? Porque tengo esta boca y esta
+boca. Hacemos una iluminación, vayan
+viendo porque después van a recibir este
+y después peor del caso van a calcular
+los materiales, así que tienen que tener
+idea cómo va. De acá
+tengo la boca, voy hasta la pared
+y tengo que bajar sí o sí porque tengo
+el interruptor encendido y apagado y
+tengo dos. Acá vamos a poner uno y acá
+vamos a con dos. Acá pon uno y dos.
+aparece uno primero.
+Cuando pregunto es para la gente
+por qué tiene un y tengo la entrada
+el primer to que arriba
+yo entro y me tiene que encender
+más cercan.
+entre el uno más cercano y el dos
+también puedo hacerlo
+con una sola tecla encender los dos no
+hay problema. Acá es para que vayan
+viendo, uno está entrando y necesita
+tener esta altura. Después yo le voy a
+dar la medida de la altura.
+¿A qué distancia de nivel de piso?
+enciende los interruptores y todo. Así
+que
+va a costar porque vamos vamos para en
+un par de meses ya están en lugares
+y la gente lo sabe
+lo saben,
+¿no? La idea acá es tratar de nivelar
+tarde o temprano, pero
+para hablemos al mismo idioma ahí.
+Claro, idioma y avancemos a paso más
+gigantado.
+Bueno,
+entonces toda esa medida yo le voy a dar
+después
+primero los símbolos. Después los
+símbolos van a aparecer las medidas.
+Perfecto. Hasta ahí. Después la altura,
+todo lo que ustedes tengan.
+Esto por ahora la gente nueva no me
+interesa mucho que pero tengan idea no
+más cómo sale
+porque nos falta una clase
+exclusivamente con ustedes para
+de circuitos
+y ustedes van a ver los circuitos
+y van a van a instalar y van a hacer las
+pruebas.
+Entonces ahí le va a resultar más fácil.
+Hoy en día capaz que a veces
+medio chino
+pero después le va a parecer
+fácil.
+Bueno, acá
+fíjense, llego hasta acá 2,5. Por eso yo
+tengo
+un retorno que va al dos y un retorno
+que va al uno y necesito sí o sí en la
+cajas o en el interruptores.
+Siempre llega que llega la
+fase. Siempre llega la fase.
+Usted me dice, "No, pero yo fui en la
+casa que no tenía tenía el neutro acá y
+poquito el aroma.
+Pero normalmente en ese interruptor, en
+esa llave, sí o sí tiene que estar
+la fase.
+Entonces necesito la fase y después
+necesito dos cables más porque uno va al
+retorno uno y el otro va al retorno uno.
+Entonces, acá va a aparecer
+tres conductores de 1,5
+más tierra.
+Estamos llega a la cajita una fase y
+después sale uno para la lámpara y otro
+para la
+en la boca de arriba. ¿Qué hay que no
+aparece acá?
+Callado.
+Un azul.
+Un cable azul no aparece.
+El neutro. El neutro siempre está en la
+en la boca.
+El azul siempre aparece ahí, solo
+aparece acá, como dijo él en el baño,
+cuando tengo que hacer un circuito
+mixto,
+un circuito mixto y un tomar corriente.
+Pero en la boca siempre tiene que
+aparecer el metro, siempre metro. ¿Por
+qué? Porque yo tengo un circuito
+monofásico y el neutro me cierra 10. Si
+no tengo el neutro, ¿cómo va a ser?
+¿Cómo va?
+Está más o menos. Bueno,
+acá entonces
+tengo el circuito uno terminado. Este
+con este y este con este y que acá que
+sale de la caja de paso. Acá tengo el
+circuito dos acá. Entonces va a haber
+dos conductores de 2,5
+más tierra. llega acá abajo y para no
+volver por arriba, entonces directamente
+uno este con aquel
+iba a haber
+dos conductores de 2,5
+más tierra 3 cuñería y ya voy armando
+este 040 cada vez por altura. Entonces,
+ya voy armando la instalación. Así se va
+armando cualquier proyecto, cualquier
+plano eléctrico. Fíjense esto que
+estáorífico.
+Ese sí está enero para muchos es cada
+uno en 100, pero aquí están todas las
+bocas y en algunos casos ya colocamos la
+el artefacto para que la gente que esté
+mirando sepa realmente qué artefacto
+hay.
+Después veremos el tema que el sucente y
+ahora está en el sistema estuvo LED con
+esta característica son los que mayor
+iluminación da en un cuarto lectura como
+dice
+estaba más o menos ahí idea.
+Pregun aquel chico,
+¿no? Si está entendiendo algo.
+Sí.
+Con el espelote que te dice, "Te tiro,
+fijate ahí para que haga este momento.
+[Música]
+Acá te vas para acá y acá te va acá y
+acá puedo hacer.
+Es que
+también vos tenés las dos dos
+recorridos. Lo que te más fácil para
+hacer si vos tenés que colocar solo
+cables a la vista o cañería a la vista o
+directamente
+si acá tengo que pcar la pared con
+arriba. Tengo que ver la idea.
+¿Cómo andan mi amigo? Yo voy visitando
+la gente ahí. Ya sé que el señor este
+hace todo lo que vos quieras.
+todos materiales
+para máquina
+siempre había que
+tenía
+tenía
+podía levantar lo que sea
+espacio temporada acá.
+¿Cómo andamos?
+Antes que nada me olvidé, dijo, porque
+hay otro que tiene
+otro esquema.
+Hay otro que tiene
+más avanzado la casa anterior, bajaban
+acá,
+no hacían este, bajaban acá. Es lo mismo
+que este, solo que acá se le agrega 2 *
+2,5 más tierra y baj acá. Esto no se
+hace acá y se va por Estamos. Lo único,
+profe,
+sí, señor.
+Si hay caja plástica, la de punto
+obligatorio bajas la también
+la Si hay caja de plástica,
+sí,
+en todo
+en cualquier boca de la instalación debe
+aparecer el conductor después de tierra.
+Fíjate para que vos, vamos a suponer que
+me toca a mí
+ir a una interación.
+Acá dentro necesito puesta tierra, pero
+acá tiene que aparecer
+cualquier boca de cominación tiene que
+aparecer puesta tierra.
+Todo dice la parte normal. En toda boca
+tiene que tener el conductor de
+protección. El conductor verde amarillo.
+Oye, es un brasilero verde amarillo.
+Esto tiene que aparecer en todos lados.
+Estamos
+en la caja del punto le
+costado. Sí,
+cualquier lado tiene que aparecer, por
+más que no se use. Ustedes me dicen sí
+acá arriba, pero eh el circuito tiene
+fácil
+y neutro nada más. Sí, pero ahora vienen
+los artefactos, exclusivamente los
+artefactos, en este caso metálico
+o de este también tiene sistema
+metálico, aparece una bner y aparece la
+puesta o sea que tengo que llegar, no
+hace nada, es un un conductor de
+protección a la pero cualquier descarga,
+cualquier problema que tenga, este tiene
+que descargar primero. ¿Qué hace el
+conductor de puesta tierra?
+mejora.
+A ver si
+mejora
+el funcionamiento
+de
+disyuntor disyuntor mejora el
+funcionamiento disyuntor la
+ustedes vean hay una diferencia
+interruptor principal y disuctor.
+Estamos el interruptor principal protege
+contra sobrecarga cotocircuito e
+conductor y el otro protege la vida
+humana.
+Esa es diferencia importante y eso
+constantemente
+le vamos a decir
+afirmaciones sobre este y después vamos
+a estudiar un poquito mejor. Eso tiene
+que saber como el Padre Nuestro. ¿Por
+qué? Porque eso es la parte
+una parte que dice la interacción segura
+y confiable cuando
+vale no lo
+las normas eh un personal idóneo y una
+de la parte de las normas te pide que
+protege al conductor y protege a la
+biomba. interruptor principal protege
+contracotocircuito sobre carga y este lo
+único que no le conté la otra vez
+porque ahora me estoy acordando capaz
+que algo le quede.
+Este protege contra protege contra
+sobrecarga de cuotociro. Este
+interruptor puede tener una corriente de
+cotirrito que venga de la línea o venga
+de la calle y actúa. poder tener un
+corto circuito sobrecarga por abajo,
+agua abajo.
+Ya comentado eso
+y actúa
+y elor y el diferencial, ¿qué
+particularidad tiene?
+Protege. Solo aguado. Protegje solo
+arriba.
+Si vos tenés un arriba, por ejemplo,
+laía esta de la entrada de la casa y
+tiene una pérdida,
+no va a sentir, va a sentir primero.
+Es importante que tengan bien en la
+cabeza eso porque, ¿qué hace la gente
+densa? Ah, vos tenés un interruptor
+magnético y tu fusil está aéreo está
+vamos a unir se un en el cable y listo.
+Está tener un terrotor cierto porque si
+viene un protocito por ahí ese. Pero lo
+que ellos no dicen es que cualquier
+sobrecarga grande ocircuito me puede
+dañar el
+dice, pero
+el de ruptura sería ahí convendría
+hacer,
+¿no? Ahí lo que ellos están instalando
+ahora, en vez de poner fusible eh aéreo
+es el el banquito, están poniendo en el
+méteto un fusible
+cerámico.
+Ese cerámico no es ese fusible. El
+cerámico es cuando vos tenés
+en la época
+ahora viene presamblado tener conductor
+y acá tener el cerámico y te de ellos te
+delimita
+la potencia que vos
+vas a tener en tu casa.
+Entonces más o menos normalmente es 40.
+Eso es lo que ellos nos permiten, una
+vivienda normal. Sí.
+Y el edificio, por ejemplo, edificio,
+¿qué qué sentido? Vamos,
+yo tengo mi edificio donde yo vivo, te
+conviene prender un apartlamento, está
+la bajada del pilar.
+Sí.
+Y tienen cuatro que son fusibles, creo
+que son eh de la línea de la calle.
+Entra el conductor ahí y ahí se mete
+dentro del pilar, va por tierra y entra
+al tablero del entra forma subterránea.
+Fusible, eso es la misma. Bueno, lo lo
+que los fusibles, los APR, si vos tenés
+un
+un, ¿cómo te puedo decir? Un poste de
+bajada, ya sea hormigón o lo que sea,
+ahí arriba del poste está la línea acá.
+En la línea en arriba del poste hay 1
+dos tres APR. Ya esos APR tiene un
+posible NH por cada fase y después tiene
+uno, en algunos casos tiene otra base,
+pero esa base tiene una eh sería
+ahí va el neutro. tiene un sistema de
+fuente
+nada más que eso. Tiene fusil el el
+¿cómo se llama? El
+el NH no se puede poner fusible NH en el
+en el neutro. Entonces viene ahí la
+línea, baja y ahí entra a tu gabinete
+medio en tu gabinete
+depende qué cantidad de departamento
+tenés. Hab un sesionador de entrada.
+En algunos casos nos van muy viejos.
+Ahora estamos está poniendo ahora
+interruptores compras que usar en carro.
+Entonces tener un interruptor principal
+de cuota que tiene esto bajar acá y una
+acá y ahí va una barra en algunos casos
+pues inmediatamente va alimentado a cada
+medidor
+se saca por fase y se hace un equilibrio
+de fase. tener ocho o nueve
+departamentos, se va llegando a cada
+departamento una fase, una fase, una
+fase y después se distribuye así para
+que todo el consumo que está arriba se
+distribuya.
+Eso es lo que se hace. Eso vamos a ver
+también, pero son ya eh, a ver,
+viviendas múltiples,
+se hace lo mismo que una vivienda
+simple, pero es vivienda múltiple. se
+hace eso.
+Bueno,
+estamos acá más o menos.
+¿Qué es lo interesante de todo esto?
+Porque probablemente ustedes reciban un
+plano ya y lo único que tienen que hacer
+es calcular
+hac una lista de materiales.
+Estamos mañana vamos lista de
+materiales, pero lo ideal acá que
+sepamos de acuerdo a la escala qué
+medida tengo acá acá.
+Acá, ¿cómo se saca?
+Fíjense, voy por arriba. Esto se hace
+30.
+Vamos.
+Vamos, vamos a hacer eso.
+Solo cañería,
+pero como para que ustedes entiendan.
+Entonces si yo hago la cañería que es
+78,
+tengo que sumar longitudes.
+Entonces, primero yo sé que este esta
+caja está 030 de cielo brazos. O sea, lo
+primero que hago sube para arriba la
+cañería, va por todos lados y después
+va. Entonces, lo primero que tengo que
+hacer 0,30,
+mentita
+para arriba. Voy para arriba así. Sigo
+con el silio raso, llego hasta acá y
+esta medida va a ser
+más o menos
+y más o menos tengo yo tengo este y esto
+sería eh seis, esto sería 1 y medio, más
+o menos 1 y medio. Acá tengo 4,5 de acá
+hasta acá.
+Y de ahí ponerle que tengan cinco.
+Bueno, de acá vamos a ponerle 550.
+Ya hasta acá 550.
+Estamos, o sea, para que ustedes
+entiendan, estamos haciendo 7 octavos
+son longitudes que estamos marcando.
+550 sería
+caja de paso. Voy por arriba, llego
+hasta acá y llego hasta acá, ¿verdad?
+Hasta ahí la punta, ¿no?
+Ahora si tengo esto que está, vamos
+suponerle que tengo 210 o 220, ¿no?
+Tengo 3 m
+- 2 10. ¿Cuánto es? 80 90
+90 Perfecto.
+y esto me va a dar un valor.
+A ver, ¿quién sabe? Acá tengo 120 + 150.
+Puede ser.
+Veo
+no.
+6 70 metro.
+Vamos hasta ahí. ¿Y cómo se hace
+después?
+Después ejercicio, no se preocupen. Yo
+lo que quiero pues que ustedes vayan
+ideándose qué es lo cómo se sacan los
+materiales. Esto es longitudes.
+Esto esñería.
+Dividimos por
+eh
+dividimos por
+ahora dividimos
+dividido tres. ¿Por qué tres? Que cada
+cada larguero del caño tiene 3 m.
+Entonces tengo dos cañola
+para tenerse eso porque por la duda.
+Compramos
+tres canes. No me va a sobrar. Pero me
+va a servir, me puedo comprar un
+pedacito. En alguno voy a tener
+un pedazo que ya mañana me va a salir.
+¿Entienden más o menos cómo es la idea?
+¿Para qué me sirve el plano? Yo con esto
+hago y tomo las longitudes, después
+divido por 3 m me va la cantidad de
+caño, porque yo no puedo ir a comisión y
+decir, necesito 6,70 m de cambio de 78.
+que equivaldía
+a PR
+rígido 22,
+pero me sacan la patada, entonces no
+necesito tres camiños rígidos o si no te
+da ya corrugado.
+Llevado el rollo de 100.
+¿Por qué es importante que elista, o
+sea, hoy todas las empresas están
+tratando de conseguirista que haga los
+cálculos material? ¿Por qué?
+Porque un pror le sale más caro,
+pero cobrar todo.
+Le contratan a él ya a cualquiera de
+ustedes y hace listas materiales.
+Entonces, lo primero que le pide aparte
+de que sepa interacción eléctrica, la
+lista de material, si no no van a poder
+empezar la obra, le van a dar un plano.
+En algunos planos uno mejor que otros,
+si no fotocopia la parte distinta, ideal
+de que le den un plano. Con ese plano
+ustedes pueden sacar
+el cálculo de esta.
+Estamos más o menos
+de acá.
+Después mañana vamos a ver
+cómo se va haciendo por parte, o sea,
+que todo es un sistema
+gradual, no es rápido, pero para que
+ustedes tengan idea, fíjense esto.
+Profe, le consulto una duda. Vos que acá
+anotó eh 030 en en la salida del tablero
+acá.
+Eso es de la la
+de la de la
+con respecto al ciclo raso, ¿no?
+Ajá. Y allá del otro lado 21.
+Ah, el piso. Ah, el piso.
+Entonces, ahí se ve donde está ubicada
+la boca. Respecto siempre a nivel de
+piso, la las medidas de la caja, todo lo
+que ustedes tengan, caja de paso, caja
+de con respecto al nivel de piso
+terminado.
+Entonces, 3 m determinado menos la
+restancia me da esa diferencia. Entonces
+esa diferencia es
+ahí puedo hacer cualquiera porque está
+mi plano
+bueno lo lo quiero qué es lo que le voy
+a mostrar
+un plano así por ejemplo
+y
+vos puedes tomar un pedacito, después le
+va ir sumando todo lo de 7 oav todo lo
+de 3 cu hasta que complete todo el
+recorrido de la instalación,
+pero para eso tengo que saber la
+simbología.
+No sé la simbología por más pleno que me
+¿Por qué le digo esto? Porque
+yo tenía un
+sí era de Bolivia, parece que sí
+o colombiano,
+uno de esos países era alumno y justo di
+la casualidad que una de las empresas
+necesitaban
+eh
+lo mismo que estos perros con
+lo principal
+y quería llevarlo a
+Santiago Guiller
+Dorado. está haciendo una obra en nivel
+inicial, los habla
+sector administración y
+hago este yo la uno porque no tenía
+entonces le digo, mirad esto,
+eh, había un plano en una escuela y ta
+ta ta.
+Entonces, lo primero que hizo la empresa
+dió el plano
+para que calcule este materiales. Vamos
+supone hoy sería un martes,
+tendría que estar para el jueves, ya
+jumpraron el viernes y el más tardar el
+lunes ya estaría trabajando todo rápido.
+Llegó el viernes, el tipo se apareció
+con el
+y las líneas desapareció.
+Desapareció. No, no
+llegó a calcular. No llegó aular
+y
+no eran
+cumpli
+siempre le veo a él pero en centro ahí.
+Bueno, en síntesis yo creo que le dio
+temor calcular vistas materiales
+primero.
+Después la mala lengua dice que no
+quería irse por duda, quedaba mucho
+tiempo interior quedaba sola.
+Ese es otro problema. Pero para mí el
+primero es más creíble que lo hago, no
+sabía
+hacer la lista material. Entonces hoy la
+empresa constructora tiene que el
+montadorista
+realice la lista de material como es no
+es difícil, hay que leer bien esta parte
+y después tener eh al final un rango de
+decir, bueno, si esto se me salieron,
+claro, un porcentaje, un 10% más o dos o
+tres más cañería por si hay un error, el
+corte o lo que sea. Lo que sí
+interesante que también pide el que eso
+es parte de la norma, la gente que va
+suora
+entre cajas y caja siempre tiene que
+haber
+un caño y ese caño tiene que tener sí o
+sí conector. No se puede tirar
+directamente dentro de esto. Una
+cacañería cada que pase. Eh, tiene que
+haber un conector que permite la
+sujeción de de caño. En algunos casos es
+una llave. Con la parte de cañería de
+hierro teníamos la particular de tener
+un tornillo de ajuste.
+Todas esas cosas más o menos estamos
+profe las líneas seccionales se pueden
+anotar usar
+las líneas seccionales depende qué
+característica tengan.
+Se trata
+solo sesionales
+más de dos o tres
+tipo y a veces vos puedes poner un caño
+bastante grande
+y como son ses
+lo que te dice sí o sí
+es que si vos ponés líneas sesionales
+y alimentadas de un tablero principal a
+un ses podés llegar a tener la
+particularidad de que sea trifásica
+todas las tres fases
+ese mismo es ayuda médico poner clase
+cuánto y la fecha de hoy.
+Sí,
+de la caja del paso de la 10 por 10
+hacia el
+la cajaal.
+Sí,
+ahí pasan cuatro de 2,5. Claro.
+¿Por qué no dos de dos? Dos de uno por
+puede hacerlo también. Por eso le dije a
+él.
+Ah,
+puede hacer porque depende el lugar
+donde venga.
+Se trato de que de que llegar las cuatro
+para la mejor distribución.
+Entonces llegan cuatro de 2,5 y ahí en
+palmo 1,5 para
+Claro. El circuito mantengo circuito
+sigue independiente pero se va.
+Claro.
+Pero abajo
+puedo hacerlo acá.
+Yo para que se vea bien no más. No más
+que eso. El cocin se pone así.
+Acá acá es mi
+época todavía había posibilidad en mi
+casa. Bueno, todavía en esa época era
+mismo.
+Pero, ¿cómo le digo a la gente que ese
+circuito era?
+Hoy en día son todos separados.
+En mi casa por habitación,
+las dos habitaciones, una llave.
+fondo,
+hay dos sectores.
+Hoy se trata de ser al revés,
+está bien. Eh, es más, ¿cómo te puedo
+decir? Más beneficioso, pero también es
+más costoso, pero no importa.
+La gente nueva
+vamos a empezar a ponernos.
+Mañana van a poder venir media hora.
+Yo depende mucho de ustedes. Yo le
+aviso, yo le voy a preparar los
+materiales. Vamos a hacer profesor acá
+20 30 minutos antes de hacer. Claro. Eh,
+si si no pueden me dicamente hay que
+reconocer y después yo le voy a ir
+tirando algunos datos y vamos a ir
+tratando de resolver, pero eh
+vamos a probar si es factible que venga
+y podamos empezar algunas cosas que se
+hizo con el curso
+y podamos avanzar, se escuche mejor.
+Lo importante, a ver,
+yo cuando puedo saco protoco,
+después se le va a mandar información
+por acá. Ahora no mandé todavía porque
+necesito esos cuatro que están ahí o
+tres que están anotados, entonces voy a
+mandar. Va a ir parte de la
+reglamentación, va a ir una guía también
+esta
+no es necesario que tengan, pero si
+ahí ven cómo se hace, proyecta, cómo
+hacen las boca y todo está
+eh
+y en este caso
+siempre pregunto esto, pero es
+interesante por
+eh he visto alguno que van a comprar
+conductor Dice 1,5. Me da un productor
+1,5. Me da un conductor 1,5. Tantos
+metros
+son milímetros cuadrad
+de sección. ¿Cómo se toma la sección
+deluera?
+Eso se corta.
+Es como si yo estuviera cortado acá
+y hay una fórmula. Esta es la fórmula
+cométrica,
+parte de arriba. superficie círculo.
+Esa superficie círculo da 1,5 diámetro
+cuadrado
+me da la sección de conductor para
+corto esto
+y aplico superficie superficie de de
+¿cómo se llama?
+De una circunferencia solo la parte de
+afuera círculo de todosos.
+Entonces, eso es lo que es la sesión del
+conductor. Es como si estuviera cortado
+así
+porque hay gente que no hable y después
+1,5.
+Generalmente hay que saber las unidades
+para poder responder y saber de dónde
+sale eso. La fórmula
+cuadrado sobre lo que sea o radio
+cuadrado. Eso es superficie. Sale de una
+superficie.
+Estamos más o menos.
+Bueno, eh la gente que está trabajando,
+haciendo algo por ahí, es importante que
+mande foto y cuente. Nosotros lo único
+que hacemos acá es tampoco nos vamos
+reír ni nada por el estilo, sino que
+vemos lo que están haciendo y opinamos
+nada más más los opinan. Eh, la idea acá
+es
+ver que la gente que está haciendo cosas
+puede demostrar lo que hace. Esa es la
+realidad exacta. Entonces nosotros vamos
+mirando,
+eh, si está mal se le dice, no hay que
+no hay que, ¿cómo se llama? Nadie
+sabiendo. Entonces, necesitamos
+información.
+Después vamos a ver, como verán ustedes,
+aparece muchos, muchos planos. Sí,
+son los esquema
+eh de tablero unilar
+que representan todos los tableros que
+están ahí. ¿De acuerdo?
+Cada circuito que tenga en planta
+siempre va a aparecer un plano en planta
+y la otro
+que es el tablero.
+Generalmente en alguna indica
+la diacción del tablero.
+En este caso,
+¿entienden?
+Y bueno, después veremos
+la gente vieja tiene que un poquito,
+¿cómo le puedo decir? los ros la parte
+esta
+parte que usted quiere hacer más en esas
+cosas, pero esto es interesante para
+poder
+y cualquier
+eh esquema que pueda hacer una obra se
+puede
+est
+no me dice nada,
+pero eh una vez que el plano, al
+principio cuesta,
+pero es fácil para atender.
+garra fácil
+la gente nueva las 6
+media hora antes, así ya le doy alguna
+información
+viéndola
+que no puede. Le vamos le vamos a
+preparar la fotocopia y vaendo y va
+preguntando.
+Esa es la idea.
+Acá tiene que instalar
+las prácticas
+acá la gente que están laburando.
+Bueno, pues así
+entonces se va moviendo
+tener compromiso con
+la semana
+van a dar información.
+Eh, hoy va a hac esta semana dos veces
+por semana 11 o ahora miércoles. Semana
+que viene vamos a hacer el lunes y
+miércoles para no aburrirle tanto hasta
+que más o menos agarren el ritmo. La
+vida
+yo hablo de todos. Entonces la idea por
+lo menos lo que ha entiendo.
+Venimos mañana a las 6. Vamos a terminar
+con eso y vamos a poner vamos a ir
+poniénd papel y todo eso. Yo le voy a ir
+dando cosas.
+interesa
+inicio. tema general de cómo tomar al
+limitación la cosa cosas para que
+una vez que usted la entrada
+detallad
+entré a

@@ -1,0 +1,1484 @@
+Vamos
+Ah.
+[Música]
+[Música]
+[Música]
+Bueno,
+lástima se borró ahí
+¿Cómo se llama
+de contacto?
+Este lado lado.
+Hay un
+el último ejemplo que estaba ahí.
+La idea principalmente lo que vamos a
+hacer ahora,
+grupo lo vamos a tratar de trabajar
+porque no llevar tantas cosas.
+van a recibir, cada uno recibir un
+contactor.
+En uno de los bornes o terminales del la
+bobina
+van a poner un pedazo azul
+y la otra para que ustedes prueban
+vamos a usar la lámpara de prueba.
+Entonces, ¿por qué trabajan de dos? Pero
+vamos a poner uno acá y otro acá. Puede
+si viene mi coequiper ahí, si no acá no
+le vamos atención a esta parte y ustedes
+van a ver cómo trabaja un contactor y
+una de las dos
+porque son
+va a revisar si una vez que esto esté
+trabajando hay continuidad en los bneros
+sin carga y después fíjense trabaj
+No es difícil, sino que esto después
+cuando esté conformado en un tablero
+tiene que probar a esto, ¿no? Entonces
+supuestamente siempre el neutro va a
+estar prendido por algún lado o o la
+fase. Entonces con la otra
+yo uso la lámpara de prueba. Entonces
+tranquilamente
+pongo lo que necesito. Necesito pase a
+un neutro y voy probando el contactor
+dentro del tabelo. Entonces,
+esto para que ustedes vayan viendo.
+Después lo que vamos a hacer es lo
+siguiente.
+Eh, yo traje ahí un par de gorneras,
+eh, pulsadores y otras cositas ahí para
+que ustedes vean.
+Ahí ya vamos a trabajar
+por unos tableros y esas cosas. Vamos
+hacer ranking parada de motor solo con
+contacter
+para que ustedes se familiaricen cómo va
+la conexión acá, cómo trabaja y después
+le vamos ir agregando
+un relé y esas cosas. Ustedes van
+leyendo lo que voy pasando, ustedes van
+entendiendo más rápido.
+Vean vean le forma video y explica
+bastante bien algunas cosas, así que no
+es tan tan
+difícil para entender.
+Ahora tienen que entender cómo trabaja
+esto y cómo se acciona y por qué. Nada
+más que eso. Después hacemos la
+conexión. Así que esa va a ser la
+táctica hoy. Quiero que se familiaricen
+con
+y siempre
+tengo otro ya, pero este para otra cosa,
+pero nosotros vamos a ocupar solo para
+marchi para conocer las conexiones. Eso
+que estaba acá del esquema ese fácil.
+¿Cómo se distribuye? ¿Cómo arranca un
+contactor? Le vamos a poner un
+motorcito. Creo que está por ahí. Si no
+conseguiremos, traemos otro otro día.
+Pero la idea de que ustedes entiendan
+para qué sirve un contactor
+la gente nueva. Ahora tengo uno, siempre
+tengo uno, ¿no? La gente nueva tiene que
+saber algo de la parte de circuito.
+Entonces
+alguna gente vieja ya le van a utilizar
+con la fotos.
+Tengo por ahí, entonces le van, ¿no?
+Para que ustedes vayan viendo cómo se
+instala. Hay miles de trabajos
+creativos. Lo que pasa que interesante
+sería tener distintos boxes
+que cada uno tenga su elemento, pero en
+este mundo es muy difícil. Hay un lado
+de Ya sé que tiene lo que yo quiero,
+pero es otro lugar que sé,
+pero me gustaría que todos puedan
+trabajar y se familiaricen con la una
+vez de que terminemos su trabajo
+práctico, ahí vemos el tardo de bombeo
+todos juntos. Voy a poner acá un esquema
+y le voy a explicar.
+Tengo otro tablero que si llego a
+terminar más o menos prolijo lo que sea,
+mañana le traigo
+porque se tengo que después colocar la
+tapa y colocar el coso allá y ya
+de acuerdo a la forma que quede la
+proligidad eso está se hace en obra por
+menos quiero mostrarles
+para que vean que dentro de un carero
+generalmente
+utilizamos los de cualquier elemento A
+de lo que sea,
+pero no, ¿cómo le puedo decir?
+No hacemos
+ninguna conexión unión de cable,
+todo vaido.
+Por eso quería que ustedes entiendan
+cómo es el el esquema eléctrico, por lo
+menos para que vean y después cómo se
+hacen en función de eso a través del
+tablero. Tengo varios talleritas, así
+que nosotros
+al cuo vamos a desarmar lo que desarmar
+el tablero tienen que dejar el mismo
+tablero para poder ocupar los elementos
+porque ahí mové había lista de
+materiales que pasé
+un tablero bombeo.
+Entonces directamente lo que falta
+probablemente falta interruptores, falta
+algunas cosas, le vamos agregando, voy
+buscando algún lado conseguir para que
+haga un tablero bombeo
+de
+bueno en síntesis.
+Vengan, amigos, usted quieren que le
+lleven la mano. Van a trabajar a dos
+trabajar a dos allá.
+Trabajar a dos acá.
+Yo por ahí alguno.
+Trabaj a vos. Trabaj
+la dos. Ahí falta la chica. Da más este
+que ustedes tienen más como tiene menos
+contacto auxiliar.
+Estamos.
+Voy a empezar a repartir la herramienta.
+Me está faltando la otra mano
+a dos.
+El de hoy
+es el de
+este un al dos.
+Este es un y que
+hay que darle fácil
+acá.
+un contacto nuevo.
+Ese lo vamos todaví
+cómo funciona con
+la cosa hay más
+agarra bien.
+Creo que si vos aprietas la Himina la
+bobina. Así que si aprietas la Himina la
+bobina.
+Entonces si queres medir la resistencia,
+eh, creo que me aprieta la H. No me
+acuerdo
+está normalmente abierto, o sea, no
+debería haber,
+¿cierto?
+No sé si
+ustedes tienina
+tiene en teoría tiene que tocar
+acá hubo un display, creo que está en
+contin
+eh
+mide
+Es lo mismo, creo.
+poder meter la fase en un lado y la otra
+yo no te voy a decir a uno, a dos o
+meter en la dos, no. Cualquiera de los
+dos, mientras vos le do 20 no hay
+problema. Pero siempre es una fácil.
+Claro, claro, porque tu bobina te está
+indicando que es 24 220 V. Entonces ahí
+recién
+Bueno,
+si el exterminador que chiquito encaja
+ahí directamente.
+Ustedes van a poner en cualquiera de
+lado la bobina que ustedes quieran. Ese
+ya
+no hay que me interesa.
+Alicante
+así se
+así se vamos.
+Bueno,
+tiene que entrar
+si no van a hacer lo mismo que los
+primero.
+Otra forma de probar es si realmente
+funciona la bobina a veces hay la
+continuidad o si mente que tenga valor
+de existencia alrededor de 500 y pico.
+tiene que probar los dos extremos. Ponen
+a uno, a dos y ven que
+qué está cansado.
+[Música]
+[Música]
+A ver los otros
+y este como un auxiliar
+Ahora ellos van a ti que probar
+la comunidad y
+testigos.
+No sé por aquel lado las chicas.
+No sé quedó ahí.
+No, estaba mirando. Me rompí
+la ventana
+por lo menos.
+y yo le bajé.
+muestro
+[Música]
+un
+examine.
+En este caso, este es el lado uno y este
+es el lado dos.
+Sí. y
+este va, pero este va al L1 de acá, de
+acá sale al L1
+y el A1 se conecta al
+normalmente es cerrado.
+Y el A2 se conecta a la automática,
+no sé qué es. Ah, ya.
+Te doy otro
+desarrollamente para
+eh
+vamos a trabajar el grupo
+y
+yo después le vamos a ir tomando para
+que ustedes vayan viendo como el tema.
+En principio, acuérdense
+vamos a traer el el aquel para que
+ustedes miran
+en extremo y extremo qué resistencia
+tiene. Acuérdense que alrededor de 400 a
+600 ohm tiene quedar ohm.
+parece hombre o es hombre.
+Una vez que tengo eso, es una
+probabilidad de que funcione todo. Puedo
+probar continuidad el el los dos
+extremos del
+del contactor, o sea, de la bobina del
+contactor. Y bueno, ahora lo que hizo
+hicieron directamente,
+fíjense que tengo la fase por la fase
+neutra y directamente con esteamos
+para
+ahora le estoy dando energía disuntos.
+Acá tengo la fase.
+Como este es un contactor de 220
+directamente no te voy a conectar.
+Ve aparte acá estamos probando solo
+directamente
+no estoy dentro de un tablero, pero
+están esto conformando un sistema
+tablero térmico, interruptor y no sacar
+todo porque probar si este funciono
+que de vez en cuando uno siente cuando
+anda un tablero que se quemó la contrató
+a veces dejar
+así que ya sabemos que la quemada ya
+tengo pero si realmente no
+eseor tenemos que probar. Entonces, ¿qué
+es lo que se hace nuevamente? Fíjense
+y ahí pruebo
+para que me vaya corriendo,
+¿entiendes? Entonces ahí yo sé que
+contactó ya trabajando.
+Una vez que contactó ya trabajando, el
+otro que va a probar porque es
+trabajando do ¿Qué pasa con la
+continuidad?
+Traer un
+ahí dónde tiene que poner. No me rompan
+el sistema de tien que poner en
+continuidad o lo que sea o ruinito para
+fíjense, ya probaron que funciona
+está tomado ahí. Ahora prueba cada
+cada salida.
+Puede ser que no pue
+no puede ser composto
+que no
+entiend
+entonces la fase no va a medir la
+exactamente por eso trabajan
+yo no quiero poner otro acá me interesa
+quiero que usted aprenda nada probar que
+este este contactor dentro de un tablero
+funciona con esto también sin sacar la
+parte del olor sin no tiene que funcion
+para que sepan cómo trabajador una vez
+que ya todos hagan el mismo sistema, ya
+le vamos ir armando, le vamos poniendo
+eh
+qué tipo si no hacemos, ¿cómo se llama?
+Arranque de marcha y parada o
+directamente eh utilizamos la fotos.
+Pero lo importante que aprendan primero
+para que después les voy a enseñar cómo
+se dirigen por Vamos,
+después vemos pasito. Se quiero todo a
+mí es fácil sacar a un tablero a
+desarmar y ustedes ya no sirve si no
+entienden para qué sirve y cómo se
+conecta y
+me entienden. Entonces va muy por parte.
+Yo tengo tiempo, así que
+bueno, hagan ustedes dos ahí y le
+muestre a la gente que está ahí.
+pasando.
+[Música]
+Mientras tanto,
+mientras tanto,
+lo
+[Música]
+Este no es como
+es la bobina
+y este
+Estos dos son buenos la
+hace.
+Entonces,
+este va al borne
+al borne y este va al con la lámpara
+la fase acent la fase.
+Cualquier cosa pregunta acá.
+ustedes lo que hacen ahora van a hacer
+todos los que están acá.
+que
+A un
+este es a un
+bombe.
+A la mía que tiene fuerza
+ahora una tiene que manterla y otra
+tiene que probar las salidas.
+¿Cuál era? Eh, ya está enfrentado.
+Probabile.
+Sí.
+O sea, por eso dije saquen todo porque
+uno
+y vamos a utilizar cosas.
+Ahí, ahí
+va a trabajar con la chica.
+Yo estoy con
+el
+us
+para qué era
+para lo mismo.
+Lo que pasa es que si problema lo viene
+hasta cortar lo que parce que se
+encender
+[Música]
+no
+Yo hago el contacto y vos continuar.
+Está en continuidad.
+Ya está en continuidad. Problem
+por Dios. Sí, están
+hay que pasar a
+[Música]
+acá.
+Así entendí yo.
+Esto dos, ¿no?
+hago de nuevo.
+Ahora
+va desarmar todo el pasito
+de todo.
+Eh,
+este va, este es un neutro siempre en la
+una y dos va neutro fácil. Este
+alimentina se activa y
+hay distinto
+esos dos son distintos.
+Ah, no tiene que continuar. Claro, no sé
+abierto normalmente. Los otros son L1
+L2.
+Y cuando se pegan metalor, porque esta
+la entrada salida,
+esta entrada salida fácil las tres
+fáciles
+alimentar
+necesito
+que hac
+gusta trabajar tranquilo.
+entre no había
+tocaba y hacía un poquito
+Sí,
+contactar ese que está ahí.
+preguntar
+Accionar y medir laidad.
+Yo soy sincero,
+pero dije
+hay que hacer hay que haceros que
+accionar el contactor y La continuidad
+secciona así, mira,
+lo ponés en el neutro,
+en el A2 en el A2. Y este va a la
+hornera de neutro.
+Acuérdese que tiene que resistencia.
+¿Cuánto Oh da
+la bornera de
+la continuidad de los
+y después cerrar el contacto, cerrar el
+circuito?
+Este va a la fase.
+A nosotros no nos dio continuidad entre
+entre
+normalmente abierto es esos dos borners
+no nos continos sí.
+¿Qué?
+Este es un comando. Estos son
+normalmente abiertos.
+Claro, este no a mí no me da.
+Este les va a dar continuidad. Este no.
+Cuando pegue
+no. Ah,
+el 13 normalmente abierto y el 14
+normalmente abiertos no da continuidad.
+Trifásico esos de
+y pero uno sí va contino.
+Sí, el otro no.
+Prob primero tu puntos.
+Está medio está medio cagado
+el otro.
+Vamos a darle lo que está intermini.
+Vayan desarmando, pero mantengan las
+cosas en el mismo lugar.
+Mandhas,
+mandó para WhatsApp, profesor.
+Ah,
+importante, desarman, pongan todas las
+cosas ahí. Lo que desarma pongan la
+caja. Falta después
+este fusible,
+¿cómo se llama el otro? que tenía este
+no de per
+le damos eh electricidad a uno de A1, le
+damos nuestro A2 y después le damos la
+fase a A1 y después comprobamos la
+continuidad entre L1, L2. y dice que
+este no tiene que dar continuidad, así
+que está
+desarmamos todo
+levante la
+pechamos todo
+el cablería
+porque si sacamos todo Después, por lo
+menos, porque después vamos a hacer
+[Música]
+para qué exactamente para qué tornillo.
+Para sacar esto, ¿no?
+Ahí sí, pero esta punta
+bueno
+qué aprendieron ustedes
+lo único que hagan es no le aplasten
+demasiado porque es que están castrados
+doblar las patas
+que los cables casi me interesan porque
+muy bien que
+F le falta un interruptor.
+Una
+interruptor
+el testigo.
+Ahora vamos.
+Después, fíjense porque despelote el
+dominador por todos lados pueden tener
+cuatro de
+bueno. ¿Cómo anda acá? ¿Qué aprendieron?
+Cuéntenme
+contactment
+esos que son
+los auxiliares.
+Es auxiliares. Ahora es la otra
+todos los
+Eso fue lo que
+saquen los cables, pero no es
+conect Ale pégale, péale de vuelta,
+pégale de vuelta.
+Este está conectado acá, o sea, que está
+como el dibujo, ¿no? Este es A1 y baja
+a Normente cerrado.
+Sí, este es
+y este este tiene dos bollas o o ¿cómo
+se hace?
+¿Qué?
+Sí. ¿Cuántas bollas tiene para viste que
+hay una que tiene dos tanques y otro que
+tiene Claro,
+ahí?
+Este tiene el puente a sí mismo.
+¿Y qué son?
+Este,
+este fue el que mandó la antes y este
+tiene dos.
+Estos son los contactos. Estos son
+contactos. Son contactos.
+¿Para qué sirve esto? ¿Para qué sirve?
+Entiendo igual por qué se pone fusible
+para proteger
+tiene esto.
+Este es el este no el interruptor
+termomagnético en general.
+Este protege solo los conductores, no
+protege motor.
+Este, bueno,
+ah, sí, contactor.
+Sí, sí, contactor.
+El relé térmico que no le veo acá.
+No, debe ser este.
+Está acá, ¿no? Este está acá. Arranca
+acá. Acá está. rel térmico protege el
+motor
+y este le protege al relérmico. Eso es
+lo que yo hasta ahora entiendo, pero
+cualquier cosa.
+Estos son los auxiliares.
+Entonces, esto
+acá se le puede regular.
+La preguntaste tres veces la primera
+clase que la
+son los contactos de fuerza aguantas
+toda la carero.
+No, no quería
+ese para esto.
+Te falta un bipolar.
+Primero vamosando
+a ver qué tiene ahí.
+ahí.
+Ah, este sí es este sí es un sí es un se
+levanta.
+Sacamos esto también.
+Sacamos esto también.
+Fácil de
+cada uno recibió una cosita. Lo que no
+recibieron.
+Después vemos cómo conseguí un otro.
+Pero bueno, el tema es siguiente.
+Y esta no estaba sola.
+Y este le vamos a dar
+rato todos ahí el grupo ahí
+van a trabajar con eso.
+Saquen los cables
+con cuidado.
+Contactor
+voy le voy a sustraer porque vamos a
+hacer otra cosa, no otra cosa, sino que
+vamos ahí implementando otras cosas.
+la cantidad de cosas que tengo, pero ahí
+no lo vamos. Ese no tengo.
+Ese no tengo.
+Y ese no tengo.
+Dejen ahí.
+Laseras.
+Bueno,
+había un gráfico que estaba ahí puesto.
+Ese no volvió.
+Nosotros lo que vamos a hacer ahora
+es arranque, marcha y parada.
+Estamos lo que tenía el contactor. Tengo
+tres para hacer tres hasta cuatro marcha
+y parar.
+Entonces
+este marche parada tiene la
+particularidad, acuérdense que tengo
+abierto cerrado, uno para eh marcha y
+otro para contar cómo es el tema, pero
+estaba el dibujo ahí, así que pero
+siempre el rojo es parada y el otro
+verde es marcha.
+Entonces,
+¿qué es lo que vamos a hacer? Estoy
+contando cuánto tenemos para que todos
+hagan una sola vez.
+Este también es un marcha para qué
+particularidad tiene
+que
+[Música]
+tiene dos o tres interruptores, depende
+que crítica tenga.
+Y
+fíjense el contacto, este contacto
+normalmente abierto, el verde y el rojo
+es normalmente cerrado, normalmente
+abierto. Usted va a tener que es tres y
+cuatro y normalmente cerrado es uno y
+dos que rojo,
+por eso que está junta, pero tengo que
+tener este sistema, si no no puedo
+usarización.
+Como ella tiene justamente un espacio
+acá, lo vamos a colocar ahí.
+Es vamos a hacer que ustedes cuatro
+trabajen con esto y después
+importante que ustedes entiendan
+cómo es la conexión de marcha parada y
+es y es en algunos casos que ya tienen
+el el contactor
+o utilizar contactor. Este código lo
+vamos a contactor
+vamos a armar la parte de potencia.
+Él tiene interruptor y tiene un
+contactor, así que si tiene contactor
+eh un interruptor y tiene un contacto,
+yo no le voy a dar contactor para que va
+a quedar acá.
+[Música]
+Estamos ahí. Bueno, después aparece
+otro sistema que llamar más bueno unas
+cosas que tenía buenos marcha para el
+mismo pero marchapada. Entonces estos
+son individuales, tiene la caja
+acá
+y todo esto va así, pero no vamos a
+utilizar, vamos a hacer todas las
+conexiones y
+para
+después aparece otro también, pero viene
+todo compacto, tiene un sistema muy
+común y marche para
+van a ver el mismo sistema.
+Estamos hasta ahí. Estamos ahí. Entonces
+tengo la posibilidad. Entonces uno van a
+sacar vamos poner a cuatro,
+otro va a ser la parte del medio y
+después ustedes dos van a contar con
+Estamos. Importante que todo entienda.
+Bueno, se
+haend
+aquí. Barbosa,
+Barriento,
+eh Benítez,
+Botoli,
+presente,
+Cardoso,
+Espinoa,
+presente,
+Painfeld,
+Gen,
+presente.
+La
+presente.
+Land
+Leiva Melgaret,
+presente.
+Ramírez,
+presente.
+Selva
+presente. Soto,
+Sara,
+Cabral.
+Bueno,
+gracias.
+No,
+luego
+vamos de cuatro. Estamos usted aprovecha
+que vamos a hacer participar
+acá.
+Vamos para acá,
+¿no? Acá no más.
+va a usar este
+si quieren meter
+sacar el contactor lo que sea vos puedes
+sacar acá y contactamos
+interesa este puede bajar
+y dejar
+o sí funciono
+bueno vamos para lado ustedes dos a
+trabajar con ellos
+La cama está más cerca. Le voy a dar
+interruptor que está
+falía. Usted están ahí ahí
+más que ahí para la próxima.
+¿Cómo funciona el sistema?
+Es hizo eles.
+¿Cómo estamos?
+Lo que pasa que
+mira el tema así
+tienen contactor
+interruptor contactor
+directamente. Entonces acá va a ir la
+alimentación,
+va otro, va otro. Acá viene la
+alimentación acá, acá sale acá y acá va
+acá. Y acá podamos poner un focado
+la bobina
+y después la bobina. Primero se hace la
+parte de potencia y fuerza que dijimos
+y después alimentamos la
+bobina la parte de comando.
+Se hace la fase
+acá y entra la fase
+que
+pero no tengo
+no tengo preso
+este y este
+y este este va afuera
+en esto ustedes van a hacer una y acá le
+vamos a poner un motor o una lámpara
+lo mismo,
+A ver, vamos a hacer otra cosa. Es una
+llaveura. No quiero que toquen porque
+este va a ser para más después de tardo
+bombero de acá todo eso después
+la
+cosa todo eso
+porque se una vez que ustedes armen todo
+esto va a ser para trabajo,
+Pero tenemos que saber primero un montón
+de
+voy explicando o sea que no se tiene
+calcular.
+Vamos.
+Vamos haciendo ya, profe, ¿no?
+Vamos haciendo
+este otro lado.
+Tien que seguir conej
+otro después
+la primera vez.
+A ver, le falta a ustedes.
+Yo tengo uno
+a término.
+Este es marche parada también, pero está
+todo eno bloque
+y se despacito. Lo importante este no
+apretar fuerte. Silencio. No apretar
+fuerteo
+porque si no se rompe. Pero tiene que
+tener cuidado. Es como si estuviera esto
+es así.
+Tiene dos sujeteadores.
+Una vez que usted introduzca acá giren
+directamente después ajustan. Cuando
+apuntan demasiado se rompe.
+Que tenéis delicadeza, pero siempre
+funciona bien así.
+Cuando llega al tope,
+hace tope a la lata.
+A la lata y va tirando para afuera.
+Después hay otro tipo también que tiene
+el mismo sistema, pero cuando ya está al
+tope no hay que
+retroceder porque he visto y ya yo he
+probado fuerte pones
+cuando ya rompes que comprar un nuevo
+porque si no tiene respuesto otro viejo
+tan malo y esto que está acá solo un
+momento abierto momento cerrado depende
+qué característica tenga el usador
+Estamos
+este
+bien. Este está.
+Bueno, ahí es llevarnos a este tipo.
+Importante antes de empezar todo
+[Música]
+que cada uno tenga un interruptor un
+interruptor ese le vamos a
+y un contactor
+acá para este caso. Saquen este y
+pontaquen
+el religo,
+esto y el pulsador. No hay otra cosa.
+Interruptores.
+A ver, ustedes quense por favor
+una cosa
+y ver si tienen otro.
+Acá tengo otro.
+¿Ustedes que le falta?
+para para que
+todavía más
+porque
+este
+tengo que ver que le falta
+los
+inter
+ahora sí,
+ahora que estamos
+96.
+Me gustaría tener 10000 pulsadores y
+1000 cosas y todo, pero no puedo hacer.
+Ahora hay que poner el
+neutro.
+todas las cosas acá, acuérdense la parte
+comita que ustedes
+con toda la bronca que tengan.
+Bueno,
+no dej ya no dije que traiga ahí ese
+porque vamos después
+las piezas van a quedar acá lo que
+desaramos
+esto viene después
+esto que está acá viene después y
+necesitan entonces lo primero vamos
+separar Tomá tengo dos pulsadores. Estos
+van a ser a ver este sin esto. Esto
+dejen acá.
+Perfecto.
+Estamos ahí. Estamos ahí
+y que apagamos juntos.
+Bueno, aprendemos acá y
+tengo más para ustedes, pero ponete uno
+acá y otro allá.
+Uno acá y que elija ahí quién quiere que
+haga con ellos.
+Estamos hasta ahí. Estamos hasta ahí.
+Es una borrera. Está
+La
+bobina.
+Bobina.
+Vamos a empezar otra vez.
+Profe, ¿puedes tocar o
+atención?
+Bajaste un poquito ahí. Así todo una
+sola vez.
+Es lo que hay. Los pulsadores que hay.
+Nosotros tenemos este es un contactor.
+Usted ven el contactor interactoré
+acá vamos a tomar la alimentación fase
+neutro. Esto es lo que vamos a hacer,
+las conexiones primero de potencia que
+van a ser primero y después la parte de
+comando que estas. Ya. Entonces, ¿qué
+hacemos? En vez tengo un interruptor
+alimento neutro neutro
+en las partes que son L. Te pusiste L1,
+L2 y L3 y acá T1, T2 y T3.
+arman todo esto y después pasamos
+este conexión eléctrica y este es
+directamente la parte esquema de
+comando.
+Estamos primero armamos esto.
+Arman todo
+este pedacito y después pasamos a la
+parte de
+cualquier cosa pregunto porque esto es
+para que ustedes entiendan cómo es. Uno
+para allá y otro para allá. Sí.
+Ahí
+espacio. Acuérdense que esto es
+cable para sacar de uno acá.
+¿Cómo se llama?
+[Música]
+tanto.
+cuenta que ustedes
+para qué querar el
+paraar el a la base porque baila todo
+baila todo juntos necesita
+Mim
+por qué sac las cosas.
+Por eso te puedo preguntar. No pues si
+con quién trabajando vos
+tr, o sea, pon ahí
+no pero digo yo lo que no quiero que
+toquen las cosas, yo le doy a cada uno,
+o sea, no me gusta que toquen las cosas
+porque si no yo me quedo loco.
+No,
+después
+que independiente
+Fe la derecha
+porque en teoría el
+era el que te definía el neutro,
+pero vos puedes poner
+así que
+nosamos por eso esquemita
+para afuera como le pero
+posible.
+Vale.
+Sí.
+Eh, más cable para el
+conectan la parte de fuerza primero,
+después vamos a conectar comando.
+La parte
+acá hay un montón de
+cuando terminan la parte de fuerza me
+llaman o le llaman a él y vamos a ver la
+parte de comando. Si no lo eso de
+Este, este y
+creo que hay uno que le que le estiran
+le hable.
+¿Cómo?
+Para que agarre bien le hable esto.
+¿Qué tiene ahí ya? Rompo
+es rojo.
+Rojo.
+La gente que tiene los talbero y tiene
+ojo por el
+escuchen lo que van a hacer
+antes que
+acá va a aparecer 13 y 14. Entonces esta
+es la lámpara.
+Cuando ustedes conecten acá, van a tener
+que poner fase. O hacen el puente acá o
+un lado o acá directamente.
+Está de acá a acá,
+de cualquier fase al 14,
+al 13.
+El 14 va a salir y caer al troco de y
+algún lado tomo neutro.
+Está. Entonces, cuando funciona el
+contactor y esto esté funcionando, me va
+a indicar
+el verde, el rojo, lo que tengan ahí que
+está funcionando contactor. Estamos para
+aprender ustedes cómo trabajan el 13 14.
+El 13 14 no me acuerdo si estaban
+normalmente abierto. Normalmente
+que está abierto.
+Ah, perfecto. Normal. Está abierto tac
+tac. Claro, que ustedes cuando llegue en
+esa parte, lo que pasa que le voy
+agregando a medida que viendo que estén
+terminando, entonces ya voy.
+Bueno, acá estamos
+ahora
+ahí. Acuérdese que usted también tienen
+un ojo de
+Bueno, está ahí, está ahí todo la parte
+de
+entre
+este y este hay que hacerte
+el 13 y el y cualquiera de los L.
+para que ellos vean qué es lo cómo
+tienen cada parte de potencia la otra
+parte.
+L3
+si se complica la lámpara.
+[Música]
+Porque después cuando hacemos la parte
+de comando
+se complica porque algunos algunos
+tienen la posibilidad es ustedes tienen
+ahí
+en vez de tener 13 y 14 tienen dos
+abiert
+pueden hacer tranquilamente tienen uno
+solo.
+interesa más la marcha parada que estoy
+haciendo
+interesa más la marcha
+por
+que tiene este tiene 14, pero hay uno
+que tiene meta abierto.
+Despacio, despacio.
+La fuerza. Sé que tienen fuerza, pero no
+vayan a forzar porque van a romper todo.
+Acuérdense que tiene esta colección
+necesito
+que este tiene normalmente abierto y
+normalmente abierto y este tiene
+normalmente abierto y normalmente
+cerrado. Es lo que está hablando. 13 14.
+Está mal puesto, pero si ustedes hacen
+la continuidad, fíjense la continuidad,
+apostarle ahí, fíjate,
+está en reposo, no tiene que estar
+abierto cuando entr este cerrado.
+La parte de fuerza la parte de fuerza
+para conectar
+ya.
+en la prueba
+acaba cuando pongan ahí mira dejen un
+chicote para poder marcar acá chicote de
+[Música]
+ese
+Eso
+ahora vamos a hacer el puente para el
+final.
+Creo que para ir a probar molestar
+Atención, please, por favor, por
+favores.
+Primer paso,
+alimentación
+fase, neutro,
+neutro fase, vuelve, fase arriba y
+después sale dos chicotes que van al
+motor.
+Vamos.
+Esto es lo primer parte del trabajo que
+sería esto que
+estamos. Miren bien. Y esto es lo que
+tienen que hacer.
+No hay otra solución.
+Estamos
+ahí. Síguenos.
+Voy dar
+y el neutro
+cortito,
+[Música]
+otro color.
+[Música]
+[Música]
+Descartamos el ojo de por el 13 14
+porque dice que 13 14 vamos a servir
+para otra cosa.
+Después le voy a enseñar otra cosa.
+Acá nos faltaría un chicote para que
+vayamos
+cerrado después cuando contact.
+Bueno,
+este me interesa que haga
+el tema del comando es este. En un lado
+va el
+a uno va el neutro y el otro el la fase
+en otro lado.
+todo el sistema ahí
+a dos, acuérdense, el otro le metemos en
+algún cosa de algún lado le pongas el
+neutro solo y donde es la fase hago este
+puente
+en algún lado tomo la fase.
+Fíjense más verde el que está fuera
+y después va a dos.
+dos
+en algún lado 14entas
+tomaste la fase
+tienes 13 14 acá
+bueno acabo tomar esto tieneación acabo
+tomar las fases Tomar
+alimentación 13 14 le da fase al o revés
+14 si
+tomar la fase
+13 tomamos
+Ahí
+no
+alimentación
+fuerza y comando. Ahora hacemos la parte
+de comando.
+Ese la parte
+despacito
+13 14.
+Mira,
+este va
+al 13 14 que le alimentar
+y después va la do. O sea, que
+tranquilamente a la dos va a llegar a
+dos cables.
+A la dos va a llegar dos cables.
+Está paralelito. Así sale una fase,
+alimenta un lado en una fase como
+otra fase va 13, 14. pasa por el rojo y
+después el rojo va.
+O sea, que tomo
+de un lado va directamente a dos.
+Como no podemos hacer conexiones
+directamente en el lado va a haber dos
+cables, uno que viene de acá y otro que
+viene,
+o sea, por eso quiero que hagan paralelo
+para que ustedes sepan dónde está la
+alimentación.
+Marada.
+La mareada. ¿Qué vos tenés?
+Este,
+este que está acá
+viene a ser este está oro.
+Para este lado. Para este lado.
+El verde este va a aparecer directamente
+acá. Vale, primero antes porque tiene
+tren uno va a ser común que se el común
+de acá y acá est repartiendo así.
+Esto viene de acá y acá
+este viene a tu fácil. Esto viene ahí,
+acá
+[Música]
+y después este 13 14
+a
+sé si me entendé, pero
+cuesta
+después te voy a dar otro individual,
+pero este
+es un paralelo
+acá alimento de Eh, algún lado una fase,
+una fase
+por allí abajo.
+Voy hasta el interruptor de abajo. Pues
+es más fácil
+ahora en este momento voy a conectar.
+Aquí la frente acá.
+con
+el otro
+[Música]
+y ahí
+el verde.
+pas
+usamos otro color de este
+lo que tenga lo importante
+Si es más fino mucho mejor para que
+usted entienda que la parte
+comando no tiene mucha carga, entonces
+no necesita un cable muy grueso
+finito no más si que encuentran ahí un
+finito
+finito.
+cable
+fase y deja dos acá
+aliment
+y ahí te va
+y ahora mientras el conéctale a este
+Y tamb también tenemos quear una fase
+para
+que se complicó el que tiene tres
+chicos,
+pero es así
+que no se
+pront
+de
+lo importante que usted entienda de lo
+hace
+[Música]
+el borner que yo elija, profe, para
+para A2 es indistinto, ¿no?
+Lo importante es que le traten con
+cariño porque lo como tres pulsadores.
+Quiero que me compr que comprar de
+vuelta.
+Este pulsador es internamente un
+normalmente
+abierto, normalmente cerrado.
+Cerrado. Entonces, quieren probar si
+funciona o no.
+Agácen así dos lados y voy a probar
+continuidad.
+Ahí te vas a dar cuenta si es o no.
+requiere mucha fuerza.
+que le
+paste con cariño.
+No, no sé cómo se le
+Ah, ya se fueron
+tienes
+Se siente que
+ahora necesitamos fácil
+Tenemos ya
+a dos,
+ya necesitamos la energía.
+Fate que más supongo que representa la
+falta.
+Ah, no creo que ya
+creo que el rojo
+Yo no le ajusté mucho, le presenté
+cuando saca ¿De
+dónde saco?
+neutro de
+neutro se pone una un
+que alimenta la parte. Ah, mira,
+la que se coneja se pone una llave la
+que alimenta todo el señor de fuerza y
+otra parte que alimenta la
+F.
+Yo no te dije que pasó por
+ahí a uno. o a dos
+después de
+acabar
+sea
+Y bueno,
+14 13 14
+el uno y el dos en tu rojo allá.
+El uno y el dos rojos.
+Ah, era
+este es uno y dos
+y el otro es tr y cu.
+Uno y dos y tres y cu. Fíjate donde está
+el uno y el dos y el 3 14.
+un el dos con el
+Claro. Entonces, el rojo sale del 1314
+de la dos y este va de la fase
+y de la dos.
+Este, pero te falta acá algo.
+Tien que alimentar.
+Ah, tengo que alimentar con fas.
+Claro,
+puedo.
+No,
+este no, porque este está pasando por
+acá.
+Este viene acá. Esto alimentación.
+Ah, de abajo.
+Claro. Ten acá
+o
+el reposo no va a tener energía.
+Claro. Necesito alimentar de algo que
+que está permanentemente exactamente que
+sería este o directamente acá.
+Perfecto. D L2. Entonces,
+estamos
+ah, de acá
+estamos para la prueba.
+Porque tiene que estar permanentemente.
+Acá tengo dos. No te protegerí.
+protegería. Bueno, pero lo importante es
+que vean
+la térmica.
+El que me rompe sabe que está con
+estos siempre van a estar.
+Entonces acá ya tenemos dos
+y este
+este le energiza est
+en est de acá
+este viene acá de acá siempre va a estar
+enerizado acá de acá
+no porque todo esto de abajo no entonces
+creo que no queda otra que sacarla de
+acá hacia
+Yo para no ponerle triple cable acá.
+Yo sé que está diseñado para hacer
+ya.
+Bueno, siéntese todo así bien por lo
+menos
+en principio
+en principio hoy me interesa que hagan
+las conexiones, no me interesa la
+proyectilidad
+todavía
+después
+se está haciendo. Me prolijo o si no
+vaya
+que tengas que sí
+la parte comando hicimos bien.
+Bueno, la parte de potencia también
+está. Entonces acá yo tengo
+principalmente dos pulsadores. Lo que
+está ahí eh tengo que invertir el
+gráfico, o sea, que si sigo la el
+recorrido es muy difícil que me pierda.
+En síntesis tengo un interruptor,
+contactor y la salida. Esto representa
+si fuera un motor. Tengo un motor ahí,
+pero como no no entiende la que hice. No
+entiende, no sé lo que hice. Vamos a
+probar esto.
+Trae otro más fácil.
+un alumno armó ahí lo que tenía en su
+casa.
+En sí que sí. Yo quiero ahora tengo
+marchi para
+las dos bobinas están alimentadas. Eso
+que yo corregí ya porque si me faltan
+eso no arrancar aunque que peguemos le
+demos cuenta,
+no le vamos a pegar sin ahí está
+marchando.
+Acuérdense
+ese pulsador solo una vez y expulsada
+funciona. Hace todo recorrido y bueno,
+directamente está funcionando el motor.
+Cuando agarro
+listo, no hay cuenta que hable.
+Si hacen bien el esquema de comando
+funciona.
+Tenemos todo para que ustedes
+contact
+estamos.
+Bueno, ahora lo que le queda a ello, en
+sí decide mejorar la publicidad, después
+saca la foto que pero
+ya funciona.
+Rompan los.
+Vamos a tener suerte.
+tiene que perder.
+Ese
+tiene, o sea, continúa
+de acá hace puente cable
+y va al normalmente abierto el 3
+de es, ¿no es cierto? Sin tocar el botón
+verde, entonces queda acá energizado, o
+sea, sin tocar nada queda energizado el
+A13, pero la bobina no queda energizada.
+Y cuando va
+hace hace que la corriente venga para
+acá y se va ac
+al 14.
+Y bueno, y ahí hace accionar la
+la bobina tac y se cierra.
+Cerrado.
+Ahí queda cerrado.
+Está superrumbrado.
+demasiada cosa.
+con el 13 y con el 13 marcha
+acá.
+Acá,
+acá
+¿Está
+entendido?
+No es difícil, ¿no? Que tiene que saber
+más.
+Ahí ya está todo
+esquematizado.
+Esquematizado. Encima ya saben como
+tengo tres, uno la alimentación y lo
+otro cerrado.
+Bueno, ahora proligen y después
+se prolijo. ¿Qué significa? que tengo
+que armar todo el sistema para
+después una vez que entro elige sacamos
+y se armando la parte de potencia
+de acá después le vamos a agregar
+abajo,
+pero ahí vamos a cambiar
+comando, vamos a hacer con otra
+característica
+ese ya vamos a ver después el gráfico
+que tienen ustedes. Lo importante que
+ahora cómo trabaja con y cómo yo lo hago
+arrancar
+con
+Gustavo
+este T1 a A2.
+Sí,
+este es el normalmente abierto.
+Sí, normalmente abierto.
+Sí, esa es la fase
+que sacamos la foto,
+la fase a dos y después el neutro a uno.
+Esa es para la bobina. Que trabajen bien
+a conciencia. Puas conciencia.
+Es la fase, la fase.
+Profe, el prolijo sería esto.
+Esa es la fase,
+claro. El prolijo
+simplemente porque es distinta
+características.
+Eh, ustedes tienen esperar un poquito
+acá.
+Vamos a aprovechar que ustedes tienen
+acá el
+ese que está ahí
+ese que está ahí
+esto que está acá y este que está acá.
+Pasa que ay, perdón, como este tiene 7
+octavos, este es 12, entonces había una
+para que quede ahí
+falta.
+Por suerte terminamos
+una
+Agar asistencia.
+Es mío, así que ahí creo que
+Señorita,
+cambi
+de hoy, ¿qué día?
+215.
+Bueno,
+disfraz
+sí
+de memoria no no va a ser necesario el
+esquema un par de veces pero
+no pero ese esquema
+en algún lugar otra vez porque ese
+foto de eso
+Sí. Y los colores también,
+así que no no tengan problemas. Bueno,
+el tema es así.
+Eh,
+mañana vamos a empezar,
+pero lo que tienen que tener en cuenta
+[Música]
+hay una página en realidad, ¿qué
+elemento necesito?
+interruptor contacto
+ahí
+ojo de este
+este inter
+le ponemos ahí directamente
+falta Solo
+entonces
+que mantengan su
+sacar la foto.
+Sac la foto. Ya sé cuál es.
+Me olvide
+quiere que vaya guardando,
+todo
+trabajamos
+uno grande
+para que
+contactor. Después vamos a ir con una
+foto para que ustedes vean.
+Este no tiene que tener fácil.
+Este tiene que estar cuando este está
+prendido.
+Fíjate que
+y este tiene que
+cuando está apretado.
+Ya está todo enado.
+Y dale pues
+y dale pues entonces. Eh, ya anduvo por
+eso acá porque este está cuateado
+y el de otra bobina te debo
+con el rosa.
+Ah, claro.
+En otra novina te debo así no va a andar
+ni ni a un cab.
+Así
+estaba muy difícil la error.
+Ahora entr la culpa de quién se com
+es culpa.
+Es mi culpa.
+trabajo en equipo.
+Abajo
+la casa del señor.
+¿En qué parte?
+Otra vez.
+Ahí abajo no hay una una. Ahí hay uno.
+Este
+no en uno o no sé.
+Le falta el neutro de la de la boina.
+Claro, uno que solamente
+[Música]
+es que un poco de
+voy a pasar
+eh antes de empezar todo el práctico.
+Necesito que tengan un poquito del
+contactor. Gracias.
+¿Cómo funciona la parte
+faltaba?
+Algo estaba mal.
+Hay que tener cuidado porque estás
+apoyando
+algo que tiene terminales expuestos con
+una lata.
+Primero
+para después
+torno. Pero bueno, es importante que ahí
+estamos aprendiendo.
+Bueno,
+bueno, mañana
+que había un chicote para otro ahí.
+10 de enero
+tengo problema. sangre.
+meter bols
+a todos
+arriba
+la tapa es ahí
+acá de ellos
+no tiene junto
+ese con es
+ese con ese. Fíjate que vamos acá y
+vamos a seguir haciendo cosas
+y y los cables deja ahí. Después lo
+utilizaremos otro, pero no importa.
+¿Cómo anduvieron ustedes
+entendomo funciona?
+Orgulloso
+orgulloso.
+Sasa está muy seguro después. Que conte
+solo los ojos de tomando con electron.
+Oddio, odvio all corriente.
+un poquito.
+[Música]
+Bueno,
+falta
+todavía.
+Entonces mañana empecemos a veras
+cositas.
+Por favor, lean un poco de teoría que se
+contactó con el térmico. Quiero ver cómo
+funciona. Una pregunta
+Santiago Matías y Cardoso también le
+Entonces lo importante es que vean un
+poco para poder reforzar porque
+preguntar tres veces lo mismo. Se puso
+nervioso.
+Tenemos que tenemos que agarrar
+tenemos que hacer la parte de circuito
+circuito. Voy a traer vamos a empezar
+con
+vo dar el esquema,
+pero tengo que dar un poco de teoría
+para que usted entienda por qué es eso.
+Le voy a traer
+el esquema.
+Lo que tendríamos que hacer
+a ver si cómo sea
+traemos
+Vamos.
+Vamos
+la atención cuando lo aprendí.
+La atención cuando lo aprendía.
+A un me acordé a dos.

@@ -1,0 +1,1790 @@
+Entonces, lo que vamos a tratar es que
+entiendan todos si no sirve nada.
+A ver,
+esa
+Vamos.
+Chico.
+regalo.
+companía acá algo parecido, pero ahora
+en vez de hacer solo el trazo, hacerle
+caña.
+Tenemos colores.
+Sí, aquí hay
+así vamos a poner a
+y así cuando viene tirón los ratos.
+Claro, por lo menos dejamos los planos.
+La idea principalmente acá es
+en principio
+eh acá estamos entre gente y cuando ya
+mantienen tienen que abezar
+porque
+a veces en fan de tratar de
+hacer las cosas más rápido posible y que
+entiendan
+se olvida deado
+cuál es mejor, pero si poco habla
+[Música]
+Tampoco sé si están o no. Sí que sí.
+Hubo un par de gente que
+entendido el trabajo de ayer que
+veníamos hace rato, no que veníamos
+haciendo hace poco, sino que hace rato.
+Y propuso otra forma
+para que se entienda mejor
+si todos
+entienden o la mitad no entiende, la
+otra mitad entienden. la forma más
+práctica que hablen o callen para
+siempre, pero síntesis
+vamos a tratar hacer lo mismo que
+hicimos ayer o anteriormente que
+veníamos haciendo para el cargo los
+conductores y todo.
+Eh,
+hay gente que quiere que usemos colores,
+entonces esos colores van a ir
+presentado ahí cada
+en síntesis
+y después cada uno va a ir viendo
+cómo se fue tomando las cosas, porque eh
+para eso se ponen los colores y se va
+pasando los conductores para que la
+gente vaya mirando. Si vamos muy rápido,
+avisen y bajamos la la aceleración. Acá
+la idea es que todo apenas nadie hace
+sabiendo
+a veces uno trata de dar la mayor
+información posible y a veces
+eh necesito que un día aso
+no entiendo. es fácil, pero a veces uno
+mira y entonces cuando nadie habla uno
+pone y es su posición a veces error y
+entonces lo que tratamos ahora
+de lo mismo práctica que hicimos
+es que se vea
+eh me gustaría
+voy hacer más bajo y
+sí, pero me gustaría para que vamos a
+ser fácil
+que vos pongas laserías
+No, ahora
+eh a mí interesa que vos ponga por
+ejemplo acá
+eh acá está la parte de toma
+y bueno, que piquemos eso primero y
+después pasemos a la parte otra parecida
+acá de iluminación que va todo el mismo
+cambio.
+Bueno, entonces voy tratando de explicar
+y voy mirando ahí lo que hicimos.
+En forma práctica he utilizar tres bocas
+de iluminación y dos tomas corrientes.
+Eh,
+tres llaves de punto para cada uno para
+cada boca.
+Acuérdense una cosa muy sencilla que
+vimos una parte de un práctico que decía
+dos módulos o dos puntos o interruptores
+y dos rampas y eso fue en el en el
+ejercicio que se dio en en la evaluación
+para que ustedes tengan idea que
+cualquier forma ya tengo que tener una
+idea de cómo alimentar esa lámpara y qué
+necesito en el interruptor, nada más que
+eso. Pero
+ahora tratamos de complicar un poquito,
+pero es lo mismo que hicimos
+individualmente cada ejercicio ya lo
+practicamos acá. O sea, que no es tan eh
+difícil. La gente ya hizo signo los
+plásticos y todo, así que muy difícil.
+Tratamos de mantener los colores, pero
+en síntesis tenemos tres bocas de
+iluminación, dos coma corriente,
+dos circuitos,
+dos circuitos, uno para iluminación y
+otro para toma de camos más o menos ahí.
+Entonces, lo que se va a hacer ahora es
+esto que está acá es solo la
+alimentación de pluma corriente.
+Acuérdense que hay una parte de la norma
+que dice que yo puedo colocar dentro de
+un mismo cambio hasta tres circuitos la
+misma fase. Nosotros lo único que
+hacemos ahora dos circuitos más fácil.
+Estamos trabajando con sistema más
+fácil.
+Hoy no tenemos una caja de paso como
+teníamos en el práctico, sino
+directamente
+un tablero
+para tomamos la alimentación. Ese
+tablero ya tenemos con iluminación
+cómodo. Nosotros no lo vamos
+a instalar ahí porque cuando le
+alimentación
+en principio para que ustedes vayan
+entendiendo, hay gente que necesita
+mayor, ¿cómo le puedo decir?
+eh memoria visual y le gustan los
+colores. Entonces, vamos a tratar de que
+recorramos los los el tendío, la
+escañería de acuerdo a los colores que
+están ahí. Faltóquito este.
+Sí. Bueno, no importa. Después le vamos
+a dar
+en síntesis. Esta parte es solo circuito
+de estomas copientes. Después le vamos a
+aplicar el circuito de iluminación.
+Pero ya habíamos visto que nosotros
+pasamos la cita pasa cable hasta acá.
+Vamos hasta acá.
+Entonces, lo primero que se hizo es
+tratar de llevar todo el circuito de
+toma corriente. Después vamos a seguir
+primero el circuito toma corriente y
+después le explico todo junto. Toma
+corriente, toma corriente, toma
+corriente. Va de 2,5, va 2,5, va de 2,5
+acá va de 2,5 acá va de 2,5 y termina
+acá. ¿Por qué? Porque lo único que hago
+después porque me falta alimentación de
+este lado, acá se hizo un bucle y
+después se toma directamente este bucle
+la alimentación igual que allá de los
+conductores de 2,5
+damos tres por tres colores que está acá
+aplicamos un solo conductor de tierra
+porque acá dijo el pobre tenemos poco
+cabo no tuviéramos gran cantidad de cab
+Acá le pondrían otro circuito, pero no
+importa.
+Bueno,
+el meollo del asunto
+se armó aquí, dijo
+¿Por qué aquí?
+Porque a mí no me costaba nada hacer una
+comisión de acá allá y directamente
+bajar todo por academia. Eso, pero está
+mal porque las nubas dicen que la caja
+de paso no puede la caja de paso, el
+tablero no puede ser
+caja de paso. Entonces, no puedo pasar
+la alimentación. sale de acá para el
+tema de iluminación y toma corriente
+hasta acá sigue hasta allá la parte de
+toma 2,5 y acá directamente tomo la
+alimentación,
+o sea, tengo dos circuitos, entonces
+tengo dos de 1,5
+azul y neutro, que es la alimentación
+del 1,5
+que es la alimentación que va a toma
+corriente y el y el y la y el
+tierra
+tierra hasta ahí llega.
+Pero, ¿qué es lo que me está faltando
+ahora? Puede acá. Eso va muy viendo allá
+también el circuito que yo tengo que
+venir con una
+fase porque ahí va a venir la fase acá
+y va a venir acá porque necesito que en
+el interruptor tenga la fase. Si no, no
+puedo hacer nada.
+Acuérdense que por la duda cuando
+llegamos a conectar si le vamos a ir el
+tema
+la térmica.
+Bueno, entonces tenemos una fase
+y después fíjense el neutro del la
+iluminación va a quedar acá.
+El conductor primero por lación que sale
+de acá, el de 1,5 va a quedar acá no
+más,
+o sea, va a unirse con el conductor que
+va acá y sigue todo recorrido,
+o sea, este pedacito acá que acá y la
+otra fase viene directamente baja y
+hacia ahí vamos bien. Necesito fácil
+para eso.
+Acuérdense siempre el trabajo práctico
+que hicimos es que para que siempre
+ustedes en todo lo que hagan siempre
+todos los circuitos básicos que hicimos
+en práctica es lo mismo que aplicamos
+acá, solo que acá vamos agregando cosas
+nada más. Eso para que ustedes vayan
+bien
+en la parte del, ¿cómo le puedo decir?
+El de bastidor que hicimos se puede
+poner tomas, pero ahí qu muy previsto
+muy corto. Entonces tomábamos de la caja
+de espacio y hacíamos alimentación
+directo al toma como en síntesis es
+algo, ¿cómo le puedo decir? sencillo,
+pero acá es lo que se los problemas son
+la causa en cualquier lugar que usted en
+la prácticación
+de aplicar ventanita esa y prender el
+ventilador.
+En síntesis, mando la fase que está acá,
+eh, 1,5
+va por arriba y acá, pero justamente con
+eso tengo que traer
+el retorno de cada uno, un retorno de
+acá, un retorno de acá y un retorno de
+acá. O sea, que si tengo tres llaves de
+punto, vamos a preparar bastidor con
+tres llaves de punto. Acá me tiene que
+traer retorno de cada uno de estos. ¿Y
+qué otra cosa eres cortar derech? Cuando
+encendían, ¿cómo tengo que colocarlo
+para tres llaves de punto
+desde la fase
+la fase en el medio,
+no está bien? Pero acá hay una cosa muy
+importante porque yo tengo que tener una
+secuencia
+de qué prendo primero que prendo
+segundo,
+el de arriba va a ser el primero este el
+del medio. De medio estamos más o menos
+estácado
+en el, ¿cómo le puedo decir? En el
+espacio exctos. Es lo que estoy
+contando. Allá vamos a mirar mejor, pero
+la idea de eso que se traslara.
+Estamos más o menos
+después viene el tema de cómo van a
+perder los cables. Ya no quiero que los
+cables. todo el bu no es tener libre y
+bueno
+empezamos a buscar pasaj
+la cable
+está más o menos las chicas me interesa
+que hagan el dibujo porque si no antes
+que yo
+esto que está acá eso lo toma corriente.
+Fíjense,
+tres cables. Va, va, va, va, va. Es lo
+que hicimos acá. Ahora nosotros después
+en aquel vamos a alimentar este y ahí
+vamos a hacer la conexión a 2,5.
+Ya, ya
+ubicándose en el plano.
+Acuérdense que los negros de la cañería
+estamos representando por una línea de
+recta no más para no ser
+dimensional
+si no tenemos que trabajar todo el ¿cómo
+se llama?
+en perspectiva
+perspectiva un poco
+estamos ahí.
+Acá ni pregunto ya porque como estos son
+expertos
+no la idea es que todos aprendan y si
+ustedes a ver
+a ver profe, vamos a tener del tablero
+una fase al a la donde van los
+interruptores.
+Es correcto.
+Tablero una fase que van los
+interruptores.
+Claro. Sale ahí que el circuito este.
+Vamos por arriba porque acuérdense que
+no puedo usar el tablero como caja de
+paso
+todo recogido eso.
+Y ahí a ese mismo le van a pegar tres
+retornos.
+Ahora estamos haciendo la cajita
+para que ustedes vean. Ahí está.
+allá le allá para que ellos vean dónde
+va ahí el
+Exactamente. Mire, miren allá más. Ahí
+van los tres módulos.
+Después
+vamos a unir y cada uno después va a ver
+cómo utilizamos la
+el teste para des continuidad. Parece
+que antes de
+de arreglar
+hay que probar antes de probar y después
+y acá esta gente va a ser
+vamos a trabajar con corriente
+vamos a conectar ya
+el neutro viene desde la de esta boca el
+neutro para iluminación
+de esta boca a esta boca a esta boca y
+queda en la boca claro porque Ahí, ahí
+hacemos la conexión que el circuito que
+va que sube del tablero
+general si sube circuito fase y neutro,
+va a haber un neutro de 1,5 también.
+Todos circuitos son bipolares. Es ahí
+hace el
+Ahí están las chicas del fondo.
+A ver, Carondoso,
+¿entendió o no entendió?
+Allá Mateo
+estábamos.
+Sí. No, no, la idea es que entienda
+porque si todo lo que hicimos no lo no
+entienden, vamos a volver esta parte
+después ya no volvemos más hasta que yo
+le digo más práctico, ustedes vayan
+haciendo, pero eh el tema acá es que
+ustedes entiendan y se imaginan,
+n más mira acá y entonces la imaginación
+con el tiempo van a entender que
+cualquier planta podemos buscar la forma
+de por eso Después
+acá aparece en algunos planos vamos a
+ver cómo funciona de planos porque
+directamente acá le va a aparecer
+2 * 2,5 más tierra.
+Entonces el caño acá va a ser 3 cu lo
+que está ahí
+lo que están haciendo, estamos haciendo
+eso que estamos 2 con 2,5 todo recorrido
+con 2,5 todo con 2,5
+y hago la instalación ahí.
+Vamos a preguntar. Tenemos la
+aprobación.
+Sí, sí, muchas gracias. Ahora es más
+claro para mí, por lo menos las chicas
+que me interesa también el fondo.
+La chica del fondo,
+¿no? Entonces no, porque la idea es que
+eh así podemos avanzar en el tema.
+Tenemos que hacer las uniones ahí. Vamos
+a colocar en uno de los dos tomos
+colocar un toma doble para ver cómo
+que falta cambiar a qué. Pues yo te
+digo, entonces primero vamos a terminar
+toda la instalación hasta la llave de
+punto. Después,
+una vez que terminemos ahí la llave de
+punto, recién vamos a alimentar ahí y
+alguien se va a encargar sin cortar
+cable. Vamos a ver si tengo el cable ahí
+con pinza y
+no hay más fácil que eso,
+pero a veces cuesta
+o sea, la idea es practicar con las
+herramientas básicas porque la cable
+está mucho más caro con el internet.
+Bueno,
+el otro que me preocupa es el chico que
+dijo que tiene que cuidar a su hijo
+encima. Eh,
+mandó ahí un mensaje.
+El tema no solo sino bien, el tema
+también son las falta.
+Claro, porque si vamos
+después, ¿cómo volvemos atrás el tema? Y
+cuando volvemos atrás ya
+nuestro pezón no caía, pagamos porque
+agarramos.
+Es el tema.
+Ajo, ¿cómo andamos? Yo creo que yo hice
+este cálculo.
+Claro.
+Exactamente. Exactamente.
+¿Qué hicimos? Lo que hicimos la otra
+vez.
+Creo que el único que hizo todo el
+La la chica no. Ahí también
+no ahí también.
+Me interesan las dos allá.
+¿Cómo estamos ahí?
+No se pongan nerviosa. No me interesa.
+Acá es para estar, ¿cómo le puedo decir?
+entre conocido. Si usted no nos hoy,
+sí,
+mañana,
+ya que la próxima ya vamos a ir otro
+lado, ellos van a ser solo
+lo que pasó es que ahí sí nos separamos
+de manera didáctica, pero ayer en el
+pasajable
+se juntaron los dos hijos, o sea, se
+pusieron de golpe
+de 2,5 para tomar y los de 1,5.
+Eso que sacó la foto el compañero que
+estaba eh enmado, eso era al cable
+pasacable y y fue haciendo acá acá no
+era acá era solo los de 2,5, pero acá ya
+le agregaron lo de iluminación
+y siguieron acá que agregar otro retorno
+y le iban sumando.
+Ahí lo hicimos separado solo para para
+que sea más fácil de entendernos.
+y se llegó hasta ahí abajo. Ahora falta
+los retornos de de
+y este completar
+este
+es lo mismo que vimos ayer, pero con
+colores. 1, 2,5, un circuito
+1,5, otro circuito de iluminación todo
+recorrido. Acá se le va agregando
+uno por cada retorno, uno por cada
+lámpara y bueno,
+como acá sale toma corriente, sale dos
+circuitos,
+entonces automáticamente va y baja ya y
+allá en la caja esta
+explicar lo que se hizo ahora.
+se asustan de me pongo acá y ustedes
+algún valiente que se pare explicar lo
+que se hizo ayer, todo el cableo que se
+hizo hasta ahora. ¿Quién quiere explicar
+para los que no
+explica qué se hizo y en dónde se fueron
+agregando los cables.
+Bueno, ayer empezamos con el cable,
+empezamos acá.
+Como acá es toma corriente, empezamos
+con tres cables. 2
+fase neutro y verde tierra.
+Empezamos a segir con los cables hasta
+acá. Acá se agregó dos cables más de 1,5
+neutro y el primer retorno de portapara.
+Seguimos con los cables
+hasta acá la casa de volta un cable más.
+Otro retorno de porta lámpara así.
+¿En cuándo? de 1,5.
+Seguimos, seguimos, seguimos, seguimos y
+llegamos hasta acá
+en la casa de confiron
+de pasar acá llegaron hasta acá abajo.
+Bueno, hasta acá llegaron los cables de
+de los retornos por ahora. Los tres
+retornos, dos retornos de aquella
+lámpara y aquella lámpara. Los que
+llegaron hasta acá fueron los dos de 2,5
+de toma corriente de 2 de 1,5 de
+iluminación más tierra. Son cinco cables
+que lle
+Entonces, ¿qué falta?
+Falta
+desde acá y con los reportes para
+la fase
+y tierra. Ah, y la fase son cinco
+hasta acá llegaron los retornos.
+Hasta acá llegó base neutro izquierda en
+2,5
+el neutro de la iluminación 1,5 hasta
+acá con los retornos. Los retornos
+quedaron acá y se sumó la fase.
+Entonces acá bajaron cinco cablos,
+fase neutro en 2,5 1,5 y tierra, que es
+la alimentación principal de los
+circuitos.
+Entonces, acá arriba
+lo único que falta es colocar la fase
+que va a alimentar las tres llaves de
+punto y los tres retornos y después
+queda aquí el trecho que se va a subir
+el 2,5 hasta la boca y se va a salir en
+el
+fase
+va a ir del tablero para
+acá está la fase.
+La pasita acá y está el
+oas poner fase hasta acá y acabas el
+balón
+y los tienen atacar hasta acá ya están
+los tres.
+¿Alguna otra duda de lo que se hizo
+hasta ahora?
+Eh, yo iba a preguntar de los
+eh de la switch, no me acuerdo cómo se
+llamaban,
+¿no? De los de los de los switch de las
+luces,
+las llaves de fondo.
+Ajá.
+Sí. ¿Y de cuál dónde se van a
+Están ahí los cables esos?
+Aquella boca y esta tienen dos cables,
+1,5, uno rojo y uno negro, que son los
+retornos. Esos llegan hasta acá.
+Y acá va a haber otra luz
+que acá se va a tirar cable tres en 1,5
+para los retornos y uno para la base.
+Acá directamente ya va a salir un
+retorno que está acá. Entonces, un solo
+trecho de cable el 1,5 y después los
+otros dos que llegaron esta casa en
+palmar para
+tres retornos
+retornos porque ten acá ahí. Pero baja
+por el cable tres o baja uno sol.
+Le puedo contestar a la compañera.
+Si vos tenés un solo cable ahí, con una
+sola tecla vas a aprender las tres
+luces,
+pero no es lo que querar.
+No, no. Acaban de bajar cuatro cab
+la fase desde acáero
+pero con un interruptor
+bajar
+y las dos fases de tu retorno que
+llegaron hasta acá o bajelo en uno y van
+acá más en el tercero que es la que
+llega acá entonces por acá cuatro
+cabezas lo
+más la tierra
+ah también tierra
+la tierra llega a todas las cajas por
+más que sean ilumin
+Y por más que no tenga dónde ajustarse,
+si vos tenés una luz allá o acá y no
+tenés circuito de tama corriente, tenés
+solo iluminación. Por más que vos no
+tengas una barnera para conectar a tu
+luz una toma de tierra, la tierra
+siempre tiene que aparecer
+y ac
+y se le deja eh con cinta tapado con
+cinta aisladora o se le deja tapado a la
+Puedo dejarlo de las dos formas. Yo me
+gusta poner
+alguna otra cosa
+en la fase de la caja tiene que ir bajar
+y subir,
+¿no? La fase baja y queda acá. Lo que
+sube de vuelta te hace unos retornos.
+Acabo tenés un chicote de tu fase que
+viene desde acá.
+Ah, está
+viene hasta acá. Después acabas a
+empalmar la fase para que bajes ha abajo
+y acabar a subir los retornos. El
+retorno queda acá y los otros dos empal
+allá y el allá.
+O sea, que la fase no llegó hasta el
+punto, ¿no ser?
+No, por eso hay que van a má.
+Sí.
+Cuando yo hice el cálculo en materiales,
+así como empezamos de acá para los toma
+corrientes,
+eh yo empecé
+desde ahí con la fase.
+Es para el cálculo de materiales, no me
+iguel, ¿eh?
+O sea, yo ya
+como falte ayer, eh yo eh para ese para
+que el pasacable no tenga tantos cables
+para tirar hasta ahí o se hace por
+último siempre el punto de la
+siempre alimentación es lo que tiene que
+ir derecho, eso es lo que lo posible no
+tener que cortar.
+Por eso empezamos desde allá. Entonces,
+la fase neutro y la tierra tanto de los
+tomacorrientes como en la iluminación
+llega derecho sin cortar el máximo
+techo. AC.
+Perfecto.
+No, el tema que antes lo teníamos
+primero cuando estábamos ahí haciendo el
+curo lo teníamos. Claro, esa puro
+y estáamos con la idea, pero
+directamente
+se empezó en la primera etapa era hacer
+por este mismo caño, pero quedaba mal
+porque iba la caja de como caja de paso
+eso
+y no queríamos donde mandamos la
+alimentación mandar los retornos
+querarlo aparte
+ahí
+entonces los retornos sí pasan por esa
+alimentación
+Perfecto.
+Bueno,
+¿alguna otra consulta hasta ahora de lo
+que se
+si bien usamos, empezamos desde allá, el
+pasacable se pasó desde acá, todo por
+acá y después se conectaron los cables y
+se iba estirando
+de las dos formas. Está bien,
+pero así, digamos. Sí,
+de las dos formas
+de cualquier forma. A ver, el tema
+vamos a empezar por parte vamos suponer
+que hacemos al revés.
+Sí o sí en algún lado tiene que cortar
+los cables ahí porque llega la fase
+el neutro de iluminación de toma ya
+saben que va directamente
+pero la parte más complicada la parte
+iluminación porque salto de acá y tengo
+que llegar ahí pero mi
+sigue el neutro cualquiera la forma
+tiene que volver acá la fase 1,5
+entonces tengo que buscar la forma de
+que me resulte más fácil, entonces tengo
+que hacer traer un lado. Entonces acá sé
+que este tarjeto es otro y acá lo
+encuentro de dos circuitos de arriba
+pero sé que iluminación es más
+complicado porque pequeño inicio.
+Y ese en esa fase que me salió de acá
+tengo que volver y de acá. Miron qué
+ridículo es dar toda la vuelta, pero
+estoy aplicando las cosas. Estoy acá
+directamente la pasa acá, pero no es
+así. La gente hace eso está muy bien
+así, ¿entiendes? O se hace todo el
+recorrido arriba y que ahí vengo las
+bases y
+aunque sea un cañito de aparte se tiene
+que hacer así. Y porque no puede
+bueno poder usar esto como caja de paso
+a paso. El tablero solo inicia y mueren
+los circuitos. Acá hay otro alimentación
+y acá sale nada más
+para ese
+caja de paso,
+¿no? Y comentarle que la alimentación de
+la del tablero principal viene de
+aquella caja, pero directamente al
+tablero es lo único que se hizo ahí
+hace todo recorrido ahí.
+Lo único que se hizo ahí en concursos
+anteriores mandar el tema del, ¿cómo se
+llama? El timbre, parece que no se debe
+tampoco pasar porque la alimentación del
+terrero, o sea, que pero esa fue una
+trampa que hicimos, ¿no?
+Estamos más o menos.
+Bueno, ahora lo que vamos a hacer los
+primero, lo primero
+el pasaje de esa cajita 5 por 10
+que vaya ahí arriba hasta la caja
+primero
+tres retornos y la parte.
+Claro, yo solo la caja llevo para
+arriba. Entonces después ya uno todos
+los cables bajos
+a me gustaría que trabajen las tres
+chicas. Ah,
+las tres chicas.
+Entonces trabajen las chicas ahí nadie
+se Bueno, después
+para que ellos cortaron algo, pero
+que cortaron
+uno va para la fase y uno para para
+faltan dos más
+llev y este
+peg
+y no
+lo que tomaron ayer la que estaba, pero
+no importa vos encargarte ahí me
+encargar
+a la chica ahí no se asustill
+una vez.
+[Música]
+Ah, llegó ahí
+que ayudarle.
+Bueno, mira,
+acá con
+hasta ahí
+2,5. Primero pasar el
+profe el octagonal,
+la octagonal esa al cable chicote
+importar más o menos tener la puesta
+tierra que está allá.
+Pero desde aquella caja ahí abajo.
+Acordate dejar el cable más o menos así
+como este, mira, 15 cm que pide la norma
+más o menos y ahí queda.
+Ustedes van a hacer
+los guías.
+Entonces después una vez que ellos allá
+después
+primero que pasen
+pas
+más cable
+tenemos
+si poder traer
+ahora para para unir los cables siempre
+cómo lo que pasa es que cable de arriba
+y acá
+la caja.
+Profe, tiene una pizza
+que
+tengo infectores deles.
+Cuidado,
+ellos le van a contratar o le van a
+echar posibilidad.
+Yo cortar. No, no cortes.
+No, ese no. Ese puede pasar derecho.
+Nos retornamos cortar el negro.
+Negro,
+[Música]
+no llegó.
+Llegó, pero tocar.
+que trabaje nuevo ahí.
+No vay a cortar los cables.
+Ahí está rollo del cable. Ahí agarrado
+cuando llega ahí de un pedacito ahí y
+cortar. Vaya a cortar son los retornos y
+con eso van a tirar. Eso es el rollo del
+cable.
+Es el primer
+se pela el cable, pero no se medio.
+No te está aportando
+eso tiene
+hay que tirar el pasac primero.
+Sí. Bueno, dice que este ayuda para
+pasar las curvas. Este que tiene esta
+alicate alicate ahí.
+¿Qué vamos a hacer?
+Yo te diría que allá arriba el espo y si
+pasas todas las citas con el ojalón.
+No, pero está bien porque ten que
+envolver
+[Música]
+al revés, profe.
+No, por eso busquen la forma más
+práctica. Esa lo que subí en la subí en
+la mesa
+la mesa.
+es más firme que
+muy
+cosa nuevo ahí,
+¿no? Siempre por arriba los
+que
+seguir metiendo una armar
+aprieta y
+no falta apretar
+está siempreend pila
+siempre
+no primero saca un buen trecho para
+después que sea más cómodo.
+Seguí estirando también. mandando
+y ahí vamos para
+eh
+seguí
+que lo más corta posible porque si no
+tiene local, entonces después se le va
+a ser cada una pela uno.
+y cuidad
+no sé emocion
+qué largo se
+se debería dejar descubierto
+loento para que vos hagas una unión
+segura con la punta de
+una pulgada.
+O sea, es como ustedes tienen que armar
+una unión fija para que después no se
+suele.
+Abajo tené que peinarle el cable.
+Peñar el cable. cuenta que está peinando
+[Música]
+ahí
+abajo lo mismo. 15.
+Pongan la primero
+Cuidado que se va
+lo más cóico posible y fino.
+Ahí ahí le van a enseñar los dos
+los dos profesionales.
+Los dos profesionales le van a enseñar a
+hacerlo en pan primero porque los dos
+huevos ahí la casa está de responsable.
+Ah, no, también puede editar también acá
+también puede hacer
+sí puede tener que hacer asate que quede
+firme después no se salga igual la idea
+es que uno suba y vaya enfocando los
+cables paraandoentes.
+En este caso está medio de
+ahora
+Ahí la
+[Música]
+de arriba. Vamos.
+Sí, el empalme allá arriba. Agarr 2,5.
+Más reso,
+el más res. Ahí tené que
+hay que hay que abrir el celular.
+Claro.
+Después hacemos el trabajo en test.
+Una vez que esté hecho, le grueso y más
+empezó por el tierra
+o empezar por el tierra.
+Sí, necesitaba poner otra otra mesa. No
+quiero que trabaje incómodo. Por más
+alto que vos sea trabajo.
+Una mesa, una mesa
+escalera.
+Está bien que p tierra porque ahí se va
+a quedarme
+que va a ser para la gente nueva empalme
+en
+y faltaría la tierra
+que tierra no hay mucho.
+No hay mucho. A ver,
+bueno, eh, me pasó un chetro
+mucho,
+un chiquitito así para mostrarle
+ahí.
+Ahí está
+lo que se hace acá arriba. A ver, los
+que quieran, los que no vieron todavía
+no tiene cienamento.
+Uy, descarte
+por hacer el de tierra es para un
+empalme separar, pero sin cortar.
+Puede salir mal porque tampoco tengo
+tanta práctica.
+Acá arriba
+me agrejo.
+Marcar primero el cable.
+sin apretar mucho y después hacer este
+movimiento.
+Hay que hacer esto sin romper ni un
+filamento.
+Una vez arriba se separan los
+filamentos. Mitad y mitad es una de las
+opciones
+y
+el cable pilado que está allí arriba,
+pero el cable, la punta, el cable verde
+que está viniendo de allí arriba.
+Aamos
+cuando usa la pizza.
+Acuérdense,
+yo tengo la pizza para sujetar el cable.
+No sé quién esta pinza.
+Sujeto el cable y acabo y giro sobre la
+pinza, imagino. ¿Entiendes? A
+vos te cuesta demasiado porque vos estás
+separando las manos.
+Claro. Eh, vos girás sobre la pinza,
+¿no?
+Se uso una pinza por palanca.
+y la pinza sujetar y
+lo mejor es agarrar así, mira,
+agarrar
+la parte plana de tu alicate porque vos
+vas a tener una cuña y la parte plana,
+la parte plana contra la pinza y una vez
+que marcas palanquearle con la pinza
+porque si vas a separar la mano te va
+perfecto
+te un chicotazo casi le pego
+y después el filamento
+es igual que el inicio en tiene que
+estar tenso para que sea un buen ajuste
+obviamente mismo color.
+Eh, después
+podemos hacer el del ojalí
+y apretamos, estamos bien empalmado. Esa
+es una de las opciones.
+y le ponemos sinamos
+un poco con la pinzaamos
+un poco con la pinza
+sin arruinar ni un filamento y ahí la
+enamos. Eso es lo que voy a hacer acá
+arriba, que no se va a ver bien. El tema
+acá cuando unas integradoras, acuérdense
+ese de AC tipo en T no sirve. Hay gente
+que empieza a poner eseador acá, acá y
+queda esto tipo acá directamente poner
+la cinta acá y
+primero hay que estirar acá tiene que
+salir acá después se va a mandar
+el
+una consulta
+A ver,
+le hacemos la punta del bucle o más
+cercano
+en el medio.
+En el medio de bucle cuando es la parte
+más larga cuando vos ponga le hacé
+lentamente al costado y ahí se mete para
+dentro que
+la curva jodida esa una vez que pasaste
+eso
+sí la curva más ahí está sacado un poco.
+tirándole
+espacio,
+porque dos cosas haciendo eso, si lo
+haces rápido y llegas a tener filo en
+borde, puedes romper la pasa cable o si
+no también si se enreda le podés
+estctangular y ahí pasa cable ya no
+sale
+espacio y margarita va estirando y al
+mismo tiempo se va a ir buscando los
+tablos
+ahoraicot
+ahíate
+hay que cortar
+Hay que
+eh
+siempre Margarita dejate un anda
+tirando.
+Bueno, ahora hay que te quedes justo
+tirando
+también.
+Aquí no pasa largo porque acá terminan
+los retomos pasan de largo. Hay que
+sacar y poner todo hay que
+ahí
+15 y listo.
+Este para la iluminación seguramente
+quiere que le
+está bien, no importa.
+Yo margen de más por las dudas. Si fuera
+distinto debería ser
+fíjate 15
+Beníz Santiago.
+tiene que quedar con otra opción
+dos
+y
+van a hacer lo más posible
+[Música]
+un poco más abajo
+presente.
+Salsa
+presente. Cabral
+un nudito para dejar los cabos así como
+estános.
+divierto.
+Bueno,
+este para iluminación, pero no se va a
+usar, se le va a dejar ahí más. Ese sí,
+ese la iluminación.
+Ahora otra apertura para el
+Exactamente. No se puede en el mismo T.
+No conviene
+pelar un poco más largo y hacer el
+chicote y tipo
+en la misma
+acá yo peleé
+y dice el chicote.
+Sí. Y ahora la va a abrir de nuevo para
+este que está acá.
+O dejaste un chicote para la
+iluminación.
+Sí. No, pero el mismo coso.
+Eso no hacía falta porque estamos usando
+la misma tierra.
+La misma tierra. La misma tierra. Ahí
+hac una cosa. Sacar esa cinta y en ese
+punto de pelaste ahí conectar tu tierra.
+Eso es lo que
+eso era lo que planeo
+a mí no me gusta
+kil.
+costado así que como si fuera un cambio
+individual
+cuando tenenes el bucle y empalme que
+hiciste que te queda una dale una vuelta
+a la cinta en el bucle y después juntar
+los dos y ahí encintarl obviamente
+traccionado.
+La T así que sobresalga la T así que la
+unión una vez pegar acá y le poner otra
+acá
+como si fuera el mismo conductor ahí.
+No me gusta es
+y cuando a m no me gusta porque queda
+cero trancal se da una vuelta, se junta
+y ahí es en cinta siempre traccionando
+la cinta para que quede bien firm.
+La primera vuelta de cinta da un mejor
+ajuste mecánico.
+Claro.
+La segunda es para la ejección.
+En realidad es ir y volver con la cinta.
+La segunda ya puede ser un poco más
+floja, pero siempre bien pegado.
+Ahora sabe cuál es
+eh
+el que viene de acá
+al que estáado
+ahíendo.
+que
+tiene que
+lo que vamos a hacer aquí está solo
+los
+lado ahí porque ellos vienen ahí estamos
+ahí
+ahora.
+¿Qué pasó primero,
+fíjense
+ahí?
+que tiene que hacer dijo que
+no
+primero ten que identificar los
+cablesando por ahí
+la alimentación
+los retornos que vienen de la boca
+deinación que no viene la ver que el de
+2,5 pasa de largo, así que
+no El de ahí vos tenés cinco cables.
+Sí.
+Tenés tres retornos, la fase
+y tu tierra. Empezar con lo más fácil
+para la luz.
+Yo le voy a asistir ahora.
+No, no. Está bien, está bien, está bien.
+Ahí está bien. No te preocupes. Ahí no.
+V tener que hacer como
+le puesto un negro ahí, ¿no? Un retorno
+negro.
+Vos tenés un retorno negro y uno rojo
+que viene
+en 1,5.
+Esos son para tu iluminación.
+Vea si se mueve. ¿Estás
+seguro que
+esto es lo que viene
+que pasa de largo? Toma corriente.
+Eh, vuelta
+el neutro no va que 2,5.
+¿Cómo?
+El neutro de 2,5.
+Hay un neutro de 1,5 tiene que
+ahí tenes que buscar tu fase en 1,5.
+Eso dos largo para mí por lo que viste y
+Leiva hizo todo el
+Nosotros pusimos de vuelta la la fase
+1,5. No, perdí
+eso que está ahí afuera.
+Esa tierra hay que probar con también
+con la que viene acá.
+Esto que está acá mejor la cabeza la
+forma esto que está acá más corriente.
+Sí,
+esto ya dejo.
+Después vamos a tirar ahí porque vamos a
+tirar pon ahí atrás.
+Eso, perfecta. Esa es toma corriente.
+Estabilidad de toma corriente.
+Entonces hay dos cables que vienen de
+allá de 1,5.
+Esto viene del tercero sección.
+Claro. Esa es la la principal.
+Entonces el rojo que está acá,
+rojo
+este que está acá
+va con aquel rojo.
+Va a con el rojo que está acá.
+Sí o sí. El primero empezado a ubicar lo
+que vos necesitas
+después verde
+acella.
+Aella.
+Se quedó llegando.
+Esa es la fase.
+Esa es la fase
+que va ahí a la cajita. Se va a tender
+acá abajo porque si pega un tirón para
+adentro.
+en algún
+si está muy largo por todavía estamos
+cable porque no la muy largo está
+Sí, está demasiado largo desde la boca
+de la caja. Toma esta medo con la mano y
+ahí corta.
+Mejor visto con el que queda unocito
+y queda mejor bien así
+para asíar
+porque si si la hac así tiene que quedar
+los así que está No, pero en vez como
+hizo así, lo pueden pasar bien grande
+uno por acá hacia el medio
+y el otro por acá le mold en medio. Te
+quedan dos puntas.
+Amos, cobramos
+sería
+noastr
+una hora que abrir todas las bocas y
+buscar neutro grueso con
+no te vayas con rata porque
+pero conviene
+Hay un azul finito. Un azul grueso.
+El grueso grueso.
+Yo no leo porque
+Ah, no
+un bucle de azul.
+probar un pedacito primero.
+derecho, derecho.
+Dejte que tu parte quede fuerte
+mecánicamente antes de encintarlo,
+porque vos con la cinta le tenéis que
+dar la primera vuelta en refuerzo y la
+segunda para llegar.
+Claro, este no
+porque
+Ahí
+con bastante con la chica.
+y volver con
+ir y volver.
+¿Cómo habíamos dicho?
+La primera fuerza para mejorar empalme
+mecánicamente y la segunda vuelta es
+para lación.
+Primera
+la segunda primera segunda ahí por lo
+menos,
+ahí por lo menos y ahí por lo menos
+ahí, ahí el otro chicote va ahí
+el azul adentro o si no frente.
+Este sería
+y sería
+vas a conectar.
+Entonces,
+acá es un chicote, chicote, chicote. Uno
+va acá, acá
+[Música]
+separar el otro en
+va a salvar la vida.
+que están trabajando
+la foto que están trabajando.
+Bien adentro del otro lado.
+que darle vuelta
+Se puede en el mismo empalme hacer un
+empalorito.
+Para el mismo lado que viene un empal.
+Yo en ese caso si voy al mensaje
+yoelaría un poco más la vaina de alguno
+de los lados y ahí haría
+ahí
+para este lado. Poner dos puntos
+ahí
+tengo que ir
+aguant
+ahí
+y una vuelta fuerte y otra
+acá son vuel
+Y la última es tirar. ¿Quién me enseñó a
+hacer eso?
+Vamos.
+Me gusta que joden con la no es así.
+¿Cómo
+ahora
+no? Lo que pasa que girar ahí hay veces
+que no va a tener lugar para girar
+conitaadora
+ahí quiere probar quiere probar
+quiere probar
+ya tengo con él y
+él va a hacer suora acá en
+hay que hacer. Ellos van a colocar la
+toma doble
+más largo.
+Toma doble
+te pide que
+más largo
+directamente ten que hacer directamente
+de
+mantenimiento.
+Mentira. Se le cargan el agua del
+dispens
+se queja después.
+Hay que avisarle
+para que
+eso está más fácil porque ahí termina y
+después se pasan ahí.
+Claro, pero igual o sea eh igual ten que
+tener que usar la alimentación siempre
+del cable, ¿no?
+Te tiene que quedar lo menos abocado
+posible porque después tienes que
+acomodarlo para allá.
+hacerle la parte que quedó, no arriba
+del otro.
+Si un lado se quedó contrario al que vos
+estás poniendo cuando vos puste una
+ten que fijarte en qué lado terminasteó
+de cuando
+del eje a tu derecha que hacia qué lado
+terminó porque si no al querer ajustar
+el nuevo
+claro porque igual un espacio entre los
+dos
+bueno
+una vez que quedó bien mecánicamente sin
+la cinta el del bucle del primer bucle
+le vas a dar una vuelta y después vas a
+agarrar los tres
+Siempre estirando la cinta.
+Yo yo lo que lo que lo que era de
+entrada,
+¿no?
+Otra cosa que te conviene
+porque si no la cita se desliza.
+Corta tu cinta,
+sacar un trecho, cortar tu cinta y
+puedo decir que le des una sola de esta
+una vuelta a ese y después agarr los
+tres y ahí traccionas y dado vueltas.
+La gente que haga no se olvide más. No
+puedo and
+ahí agarr los tres. Mira,
+siempre con te puedes marcar y apriete
+mucho
+con la con la pinza apriétal
+bien tracionado
+bien poner uno de rojo pegadito
+ahí
+la idea principal es que tú aprendas ten
+que llegar a tu casa y comprar un metro
+de
+profe acá
+cuidado Cuidado,
+no tiene que venir las clases. Acá noar
+seguro
+tiene media hora y empieza.
+No, no, no dej así puedes abrirle,
+déjale abierto,
+así que que te salga más fuerte enj
+medio abierto y cruzar medio
+mita mita y ahí
+enalebral.
+Ah.
+Uno va una y otro va a otra. Cortando un
+techo de cinta y ahí para abajo.
+Esa da vuelta si no va la sirve.
+Ahí está mucho mejor. Hay un empalme
+fuerte mecánicamente y
+ese siempre se agarra primero uno
+y después el otro porque si va a agarrar
+los de una la tienda a correrse cuando
+pierde el pegamento.
+uno.
+Si me quedo por el camino corto arriba
+no encima
+con el de 1,
+otro pedazo
+que el menor
+el profe quiere que corte la cinta que
+y pasar el rollito
+fuerte
+Bien, ahí ya tenés tus fase y tú cierras
+acá y todo el resto del circuito. Ahora
+identificar tus retornos. Uno queda ahí.
+Elegís uno se va a quedar ahí
+y si hace calor porque
+tengo uno que va a quedar o algo así.
+No queda
+en la parte azul. Vos también atenderme
+acá.
+Acá salen tres. Vas a tener una luz ahí.
+Entonces uno va a quedar acá
+directamente. No tenéis que parmarle con
+nada porque va a ir un poco.
+Uno va a quedar aparte. Mira, apartate
+uno
+y dos.
+Ah,
+ahora identificar los rotornos que
+vienen de allá,
+que es un cable rojo y uno negro en 1,5.
+El neutro no le mires todavía. Todavía
+no le mires, apartado, no vayas.
+Ya, ya se pal
+de tu iluminación.
+Gracias.
+Vení, vení
+si no
+me va a dormir después tener problema.
+Marc
+por va dej tanto trecho c todo se puede
+meter
+hay que dejar el suficiente espacio para
+mantenimiento queda un mar pero tampoco
+puede dejar si un volto de cable adentro
+menos la misma distancia no la misma
+distancia que abrir bien estirado así
+mano tenes 15
+con eso
+para dejar que la termineur
+así pasó ayer con con Santiago un montón
+Así tiene que abrir
+la misma línea.
+¿Ya abriste alguna vez un
+seguro? Si no practicar ahí
+[Música]
+un
+que sean todos rojos.
+Todos rojos.
+Uno de este sabes que echar la si no
+tengo tierra empiezo a tener
+continuidad. Puedo tener tierra ahí.
+Necesito me di continuidad entre este y
+este, ¿cómo hago allá? Porque allá voy a
+ver uno de los dos cables que llegan
+allá y voy a saber. Entonces acá marco y
+uno allá.
+Uno allá tac y ahí voy al mar. Ten que
+empalmar allá palmar los tres. Sí. Eh,
+yo tengo todo
+individual. El neutro llega allá y llega
+un retorno
+acá tiene que otro el que va acá
+de inumigación que cortar.
+Pero, ¿cómo? Claro, yo puedo tener ahí
+tengo ahí seguro
+una distancia.
+Claro.
+Tierra. Tengo tierra y tengo
+tengo tierra y tengate
+y tengo retomando
+yo haga el chicote de tierra
+tierra y chicote y tengo que tener
+acá
+no no unable tierra con porque todo baja
+un chicote de tierra.
+Lo que hac ya es bueno, estamos ya
+pruebo.
+Un retorno con tierra y acá pruebo.
+Este veo cuál es
+que aquí
+lo mismo
+tierra con
+un compañero
+para
+ahí. No cre que un cable, pero he
+empezado
+todo terminado para que ellos vean este
+porque si no no sirve de la idea.
+Este va conectado así corriente.
+Claro.
+Siempre está la tierra ahí.
+Tengo la tierra ahí.
+Tengo el retorno.
+Si se movía es
+quí
+fuera.
+Pero es fácil.
+Claro, tenía dos así un cable o con un
+poco
+el tema
+sirve para eso.
+laía de
+cable rojo. Cable rojo. El gancho uno
+la práctica.
+Entonces
+acá
+primero los tres.
+¿Cuál? Está bien. Está bien. ¿Cuál el
+otro?
+A probar
+otro.
+Este un poquitito largo el que va toma,
+¿no? Pero este es un poco largo para que
+má
+primero tratar un empalme bien mecánico
+que quede fuerte y después le das una
+vuelta fuerte con cinta. La segunda que
+puede ser más suave que es para lación
+de este lado tiene que quedar tu
+tu punta de este lado, no allá abajo, de
+este lado.
+Y ahí da la bien y ahí
+bien fuerte y después lo completar con
+la pinza
+un poquitito con la
+eso.
+Ahora sí
+cortar un poquito más de lo que le
+cortaste.
+Otra cosa, cuando se hace un empalme, el
+doble nunca tiene que quedar en contacto
+con el de afuera.
+No podés encimar el cobre sobre el
+siempre adentro,
+todo adentro de donde vos pelas
+A ver si te queda.
+rápido.
+[Música]
+otra cosa si no tiene como
+una pinza su bolsillo.
+¿Cómo se llama?
+Guachata, cargana, portarentas. tiene
+varios
+un poquito más un poquito más
+un poco más y hoy día
+si queré puede pasar por el medio, pero
+para mí queda más fuerte así si le pasa
+mitad y mitad y
+si le pasar mitad de las hebras queda
+más fuerte la empalada.
+Sí,
+acordate que tiene que venir para este
+lado y tiene que quedar ahí
+junto
+fuerte ahí con presiona primero fuerte
+para el mismo que
+ahí está al revés al revés
+Matías palmar neutro aliment
+Tenés dos cables azules de 1,5.
+dos cables. ¿De qué color le dije?
+¿Recién?
+Azul.
+para
+[Música]
+una vez que pasaste.
+Claro, una
+lo que tenés que hacer
+hacer un bucle, pero uno de los cables
+no lo vas a cortar. Es la que más largo
+y ahí vas que viene
+para que te quede rojo de uno solo.
+Tienes que fijarte en detalle.
+Vas a hacer
+ti quear esto.
+Puedo tener el neutro acá, pero acá no
+ten el mismo tener abajo.
+Siempre ten que respetar. Entonces
+arriba neutro neutro
+normal
+neutro acá. Neutro acá.
+Pero para que teer
+[Música]
+conecta cuando
+este punto
+este le puedo cortar
+con primero
+uno en uno de
+Uno conecta la y el otro conecta la fase
+no está así.
+Acá te si no tiene si no tiene siempre
+dice neutro neutro. Entonces si si este
+es neutro el otro la fácil.
+Pero si no vos siempre sabéis que el
+neutro está a la izquierdaqu izquierda
+si no tiene indicación el neutro está a
+la izquierda.
+Pero acá en este caso ten neutro neutro
+ahí.
+Ahí va pasar
+ahí tom desde la boca donde saleunca
+poo que
+entonces cuando vos estás haciendo
+palanquea con la pinza. No separe la
+mano. Palanquear con la pinza.
+Ahí ahora, te baja y sube
+y ahí costado
+y yo le metería un lado.
+Acordate que si apretas mucho la pinza,
+fatigas el cobre, lo marcas y después se
+quiebra.
+¿Quién practicar un cable cada uno?
+Viene adentro.
+Sí, también. un desorrillador para
+hacerle un agujerito
+de espacio porque eso también marca
+demasiado
+otro
+conectar otro
+si ha
+doblado
+y sección para donde bajer
+el cobre sobre
+en cualquiera No, sí, mira, mira, mami.
+No vayas a hacer así porque la pinchetas
+cortas la bordera abierta
+con la junta a el cable sobre tu dedo y
+despacio
+así y después se la
+al otro lado.
+Sí, sí, está muy abierto. Ahí viene.
+con las manos abajo.
+Le abrí un poquito más.
+Una vez que la separación es suficiente
+y
+siempre que no muerda el plástico.
+Filamento nac sobre el plástico.
+elitoso.
+alguna
+roca se los quita.
+Primero uno y después los tres
+no primero la vuelta completa
+siempre agarr de acá Porque el bastidor
+está medio
+y ahí los tres bien pegados y ahí anda
+encistando trotado
+Y ahora una vuelta más
+tiene cierta que permite un poco más que
+necesitan
+escala o
+faltando chicote. Sí.
+Ah, este está más comido que
+otro porque es
+el problema.
+O sea, menos por lo tanto me diuidad
+rojo.
+en el
+con
+chicote para uno, otro chicote otro
+chicote otro en palmado.
+el curso
+en qué escuela ¿Dónde?
+[Música]
+alguien agarre
+que deje así. Ahora estamos haciendo
+agarrar todos los bucles menos este. Yo
+voy a estirar y va yendo para que yo v
+bajando todo el resto los cables a la
+izquierda que no se vaya para dentro
+y empezamos a tirar
+y
+si
+vaado adentro. corrugado
+tierraugado
+Se llama cable Canal tampoco
+[Música]
+[Música]
+Porque vos tenés en un tablero,
+vos tenés el disuntor
+ahí viendo
+la es lo que hace se hace arriba para ir
+dándole alimentación no es como
+solo puedes hacerlo hasta tres térmicas
+en el máximo que se pone
+más de
+No se puede
+acá para poner
+un distribuidoritos.
+Exacto.
+Porque quede más o menos
+en laina. En la esquina. Fíjate que no
+te muerda el cable
+cuando vas a poner
+que entrar. Sí, mira, este, fíjate que
+quede arriba, así, arriba, arriba para
+que no te moleste. Ac al cerrar la
+cajita. La travita,
+la travita. Eso
+igual.
+[Música]
+pas
+El en la cajita
+de forma
+no está falseado falado grande.
+Esto lo quitamos, chicos. A ver si
+este que buscar
+chul
+le picte ahí
+para
+que entrar
+como al poner este y este te molesta
+corta los vocales de tener
+Es por esto, mirá, este y este los
+conductores de puesta a tierra y esto
+sale así. Entonces, si vos metés
+directamente, puede ser en algunos casos
+y esto de chapa te va te va pelado, te
+va a cortar cable caído, se va.
+Entonces, derecho viejo no entra. Hay
+que colocar inclinado y cuando est ahí
+girar
+y con el bu para que suene,
+¿viste? Y hay que fijar si entre fase y
+bueno, tiene que haber entre
+fíjate si entre no
+hay continuidad es corto circuito
+entre los neutros tenés
+cuando hace cómo es continuidad cuando
+hace ruido
+y entre fase y neutro no tenés y entre
+fase y fase tenés
+como que tir la pequeña carga
+cómo se llama esa cosa
+y después otra cosa viste que nosotros
+metimos los tornillos Nosotros metimos
+los tornillos. Entonces lo que vamos a
+tener que hacer es medir los tornillos.
+¿Viste? A ver si
+está faltando ahí.
+No, no.
+Ah, si nos toca el cable.
+Claro, claro. Toca el cableado.
+Bueno, entre entre y tierra tiene que
+haber continuidad entre neutro neutro.
+No, no. Primero primero probar los
+neutros. Los neutros, los neutros
+todos los cables de acuerdo
+porque están conectado.
+Neutro está abajo.
+Falta algo
+que
+está tocando bien. Y ahora
+y ahora los tornillos casi siempre la
+tierra la que
+con tierra.
+Pero si quieres probarle todo, probal.
+Allá del otro lado. No creo que este
+tornillo.
+Bueno, si están conectados igual los
+pintados.
+En qué carga 750 se le pone las caras,
+¿no?
+En qué carga se le pone
+continuidad.
+Continuidad se le pone.
+Sí. O sea, son todas las piezas son
+diferentes.
+Son diferentes.
+Sí. Pero le puedes medir continuidad
+porque este tiene tiene como también
+para diodo
+para diodo electrónica para electrónica,
+todo es y
+y resistencia. Entonces de continuar de
+continuar
+eh del 1,5
+ahí o no
+entre tierra tierra tiene que haenear
+claro para
+tierra y tierra
+ahí te sostiene
+tierra tierra
+no después probar entre tierra y me dice
+que agarramos
+chicote
+baja
+[Música]
+este neutro
+ahora es entonces vamos a probar después
+cuando terminemos ahí vamos a probar
+cuáles son los retornos
+con la tierra eso necesito que
+ahora tiene que hacer tierraentro
+[Música]
+un poco más corto.
+el lado más corto. Este,
+sí, de donde está el empalme hace esto
+con tu mano, lo más extendido que pasa.
+Y
+el y el
+tiene que pelear un retorno
+alguien que no hizo
+que hacer
+el de un viste, el de 1,5 hay que pelar
+este para la
+demasiado.
+Mira, ese es iluminación, perdón, ese es
+de toma corriente. No se toca, se toca
+solo iluminación de 1,5. Ese tenés que
+abrirle sin cortar.
+Y bueno, acá estamos aprendiendo, así
+que también temblé todo allá arriba.
+Momento único.
+Med la continuidad.
+es para hacer
+el capacitor resistencia
+resistencia Ese
+es
+que
+la
+usa este conseguimos
+Ah, lo chiquito.
+Es lo que tiene que regular tanto la
+fuerza del ventilador el calor
+y son derechos
+largo
+Pero tenía los grandes.
+porque nosotros tenemos
+cómo identificamos.
+El profe quiere que cortes el pedazo que
+vayas a usar.
+Primero uno, un cable individual y
+después
+una vuelta a un solo cable y el resto de
+las vueltas,
+¿no? Vist, viste que tenés
+[Música]
+estos dos,
+una sola acá
+y el resto todos.
+Acá no tienen problema.
+Estamos sacando
+una vuelta.
+Tengo un departamento y
+y el resto a los dos así. Mira, le
+juntas los dos.
+No, después lo que vamos a hacer es lo
+siguiente,
+eh,
+porque a veces cuesta un poco de médico,
+pero el tema es voy a traer un
+interruptor horario, le voy a dar
+un día.
+Entonces
+viene un día le doy todo
+[Música]
+acá. Ustedes sacaron de cas acá.
+Hay no
+que suelto
+esec
+el del tierra y el
+hay que
+que todos los tomillos ahí.
+El cable negro está ahí. Sácale
+ya estamos por
+sí desenredarle y pale
+que no lle tonto como plástico
+por eso la no le di que la
+no está bien
+a vos le hac fuerza brutaendo
+si conseguí ahí eh una etapa siga por
+allá y otra etapa siga por allá
+cuadrado
+Perfecto.
+Neutro, pero el de tierra
+el de tierra.
+Pero no se le no se le va.
+No, no tiene que pelar el de piedra. No,
+el neutro sí.
+No, explico rápido que qué vamos a hacer
+después. Antes de comprobar tenemos que
+ver cuál es el retorno cada uno.
+Nosotros llevamos todo a la llave de
+punta. Están los tres cabos, pero
+visualmente no es comparable. Vamos a ir
+continuidad. Entonces, ¿qué hacemos? La
+tierra llegaría seguro. Entonces unimos
+un eletorno
+retorno la tierra. Y se la tierra llega,
+entonces estamos viviendo. La tierra
+común, vamos viendo cuál es y ahí
+verificamos el uno, el dos y el tres
+retorno. Entonces ya numeramos el número
+rey y ahí en forma descaronada ya en por
+eso yo quería que pele para pero eso
+vamos a hacer mañana después ya vamos a
+terminar ahí y ellos van a explicar cómo
+va
+van a conectar ahí en el tablero a
+mostrar ahí o se van airlo un poquito
+porque voyemos
+uno que toma corriente y otro de
+iluminación Entonces
+ahí energía y que sea lo que Dios
+quiere. Vamos primero.
+Creo que no porque vamos continuidad
+no para poner la luminaria todavía. Yo
+pensé que para poner la luminaria, pero
+no.
+Est más o menos herramientas
+acá
+lo que son de nuestro lo que son de
+ellos.
+Todos pusieron su nombre en el cuaderno,
+No,
+a ver.
+¿Quién se quedó con el cuaderno?
