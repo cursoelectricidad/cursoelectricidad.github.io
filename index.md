@@ -3,7 +3,7 @@ title: "Curso Electricidad - CFP Nº 17"
 x-toc-enable: true
 ...
 
-El curso comenzó el 10 de Marzo del año 2025 (mi primera clase fue el 12 de marzo).
+El curso comenzó el 10 de Marzo del año 2025 (mi primera clase fue el 12 de marzo). Son 3 clases por semana de 18:00 a 20:30 Lunes, Martes y Miercoles.
 
 El curso de auxiliar electricista finalizó en la clase número 47 (8 de Julio del año
 2025), y el curso de montador electricista comenzó en la clase número 48 (29 de
@@ -24,7 +24,7 @@ Foto del examen de auxiliar: [https://cursoelectricidad.github.io/40clase.html](
 
 Este es el PDF pasado a texto se lo podes tirar a la IA y hacerle preguntas: [https://archive.org/stream/aea-770/AEA%20770_djvu.txt](https://archive.org/stream/aea-770/AEA%20770_djvu.txt)
 
-En el medio metieron talleres de Termotanque Solar (1 semana entera), vino gente de la UCAMI a ponernos vacunas (2 clases, no era obligatorio), taller de RCP (1 clase), una psicóloga (1 clase), y taller de informática de Excel (6 clases todos los Lunes). Solo fui al taller de RCP.
+En el medio metieron talleres de Termotanque Solar (3 clases), vino gente de la UCAMI a ponernos vacunas (2 clases, no era obligatorio), taller de RCP (1 clase), una psicóloga (1 clase), y taller de informática de Excel (6 clases todos los Lunes). Solo fui al taller de RCP.
 
 A lo último hicimos un poquito de electricidad industrial: armamos tablero de bombeo.
 
@@ -34,13 +34,14 @@ Las fechas son de la creación de cada publicación, no son las fechas de las cl
 
 Todo el curso, los profesores, los estudiantes parece la cultura del gatekeeping, te
 quieren restringir el acceso a documentos apropósito para hacerte perder el tiempo y
-gritarte que te equivocaste, algunos le gusta tener la razón en vez de enseñar algo.
-El profesor mismo fue victima de esto, le enviaron un PDF de un plano que no podía editarlo, claramente gatekeeping, lo malo es que el profesor luego aprendió a hacer lo mismo en vez de luchar en contra.
+gritarte que te equivocaste, algunos le gusta tener la razón en vez de enseñar algo.  El profesor mismo fue victima de esto, le enviaron un PDF de un plano que no podía editarlo y no pudo sacar información de la Universidad Nacional de Córdoba, claramente gatekeeping, lo malo es que el profesor luego aprendió a hacer lo mismo en vez de luchar en contra.
 
 Gatekeeping concepto de Google: Hace referencia a ejercer un control sobre quienes
 pueden tener acceso a determinadas cosas, por ejemplo, decidir quién puede
 pertenecer al “Hip Hop”, bloquear conocimiento u oportunidades para ciertas personas
-o limitar que artistas trabajen con ciertos productores.
+o limitar que artistas trabajen con ciertos productores. El profesor me mezquino un PDF.
+
+Todos los folletos de los talleres parecían una publicidad "GRATUITO CUPOS LIMITADOS" y otros tipos de manipulación miren la clase 66 ahí está el folleto.
 
 ---
 
