@@ -24,7 +24,7 @@ Foto del examen de auxiliar: [https://cursoelectricidad.github.io/40clase.html](
 
 Este es el PDF pasado a texto se lo podes tirar a la IA y hacerle preguntas: [https://archive.org/stream/aea-770/AEA%20770_djvu.txt](https://archive.org/stream/aea-770/AEA%20770_djvu.txt)
 
-En el medio mandaban encuestas llenas de preguntas personales, metieron talleres de Termotanque Solar (3 clases), vino gente de la UCAMI a ponernos vacunas (2 clases, no era obligatorio), taller de RCP (1 clase), una psicóloga (1 clase), y taller de informática de Excel (6 clases todos los Lunes). Solo fui al taller de RCP.
+En el medio mandaban encuestas llenas de preguntas personales ( [https://ceisconsultora.com.ar/lime/index.php/133772](https://ceisconsultora.com.ar/lime/index.php/133772) ) , metieron talleres de Termotanque Solar (3 clases), vino gente de la UCAMI a ponernos vacunas (2 clases, no era obligatorio), taller de RCP (1 clase), una psicóloga (1 clase), y taller de informática de Excel (6 clases todos los Lunes). Solo fui al taller de RCP.
 
 A lo último hicimos un poquito de electricidad industrial: armamos tablero de bombeo.
 
