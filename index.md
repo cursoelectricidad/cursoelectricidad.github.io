@@ -47,6 +47,10 @@ Todos los folletos de los talleres parecían una publicidad "GRATUITO CUPOS LIMI
 
 Subscribe to RSS: [/feed.xml](/feed.xml)
 
+[Todas las publicaciones juntas para imprimir.](/todo_en_uno_imprimir.md){.title}
+[12 Marzo 2026]{.date}
+
+
 [Clase Nº Final: [FOTOCOPIAS] Imágenes, videos enviados por de WhatsApp.](/final.md){.title}
 [18 Noviembre 2025]{.date}
 
