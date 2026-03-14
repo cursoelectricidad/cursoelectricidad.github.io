@@ -105,7 +105,7 @@ List of pages:
 * /suppliers.md: [Buy a bunny](/suppliers.md)
 * /template-license.md: [Template license](/template-license.md)
 * /texto_trabajo_practico.md: [Trabajo práctico: cálculo de materiales.](/texto_trabajo_practico.md)
-* /todo_en_uno_imprimir.md: [Todas las publicaciones juntas para imprimir.](/todo_en_uno_imprimir.md)
+* /todo_en_uno_pdf.md: [TODAS LAS PUBLICACIONES JUNTAS EN UN PDF PARA IMPRIMIR. DESCARGAR PDF COMPLETO.](/todo_en_uno_pdf.md)
 * /trabajo_practico_calculo_materiales.md: [Trabajo práctico: cálculo de materiales.](/trabajo_practico_calculo_materiales.md)
 </div>
 
