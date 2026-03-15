@@ -9,7 +9,7 @@ El curso de auxiliar electricista finalizó en la clase número 47 (8 de Julio d
 2025), y el curso de montador electricista comenzó en la clase número 48 (29 de
 Julio del año 2025).
 
-Profesor: Francisco Salvador Espeche. Ingeniero Electromecánico, inspector de obra y gatekeeper.
+Profesor: Francisco Salvador Espeche. Ingeniero Electromecánico, inspector de obra.
 
 Al principio son conceptos básicos de electricidad: la red de distribución,
 simbología, armado de portalamparas. Luego comienza con canalización, es un curso basado en las normas AEA 90364-7-770 (Viviendas). La clase mas importante serían las prácticas de armado de tableros esquemas de montaje (Clases 22 hasta 28).
@@ -26,22 +26,15 @@ Este es el PDF pasado a texto se lo podes tirar a la IA y hacerle preguntas: [ht
 
 En el medio mandaban [encuestas llenas de preguntas personales](https://ceisconsultora.com.ar/lime/index.php/133772), metieron talleres de Termotanque Solar (3 clases), vino gente de la UCAMI a ponernos vacunas (2 clases, no era obligatorio), taller de RCP (1 clase), una psicóloga (1 clase), y taller de informática de Excel (6 clases todos los Lunes). Solo fui al taller de RCP.
 
-A lo último hicimos un poquito de electricidad industrial: armamos tablero de bombeo.
+A lo último hicimos electricidad industrial: armamos tablero de bombeo.
+
+Todo el curso, los profesores, los estudiantes parece la cultura del gatekeeping, te quieren restringir el acceso a documentos apropósito para hacerte perder el tiempo y gritarte que te equivocaste, algunos le gusta tener la razón en vez de enseñar algo.     
+El profesor mismo fue victima de esto, le enviaron un PDF de un plano que no podía editarlo y no pudo sacar información de la Universidad Nacional de Córdoba, claramente gatekeeping, lo malo es que el profesor luego aprendió a hacer lo mismo en vez de luchar en contra.
+
+El profesor me mezquino un PDF. Todos los folletos de los talleres parecían una publicidad "GRATUITO CUPOS LIMITADOS" y otros tipos de manipulación miren la clase 66 ahí está el folleto.
 
 Estas son las redes sociales pero estan llenas de boludeces: [https://www.instagram.com/centrofp.17/](https://www.instagram.com/centrofp.17/), [https://fundacion.uocra.org/oferta-educativa-formacion-profesional/cific-cfp-n17-posadas/](https://fundacion.uocra.org/oferta-educativa-formacion-profesional/cific-cfp-n17-posadas/).
 
-Las fechas son de la creación de cada publicación, no son las fechas de las clases.  Están ligeramente corridas.
-
-Todo el curso, los profesores, los estudiantes parece la cultura del gatekeeping, te
-quieren restringir el acceso a documentos apropósito para hacerte perder el tiempo y
-gritarte que te equivocaste, algunos le gusta tener la razón en vez de enseñar algo.  El profesor mismo fue victima de esto, le enviaron un PDF de un plano que no podía editarlo y no pudo sacar información de la Universidad Nacional de Córdoba, claramente gatekeeping, lo malo es que el profesor luego aprendió a hacer lo mismo en vez de luchar en contra.
-
-Gatekeeping concepto de Google: Hace referencia a ejercer un control sobre quienes
-pueden tener acceso a determinadas cosas, por ejemplo, decidir quién puede
-pertenecer al “Hip Hop”, bloquear conocimiento u oportunidades para ciertas personas
-o limitar que artistas trabajen con ciertos productores. El profesor me mezquino un PDF.
-
-Todos los folletos de los talleres parecían una publicidad "GRATUITO CUPOS LIMITADOS" y otros tipos de manipulación miren la clase 66 ahí está el folleto.
 
 ---
 
