@@ -8,10 +8,11 @@ Los audios te vas a tener que descargar uno por uno. Luego puedo juntar todos lo
 
 Compile todo el curso en 1 solo PDF (pesa 639 megas).
 
-### PDF subido a Archive.org
-
-https://archive.org/download/curso_electricidad_uocra_CFP_17_espeche_pdf_completo/curso_electricidad.pdf
-
 ### PDF subido a Google Drive (creo que es mas rapido)
 
-https://drive.google.com/file/d/13CA4tfUZ4x8i9gTgJHSVdLg0BJwXgD8A/view?usp=sharing
+[https://drive.google.com/file/d/13CA4tfUZ4x8i9gTgJHSVdLg0BJwXgD8A/view?usp=sharing](https://drive.google.com/file/d/13CA4tfUZ4x8i9gTgJHSVdLg0BJwXgD8A/view?usp=sharing)
+
+### PDF subido a Archive.org
+
+[https://archive.org/download/curso_electricidad_uocra_CFP_17_espeche_pdf_completo/curso_electricidad.pdf](https://archive.org/download/curso_electricidad_uocra_CFP_17_espeche_pdf_completo/curso_electricidad.pdf)
+
