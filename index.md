@@ -28,12 +28,13 @@ En el medio mandaban [encuestas llenas de preguntas personales](https://ceiscons
 
 A lo último hicimos electricidad industrial: armamos tablero de bombeo con contactor, rele termico, llave selectora y un foco como motor.
 
-Todo el curso, los profesores, los estudiantes parece la cultura del gatekeeping, te quieren restringir el acceso a documentos apropósito para hacerte perder el tiempo y gritarte que te equivocaste, algunos le gusta tener la razón en vez de enseñar algo.     
-El profesor mismo fue victima de esto, le enviaron un PDF de un plano que no podía editarlo y no pudo sacar información de la Universidad Nacional de Córdoba, claramente gatekeeping, lo malo es que el profesor luego aprendió a hacer lo mismo en vez de luchar en contra.
+Todo el curso, los profesores, los estudiantes es la cultura del gatekeeping, te quieren restringir el acceso a documentos apropósito para hacerte perder el tiempo y gritarte que te equivocaste, algunos le gusta tener la razón en vez de enseñar algo.      
+El mismo docente fue victima de esto, le enviaron un PDF de un plano que no podía editarlo y no pudo sacar información de la Universidad Nacional de Córdoba, lo malo es que el profesor luego aprendió a hacer lo mismo, me mezquino un PDF de electricidad industrial. Nos daban los folletos de los talleres que parecían una publicidad "GRATUITO CUPOS LIMITADOS" y otros tipos de manipulación, miren la clase 66 ahí está el folleto.
 
-El profesor me mezquino un PDF. Todos los folletos de los talleres parecían una publicidad "GRATUITO CUPOS LIMITADOS" y otros tipos de manipulación miren la clase 66 ahí está el folleto.
+Estas son las redes sociales pero estan llenas de boludeces:    
 
-Estas son las redes sociales pero estan llenas de boludeces: [https://www.instagram.com/centrofp.17/](https://www.instagram.com/centrofp.17/), [https://fundacion.uocra.org/oferta-educativa-formacion-profesional/cific-cfp-n17-posadas/](https://fundacion.uocra.org/oferta-educativa-formacion-profesional/cific-cfp-n17-posadas/).
+* [https://www.instagram.com/centrofp.17/](https://www.instagram.com/centrofp.17/)       
+* [https://fundacion.uocra.org/oferta-educativa-formacion-profesional/cific-cfp-n17-posadas/](https://fundacion.uocra.org/oferta-educativa-formacion-profesional/cific-cfp-n17-posadas/)     
 
 
 ---
