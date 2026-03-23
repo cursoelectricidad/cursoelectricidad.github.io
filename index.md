@@ -3,7 +3,7 @@ title: "Curso Electricidad - CFP Nº 17"
 x-toc-enable: true
 ...
 
-El curso comenzó el 10 de Marzo del año 2025 (mi primera clase fue el 12 de marzo). Son 3 clases por semana de 18:00 a 20:30 Lunes, Martes y Miercoles.
+El curso comenzó el 10 de Marzo del año 2025 (mi primera clase fue el 12 de marzo). Son 3 clases por semana de 18:30 a 20:30 Lunes, Martes y Miercoles.
 
 El curso de auxiliar electricista finalizó en la clase número 47 (8 de Julio del año
 2025), y el curso de montador electricista comenzó en la clase número 48 (29 de
