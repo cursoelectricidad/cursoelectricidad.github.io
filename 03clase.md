@@ -13,6 +13,10 @@
 **Audio de la clase en YouTube**   
 [https://www.youtube.com/embed/kC4hTgBpfa0](https://www.youtube.com/embed/kC4hTgBpfa0)
 
+
+El examen es a carpeta abierta. Simbología. Red de distribución Morceto. Fusible aéreo. Si tenés morceto con fusible (antirobo) no hace falta el aéreo. Si solo tenés morceto simple se coloca el aéreo por la fase. EMSA coloca el morceto. Conductor preensamblado y bipolar. Un electricista chanta me quizo cambiar toda la instalación porque el conductor de entrada es más chico que va al tablero seccional. Línea de alimentación es la que vincula la red de la empresa distribuidora con los borners del medidor de carga. Acometida se llama así al conjunto de elementos que se utiliza para hacer la conexión entre la red alimentación y el medidor: cable, fusible y morceto. La otra es línea de distribución principal hay una línea que se llama línea principal esta línea que va del medidor al tablero general se llama línea principal para que ustedes entiendan aunque esté detrás del medidor yo del medidor saco una alimentación que va al tablero general o principal del medidor saco una línea que va al tablero general esa línea se llama línea principal. Alimentación trifásica, ahí aparecerán 3 fases (3 líneas) trifásica. Si tengo una alimentación como ese tablero que te mostré ahí tengo TRES fase más el neutro. Fijense que esta caja es más alta que la otra ¿para qué?  Es cuando uno tiene losa, la losa continua se hace primero la parte de madera se pone la caja se hace la distribución luego va el hormigón arriba. Fijense que es más alto entonces ahí para hierro y todas esas cosas y logro una mejor distribución se usa este tipo de caja. Siempre en todo gabinete en todo medidor hasta EMSA te pide que esté en el gabinete puesta a tierra, sino no te baja la línea. El profesor para evitar que la ducha eléctrica haga saltar el disyuntor desconectó el disyuntor y le puso una buena tierra, pero en mi caso desconecté la tierra y dejé el disyuntor. PREGUNTAR.
+
+
 ![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgO9roP_5LKwhf0StuiEh_WAj7iYO05K3qOFUJQVnlOHRBXVX1N0qFQjqpTFqQPDX9NneZSaMOvbHi2E7a2_CH2xPSueykT19WsJZQZWeWbkrb5VSNbMz4YH2HqS-GIorKiOW24bizGsufwCVMz3QGvjnqPX51ccZwkkne11J4tATvRyf52UPQV13_JSXo/s4160/IMG_20250312_204002630_BURST000_COVER.jpg)
 ![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjcc1tWG2LnpeEHkvlMQShOdaoZ2FUpT7QnjdCWUHbyVgG5odM9kfX-JWwNbcZjye1QcEUfGf7lrHrjSiUzUesARc0woO_YH6UzNW2BdurUbhDLPIlFKwifHgHbZbjOqtIFFR3xFDZvAP_C3WcirPf8g99gDv9i0mXKiiA1iKhNk_nB7tkzKL0CXlBmVX8/s4160/IMG_20250312_203958452.jpg)
 ![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhwFkn_ADM0b6NzQsu5U8UUTtV4xp0WWA1utlFyfh1LuSLNJVdaQ_NydJ0ZVajj2Sm4YoQhtI8-gfm2zWTWM1S-N5kvUUVHITwS_viWfQAOYhjmyKTPG-QMHA8xDcCQ8jnAQ5-CdCf_o4-cT57u7JFk3L8m2LwM1BZqqmf1GI67vRKZjUQF99XAYXzmHHA/s4160/IMG_20250312_203949215.jpg)
@@ -585,60 +589,736 @@ Estos conceptos aseguran claridad en el diseño unifilar, la correcta instalaci�
 
 ---
 
-Aquí tienes la transcripción corregida y mejorada. He corregido los errores de reconocimiento de voz, la puntuación y los términos técnicos (como "diagrama unifilar", "bornera", "disyuntor", etc.) para que el texto sea coherente y profesional, manteniendo la totalidad del contenido.
 
-***
+Profesor: Francisco Espeche. Ingeniero Mecánico.    
+Tel: 3764224522       
+Lunes, Martes, Miércoles - 18:30 20:30      
+   
+   
+Una instalación eléctrica es segura y confiable cuando ha sida concebida y realizada por un instalador electricista habilitado que ha aplicado la Reglamentación para la Ejecución de Instalaciones Eléctricas en Inmuebles, y ha utilizado materiales normalizados IRAM.   
+   
+### ¿Cómo funciona la protección diferencial?   
 
-**Transcripción Mejorada - Clase de Electricidad**
+El principio es simple, se trata de asegurar que cada instalación cuente con un interruptor diferencial y que todos los tomacorrientes permitan conectar a tierra los aparatos que alimentan.   
+Cuando por una falla en la aislación de un aparato eléctrico sus partes metálicas queden sometidas a tensión, el conductor de protección hará circular una corriente de fuga, a tierra. El interruptor diferencial detectará esta fuga y cortará la alimentación en forma inmediata. También para el caso de contactos accidentes con partes metálicas bajo tensión, la corriente a través del cuerpo humano se verá limitada por la rápida respuesta del interruptor diferencial que cortará la alimentación en milésimas de segundos.   
+   
+### Diez SI para una instalación segura.   
+   
+1. Interruptor diferencial    
+Se debe instalar un interruptor diferencial de 30 mA, menor de 200 ms.   
+2. Un interruptor por circuito, Automático termomagnético o manual con fusibles.   
+3. Toma a tierra en toda la instalación. De resistencia inferior a 10 ohms.   
+4. Separación de funciones   
+Un circuito para cada función. Por ejemplo, en una vivienda, según el grado de electrificación del inmueble, debe instalarse:   
+* Circuito para las bocas de alumbrado.   
+* Circuito para los tomacorrientes.   
+* Circuitos exclusivos para cada artefacto especial que se instale: lavarropa, horno, termotanque, etc.   
+5. Secciones mínimas de los conductores   
+Línea principal: 4.0 mm^2 Cu.   
+Líneas seccionales: 2.5 mm^2 Cu.   
+Líneas de circuitos: 1.5 mm^2 Cu.   
+Conductor de protección: 2.5 mm^2 Cu.   
+6. Tomacorrientes con toma a tierra.   
+Distribuídos para que cada artefacto tenga una tomacorrientes propio.   
+7. Observar los principios de seguridad en el cuarto de baño:   
+Respetar las distancias de protección entre los t tomacorrientes, interruptores, artefactos y bañera.   
+8. Utilizar materiales normalizados IRAM en todos los componetes de la instalación.   
+9. Protector pararrayos   
+Descagador de baja tensión con su respectiva puesta a tierra a instalarse en la acometida de cada conexión.   
+10. Protección de tensión   
+Se debe instalar en el table principal a lado del interruptor diferencial.   
+   
+### Algunos NO para un uso seguro   
 
-...cuenta y ahí, eh, le con... no sé si tiene un señor con una... el director es un señor, por lo menos con una vie... unos bigotes, el hijo de fotos... por casualidad, Instituto de Capacitación Informático, y eso venía, era un curso de capacitación docente y ellos dos venían, me acuerdo el apellido... Sí, yo tampoco, eh, pero práctica docente también con el maestro... y trabajaba en la escuela, salía de la escuela, me iba, entonces dejé, y así por... quiero mantener acá. Claro, pero no quiero. Sí, porque y bueno, y ahí por ejemplo nosotros empezamos, tipo, pelando cable así y haciendo los empalmes, y ahí no. Sí, sí, sí. Sí, trabaj... No, no, no. La que sigue mañana. Secundario, ahora mucho tiempo que quiere venir que venga, ya en febrero ya venga, ya para asegurar que voy a enseñar a muchos todo el año. El año pasado enseñé... Comencemos ahorita para las... para las 5, y a las 5... y por programa o por eh... por programa porque hay cosas que tengo que hacer, claro, falta ¿no? Eso siempre hay un programa. Una institución venía un docente hacía el instituto, cantaba el... y el docente ponía al precio del programa un porcentaje para la institución. Y sí, bastante. El año que te estoy hablando, el año 2008. Ah, 84. Entonces van algunos...
+1. No utilice prolongadores   
+2. No conecte varios artefactos juntos.   
+3. No desconecte tirando del cable.   
+4. No utilice adaptadores. Instale tomacorrientes y ficha normalizada IRAM.   
+5. No cambie lámparas sin desconectar el artefacto o sin cortar la electricidad desde el tablero.   
+   
+art.3.4 - El usuario deberá arbitrar los medios para que los aparatos, equipos, motores o cualquier otro elemento eléctrico de su propiedad o que haga uso de la instalación eléctrica en cuestión, tengan la debida protección eléctrica como la técnica lo aconseja, tales como; descargadores con su respectiva conexión a tierra, detectores de sobretensión o baja tensión con dispositivo de desconexión incorporado o según el caso, un equipo de resguardo por inversión de secuencia de fases; contra los efectos de posibles anormalidades en el sistema de distribución de EMSA, debido a fallas comunes en líneas y transformadores o aquellos provocados por accidentes de terceros.   
+   
+art-6.2 - EMSA en ningún saco será responsable ante el Usuario por los perjuicios que puedan ocasionarse por interrupciones o cualquier accidente que pudiera acontecer en la red de distribución por hechos o actos de terceros o fenómenos metereológicos.   
+   
+### Información de EMSA.   
 
-Bien, no sé si se movieron hasta más tarde, no, nada, por eso, un minuto. Claro. No, pero llegado... ah, no había llegado. Yo pensé que otra vez era la herramienta de la... se competía al tipo ahí de enfrente. Tenemos el para la moto acá y alguien puso de enfrente ya. Ah, ocupando todo el espacio como siempre. Entonces dije: bueno, quiero la duda. Mientras hay posibilidades. Hay una foto propia que vimos... de cualquier cosa vamos a explicar para qué sirve eso, pero es el inicio del curso. No, no tiene que estacionar ya, a la vuelta. Entonces, tras las cosas ahí se costó un poco ahí. Bueno, vamos a aprovechar porque si no... antes que nada, yo siempre mientras voy haciendo cosas y alguien me hace cosas y se puede mostrar, yo trato de traer... eh, para que ustedes vayan viendo. Albañilería todavía no. Acá, acá solo electricidad. Okay, que está ahí, los primeros cursos ¿no? Sí, hay una...
+Sugerencias y recomendaciones de como concebir una Instalación eléctrica confiable y segura.   
+   
+Aplicar la Reglamentación para Ejecución de Instalaciones Eléctricas en Inmuebles (AEA), es indispensable para que usted pueda disfrutar de un **buen servicio eléctrico**, aquel que le aporta seguridad y calidad por medio de:   
+* La provisión constante de electricidad con voltaje y tensión estables y   
+* Una instalación eléctrica adecuada que brinde la máxima seguridad y confiabilidad.   
+   
+   
+En los cuartos de baño la instalación eléctrica debe respetar la zona de peligro, dentro de la cual no pueden instalarse interruptores, tomacorrientes, calefones eléctricos o artefactos de iluminación y de la zona de protección donde pueden instalarse artefactos de iluminación y aparatos eléctricos fijos, clase II, que se encuentren protegidos contra posibles salpicaduras.   
+   
+   
+## Transcripción. A partir de minuto 8   
 
-Estaba revisar porque todo lo que hicimos acá hicimos nosotros. No mira tanto, pero este... falta, está fijo, pero bueno, mientras funciones es allá, hay que darle vida para que pueda girar, queda más presto. A veces la gente... ¿cómo se llama? Pide el curso, pero bueno, me van a pedir, pero no sé, después tengo que ver cómo está la limpieza, van esos y ya después habilito todo, se van inclusivamente para nosotros. Todavía tengo algunas prioridades que soy más viejo. Bueno, eh, hay una parte importante ahí. Sí. Y es esta donde empieza el tema de instalación y cómo es una instalación eléctrica segura y confiable. Ahí empieza nuestro verbo a hacer, ahí empezamos.
+Hay una parte importante en la fotocopia.   
+   
+Hay una parte que se llama diagrama unifilar.    
+   
+Esto es un tablero que ahí aparece un diagrama unifilar que es una sola línea indica cuantos conductores tiene y que tipo de interruptor se coloca después de un cambio de esta característica más tiene que hacer lo que pide el proyecto en estas condiciones.   
+   
+El modo operandi es arte, cuando mejor esté el tablero a la vista mejor.   
+   
+Esto tiene una contratapa si miran de frente nadie lo verá. Si quitan la contratapa ahí se ve la realidad de como está trabajando la persona.   
+   
+Hay muchos tableros desplolijos. No son aprobados.   
+   
+1. Fijense esto acá aprovechó que hizo más cable le hizo un rulo y lo dejó ahí (1era foto).   
+2. Esto fijense este es el distribuidor que tiene una sola entrada y una sola salida fueron allá y entraron por arriba.   
+3. Esto si es prolijidad.   
+   
+Este es un tablero general detrás de un medidor. El problema es que el medidor tiene atrás está atrás una bornera acá tengo un peligro tengo 380, uno saca abre el tablero y acá tengo todos los borners activos, te vas a quedar electrocutado. Y en la salida también.   
+   
+Eso es importante ver algunas consecuencias nosotros podemos prevenir eso.   
+   
+Alumna: "Ahí se evita la bornera."   
+Profesor: Hay gente que dice tapamos la bornera con unos capuchones, y si pierde el capuchón? Yo manejo la parte de escuela primaria, secundaria. Cualquier persona que saca la tapa corre riesgo su vida.   
+   
+Alumno: "como pusieron si ya viene vivo de afuera?"   
+Alumno: "como frenaron la corriente para instalar esa bornera ahí?"   
+Profesor: "No, porque vos tenés esto está detrás del medidor. Desconectá el medidor y después"   
+   
+Traigo una alumna más.   
+   
+Esto considerando que siempre en un proyecto el diagrama unifilar te indica como se hace un tablero, **no te dice colocá esto acá, te dan las pautas y ustedes tienen que buscar la forma de armar el tablero**.   
+   
+A partir de ahí vimos que depende la potencia que está consumiendo la vivienda el eficio el salon, lo que sea puede ser monofásica o trifásica. Generalmente tenemos un electricista un determinado límite potencia para monofásico a veces que llega a 5550 watts y a partir de ahí se hace trifásico.   
+   
+Minuto 14.   
+   
+Esto que está acá viene a hacer un diagrama unifilar.   
+La mejor forma es ver y luego ejecutarlo.   
+   
+Hoy entró a trabajar el vago fui a ayudar un poco para que entienda como yo pienso, nunca digo como hay que hacer el proyecto. Solo le tiro la idea: yo lo haría de esta forma. Esa es la idea.   
+   
+Esto que está acá está traducido directamente en el tablero, ustedes van a ver acá circuitos de alimentación, circuitos de toma, de aire está todo especificado y cada interruptor indica que circuito potencia.   
+   
+Siempre tengo un interruptor principal de corte en el este caso es tetrapolar, luego de tetrapolar va el disyuntor y el disyuntor va a la barra de distribución y **cada borner tiene la posibilidad o capacidad máxima que puede soportar la corriente hasta 100 amper**. Fijense como es interesante la bornera porque de acá yo puedo sacar las distintas ramificaciones a cada interruptor este interruptor es ITM (interruptor termomagnético).   
+   
+Acá vendría la alimentación principal, levanto llega corriente acá energiza todas las válvulas y voy distribuyendo. Acá lo que se hace en algunos casos hay gente que hace como le gusta, se va distribuyendo fase y neutro para cada interruptor, si todavía no está instalado el lunes y el martes les traigo para que vean como queda.   
+   
+Y acá tengo todos los aires acondicionado que son para las aulas, entonces lo que teneoms que ver que hago primero, **si el tipo hacía directamente la instalación por arriba le iba a costar llevar la alimentación por esta parte del circuito entonces en primero en algunos casos conociendo la distribución que me pide el diagrama unifilar voy armando**, voy llego a la distribución de la parte de abajo y hago luego la parte de arriba.   
+   
+Otra cosa interesante, fijense cada conductor tiene una bornera que se llama **DIF**, eso ¿para que sirve? Cada función de conductor que vimos la otra vez, está formado por nebras de cobre.    
+   
+Están unidos por nebras de cobre, ahí es donde pasa la corriente y sufre un efecto que se llama **efecto yull**, ese efecto es calórico que hace que cualquier elemento cuando se le da calor sufre una dilatación, estos materiales se dilatan.   
+   
+Y cuando ??? vuelve a su ciclo original. (Minuto 18:40)   
+   
+Entonces que pasa ese constante movimento dilatación efecto yull calórico que produce al pasar por los conductores que son hilos esto se mueve, ustedes no **vieron el fenómeno chapa** cuando hace calor hace ruido, se dilata se enfría y vuelve a su posición original, eso es efecto dilatación.   
+   
+Hay conductores entre poste y poste hay conductores aéreos por ejemplo en la zona familiar? (Minuto 19) si es un campo mucho mejor, entonces lo que pasa es que en invierno ese conductor estará casi trensado pero en verano ¿? (Minuto 19:39) entonces fenómeno de dilatación.   
+   
+La corriente que pasa por el conductor genera calor, por eso se calcula la sección de conductor para cada caso particular y hace que esta enebra se mueva y se **afloja la bornera** porque se va moviendo con el tiempo. Hay gente que se encarga de **mantenimiento preventivo**, va al tablero y ajusta.   
+   
+Luego voy a explicar los fenómenos cunado está flojo el cable.   
+   
+### Que hace la bornera?   
 
-Vale, antes que nada voy a aprovechar porque aproveché que estaba a medio terminar todavía, falta cosas, pero a mí me resulta muy importante porque la gente, a medida que uno va... digo que hace los... y otra otro tipo, y ahí... pero todo que ustedes vieron ayer que están los planos, todas esas cosas, hay una parte que se ve, se llama... hay una parte que se llama **diagrama unifilar**. Este no tiene, va a aparecer por ahí algún diagrama unifilar. Después voy a explicar por qué, pero sí quiero que vean... resto es un cabo S1. Ahí aparece el esquema. Dice que una sola línea indica cuántos conductores tiene y qué tipo de interruptor se coloca. Después ustedes reciben un plano de esta característica, van y tienen que hacer lo que pide el proyecto, estas condiciones. Después el modo operando, el modo de trabajo es arte, un arte, un oficio, porque cuanto mejor esté el tablero a la lista, mucho mejor. Pueden ser que esto tiene una contratapa. Si miran de frente no la letra y nadie ve. Entonces, sacar la contratapa y ahí se ve la realidad de cómo está trabajando el individuo. Está... y los tableros que están de prolijo allá, esos tableros de prolijo no sirven. Solo los que están para acá, esos tableros no son aprobados ni porque ni aunque yo estuviera ciego. Esto no hacer, esto que está acá es horrible. Fíjense esto acá, aprovechó que le hizo más cables, le ah, le hizo un todo un rug, le dejó ahí. Sí, esto. Fíjense que había hecho este distribuidor, tiene una sola entrada y una sola salida. Le perforaron y entraron por arriba. O sea, cosa que esto sí es... esto que está acá, esto que está acá, esto que está ahí, o sea, va cambiando sistema. O sea, cuando ustedes más o menos tienen y quieren ver algo, entren acá y se... y este por los colores ¿no? Este de acá, ese. Este, este es un interruptor general atrás de un... unidor. Ah. Ah. ¿Qué problema tiene? El medidor, el medidor viene, está atrás, viene acá. Puse una bornera, acá tengo películo, tengo T80. Uno saca, abre el tablero y acá tengo todos los bornes al vivo. La mano ahí la salida también. Señor, puesto que sí tenía que venir directamente acá y acá salir para allá, pero eso es lo peor que hay. Eso es importante ver, en consecuencia que puede... nosotros podemos prevenir eso ¿no? Así lo estamos más o menos. Ahí se evita la... ahí se evita la... porque hay gente que dice: "No, pero la pelea hay unos capuchones y se pide de capuchón". Y yo generalmente que manejo... aparte de después la imagen secundaria, lo que sea, van si sacan esto de la primera persona que llega ahí. Otra cosa, ¿cómo pusieron si ya viene vivo de afuera? ¿Cómo? ¿Cómo, cómo frenaron la corriente para instalar esa barrera ahí? No, porque vos tenés esto, está todo el medidor. Ah, el medidor. Medidor. Sí, señor. Buena. Me gusta, señora allá, cualquier cosa entiende cómo era la idea. Bueno, viste, considerando que siempre en un proyecto hay un diagrama que indica cómo se hace un tablero. Eh, mira, dice: colocar esta acá, colocar esta acá. Da las pautas y ustedes tienen que buscar la forma de cómo armar el tablero. ¿Entienden o menos?
+La bornera junta los cables y en esa parte no tendrá problemas porque ya está bien apretado. Se llama terminal **TIF**, tipo un capuchón entonces se reduce queda bien apretado a la herramienta lo ajusta 2 o 3 distintos tipos de herramienta que hacen que eso quede bien apretado y entonces no se mueve y no se dilata.   
+   
+Esto es un tablero entonces cuando armamos un tablero siempre se trata de que si los cables vienen de arriba o de abajo **por lo menos tienen una longitud de los cables el doble de la tapa esta**, paso los cables y va a quedar hasta allá por lo menos. Entonces tengo la posibilidad de armar como uno pretende que esté los circuitos distribuidos no hay unión entre conductores, **acá si me falta cable para llegar, eso de cortar y unir no me sirve**, no se debe UNIR ningún conductor dentro de un tablero.   
+   
+### No se debe unir ningún conductor dentro de un tablero.   
+   
+Acá hay un armado que me pusieron tipo un soporte de unión dentro del tablero ¿para qué tanto? Acá hay cinta aisladora, pero después le voy a ir hasta acá también todo esto es peligroso no se debe hacer y más si estoy trabajando en una vivienda.   
+   
+Es importante el tema de la prolijidad.   
+   
+Como esta es una alimentación trifásica el que me da la pauta de donde va el neutro es el disyuntor, acá dice neutro y va a ir un ¿? azul, algunos disyuntores pueden estar de un lado o del otro, hay diferentes sistemas.   
+   
+#### El neutro de el disyuntor es el que me da la pauta en donde yo quiero que vaya el neutro.   
 
-Bueno, a partir de ahí vimos que depende la potencia que estás consumiendo la vivienda, el edificio, el salón o lo que sea, puede ser monofásica o trifásica. Generalmente tenemos nosotros, los sistemas, un determinado límite de potencia para el monofásico, ya dije que era 5500 W, y a partir de ahí se hace. Estamos... estamos. Bueno, entonces esto que está acá viene a ser un diagrama unifilar. Les voy a explicar por qué. Pero yo aprovecho todo lo que tengo a mano para que ustedes vayan viendo, porque la mejor forma es ver y después ejecutar. Entonces, eh, mientras yo tenga cosas para mostrarles, les voy trayendo. O sea, eh, si voy a una escuela y están haciendo y me prestan los tableros, vengo y sigo haciendo. O sea, la idea es mostrarlo. Le conté que ayer entró... a hoy entró a trabajar el "mago de Oz", un alumno que estaba ahí. Bueno, eh, como hice el proyecto, les ayudé un poco para que entienda cómo yo... eso. Nunca digo que hay que hacer de esta forma, sino elijo el proyecto y después yo haría de estas formas siempre, simple siempre. La idea es bueno, eso que está acá está traducido directamente en el tablero. Ustedes van a ver acá, eh, circuito de iluminación, circuito de toma, circuito de aire, todo está todo especificado y cada interruptor indica qué circuito protege. Estamos, bueno. Siempre dijimos lo otra vez que tengo un interruptor principal de corte, en este caso es tetrapolar. Está acá. Después del tetrapolar va el disyuntor y el disyuntor va a la barra de distribución. Eso se llama barra de distribución. Y cada borne tiene la posibilidad o capacidad máxima de que puede soportar la corriente hasta 100 A. Fíjense cómo es interesante la bornera porque acá enchufos, acá rectificaciones a cada, a cada interruptor. Este es interruptor ITM, interruptor termomagnético. Estamos más o menos.
+Entonces en este caso como vimos el tema de los colores que después voy a mirar un poco mejor, de acuerdo al reglamento tengo NEUTRO, luego RST distinto colores, fijense como está hasta el sistema en escala porque voy colocando la bornera del primero segundo tercero y cuarto, y a medida de eso voy sacando la distribución.   
+   
+La idea es que vayan concientizándose, tiene que tener la idea de hacer las cosas lo mejor posible.   
+   
+Por más que sea profesional a veces hay que estudiar pedagogía porque sino está prohibido, la idea no es sacarle el trabajo a la gente sino darle todo el conocimiento de todos los años en la construcción o de instalación electricista. Yo no me voy a guardar nada, la idea es que de acá salgan buenos trabajadores.   
+   
+En la parte pedagógica dicen que esto no es importante y por más que yo hable hay 15 minutos que lo que ustedes van a captar, luego puede ser que hable de mil cosas y les va a quedar algo.   
+   
+Los primeros 3 meses adquirás el certificado de auxiliar electricista. Sabrás hacer la instalación de una vivienda familiar, cambiar los cables. Y luego viene la parte de montador electricista.   
+   
+En algunos casos figura en la parte salarial de la UOCRA, electricista especializado.   
+   
+También tenemos el albañil especializado y luego tenemos el ayudante, nosotros no tenemos el ayudante, tenemos el auxiliar electricista que viene a hacer el ayudante electricista. Por el tema de los honorarios una persona que tenga oficios por más que sea ayudante o auxiliar electricista tiene en el salario un 15% más del ayudante común y el oficial electricista tiene un 15% más que el ¿? (Minuto 27:55) esa es la diferencia.   
+   
+La idea es que esto quede prolijo que esto esté fijo los conductores, puede producir. No sé si ustedes están viendo. El que acierta le pongo un 10.   
+   
+Fijense como están unidos los cables al interruptor TODO POR ARRIBA. Tiene un por qué.   
+   
+### Todo interruptor trabaja por gravedad, para arriba conecta toda la alimentación para abajo no.   
+   
+Minuto 29:20   
+   
+Esto se va para arriba entra por arriba está desconectado recién cuando subo conecto toda la alimentación.   
+   
+##### El interruptor termomagnético se puede conectar por arriba o por abajo de cualquier lado cumple la misma función porque el dispositivo la parte interna entra la corriente por un lado produce el mismo efecto..... ¿¿¿Pero que pasa????   
 
-Bueno, entonces acá vendría la alimentación principal. Ahora, levanto, llega la corriente acá, energiza todas las barras y voy distribuyendo acá. Acá lo que se hace en algunos casos, hay gente que hace como le gusta, pero esto se entra acá y después se va sacando y se va distribuyendo: fase adentro, neutro adentro, para cada interruptor. Después cuando se... si todavía no está instalado entre el muro por ahí les traigo para que vean cómo queda. Y acá tengo todos los aires acondicionados que es para las aulas en este caso... uno, estos son todos para... Entonces ustedes lo que tienen que ver: ¿qué hago primero? Fíjese que si el tipo hacía directamente la instalación por arriba, le iba a costar llevar la alimentación de esta parte del circuito. Entonces, primero en algunos casos, conociendo la distribución que me pide directamente el diagrama, ya voy armando. Entonces voy, llego allá, la distribución de la parte de abajo y hago después la parte de arriba. Estamos más o menos.
+Hagan de cuenta que este cable ahora tiene alimentación por acá, pero vamos a suponer que esté al revés y la alimentación esté por abajo, si esto se afloja llega acá y acá tengo tensión cualquier persona que esté por ahí puede provocar que ¿? (Minuto 30:50).   
+   
+Lo ideal es siempre se trata de que todo se haga de la misma forma, si ustedes ponen un cable que tenga las mismas cualidades. Esas cosas vamos a ir viendo.   
+   
+Es importante que quede bien sujeto, si yo no tengo las borneras de alimentación habíamos dicho que esto se dilata y se afloja estábamos haciendo una clínica con 2/3 pisos.   
+   
+Casi cuando estaban por laburar luego de un tiempo saltaba el disyuntor, **generalmente salta el disyuntor cuando hay una fuga, aire acondicionado nuevo, artefacto nuevo**.   
+   
+Como eran distintos consultorios póngale habían 2 primeros consultorios no habían tantos problemas porque había poco consumo después cuando comenzaron a habitar más médicos comenzaron a utilizar más los boxes y comenzó a saltar el disyuntor.   
+   
+Me llaman a mi... Y pienso: no puede ser si esta es la mejor marca que hay en el mercado está ahí porque necesitan seguridad.   
+   
+Si anda mal tenemos que cambiar, dejame que lo vea primero.   
+   
+Lo primero que hago es empezar con un    
 
-Otra cosa interesante, fíjense, cada conductor tiene una bornera que se llama terminal TIP. Me traje eso. ¿Para qué sirve? Ustedes saben que cada... cada conductor que vimos la otra vez está formado por hilo de cobre. ¿Dónde está el corazón? Está formado por hebra de cobre. Ahí es donde pasa la corriente. Cuando pasa la corriente por el conductor sufre un efecto que se llama **Efecto Joule**, y ese efecto es un efecto calórico que hace que cualquier elemento cuando sufre un cierto... se le da calor, sufre una dilatación, se dilata. Este material se dilata y cuando deja de estar expuesto se enfría y vuelve a su posición original. Entonces, ¿qué pasa? Ese constante movimiento de dilatación, un efecto Joule calórico que se produce al pasar por los conductores que son hilos del conductor, esto se mueve. Entonces, si no vienen los capuchones... para época de calor, ¿qué pasa? Se está dilatando, se enfría y vuelve a su posición final. O sea, que eso es el efecto de dilatación. Eh, hay... ¿cómo le puedo decir? Conductores entre poste y poste hay un conductor aéreo, por ejemplo, en la zona... lado. Usted, o si ven el campo mucho mejor. Entonces, ¿qué pasa? Ustedes van a ver que en invierno van a ver que ese conductor está encogido y en verano toma una catenaria más grande. Es lo que estamos... de eso vamos a ver después, pero lo importante es que entiendan que la corriente que pasa por el conductor genera calor. Está, eso se calcula la sección de conductor para cada caso particular. ¿Y qué hace? Que estas hebras se muevan y aflojen la bornera. Se afloja la bornera, o sea, se afloja la bornera porque se va moviendo con el tiempo. Por eso hay... ¿cómo le puedo decir? Gente que se encarga... electricista de oficio que se encarga de un mantenimiento preventivo se llama. Entonces va al tablero y ajusta. Podría explicar los fenómenos que a veces cuando está flojo el cable... Entonces, ¿qué hace la bornera? Junta los cables y esa parte no va a tener problema, está bien apretado. El terminal es un terminal que se llama terminal TIP, tipo un capuchón. Entonces se reduce, queda bien apretado. Hay una herramienta que lo ajusta, o dos o tres distintos tipos de herramienta que hacen que eso quede bien fijado y entonces no se mueve y no hace eso, como le llaman, la dilatación... explotan los bornes los...
+#### En estos casos particulares uno baja deja el disyuntor principal y baja todas las térmicas de cada circuito   
 
-¿Qué otra cosa interesante tenemos acá? Esto es un tablero. Entonces, cuando ustedes arman un tablero o pasan los cables, siempre se trata de que si los cables vienen de arriba o de abajo, por lo menos tengan una longitud de los cables el doble que la tapa esta. Entonces, paso los cables y va a quedar hasta allá más o menos. Entonces tengo la posibilidad de armar como uno pretende que esté, eh, los circuitos distribuidos y no hay unión entre conductores. O sea, acá si me falta, por ejemplo, llegar... eso de cortar y unirnos. No se debe unir ningún conductor dentro de un tablero. Voy a ver por ahí uno. Fíjense acá... en el armado me pusieron tipo un soporte de unión dentro. Digo: "¿Para qué tanto?". Después hay acá, fíjense que hay interruptoras... No, no, no. Está bien, pero después le voy a destacar también, todo esto no es peligroso, no se debe hacer y más si estás trabajando en una vivienda. Entonces es importante el tema de la prolijidad.
+Y luego se va levantando uno por uno. Cuando levanta se levanta de a 1 y salta el disyuntor entonces ya ubicaste en donde está la falla.   
+   
+Luego de levantar uno por uno: ninguno saltó.   
+   
+Seguí probando, ahora vamos a comenzar a probar de a dos, y tampoco saltó el disyuntor.   
+   
+Luego levantamos todo otra vez a ver que pasa, y **SALTÓ OTRA VEZ EL disyuntor**.   
+   
+### Aunque ustedes no crean el calor floja la bornera y hacía falso contacto cuando había mucho consumo, como no estaba apretado la bornera acá hacía un efecto de fuga chispazo y eso hacía saltar el disyuntor.   
+   
+Yo le aconsejo a los tipos que tienen instalaciones importantes siempre revisen la instalación.   
+   
+Y fíjense otra cosa muy importante generalmente en estos tableros trifásicos tienen una tapa, esto es tablero tipo gabinete, o sea que es una caja que tiene una tapa y esto va adentro entonces yo puedo sacar esto y trabajo todo afuera y la base queda atornillada.   
+   
+Entonces ustedes ven disyuntores y todo este sistema y todo esto hay que ajustar constamentemente para evitarlo.   
+   
+Esto que está acá es el botón de prueba del disyuntor.   
+   
+Pero todo esto va embutido necesita para no tocar esto porque arriba va un contrafrente.   
+   
+También le saqué el foco por las dudas.   
+   
+Va un contrafrente este como es monofásico pero en el trifásico si esto es tipo gabinete colocamos **3 ojos de buey** parecidos a este que muestran a la vista cualquier problema.   
+   
+Para evitar cualquier problema está indicando que energía hay. La ducha eléctrica está apagada por si las dudas como no tiene agua la dejamos ahí.   
+   
+El tipo que hace mantenimiento sabe desde lejos que si están las 3 prendidas tengo las 3 fases, fase y neutro y las 3 fases encendidas.   
+   
+Antes hacía mantenimiento de noche en la clínica. Me llaman urgente el otro día 5am en una parte del quirófano no había luz.   
+   
+Le pregunto si se fijó en el tablero y me dice que sí pero hay una parte que no anda.   
+   
+Llego allá empiezo a probar y le digo vos no fuiste a mirar tu tablero principal, **no viste los ojos de buey**?      
+   
+\- No... A veces tiene lucesita a veces no.   
+   
+De las 3 solo 1 tenía. Esa fase no es nuestra sino que es de la red llamá a EMSA seguro es un fusible porque hay una fase que no está andando, andá a avisarle.   
+   
+Alumno: A quién fue mi oficial durante mucho tiempo le pregunté: ¿Por qué no comprás una pinza pelacable? Me respondió que me haga hombre y que pele los cables con la mano.   
+   
+En cualquier trabajo que hagan habrá un tablero de prueba.   
+   
+Esto es interesante, y de acá hasta el último trabajo práctico van a hacer el mismo procedicimiento. Van a venir con un tablerito con unos bastidores, se va a conectar ustedes van a venir y probar.   
+   
+De entrada ya les digo me molestan que vengan todos y se amontonen, no se amontonen, a veces hacen trabajos de a 2 pero hay uno que sabe más y hace todo, que el trabajo sea de uno no del otro.   
+   
+#### 1. Buscapolo   
 
-Bueno, sigo. Como esta es una alimentación trifásica, fíjense, el que me da la pauta de dónde va el neutro es el disyuntor. Acá dice neutro y va al disyuntor y va azul. Este, en algunos casos, algunos disyuntores puede estar de un lado o del otro, o sea, no en distintos sistemas. Lo importante es que el neutro del disyuntor es el que me da la pauta donde yo quiero que vaya el neutro. Entonces en este caso, como vimos el tema de los colores, que después lo vamos a afirmar un poquito mejor, de acuerdo al reglamento tengo neutro, después tengo R, S, T, distintos colores R, S, T. Fíjense cómo está hasta el sistema en escala, porque voy colocando las bornes del primero, segundo, tercero y cuarto, y a medida de eso voy sacando la distribución. No sé si ven, eh, pueden mirar después, escuchen lejos al costado que ustedes miren todo lo que necesitan. La idea es que ya vayan concienciándose qué es lo que uno pretende de lo que sea, la electricidad, tienen que tener una idea de hacer las cosas lo mejor posible. Eh... cuello ese que yo tengo que tener que colgar todavía, que me sacaron algunos ganchitos que tenía, pero igual lo voy a colgar, a colgar aquello. Así que eh, de a poco voy a colgar algunas cosas para que ustedes vayan viendo. Y hay una cosa muy importante en el tema y en el estudio que uno hace, o más ustedes que son estudiantes. Dice uno, por más que sea profesional a veces tiene que estudiar pedagogía, porque si no no puede hacer... prohibido y sacamos el puesto a otra gente. Pero la idea no es sacar impuestos, sino dar todo lo que uno ve y tiene la experiencia de todos los años en la construcción o en instalaciones eléctricas, es tratar de llevarlo todo eso a la práctica. Y la única... yo no voy a guardar nada, o sea, que a mí me interesa mostrar cosas. La idea es que de acá salgan buenos trabajadores de la parte de todas estas cosas, y cosas buenas que yo veo. Después iba a traer un tablero de... tablero también para que vayan viendo. La idea es dice: bueno, en la parte pedagógica dice, y esto es muy importante, cualquier individuo, ustedes especialmente, por más que yo hable 10.000 horas, hay 15 minutos que dice que su memoria es lo que ustedes van a captar después. Que puede ser que yo... y le va a quedar eso 10 minutos algo. Por eso trato de mostrarle algunas cosas físicas y después pasaremos siguiendo la teoría para que entiendan los que dos son nuevos ahora. La idea principalmente acá. Bueno, este es mi nombre, soy Ingeniero Electromecánico, de obra, todo lo voy a tener, eh, lunes, martes y miércoles tenemos clase de... horas... veloz. Según mis cálculos, en 3 meses, 3 meses y medio, nosotros... ustedes son parte de ustedes, también adquieren un... el primer módulo que va a ser Auxiliarista. Si ustedes se cansaron de... Imagen seguir como Montador, o sea, van a tener un, eh, no sé si llamarle título ¿no? Un oficio, ya van a tener diploma, oficio, entonces ya van a poder hacer cualquier cosa en una instalación de vivienda familiares. Van a poder cambiar los artefactos, cambiar los cables. Por eso les vamos a enseñar. Y después viene la parte Montador que tiene más responsabilidad, o sea, la... siempre va a depender de un montador o un... en algunos casos figura en la parte de salarial de la otra, eh, electricista especializado, oficial electricista especializado... la corrupción. También tenemos el albañil especializado y después tenemos el ayudante. Nosotros no tenemos ayudante sino auxiliar, el requisito. Requisito porque ya esa en el tema, por el tema de los honorarios. El una persona que tiene oficio, por más que sea auxiliarista, tiene un... en el salario un 15% más que el ayudante común, y el oficial electricista tiene un 15% más que el oficial de... O sea, esa es la diferencia. Estamos en... sí, todo eso, eso no puedo decir tabla de valores y le dado la boca.
+Buscan la fase y el neutro y listo.   
+   
+#### 2. Lámpara de prueba   
 
-Bueno, la idea es que este prolijo, que esto esté... se piden que esté, fíjense, fijos los conductores, que esto no se mueva, puede eh, puede producir y tiene una cosa muy importante que esto nos estaba olvidando interesante cuando empecemos a ver tableros. No sé si ustedes están viendo... a ver si el que mira y acepta leer no tiene... no el con... presuntos no es de presunto, parece bueno, pero una cosa muy importante: fíjense cómo están unos a interruptor, todo por arriba. Todo por arriba tiene un porqué. Después le cuento, pero acuérdense que todo interruptor trabaja por gravedad. O sea, acá está, pasa la corriente y acá no. Todo por acción de la gravedad. Esto va para abajo. Esto entonces va para arriba, entra por arriba y está desconectado. Recién cuando subo conecta toda la alimentación.
+Si no tengo el neutro sigo con esto, es muy interesante lámpara de prueba   
+   
+#### 3. Probador de tensión   
 
-Hay una cosa interesante, el interruptor termomagnético, yo puedo conectar por arriba o por abajo. De cualquier lado cumple la misma función porque el dispositivo, la parte interna, venga la corriente por un lado, producen un efecto, no hay problemas. Pero, ¿qué pasa? A ver si tengo un pedazo de cable para no desarmar esto, porque si no después dice: ¿por qué no? Hagan cuenta que este cable... ahora esto, acuérdense que tiene la alimentación por acá porque acá viene la alimentación superior, o sea, está previsto para arriba, pero vamos que esté al revés, la alimentación sea por abajo. Esta sería la alimentación. Si esto se afloja y llega a bajar, acá tengo tensión y cualquier persona que esté por ahí o otro circuito puede provocar que se pueda... entonces la idea exactamente y tengo energía que está dispersada, se afloja y va para acá. Entonces, lo ideal siempre por convención se trata de que todo haga de la misma forma. Así si usted entra en un tablero que tenga las mismas cualidades y si hacen también se van a poner por acá. Acá es más fácil. Pongo acá, de acá voy acá, acá de acá ya voy a cerrar. Pero bueno, esas cosas van... mendigo a medida que ustedes vayan observando cualquier foto, cualquier video, lo que sea. Estamos, dejo ahí. Acá va a ser y si no va a ser... ah, ¿qué le dije? Que esté bien sujeto. Sí, a ver, que esté flojo. Si yo no tengo la bornera esa que le dije, de dilatación. ¿Qué pasa? Habíamos dicho que esto se dilata. Se dilata y se aflojan los bornes. Les comentar una experiencia. Estamos haciendo una clínica, dos o tres pisos. No, no, no. Estamos haciendo una clínica y el segundo piso... casi cuando estamos por inaugurar o creo que ya estaban las primeras máquinas de los médicos, que... yo, empezó a un tiempo saltaba todo nuevo. Generalmente cuando una fuga... aire señal nuevo, equipos nuevos, artefacto nuevo. Vamos a probar. Como era distintos consultorios, pónganle los dos primeros consultorios no había tanto problema porque había poco consumo. Después cuando empezaron a venir o a habitar más los médicos, empezaron a utilizar más los boxes, le llamó, pero son los consultorios. Empezaba a saltar la marca... pasa. Me llaman a mí, digo: pues si la mejor marca que había en el mercado está ahí, porque necesitan seguridad. Bueno, le digo: si anda mal el interruptor, vamos a cambiar, pero voy a ver primero. Voy a ver. Bueno, lo primero que hago es empezar con un... para que ustedes entiendan, en estos casos particulares, uno baja, deja el disyuntor, deja el interruptor principal y baja todas las térmicas de cada circuito. Baja todas las térmicas y después va a levantarlas de uno. Cuando levanta a uno y salta el disyuntor, sabe ya que... levantaba uno. Entonces, vos levantar a uno en un consultorio... bajó uno, saltó. Algo está pasando. Seguí probando, le digo: ahora vamos a pasar a probar a dos. Probamos a dos... estaba, o sea que la fuga no... no era lo pasado. Después dijo: "Bueno, vamos a levantar otra vez, ¿qué pasa?". Saltó otra vez. Al poco tiempo saltó el... aunque ustedes no crean, el calor flojo en la bornera y hacía falso contacto. ¿Entienden? O sea, cuando había mucho consumo, empecé a olvidar eso. Como no estaba apretado la bornera, acá estaba flojo, hacía como eh, un efecto tipo chispazo, un efecto de fuga. Eso se... o sea, lo que quiero decir que a veces una pequeña... algunos llaman... ocasiona un problema mucho mayor. Entonces se aconseja siempre a los tipos que tienen instalación importante... por lo primero que visita, siento, revise la instalación, revise, vaya, ajuste, vea qué pasa, todo es importante. Y fíjense otra cosa muy importante, bueno, esto no está acá. Generalmente en estos tableros trifásicos en la tapa... Entonces, este es tablero tipo gabinete para que entiendan, o sea, que una caja que tiene una tapa y esto va dentro. Se puede sacar esto y se trabaja todo afuera y después va la base... la base está encogida que bueno... este, entonces ustedes ven todo y todo el sistema y todo esto hay que ajustar constantemente para evitar esto que está acá: el botón de prueba. Entonces yo aprieto y si hay una fuga... que hace el símbolo una fuga está, pero como esto... valeido, necesita para no tocar esto, porque acá arriba un contrafrente entonces ustedes no van a ver nada como el tablero que yo les mostré otra vez por otra frente, porque hay gente nueva y vamos, caballito de batalla así. Es aquel es aquel, ¿cómo se llama? El foco por la duda, o sea, no porque sí, vamos otra frente. Este como es monofásico, pero en el trifásico, ¿qué hacemos? Si esto es de tipo gabinete, colocamos tres **ojos de buey**. Parecido a esto. Esto que está acá es un ojo de buey que está indicando acá, en este caso, que tiene energía a la vista de cualquier problema. A ver, para evitar cualquier problema está indicando que hay energía. Todo lo que está acá y ahí estamos usando toda la parte de abajo. En este caso está baja esta porque una ducha eléctrica que como no tiene agua... la... eh, en los trifásicos ponemos tres ojos de buey, la mayoría es rojo. Entonces, ¿qué hace el tipo que hace mantenimiento? Desde lejos ve que están las tres prendidas y tengo las tres fases. Si están las tres prendidas, tengo las tres fases. Puedo sacar fase-neutro, fase-neutro y fase-neutro. Tengo las tres fases encendidas. ¿Por qué es interesante esto? Porque de lejos el tipo que hace mantenimiento, o sea, vas a ver que tengo las tres fases. Te cuento otra historia. Tengo para contar mucha historia... clínica otra vez de noche. Antes hacía mantenimiento de noche si te... fiden. Me llaman urgente que el otro día a las 5:30 de la mañana tenían cirugía y que justamente la parte del quirófano no tenía luz. Bueno, le digo: voy a atender, sí, me dice, pero no hay energía en una parte. No hay una... bueno, en vuelta. Llego allá, empiezo a probar, le digo: "Vos no fuiste a mirar a tu tablero principal, no viste los ojos de buey, no". A veces tiene lucecita, a veces no. Las tres también está saltando una fase, pero esa fase no es nuestra, sino que viene de la red. Llamado a gente de esa que venga, algún fusible o averiguada ahí en la cuadra qué problema tiene porque hay una fase que no está dando. Vamos, pero capaz que se toca adentro ¿no? Andá a pensar y bueno, cosas así. Entonces un día dije: usted para ese mantenimiento y hacer... contratar eso, a veces ocurre. Bueno, vamos a ir uniendo ahí para que usted para lo nuevo ahí a ver si traje y me olvidé también de mostrarles, siempre muestro algunas cositas así que a medida que voy viendo después, la semana que viene si Dios nos ayuda, vamos a empezar, yo le llamo divertimento, empezar a usar por lámpara todo lo que ustedes vayan manejando hasta los alicates. La semana pasada mi alicate me tronó como cinco veces. ¿Cuál? Mi alicate, la mano llena de cortada. Trampa el cable. Bueno, una vez yo le dije eso a un... a quien fue mi oficial mucho tiempo. Yo le digo: "¿Por qué no te compraste una **pinza amperimétrica**?". Y me dijo: "Este hombre... pelear los cables con él". Claro, pero a veces uno ve que yo sé lo que está diciendo él, aparte un reten, a veces el tipo que hace mucha electricidad tiene diferente... lo que está hablando para que usted entienda. Hay gente que puede ser que no conozca, no sé si traje... que todo como siempre la mitad de mi cosa está en la caja principal, pero después voy a mostrar para que se acabe de otro, bueno para que ustedes... usted entiende y la gente siempre cualquier trabajo que hagan va a haber un tablero de prueba. La que tiene energía ahí lleva levantado la base... la que justo y estamos... nadie.
+Tiene una escala aproximada de tantos valores yo les voy a mostrar.   
+   
+La lámpara me indica que tiene tensión y acá me da un valor aproximado que dice 230 en volt.    
+   
+Eso 3 elementos me indican que tensión está llegando, cual es la fase y cual el negro.   
+   
+Corriente alterna: fase y neutro. Corriente continua: positivo negativo.   
+   
+Minuto 46:20   
+   
+### Buscapolo a batería.   
 
-Bueno, este es bueno. Esto es interesante y de acá hasta el último trabajo práctico van a ser mismitos. Yo la idea que ahí van a venir ya sea con un tablerito, con una instalación que yo la había tipo bastidor así se va conectada. Ustedes van a venir y probar entrada, le digo: se está probando acá. La gente prueba acá y llega el chico allá. Hay una esposa que me molesta que vengan todos están mirando. Después traer mismo, va a ser él y va no se amontone, amontón y hay gente que trabaje tranquilo. A veces hacen trabajo a dos y hay uno que sabe más que no tiene que hacer poco y el otro también explicar. Pero tienen que saber, o sea, eso dice una mí dice todo. Yo dice sí está bien que aprender. Quiero que el trabajo sea de uno, no del otro. Bueno, sí. Buscapolo. Primero tiene que buscar, buscar polo. Buscan la fase, buscan el neutro y listo. Primero. Ya saben cuál es la fase. Si yo no tengo neutro, sigo con esto. Es muy interesante a mis lámparas de prueba. Ya tengo otro y después vamos aquí a mi amigo. ¿Cómo se llama esto? Ese no me acuerdo, o sea, que tuve uno, pero estaba... no, el es un probador de tensión, probador, y tiene una escala aproximada, este de tantos valores de tensión alterna, etc., y una escala aproximada. Voy a mostrar a ver si se ve bien ahí. Es... que muy poco, tengo todo. Entonces ahí me está indicando ya la lámpara, me indica que tiene tensión y acá me da un valor aproximado que dice 230 en voltios. ¿Qué significa eso? Que es un valor aproximado, está no es el real, pero le está dando la pauta que acá llegó tensión alrededor de 220, por ahí un poquito. Y si prendes solo los primeros ahí abajo. Sí, porque tengo tensión más baja, más baja. Anda pasando de que yo vea eso. Le digo que eso que me dijiste la otra vez que prenden todas las luces, esas cosas. Bueno, si no tiene... mano de prueba para saber el voltaje. Esos tres elementos me indica qué tensión está llegando. Estamos. Pruebo cuál es la fase y cuál es neutro. Acuérdense que los archivos que cuando hay corriente alterna trabajamos con fase y neutro, y corriente continua positivo o negativo. Vamos, pero constantemente vamos a trabajar con... después vemos cómo se genera todo el sistema y después tenemos este, pero este casi a mí no es que me convence mucho porque a veces se queda sin pila, te quedas sin pila. Y fíjense la continuidad del de la parte de fase y el neutro. Uno es continuo, el otro también. Y la fase del primero, ¿cuál es? El de la izquierda. El rojo, todo lo que ustedes da rojo es fácil ¿no? Azules. Eso siempre trato de que usemos los colores convencionales para que ustedes realmente vean y cuando vayan también exijo a la empresa constructora que me compren esos conductores y ustedes... cualquier cajita que ustedes ven ahí arriba tiene que aparecer ya saben que no estén probando porque a veces no tengo todo elemento necesario y es más fácil el trabajo. Esto. Bueno, no creo que tenga nada más para la gente que recién empieza y a veces tienen que revisar un tablero y el tablero no sirve ustedes, sino otras personas. Lo importante que tengan un guante. Estos guantes son bastante flexibles y entonces yo puedo tocar cualquier cosa y es muy difícil que uno reciba una descarga. Entonces eso es una cosa. Vamos al tema seguridad. Estoy vendiendo para todo el tema de seguridad. Esto viene para baja tensión, específicamente para media y alta tensión esto es el doble más grueso. La gente que usa entra, usa un solo guante. A nosotros nos cabe eso para meter la mano acá. Fíjense, mostrarle a la gente ahí para que vean, para que vean, ese era un tablero del Número Público Municipal que estaba funcionando abajo de la bajada... ese colado. Es medio como ese. ¿Cómo se llama eso? Guante para baja tensión. En algunos casos antes vendía la gente esta de producción y después... eh, hay distintos tipos de... pero tengo varios porque tengo que trabajar en la fábrica manager y él tenía... funcionaba, eso estaba andando. Bueno, otra cosa importante, ah, antes que me olvide. Ya está. Después vamos viendo utilizando cada caso particular, pero eso que ustedes ven ahí en probador de tensión, dijimos que un valor aproximado, eso es un valor aproximado. El valor exacto lo da el tester. Está eso como entienden, vamos a decir el multitester, el tester, lo que multímetro, todo lo que usted... mano es un tester en la partita porque este significa prueba. Entonces acá en este caso se pone, después vamos a ver cómo se pone el valor de tensión, y este valor acá se pone común y acá se pone el coso de tensión, y con esto mido dos bornes de entrada y ahí me da un valor exacto. En este valor exacto es importante que vayan viendo, pero el recién, el que empieza recién tiene con estos dos elementos o con estos tres elementos, por lo menos puede revisar la instalación y tener una cierta seguridad de lo que está viendo y está teniendo un control de qué pasa acá, si llegó corriente acá, si sale corriente acá, todo eso es importante. ¿Por qué es importante? Porque si yo tengo el interruptor magnético entra acá bajo y acá no sale corriente, es porque no pasa, que algo está pasando. Vuelvo a probar, bajar y subir de vuelta, y pruebo acá y pruebo otra vez acá, o a veces ando un rato y salta, o salta y no tengo energía. Quiere decir que ese interruptor está en malas condiciones al sufrir una sobrecarga o varias sobrecargas y está en su vida útil final, ya no... saben cambiarlo.
+Fijense la continuidad de la parte de fase y neutro. Una es continua el otro alterna.   
+   
+Todo lo que es rojo es fase, lo de azul es neutro.   
+   
+Por eso siempre usamos los colores convencionales para que realmente vean y también exijo a la empresa conductores que me compren esos conductores para que ustedes cualquier cajita que vean ahí arriba tienen que mirar los cables y ya saben. Es más fácil el trabajo.   
+   
+### Tema seguridad   
+   
+Para la gente que recién empieza a veces tienen que revisar un tablero y el tablero no lo hicieron ustedes sino otra persona y es importante que tengan estos **guantes** entonces son bastante flexibles y puedo tocar cualquier cosa sin recibir una descarga.   
+   
+Estos **guantes aislante** vienen para baja tensión, para media y alta tensión es más grueso.   
+   
+Alumno: "A nosotros nos hicieron meter la mano acá"   
+Profesor: "Mostrale a la gente para que vea."   
+Alumno: "Ese es un tablero de los nuevos públicos municipal que estaba funcionado abajo de la bajada del tablero?" (Minuto 48:20) Y eso estaba andando (Minuto 48:55)   
+   
+Profesor.   
+   
+Yo tengo varios guantes porque tengo mi hermano que trabaja en la fábrica Brazil.   
+   
+Antes de que me olvide después vamos a ir viendo usando cada caso particular, el probador de tensión me da un valor aproximado el valor exacto me lo da el tester.   
+   
+#### Multímetro   
 
-Bueno, ahí que... profe, los disyuntores tienen un día cuando hay que cambiar. Eh, el tema es este... constantemente. Este es un botón de prueba. Una vez hace una descarga, una fuga de corriente. Constantemente hay que probar eso. Si vos tenés mucha descarga es muy probable que ese esté... una vida útil... niño. Pero si tu instalación está bien hecha, bien difícil dura. Pero años, años no hay problema. Si es buena marca, mucho mejor. A veces, ¿qué hacemos? Nosotros habíamos dicho que la última parte de la norma ya pedían por cada circuito un disyuntor. Circuito un disyuntor. Fíjese en la cantidad de disyuntores que tengo que poner acá. Por ejemplo, acá puse uno trifásico, sino hay que poner uno por cada... aumenta el, aumenta 25 cada uno de esos 25. Depende la marca. Las yo te digo porque ahora aparecieron unos famosos **chinos**, son los chinos... ha probado por no sé... y todo, así que pero se mejor es para ser confiable. Acuérdense que habíamos dicho una palabra tan rápida ayer que por cada circuito yo puedo colocar 15 bocas, por cada toma puedo colocar 15 bocas. Si yo tengo que me toca a mí esto, él me da que conecte los chinos y yo coloco 15... busco poner ocho y siete, abro dos circuitos, entonces coloco, dame uno más de un chino más, y entonces tengo más seguridad de que ese... ese, ese interruptor que me va a dar más... me va a proteger esa línea, y si tiene algún problema puede... problema solo es aceite. ¿Entienden cómo hay de? Yo puedo usar todos los métodos que me esté bien normalizado, porque eso cuando hay trata se normalizan. Después voy a mostrar cómo se hace, eh, ingresa mercadería la parte eléctrica, por ejemplo, hacer una prueba y vienen, poner 1000 interruptores, sacan de una cualquiera unas cajas, arman, prueban y si pasa la prueba ponen lista.
+Acá en este caso se pone el valor de tensión y este valor acá se pone común y acá se pone el coso de tensión y con esto mido los dos borners de entrada.   
+   
+---   
+   
+El que empieza recién con estos 3 elementos puede revisar la instalación y puede tener una cierta seguridad de lo que está midiendo y está teniendo un control de si llegó corriente acá si sale corriente acá, todo eso con estos 3 elementos.   
+   
+Es importante porque si yo tengo averiado el interruptor termomagnético entra acá va y acá no sale corriente es porque este no pasa acá vuelvo a probar, bajar y subir de nuevo pruebo acá y acá o a veces ¿? (Minuto 50:50) ando de arriba y salta o salta y no tengo energía quiere decir que ese interruptor está en malas condiciones sufrió una sobrecarga y está en su vida útil final entonces hay que cambiarlo.   
+   
+Minuto 51.   
+   
+Alumno: Hay que cambiar disyuntores?   
+Profesor: El tema es este. Este es un motor de prueba (disyuntor), este es un botón de prueba hace una semejanza a una descarga de fuga de corriente y hay que probarlo. Si vos tenés muchas descargas es probable que tenga una vida mínima.   
+   
+Si lo hiciste bien la instalación dura durante años y si es de buena marca mejor.   
+   
+#### Habíamos dicho que la última parte de la norma pedía por cada circuito un disyuntor.   
 
-A mí me había dicho una cita que se sabe cuándo pierde su vida útil porque hace mal... ta cuando va. No sé si es verdad el... juito. No sé qué yo. No, no, no. Estoy pensando porque él no ha esa cosa y aparte ese pro que se escucha es el es el golpe por el resorte que él me dijo: "No, cuando esto ya no hace más viste que cuando uno baja". Claro, cuento otra cosa porque ya que estamos ahí hablando... tutor importante que cuando usted tiene su casa, un lado esto que está un montón de prueba, no sé si aquel que pusimos allá probablemente como la gente le gusta tocarse... salió el botón de prueba. En algunos lugares no tienen, no anda el botón de probar y la gente lo primero que hace es: bueno, hay que cambiar el... pero eso es solo un botón de prueba, no significa que este interruptor diferencial no ande, no este porque sacaron el pulsador y nada por estilo. Este es un botón de prueba. Lo que sí tienen que ver es cuando hacer una fuga para que ver si este interruptor diferencial se alta o no. Después le voy a mostrar cómo se hace. Ah, para probar. Claro, porque lo primero que hace el electricista es... interruptor diferencial no tiene un botón de prueba, no hay un botón prueba... forma de probar esto. Después voy a mostrar cuando empecemos las... prácticas porque si no le voy a dejarlo con... Bueno, vamos a empezar de a poco para no entusiasmar tanto la parte... no me faltó la señora ya siempre damos una una fotocopia. Pudiste haber venido un poquito más tarde. Traer todo otra vez. Eh, yo a veces no sé mucho la ciencia ciencia. Vamos a ver qué pasa. A ver si dónde quedó el tema.
+Fijense la cantidad de disyuntores que tengo que poner. Acá puse un trifásico aumenta mucho el costo.    
+   
+Depende mucho de la marca, los disyuntores chinos son más baratos.   
+   
+### Para que sea confiable por cada circuito de iluminación yo puedo colocar 15 bocas.   
 
-Bueno, vamos a empezar un poco de que vayamos introduciendo. Ah, para la gente que vino ahora acá hay un... un cuaderno de asistencia, cada hoja en un día. Entonces, te pone un nombre. La gente que no puso acá el celular ponga. Entonces, ya voy llamando grupos, tener un grupo de WhatsApp, voy mandando información. A veces eh, puede ser que una fotocopia no salga bien, eh, entonces le mando el original y todas esas cosas para que vayan viendo. No estoy viendo dónde quedó mi... por no dejar permiso. Esto me está dejando traer... no acá. No traje mi cartulina, pero me importa. Después ahí si sale o no sale, pero pasa esto y si veo los nombres después le pongo la característica a cada uno. No sé si me entiende. El se hacen así ya supuestamente ya están metiendo en el grupo. Estamos todavía recién ahora estoy así que no se preocupe que es el primero que... Bueno, hay una parte para la gente nueva que dice que una instalación eléctrica es segura y confiable cuando ve la primera parte de arriba... ahí. Esta que sería esto... pasar agrupado... que ha hecho instalación aplicando el **Reglamento de la AEA**. Esto es para que usted entiendan, Reglamento para ejecución de instalaciones eléctricas en inmuebles. Reglamento para instalación eléctrica en... A ver, reglamento para... y es tiene un código porque esto es para que ustedes entiendan, hay distintos reglamentos que hace el INTI, técnico argentino, y cada eh, puede ser red eléctrica, exterior, interior, computadoras, puesta a tierra, todo tiene un reglamento. Entonces, nosotros utilizamos para eléctrica en inmueble y es importante que tengan noción por dónde empezamos nosotros... marcadores. Eso después le voy a pasar también, así que si quieren sacar copia después de ustedes. Después tengo algo sintético que es la guía. Yo no vendo así está vendiendo producto guía, la situación eléctrica argentina. Instalación eléctrica en inmueble hasta 10 kW. Este, para la gente que hace proyecto, la primer parte es muy interesante porque eh, el tema de... de una vivienda, eh, la cantidad de bocas que se debe poner por metros cuadrados, todo esto es inteligente para gente que proyecta, que sirven para los alumnos que hacen escuelas técnicas generalmente, que son ellos establecimiento y tiene un título, hacen proyecto. Nosotros no hacemos proyecto, nosotros ejecutamos los proyectos, cosas distintas. Por eso tenemos que saber leer el plano. Y ya habríamos dicho que la forma de la lectura de los planos es conociendo la simbología. Nosotros leemos los planos a través de los símbolos y eso llevamos a la obra. Todo muy... con calma y todo lo que pasa con respecto a una de otra, pero esa la idea fundamental. En un papel o escala papel tenemos todo lo que debemos realizar la instalación y eso después proyectamos en escala real que usted vaya entendiendo. No quiero dejarme medio loco, pero no importa. Y después hay una parte dicha es más o menos teoría pura que ahí empieza con el tema de tablero eléctrico, tablero principal que trae medidor, gabinete medidores. Generalmente se usa gabinete medidores cuando yo tengo más de una vivienda, dos o tres que quiere en algunos casos un gabinete. Si tengo un edificio, quiero tener un gabinete medidor, si tengo eso en propiedad horizontal o propiedad vertical, siempre un gabinete para poder alimentar o tener el valor de consumo de cada vivienda por separado, porque a ver como eh, siempre por más que se tenga una casa y después se alquile la parte de atrás con otras casitas, lo que sea, siempre hay problema en el tema de quién paga más o quién paga menos, porque a veces se hace un solo medidor y se promete del... y después este parte igual y dice: "No, no, cómo voy a pagar esto". Lo mismo ocurre, aunque ustedes no crean, gente que tiene un cierto nivel económico, los médicos... solo tuve que ponerse contador por cada su propio medidor porque yo vengo dos tres días y me pelean por... yo uso el aire poco y aquel prendido todo el día el aire y de todo... es problema. Entonces se pone medidores separados para evitar. Bueno, entonces hay una parte muy importante que indica hasta la altura de los que van... eso, ¿cómo se llama? Corriente, la cajita para llave de punto, encendido y apagado en las luces, pero es más para proyectistas, la gente que quiere y este es el reglamento. Eh, que estamos es un tablero importante para visitar. He visto instalaciones unidas los cables con cinta... cinta... caso de emergencia. Sí, sí. Por eso, eh, a eso es lo que voy. Hay veces que cuando usted vayan caminando por ahí, viene una casa que tiene alguna trifásica tres fusibles de aéreo y arriba tiene una botella de plástico cortada. Otros le ponen un caño cortado y le ponen arriba de los tres fusibles. A eso está preparado para el agua corriente, el agua que viene lluvia, todo necesario. Ponen en definitiva... altera por lo general cuando ponen... bolsitos todo eso es porque con los... malos posibles están los tres a la misma altura. Claro, están los tres a la misma altura. Ahí sí pueden mover y sin querer el viento te puede tocar, pero realmente se pone en forma escalonada. Uno acá, otro acá y otro acá. Después vamos a ir con... echamos entrar en esta parte. Y hubo un tiempo que ponía una botella de agua arriba del pilar para que consuma, la verdad. Eh, y bueno, pero es igual que dice: "Poné ahí en la entrada de tu casa una botella de agua para que el pelo no me... eh cierto". No, pero hay gente que así cosas que uno va viendo y el mismo de los perros ahí es una como una... un va pasando de boca a boca, pero todos así tenían la botella de agua arriba del... primera vez que viste como decís profe, el montador el montador proyecta ¿no? El montador eh, tampoco proyecta, pero hace, o sea, eh, vamos a ver, no es que proyecta, sino puede hacer esquemas eléctricos, como le dije yo, yo que me contratan y necesitan: no, boca acá, boca allá, entonces tengo que hacer un esquema ya sea para que yo el día mañana o el montador pueda calcular la cantidad de materiales que necesita. Entonces, hay que saber, que yo le dije ayer, hay que saber aunque sea hacer un cuadrado, poner importante siempre, fíjense, es interesante si hacen un cuadrado o están en este caso ver dónde están las aberturas. Fíjense dónde está la abertura, están acá. Entonces ya saben ¿no? Si hay abertura, saben que si pongo allá el tablero y después pongo la cruz... encendido, no voy a tener problema porque las aberturas, la abertura pueden abrirse ¿verdad? Acá tenemos dos hojas, pero hay lugares que tengo solo una apertura de cierre de la puerta, entonces... para eso sirve el esquema, para eso no prendernos. Yo a veces traigo eh, cuadrícula, creo cuadriculada, entonces ahí hacemos la escala 1 en 100, 1 en 50 que es lo más utilizado para que ustedes vean como les dije ayer, como está por acá, pero en un rectángulo cualquiera... concha cuento siempre, y ahí aparto también puedo tener las medidas de 4 m acá, 2 m acá a 2 metros, los 4 a 2 m tengo... pasan una línea y a cada 1 metro con... centro, coloco centro, o sea, distintas formas que vamos viendo cómo es... climatizamos nosotros y nosotros... a sobre nos sirve para calcular la lista de material, eso es importante. Vamos pesado siempre en cualquier... Ah, esto es adoro antes que me olvide cómo vamos a utilizar eh, hay gente que une los cables y después le pasa el cable y hace... yo primero hago pelar el cable y después le voy pasando en forma de... loicoide (helicoidal). Le pongo directamente y tengo que hacer presión porque esto tiene una cierta elasticidad que es importante que esté bien sujeto. Cuando más fuerte esté es mucho mejor la sujeción del cable, ¿entienden? Eso van a probar después, pero hay gente que deja flojo y dice: "No es lo real". Bueno, de vez en cuando consigo otro color, pero esto es interesante tener diferentes colores de cinta cuando hago instalación a la vista y hago instalación de extensión y baja extensión. Esto la extensión normal quedó 20 y si tengo extensión baja, tengo que ir colocando una cinta para, en caso de que venga otra gente a hacer la instalación, no puede ser que las canerías... y vino otro electricista y hace la parte... caballado sepa que esa cañería que está ahí no es la que realmente deben pasar los cables de conductores y la otra posiblemente puede ser alarma, telefonía, lo que sea. Se tienen que diferenciar las cañerías.
+Por cada toma yo puedo colocar 15 bocas.   
+   
+Si yo tengo que colocar, vamos a suponer que el me da que conecte los (disyuntores chinos) en vez de colocar 15 bocas voy a poner 8 y 7, abro dos circuitos y coloco dame un chino más y tengo más seguridad que ese interruptor MADE IN CHINA va a proteger esa línea y si **tiene un algún problema voy a tener problema solo esas 7 bocas**.   
+   
+### Yo puedo usar todos los elementos que no estén normalizados con esas precauciones.   
 
-Bueno, vamos a partir la base. Vamos a borrar un poco. Bueno, este rápido que le dije el año pasado. Aquí pasa que tenemos sistema de iluminación, toma corriente uso general, corrientes especiales. Cada uno lo ideal es colocar la sección de conductores correspondiente. Eso va a moverme tarde, pero siempre una pauta porque de acuerdo a eso sale la protección de cada interruptor. El disyuntor, protege los cables, protege la vida por caso de fuga, esto contra sobrecarga y cortocircuito, y el otro es directamente por... o la descarga no sea producto de un riesgo eléctrico que uno puede cometer. Vamos a empezar siempre antes de empezar una instalación, ustedes tienen que saber no están... a mi lado. Cualquier cosa si venga un mosquito por ahí hay para... para matar el mosquito.
+Luego voy a mostrar como ingresa mercadería en la parte eléctrica hacen la prueba y vienen 1000 interruptores, sacan de una caja arman prueban y si **pasa la prueba ya está listo**.   
+   
+Alumno: A mi me habían dicho que se sabe cuando pierde su vida útil porque ya no hace ruidito.       
+Profesor: Yo no hago esas cosas.     
+Alumno2: El golpe se escucha por el resorte.      
+Profesor: Claro es un resorte. Esto que está acá es un botón de prueba, acá como les gusta tocar salió el botón de prueba, en algunos lugares no anda el botón de prueba, entonces la gente lo cambia pero es solo un botón de prueba no significa que este interruptor diferencia no funcione.   
+   
+Lo que si tiene que ver es hacerle una fuga para ver si este interruptor diferencial salta o no lo primero que hace el electricista: **"uuh este interruptor diferencial no anda y lo único que no tiene es el botón".**   
+   
+Luego voy a demostrar la forma de probarlo.   
+   
+### Vamos a empezar un poco de teoría   
 
-Es importante que entiendan cualquier lugar para que usted vea, nosotros o ustedes van a ver siempre un plano eléctrico visto de planta. Planta es que tenga todas las dimensiones mirando de arriba. Y nosotros que hacemos como los proyectistas, la parte eléctrica es como si sacáramos el techo y miramos arriba. Entonces ahí tiene que ver todas las bocas. Sacamos así lo que ven en planta es todas las bocas miradas de arriba. Entonces miramos ahí a toda la voluntad. Entonces hay un esquema general, nos interesa a nosotros de dónde partimos, dónde tomamos la alimentación, dónde viene la red, pero cualquier lugar que ustedes vean, vamos a suponer que tengo la calle, la vereda y acá tengo un elemento que se llama **línea municipal**. A partir de la línea municipal ustedes van a ver distintos terrenos, etc. Y en cada terreno puede haber una vivienda, dos, tres, edificios, lo que sea. Entonces tengo la calle y tengo la vereda, y en la vereda ustedes van a encontrar en algunos casos algunos postes. Y esto sigue para allá, sigue para allá. Poste de energía eléctrica. En este caso, como tengo poste puede ser de hormigón, tensión baja. En este caso, tensión baja. ¿Qué significa? Que esta red que viene acá, que es de la calle, en este caso de la distribuidora ENSA, tiene característica 380/220 V. Para que tenga esta característica de tensión de 380 a 220 V, esto tiene tres conductores de fase y un conductor neutro. Esto viene de un transformador que está por allá y bueno, pero lo que el significado principalmente que quiero darle es que tengo una línea de distribución y acá tengo un terreno, una casa, lo que sea. Vamos a esquematizar con un cuadrado cualquiera, que eso sea una vivienda. No importa que sea de entrada cochera, nada por el estilo, importante que yo tengo una vivienda acá, otra vivienda acá y otra vivienda acá. Estamos hasta ahí. Bueno, entonces, ¿qué pasa? Lo primero que te piden, dice: el esquema general. Esquema general de instalación eléctrica. Entonces, el esquema en general de instalación eléctrica es: viene desde la red de distribución y acá me entra, tengo la línea municipal, y en la línea municipal tengo la vivienda. Esta vivienda puede estar en la línea municipal porque no hay problema. Pues está retirada la línea municipal, tampoco hay problema. Y esto que está acá es aéreo. Aéreo que la mayoría de la distribución interna de nuestro fondo urbano, etcétera. Pero también puede haber subterráneo. Instalación subterránea. Esto ocurre en... Campo Azul. Espinillo Azul es distinto a este sistema. También por acá tiene un transformador, la base de transformador por acá que hace que baje la tensión de media y después vaya tensión baja 380... 13,2. Sería 13.200 V y después esa tensión baja y baja. Si yo me prendo de esto, ¿qué todo tipo? Tengo entonces un transformador que reduce la tensión alta o media en baja tensión. Esto es lo que realmente nosotros estamos tomando en la línea de... bueno, ¿qué pasa con la subterránea? También un transformador llega esta energía, pero en vez de hacer la distribución aérea hace una forma subterránea. Entonces, en un esquema de una manzana, vamos a suponer, la gente que mira o que está van a ver un gabinete bastante grande y ahí el transformador va al gabinete. Tiene en algunos unos interruptores y ese interruptor va en forma subterránea a esta casa, a esta casa, a esta casa, a esta casa, a esta casa, a esta casa, y así toda la manzana. No sé si me entienden. La gente que está en Campo Azul tiene ese esquema de distribución subterráneo. Llega un transformador, después se baja una caja, es un gabinete. Ese gabinete tiene alimentación... acá no hay que hacer un pozo, va tomando allá, va tomando acá. Esa es la diferencia que hay una forma subterránea en estos casos que estamos haciendo nosotros. No se debe cortar un conducto subterráneo. Por... el conductor subterráneo puede estar hasta mojado en el suelo y no hay problemas porque tiene la aislación para eso. Lo que no hay que dejar es que esté unido, pero después las... los bulones son estancos. Anteriormente se hacía un sistema con resina que quedaba duro, era muy engorroso y eso permitía que se podía unir algunos conductores subterráneos. Por eso el sistema de distribución acá parte de la... esto va a cada vivienda, el conducto subterráneo hasta el medidor.
+Esto fue lo que quedó de la clase pasada.   
+   
+Ah para la gente que vino ahora acá hay un cuaderno de asistencia, ponen nombre la gente que no puso ponga y armaremos un grupo.   
+   
+Alumno: "Permiso pero esto me está dejando ciego"   
+   
+No traje mi cartulina pero no importa, vean ahí si sale o no sale.   
+   
+Hay una parte para la gente nueva que dice que cuando instalación es eléctrica es segura y confiable cuando la primer parte de arriba ahí es la importante de la fotocopia.   
+   
+Que ha hecho una instalación aplicando el reglamento de la IREA ¿? (Minuto 59)   
+   
+Esto es para que ustedes entiendan el **reglamento para ejecución e instalación eléctricas en inmuebles**.   
+   
+Tiene un código porque esto es para que ustedes entiendan hay distintos reglamentos de la asociación de técnicos argentinos y puede ser red eléctrica exterior interior puesta tierra, todo tiene reglamentos. Entonces nosotros utilizamos instalaciones eléctricas en inmueble y es importante que tengan noción de donde empezamos nosotros.   
+   
+Luego lo voy a pasar   
+   
+Hora 1   
+   
+Después tenemos algo sintético que es la guía yo no vendo porque van a decir este tipo está vendiendo productos.   
+   
+Después tengo guía de la asociación de técnicos argentinos: instalación eléctricas de inmuebles hasta 10 kilowatts. Para la gente que hace proyectos la primer parte es muy interesante porque el tema de ¿? en una vivienda: **la cantidad de bocas que se debe poner en metros cuadrados**.   
+   
+Nosotros no hacemos proyectos, sino que ejecutamos por eso tenemos que saber leer el plano y ya habíamos dicho que la apertura de los planos esto nos sirve saber la simbología eléctrica.   
+   
+Nosotros leemos los planos a través de los símbolos y eso llevamos a la obra.   
+   
+En un papel tenemos todo lo que debemos realizar la instalación y eso luego conectamos en escala real, y después hay una parte que ya es teoría.   
+   
+Ahí empezamos con el tema de tableros eléctricos tablero municipal detrás del medidor, **generalmente se usa gabinete medidores cuando yo tengo más de 1 vivienda**.   
+   
+Si tengo ¿? (Hora 01:02) horizontal copia vertical siempre necesito un gabinete para poder alimentar o tener el valor del consumo de cada vivienda por separado.   
+   
+### Siempre por más que se tenga una casa, siempre hay problemas en el tema quién paga más o quién paga menos.   
 
-Algún día un pase profe, me quedé una duda ahí. En el cable de distribución que son tres. Sí, fase, neutro y ¿qué más viene? Tres fases y un conductor que es neutro. Tres fases y un conductor que es neutro. Ah, tres fases. Tres fases y un conductor. Sería un conductor. Ah, yo pensé que habían tres cables ¿no? Sí, tres cables más uno sería en total cuatro. Tres fases. Tres fases y una son cuatro. Eh, si ustedes a veces van a entender, pero si me dijo que era 4K, yo veo seis o siete. Puede ver que ustedes ven allí arriba. Esos son para iluminación o tres que son iluminación. Alumbrado público. Alumbrado público. Bueno, este es el esquema, pero el esquema que le voy a presentar es distinto. O sea, el que me gustaría que ustedes aprendan sería este que va a ser.
+Los médicos son jodidos, discuten porque la otra persona tiene todo el día prendido el aire, por eso por cada consultorio pusimos un medidor, porque vengo 2, 3 días y me joden porque uso poco el aire y aquel deja todo el día prendido todo el día el aire.   
+   
+##### Entonces se pone medidores separados.   
 
-Yo creo que tengo también a ver si tengo. Y si saqué fotocopia, pero como estaba en color es muy difícil que se vea bien. Voy a tratar de hacerlo algo mejor, aunque más negro. A ver si yo tengo acá como lo menos en color para que ustedes vayan viendo. A ver, a ver, a ver, a ver. Es que ese video pasar después de... el esquema general es así que le voy comentando ya cuando hagamos la parte teórica, puede aparecer algo de esto. Esto está en la norma y figura una instalación individual y una instalación múltiple. Instalación individual de una vivienda sola, múltiple puede ser un edificio, lo que sea. Estamos entonces parte red de distribución. Lo que vimos acá, esta es la red de distribución. El caso nuestro es 380/220. Esta es la red de simple parte... es si quiero darle alimentación a esta vivienda en algún lado para que ustedes vean. Vamos a colocar medidor o el gabinete de medidores esquemáticamente, la simbología después toda la simbología, pero o sea, vamos ir viendo esto que ustedes ven así aparece una M. Esto es la simbología de un medidor. Gabinete medidor. Esto que está acá es un gabinete medidor pero monofásico con los fusibles más chicos. Esto que tiene en frente se al frente y hacía con después tiene la entrada y bajada. Que está ahí algún día idea es conseguir un caño un pedazo, mostrarle la etiqueta, hacer la distribución acá, poner el tablero general y ver toda la instalación para que ustedes vayan viendo cómo se hace el conexionado. Eh, después que terminemos esto, a ver si traje por acá, pero que sientan algo volando por todos lados. No le voy a pasar eso porque si no ustedes van a recibir una fotocopia de un pilar monofásico de aprobación por ENSA. Después va aparecer un premoldeado, pero esto es lo que realmente se debe hacer con la cantidad de materiales que necesitan, la altura que debe estar colocado. Van a recibir esto. Esto es aprobado por... lo que sería altura, lo que pide la altura, cómo va, qué mampostería, qué cañería. ¿Se entiende? Todavía no, porque todavía no saben ni dónde sale el... sabe la simbología. Después de esto vamos a ver simbología para que ustedes realmente ya vayan viendo cualquier esquema y cualquier, ¿cómo que puedo decir? Luquito y sepan que están hablando de tal cosa o otra.
+Entonces hay una parte más importante que indica hasta la altura en donde van a ir esos tomacorriente, la tapita para la llave de puntos, el encendido apagado de las luces pero es más para ¿? (Hora 01:04) pero este es el reglamento.   
+   
+Cinta aisladora es importante para el electricista para unir los cables.   
+   
+### A eso es lo que voy hay veces que ven una casa que tiene una trifásica 3 fusible aeroes y arriba tiene una botella de plástico cortada otros le ponen un caño cortado y le ponen arriba del fusible aéreo.   
+   
+Eso ya está preparado para el agua que viene de lluvia, (lo que pasa es que a veces ponen todo juntos)   
+   
+Los fusibles aéreos se pone en forma escalonada.   
+   
+Hay gente que pone una botella de agua arriba del pilar para tener "menos consumo".   
+   
+El montador no proyecta, puede hacer esquemas eléctricos para que yo el día de mañana pueda calcular la cantidad de materiales que necesito, hay que saber aunque sea hacer un cuadrado poner fijense que es interesante le hacen un cuadrado o un rectángulo dentro de estas aberturas.   
+   
+Las aberturas están altas.   
+Si hay aberturas si pongo allá el tablero y luego pongo las luces encendido no voy a tener problemas porque la abertura puede abrir y cerrar.   
+   
+Acá tenemos 2 hoja pero hay lugares que tienen una apertura y cierre de la puerta.   
+   
+Para eso sirve el esquema. A veces traigo hojas cuadriculadas y ahí yo hago la escala de 1 100 y 150 que son los más utilizados para que ustedes vean en un rectángulo    
+   
+Como le dije ayer, en un rectángulo partido trazamos la diagonal ya encuentro el centro y ahí ya parto también ya puedo tener las medidas. 4 metros acá, 2 metros acá, a 2 metros, entre los 4 dos metros tengo casi 1 línea, y acá a 2 metros en donde intercepta el otro coloco el centro.   
+   
+Hay distintas formas que vamos a ir viendo como esquematizamos y vamos a calcular la lista de materiales.   
+   
+Esto es cinta aisladora hay gente que une los cables y después le pasa el cable así, yo primero pego el cable y le voy pasando en forma helicoidal y tengo que hacer presión porque es importante que esté bien sujeto, pero hay gente que deja flojo y no es lo ideal.   
+   
+#### Uso de la cinta: diferentes colores instalación a la vista.   
 
-A partir de ahí, por ahora estamos haciendo todo aéreo. Después le voy a mostrar qué diferencia hay por ahí. Bueno, voy acá no se preocupen. Sí, tengo así como tengo el archivador acá, tengo mi casa ya archivado de cantidad. Ustedes ven que me quieren echar de casa. Que si me echan de casa todas mis cosas va a quedar la mitad descubierta y puede ser, pero esas son cosas que tú necesito para que termino del... que lleva toda casa y voy... amontonando, pero bueno. Bueno, acá línea municipal. El medidor está después de la línea municipal por el límite, línea municipal. Si le vemos eh, vamos viendo que usted viene en la línea municipal, o sea, esta línea municipal que es del límite del terreno y ahí coloco en medio. O sea, que esto que está acá puede quedar en la línea municipal. Acá está. Vamos a un poquito más arriba si no tenemos problema de que se me dieron... eh, que a veces me cambian parecía que... Parece que nadie... el coche así porque tener cuidado. Voy a comprar un juego, voy a guardar acá y mirar eso. No, que pasa que a veces llevo eh... bomba envuelta y necesito poner para que... esas cosas.
+Es interesante tener diferentes colores de cinta cuando hago instalación a la vista y cuando hago **instalación de baja tensión y tensión normal**.   
+   
+Esto es tensión normal que es 220 voltios y si tengo tensión baja tengo que ir colocando una cinta en caso de que venga otra gente a hacer la instalación como puede incluso una cañería vienen otro electricista y hace la parte del cableado **sepa que en esa cañería que está ahí deben pasar los cables conductores y la otra puede ser alarma telefonía, video**. Tienen que diferenciar las cañerías.   
+   
+#### Esto es rápido lo que dije ayer: Tenemos un sistema de iluminación, tomacorriente de uso generales, tomacorriente de uso especiales. Cada uno lo ideal es colocar la sección de conductor que corresponde. Eso vamos a ver más tarde, pero esto si le doy una pauta porque de acuerdo a eso sale la protección de cada interruptor. Protege el cable.   
+   
+* El interruptor termomagnético protege el cable.   
+* El disyuntor protege la vida en caso de fuga.   
+   
+Uno es contra la descarga de cortocirtuito, y el otro es por fuga.   
+   
+La descarga se da por producto de un ... Vamos a empezar.   
+   
+### Ustedes van a ver siempre un cable eléctrico listo de planta es que tenga todas las dimensiones mirando de arriba, es como si sacaramos el techo y miraramos de arriba.   
+   
+Sacamos así y lo que vemos mi planta es una **mirada de arriba**.   
+   
+Hay un esquema general, que nos interesa a nosotros de donde partimos, donde tomamos la alimentación.   
+   
+Vamos a suponer que tengo la calle, la vereda y acá tengo un elemento que se llama línea municipal a partir de la línea municipal vamos a ver distintos terrenos y en cada terreno puede haber una vivienda 2 o 3 edificios lo que sea.   
+   
+Tengo la calle la vereda, tengo la vereda y en la vereda voy a encontrar algunos postes esto sigue para allá, poste de energía eléctrica, en este caso si no tengo poste puede ser una viga de hormigón tensión baja, significa que esta red que viene acá que está sobre la distribuidora EMSA tiene características 380/220 voltios, para que tenga estas características de tensión 380/220 voltios, esto tiene **3 conductores fase y un conductor ¿? (Hora 01:15).**   
+   
+Esto viene de un transformador que está por allá. Pero el significado principalmente es que tengo una línea de distribución y acá tengo un terreno.   
+   
+Vamos a esquematizar con un cuadrado cualquiera que eso sea vivienda no importa que sea entrada cochera nada por el estilo. Lo importante es que yo tenga una vivienda acá y otra vivienda acá.   
+   
+Lo primero que te piden es el **esquema general** de instalación eléctrica viene de la red de distribución y acá me entra la línea municipal y en esa línea municipal tengo la vivienda, esta vivienda puede estar bien sobre la línea municipal puede estar retirada de la línea principal tampoco hay problema.   
+   
+Y esto que está acá es aéreo y la mayoría de la distrubución interna de nuestro conurbano es esta, pero también puede haber subterráneo, esto ocurre en Itaembé Guazú.   
+   
+#### Qué pasa en Itaembé Guazú?   
 
-Bueno, este sí más la... y si yo quiero unir la distribución con el medidor o el gabinete medidores, el medidor está esto un gabinete en el cual se recibe de... para... eh, lo puedo hacerlo en forma aérea o en forma subterránea. No tiene nada que ver esto. Para que ustedes entiendan, hay una parte que se llama **línea principal**, en la cual yo mido con la línea de distribución y yo puedo hacerlo a través de línea aérea o línea subterránea. Si el cable, vamos a suponer que yo tenga un poste acá, este un poste de madera, orión, hormigón, la cual sujeta a la línea, yo puedo hacerlo en forma subterránea. Taca, taca, taca... ¿Por qué? Porque ese poste tiene 100 y 5 en algunos casos siete, y yo puedo tomar la alimentación aérea ahí, bajar por el poste en línea de forma subterránea y entrar a gabinete de medidores. Vamos a suponer que este sea gabinete medidores. Viene en forma subterránea, baja por los 6,50. Después le vamos a ver cómo es la bajada, cómo es la protección de ese conductor, porque ese conductor sale y... cuando hoy en día la gente cuando puede sacar cosa y puede llevar el conductor mucho más fácil, pero hay que hacerlo difícil. Entonces, a 3 m, vamos a suponer que este sea el poste... 6,50 a 3 m esa bajada del poste... se pone una cañería protectora galvanizada con la abrazadera y todo lo que los chiches, y esto después va en forma subterránea y llega al medidor. Estamos viendo la **acometida**, que se llama la acometida. Es la unión de la línea de la red con el medidor. Esto es subterráneo. Esto vamos a hacer en segunda etapa, pero la primera etapa me tengo que unir de línea. Si es fase, neutro, en algunos casos se une la línea generalmente preensamblado se une con un elemento que se llama **morseto**. Esto que usted acá es un morseto. Entonces agarra la fase y el neutro. Esto que está acá es un conductor preensamblado. Estamos. Preensamblado y tengo fase neutro. Se hace tiene una característica y después voy a mostrar cómo yo conozco qué son conductores iguales ¿no? ¿Cuál es la fase? Entonces, en este caso hay un relieve acá que van a ver y ese pequeño relieve en este caso es la fase. Está y el otro en el otro. Si yo tengo una alimentación trifásica con preensamblado son cuatro cables y ustedes van a ver un cable que tiene un relieve, el segundo cable tiene dos relieves y el tercer cable tres relieves. Son la R, S, T. Estamos. Este morseto, la línea esta es preensamblada. Entonces, como yo tengo sistema monofásico, acá hago la unión con el morseto y tomo fase neutro y agarro alimentación a... Para simplificar el esquema, hacemos solo una rayita y acá ponemos esto. Significa la simbología. Esto significa conductor y esto significa fase y sería así más chiquito ¿eh? Fase también ya en la parte eléctrica cómo hago el sistema simbología. Vamos ir profundizando, pero entonces el cable que tengo acá preensamblado, fue preensamblado siempre, profe. Eh, anteriormente la gente ponía conductores unipolares, eso que ustedes ven que uno solo, a veces blanco, a veces negro, unipolar, son dos cables separados. Esto se ha... preensamblado esta característica tiene mayor capacidad, o sea, la corriente que soporta este por más sección que sea igual que la del otro conductor unipolar, acá tengo la posibilidad de que la capacidad máxima de la corriente es mayor que... Pero estamos viendo a poco. Acá sigo que la unión sea un cierto ahí arriba. Esto baja al pilar. El pilar tiene en algunos casos y aéreo tiene un caño galvanizado. Ese caño galvanizado puede ser de 2 o 3 metros más o menos, creo que porque el nivel de piso está allí arriba más o menos son cuatro picos. Después le saca la media y ahí entra mi preensamblado directamente hasta el gabinete de medidor. Vamos a pagar con la duda. Así que acá y voy a terminar. Bueno, y tengo dos posibilidades. Yo acá tengo un medidor y en algunos casos viene, ahora no tengo, un morseto con fusible. Es un morseto con fusible. Acá viene el morseto. Morseto con fusible. Acá viene un sistema donde se pone un fusible. Ese fusible está calibrado y en algunos casos se calibra hasta 40 amp, que es lo que realmente me limita la corriente. Acá dentro me llegó 40 amp una vivienda normal de 40 amp. Después vemos cuál es la potencia máxima para esa cosa, pero después con fusible. Si no, no nos colocan el morseto con fusible, acá aparece o acá donde ustedes quieran. Esto es un fusible aéreo. Después por ahí tengo... dónde lo que... sí esto está ahí no saber dónde está. Blanco que está en el cable que está y eso sí tiene que a ver sí o sí tiene que... importa siete... si tenés fusible si tenés morseto con fusible no hace falta el aéreo, pero si tenés morseto simple como ese que está ahí se coloca el aéreo por las... no tenés que comprar... Esto que está acá, este que este conector del otro prensado, pero siempre corta el vivo o la fase inclusive a ellos solo coloco en la parte de la fase, no en el neutro. Estamos ahí nosotros compramos y sí, sí, le cuento. Llegamos a la parte fundamental. Vamos llegando hasta acá. Acá dice línea municipal. De acá para adentro tenemos ingeniería nosotros, y de acá para arriba la distribuidora. En este caso acá tenemos propietario o proyectista de contrate, pero la línea municipal para esto, nosotros somos lo que hacemos responsable allá para arriba hasta allá arriba. Pero qué interesante. Acuérdense que ahora cuando yo le pase el esquema del gabinete medidores con todos los materiales, nosotros como electricistas tenemos que hacer eso, dejar todo preparado, dejar preensamblado, la cantidad de metros para allá arriba, dejarlo, el fusible aéreo, lo que sea, los prensacables, todo es como... se hace el pedido o el propietario hace el pedido de producción a... paga el mecanismo el impuesto y después ya viene el técnico a conectar, le ponen el medidor y le hacen la conexión arriba. Estamos a todo preparado o al secretario por comparar este tipo de material de material porque... morseto de anclaje, mostrar con una de anclaje en este caso que es para sujetar el preensamblado y fijar al... ¿cómo se llama? al poste para que eso que el otro quede más un poco prensado y no se forme esa catenaria ahí que el arco ese. Entonces, todo eso hacemos nosotros en media hora. En media hora, eh, estamos todo preparado, el propietario paga el derecho de conexión. Nosotros le sugerimos a esa si queremos que sea aéreo o subterráneo. Eh, no. Eh, ustedes ya deciden o se digo, si ustedes quieren ver una casa por la propiedad que acá hay un poste cerca ahí, yo puedo bajar. Si no tengo un poste cerca y el poste está y medio para allá no puedo... la bajada de que está enfrente local o casa, entonces hago la bajada acá. Entonces, yo ya sé, es más estético subterráneo porque no queda colgado los cables, nada por el estilo, pero si no tengo otra opción hago esto. Pueden ver esto teniendo en cuenta que el medidor, el gabinete medidor también... municipal y lo pongo un cachito cuando está la vivienda retirada, no sobre la línea municipal, sino unos par de metros. Bueno, atrás del medidor, otro símbolo que lo van a empezar a conocer, un rectángulo y dos líneas diagonales. Esto es tablero general o principal que va a tener... dos diagonales. Está TG o TP. Algunos le llaman tablero general porque el primero que está atrás del medidor, general porque se llaman tablero principal. Cualquiera de las dos opciones están porque tablero que está atrás del medidor... generalmente ahí va. Vamos a suponer un ITM, interruptor termomagnético bipolar, depende de qué conductor, pero generalmente podemos trabajar de 10, de 32 o de 40 amp. Curva, esto importante porque ahí pide curva B. Esto pide esa curva B. Después vamos ir viendo. Yo voy a ir contando con el puntito para que ustedes vayan definiendo. Es una acción más rápido dentro. Bueno, que me dice acá esta línea que viene de acá de acá se llama **línea de alimentación**. Entonces, a veces hay una pregunta que dice eh, cómo o cuál es la línea de alimentación, es fácil. Es la línea de alimentación que viene se conecta de la red hasta el medidor. La línea principal. Estamos después le paso eso, así que tengan problemas y lo entienden es fácil entender. Esto viene a ser gabinete y ahí tengo el medidor de energía dentro del gabinete tablero principal. Hay una cosa muy importante que estoy viendo acá. A partir de acá dice acá... límite de aplicación de la reglamentación de la AEA límite. O sea, que todo lo que está acá dentro, yo aplico la reglamentación para instalaciones eléctricas en inmuebles. Acá para allá para acá hay otra reglamentación que no tiene nada que ver con nosotros. Nosotros hacemos el dominio de acá para acá, aplicamos la reglamentación de la AEA y la de acá para allá la inscribimos. Armamos todo lo que no pide. Perfecto. Bueno, cargando atrás del tablero general, el medidor, vamos a suponer que tengo la casa y dentro de la vivienda tengo un cabo y es la mitad ¿no? Este se llama **tablero seccional**. Ese tablero está dentro de la vivienda. Ah, tablero seccional dentro de la vivienda. Otra cosa interesante para que ustedes vayan ideándose, si yo tengo una vivienda, lo ideal es que... también que gente pone, pero lo más común es colocar el gabinete en un lado o del otro lado, no en el medio. Lo ideal siempre es colocar en un extremo los gabinetes lado para depende de donde está entrada, particular, lo que sea, es muy difícil entender el medio porque te va a aparecer un cable justo en el medio de la entrada de tu vivienda yendo acá y un poco hacer entrada. O sea, eso quiero que entiendas buena depende en algunos casos de las técnicas de proyectista. ¿Qué es el que hace la vivienda? Arquitecto. Realmente yo siempre trabajo con un arquitecto y tengo que saber lo que dice el arquitecto porque el arquitecto va a estipular más o menos y decir: "Bueno, hacerme la instalación y después pensar como piensa él. Si yo no pienso como piensa él es muy difícil tener una buena instalación". Estamos de repente los proyectos y a veces en algunos casos le pido al arquitecto que me defina primero los muebles y segundo qué iluminación quiero, porque acá en este caso, por ejemplo, tenemos esta iluminación que directa. Tenemos en algunos casos como garganta y son directas que reflejan por arriba y después me diría que tenga tiempo, que tenga el arquitecto en esos casos. Entonces es importante nosotros que somos proyectistas tratar de congeniar con el arquitecto que lo que él pretende del sistema de iluminación. Entonces los proyectos... tiempos. A veces el arquitecto se hace loco y eh agarra que el proyecto lo hizo profe y responsable... del tablero principal al seccional tenemos el conductor de cuántos milímetros el esquema de que la característica quiere, pero normalmente... normal, vamos a ver eh, lo que se usa normalmente ahora un preensamblado de seis o de 10 entradas. Entonces llega hasta acá y acá puedo llegar de seis o de 10 con un conductor de seis y teniendo poco consumo o consumo distribuido con seis también. Veremos cuánto qué capacidad máxima tiene para que ustedes entiendan. Y esto es muy importante. Después le explico por qué. Esto que está acá conductor... después que tengo en casa tengo algunos retazos. Y esto conductor... unifilar. Si yo tengo la misma sección de este conductor que este, este, acuérdense que necesita sí o sí de un sistema de canalización para proteger estos conductores. ¿Sí o no puedo tirar ahí arriba del brazo así no más el conductor? Porque tiene después explicar que tiene dos motivos, uno por los... otro por el sistema eh... sin aislación, entonces se puede parar el cable y puede provocar en este caso si hay maderas, en serio, en caso de tener mayor mucho consumo. Bueno, pero lo que me interesa es que entienda lo siguiente. Yo tengo un conductor preensamblado puedo tener acá y un subterráneo de sección igual que este conductor este tiene una capacidad máxima. Vamos a suponer que este sea de seis, de 10, vamos a suponer de 10 acá y acá. Este es la capacidad máxima de un conductor de 10 mm es casi 32,5... Y este conductor de 10 mm preensamblado tiene capacidad máxima 10 veces, una ley de... 32,52 amp. Ahora vamos a ver si este es seis y este es seis. Este tiene capacidad capacidad máxima de 28 amp y este debe tener por lo menos 40 amp... preensamblado superior también. La característica constructiva de estos conductores son distintas. La capacidad máxima que soporta son distintas. Entonces, ¿qué es lo que quiero decir? Fíjense, me llama un conocido, me dice: "Che, hay un electricista me quiere cambiar toda la instalación porque el conductor de entrada es más chico que conductor que va al tablero seccional". Para que usted entienda, decía que el conductor de entrada era de 6 mm y acá el que puso era de 10. Entonces la aconsejada al propietario que cambie toda la alimentación. El electricista le puede decir que este conductor sea de 6 y otro de 10. Pero el tipo no sabía... le dije: mostrame qué conductor tenés. Dice: "No, me reí". El primer tipo que no sabe que este conductor puede soportar mayor carga o igual mayor que este conductor de 6 mm o de 10 mm. ¿Entienden? El tipo quería que... había todo. Está mal, pero no porque este este tenía la propiedad de soportar mayor carga de este que era un... un conductor. Entienden que a veces algunas cosas es interesante saber el origen porque eh se promete y si el tipo no preguntaba iba a tener... candidato a... me preguntaba, pero bueno, eh, para eso siguen los mismos asesores. Profe, de la distribución al medidor se llama línea de alimentación y el TP al TS, ¿cómo se llama? Ahora va. Está apurado. Está apurado. Ya está, ya está. Cierto que está casi al límite. Ah, bueno, esto se llama, para que usted entienda, **línea seccional**. Eh, línea principal, línea seccional. Para el circuito de línea o circuito a circuito seccional. Línea seccional. Fíjense, tengo la línea de alimentación después le voy a pasar esta definición y hacer para que ustedes entiendan bien el... que está ahí. Tiene alimentación que vincula la red de la empresa distribuidora con los bornes de medidor de entrada acometida. Se llama así el conjunto elemento que se utiliza para hacer la conexión entre la red alimentación y medidor, o sea, el cable, fusible, cañería, todo este elemento, esto, esto, todo lo que ustedes tienen ahí se llama conectividad, en un conjunto de... Estamos todo esto que es estamos posible con cables, todo esto se llama como la otra línea de distribución principal e o línea de alimentación de acá a acá hay una línea que se llama línea principal. ¿Por qué? Porque a veces atrás del medidor y dijeron: "No, acá tengo el gabinete, voy a poner tablero general un poquito más allá. Ajusto la pared en un chin o lo que sea, eh, resulta más importante a la persona o a la gente que habita general un poquito más allá. Entonces esta línea que va del medidor eso al tablero general se llama línea principal. Para que ustedes entiendan, aunque esté atrás del medidor, todo el medidor saco una alimentación que va al tablero general o principal del medidor. Saco una línea que va al tablero general. Esa línea se llama línea principal. Vamos viendo un poquito más, pero para que ustedes vayan bien. Estamos esta es línea seccional. Después voy a pasar más para que ustedes entiendan. Y acá la línea de cable seccional, que es este, va a cada circuito. Entonces, esto se llama **línea de circuito**. Acá puede ir un toma, puede ir otro tablero acá porque puede tener un pincho allá en el fondo tablero, tablero seccional uno que sale tablero principal. Entonces todo esto que está... ditando cosas puede resignar una línea de circuito de circuitos. Esto va a andar... rebid así que lo único bueno que el gráfico se va a ver un más o menos, pero ahí se ve bien. Así que probablemente la definición exacta.
+Es distinto a este sistema también tiene un transformador y una base al transformador para acá que hace que baje la tensión de media y después vaya tensión baja 380/220. Acá hay 13,2 sería 13200 voltios y después esa tensión baja, **si yo me prendo de esto quemo todos los equipos, tiene que haber un transformador que reduce la tensión ALTA o MEDIA en BAJA tensión**.   
+   
+Esto es lo que realmente estamos tomando de la línea (BAJA TENSIÓN).   
+   
+#### Qué pasa con la subterránea?   
 
-Profe, ¿qué simbología puso en la línea en la línea seccional? Eh, una línea no más y después tiene otra fase, una línea, todo lo que sea el conductor o una línea. Así se eh se grafica en forma unifilar, pero la característica que tiene es que tengo una línea que es la fase y otro que es el neutro, por eso indica dos. Cualquiera. Vamos a suponer que yo tenga una alimentación trifásica de un motor que va de acá hasta allá. Ahí van a aparecer tres fases, tres líneas, porque esto es trifásico porque tengo un motor y tengo la alimentación. Si tengo una alimentación como ese que te mostré, ahí tengo una y tengo una, dos, tres fases más el neutro. Esteito sí es neutro. Las tres fases la alimentación por sería ese cable que está ahí. Estamos, o sea, lo que estoy tratando de darle ahora es a medida que avancemos les podemos mostrar un... la cantidad de símbolo más usado dentro de una vivienda para que ustedes tengan bien definido y qué representa cada, ¿cómo se llama? cada símbolo. Ustedes van a ver que va a haber una caja... una caja cuadrada y cada cosa está simbolizada. Entonces yo cuando veo el plano o veo... escuchado voy a tener que tener idea cuando hago la canalización ese cuadradito caja cuadrada. Si la caja octogonal no aparece este diferencia de otro tiene un porqué. Fíjense que es más alta que las otras. ¿Para qué? Para... ¿para qué? para ventiladores, para más conductores. Frío, frío, frío. Frío, eh, paso, no, eh, no le voy a exigir tanto. Esto es cuando uno tiene losa, la losa que continua se hace primero la parte de madera, se ponen las cajas, se hace la distribución, después va el hormigón arriba. Fíjense que es más alto que esto. Entonces, eh hay perdidos de hierro, todas esas cosas y me logro una mejor distribución en que está hablando los... cinos más por se use este tipo de que generalmente no estamos haciendo mal los... archinos, pero bueno, pegó esto reserva por ahí para que tengan en cuenta que puede aparecer eso en una instalación y lo van a tener que hacer ese tipo porque es más conveniente. Acuérdense que también se hace losa con estos flotantes con... ladrillo cerámico. Se ponen las vigas, el ladrillo cerámico eso, y bueno, hay que pasar por arriba de... cortada, lo que sea. Vamos a ir viendo esa parte porque el interesante porque a veces no encontramos con cada conjunción y tenemos que saber cómo hacer una operación también aparece los sistema de losas que van apoyado arriba y tenemos que hacer también operación. O sea, que todo implica que siempre podemos tener distintas características constructivas y nosotros como instaladores tenemos que saber instalar. Puede ser que, fíjense, en vez de pagar una pared hacen pared de duro. Entonces, tenemos que saber cómo colocar fijar las cajas en duro. No es problema. Al principio me acuerdo que hay gente que agarraba y no conocía bien el sistema de hacer... canaletas y colocaba las placas y después cuando tenía que colocar el tomacorriente... ponían y las cajas no estaban bien fijas porque hacían el cuadradito más ahí apoyaban y trataban de que atornillarle por la placa... la placa... que eso o empujado otra cosa y otros errores que he visto, esas cajas que son las cajas 5 por 10 que son de los tomas o las llaves, eh en ladrillo cerámico de 10 o 12, no sé que casi paredes ahora siempre le digo a los albañiles: piquen la pared no hay problema, pero cuando pongan la caja, pongan cemento acá, tiene que ir cemento acá, cemento acá y cemento acá, porque el ladrillo será único hueco. Entonces, ¿qué pasa? Pongo, vamos a suponer, una cajita con tomacorriente ahí, no le pegué, no le puse cemento atrás. Como el tomacorriente constantemente enchufan y enchufan, enchufan hasta que después quedan... flojos. Yo todavía tengo en mi casa que tiene eso. Le dije sí cuándo va a arreglar cuando gana y sí porque si me está el perro cuando vino con ella está durmiendo y cuando tengo ganas y cuando se levantan al mediodía, fin de semana que al mediodía, yo ya quiero hacer otra cosa, pero tengo que arreglar. Empujan el... O sea, eh siempre es interesante, por eso cuando no conectaba, vamos a ver cómo se fijan las cajas, cuánto eh centímetro. Generalmente 1 cm. Eh, a veces uno tiene el metro, pero un dedo 1 cm, 2 cm para que tenga referencia. A veces no tengo un metro al lado puede que hacer y igual que ustedes sacan, pero eh justo se olvidaron el metro y tengo que hacer cuadrado acá 1 m, 2 m, 3 m, 4 m, 5 m. 15 años, ya que eh cualquier parte del cuerpo puede resulta interesante para saber o tomar las longitudes porque hay que... medir sí o sí, pero a veces me olvidé uno, ¿entiendes? Bueno, siempre se busca la manera de... llaman, dice: "Vení, necesito que me haga una ampliación". Justo no ten elemento ni elemento, nada. Bueno, tenés que rebuscarte, hacer el dibujo y tomar las medidas principales. Señora, hay una señora que se va bien en bodas, le vamos a dar la posibilidad que se busca primero. Eh, voy a ver si puedo conseguir que se vea mejor este esquema. Si todos hicieron el QR por ahí, le voy a pasar. Le voy pasando lo que vimos se vayan armando su carpeta. Igual yo le voy a dar fotocopia. Si no tienen posibilidades, le voy a dar fotocopia y alguna carpeta. Ahora una para todos la fotocopia que le doy de que falta o buscan la carpeta o le de qué dimos. Entonces por lo menos tiene la posibilidad de ver revisar no le ve así. Ay, profesor, cuando examen, ay, no sé, pero no pedir ahora puedo sacar una foto al al tema ese. Así es.
+También hay un transformador. En un esquema de una manzana la gente que vive en Itaembé Guazú verán un gabinete bastante grande y de ese transformador va un gabinete la idea es que quede en algunos unos interruptores y ese interruptor va en forma subterranea a esta y a esta casa y así a toda la manzana.   
+   
+La gente que vive ahí tiene ese esquema: Llega a un transformador después se baja tiene una caja parece un gabinete ese gabinete tiene alimentación acá no es que hace un subterraneo y vas tomando, vas tomando ese acá, esa es la diferencia que hay en la forma subterranea.   
+   
+No se debe cortar ni ponerlo en forma subterranea, porque el conductor subterráneo.   
+El conductor subterráneo se puede mojar no hay problema porque tiene aislación para eso, lo que no hay es que ese quede unido, anteriormente se **hacía un sistema con resina que quedaba duro y eso permitía que se pueda unir algunos conductores subterráneos por eso el sistema que funciona acá parte de acá y esto va a cada vivienda el conducto subterráneo hasta el medidor.**   
+   
+Alumna: El cable de distribución que son 3, que otro más viene?       
+Profesor: 3 fases y un conductor que es neutro.   
+   
+A veces pueden haber más de 4 cables, 6 o 7. Esos cables son 2 de iluminación o 3 de aluminación (alumbrado público).   
+   
+Este saqué fotocopia pero como no estaba con color salió mal...   
+   
+El esquema general es esto. Así que les voy a ir comentando cuando hagamos la parte teórica esto está en las normas y figura una instalación individual y múltiple.   
+   
+Individual una vivienda sola.     
+   
+Múltiple puede ser un edificio.   
+   
+#### Parte de la red de distribución en nuestro caso es 380/220, esa es la red de distribución siempre parte de ese.   
 
-Pasando eso, viene toda la reglamentación, está parte de la reglamentación yo lo hago más sencillo porque este es el cuarto reglamento más o menos. Si va todo bien atacar... auxiliar, bueno antes que me olvide porque es importante no dice... Pero puesta a tierra, puesta a tierra símbolo puesta tierra así... puesta tierra siempre en todo gabinete, en todo medidor hasta en... te pide que estés en el gabinete... puesta tierra si no no te baja la luz que... aparezca... conductor desnudo, conductor verde amarillo. Estas... vueltas ahí no dice el esquema pero se sabe eso ahora cuando eh voy a prepararse la semana que viene le voy a dar charla para que vayan entendiendo lo que... fácil aprobado por ENSA y todo lo que ustedes hagan tienen que ser igual que esa si no no puedo. Gabinete metálico, en otras provincias ya quizás trabajar con gabinete de PVC, eh atrás también en metálico en otra provincia se pusieron todos ahí empecé a mirar a ver después a verano es no se olvide ponerlo. La gente que no está ahí ponga el teléfono que sea. Cada hoja de eso nos vemos cada hoja que está ahí eh antes. Bueno, después vemos el lunes. Entonces, eh, pero ahora es lunes más y miércoles. Si hay otra novedad, charlando lunes. Eh, no camb... ah no cambio. Bueno, entonces voy a mantener debido a lo optimismo de los alumnos. Voy a hacer. Bueno, alegra que hayan venido. A poco se van agrupando. Usted trajo el esquema de este mismo que estaba rojito. Una foto es que ahí es, o sea, todos los tableros tienen que ir con esta característica. O sea, si yo hago un tablero al costado, contratapa, lo que quiera, tiene que el esquema, porque ahí te... S1 es S3 o lo que sea y va a tener iluminación por ahí... aula. En este caso como es escuela, esto después se se arregla, se se pone la altura, pero primero tengo que armar aquí esta parte para poder darle todo ya y se va bien a... y acá hay 1 millón, 2 millones de precio. Una térmica Schneider tiene que promediar entre los 45.000, 60.000 pesos. Una Schneider. Esa no. Eso es más barato. Sí. Ah, no. Eh, el esto alimenta no el... ah, el tema es así, depende cómo sea tu alimentación... para fíjense que que van a ir a cualquier hora acá y cada hora... tro y la alimentación de la mitad de donde está el pasillo al baño. Hay un carrero que maneja todo este lado. Hasta ahí estuve dirigiendo yo. Ah, cada uno y los otros te hicieron después ya era para inaugurar sí o sí. Entonces contratamos otra gente, pero parte hicimos todas las... cuatroaciones de esta aula hicimos nosotros. Dejaron solo cuatro de esto o dos de estos eran. Ahí están dos de estos y se quemaron. Entonces muy oscura y bueno, eh, los vamos a... y a veces traigo los tubos de una escuela que acá antes era le pasamos al... eso también es importante que a veces ahora ya no hay más hay todavía, pero eh, una proporción los tubos fluorescentes, entonces cambiamos por tubo LED. Aparte que se estos sí se parten son menos peligrosos porque el otro el fluorescente tiene un gas adentro que es venenoso si vos lo respiras. El más el polvo que es el polvo. Es el polvo. Bueno, estamos ya. Eh, fíjense que tengo contacto con algunos alumnos de Cerraza y bueno, eh, la puede ayudar asesorar... a semente el símbolo de Claro. Se fue una bomba, una se puede una bornera, policía que se va a colocar acá. Lo que siempre estoy enseñar que siempre hay que tratar de hacer por un lado y la salida por otro. ¿Por qué? Porque si acá a veces hay gente que le gusta meter todo, acá hay que hacer un ramal solo para alimentación y distribución, solo un ramal. Pero, ¿qué pasa? Y un... lo tiene si yo tengo un problema de cuatro circuitos de cualquier conductor o cualquiera circuito, puede que mi alimentación... Entonces, lo ideal es que la alimentación esté por un lado, en este caso viene por arriba. Va a dejar que... acá ya salida todo por lado. Entonces no tengo problema si yo ahora salí acá y meto por acá no queda. Salí por acá todo esto salió. O sea, hago por un lado la distribución, la alimentación principal y la otra que va los circuitos por otro lado. Tanto la salida como la... no depende. Ah, depende, depende como puede ser abajo porque una información subterránea y venir por acá y subir arriba y puede asumir esto puede ir por abajo porque hay el cable acá y puede tener tomas por acá, no se bajan por acá y los tomas. ¿Entendés? Lo que no puedo hacer es el tablero me sirva como caja de paso. Vamos a suponer que yo tengo eh, el tablero acá, quiero perder las luces, ir a la estación acá por acá y quiero meter las luces ahí. Entonces una caja de paso que vaya las luces y después la venga el a la llave y tiene que pasar por el panel, o sea, no tiene que ser como caja de paso, todo eso no sirve. O sea, bueno, eso es lo que se quiere ¿no? No, pero bueno, es fusible, lo que me olvidé, bueno, se pueden mover esto de fusible así como está, no tengo corriente, que claro, es un un conductor desnudo, calibrado generalmente de plata que está que se pone tipo ahí para que ajuste. El fusible de qué protege el fusible de... cortocircuito y sobrecarga que pase la corriente que se coloca acá. Vamos a suponer que yo pongo un alambre que es de plata calibrado a 40 amp. Pasa los 40 amp y... por fusión calienta... está calibrado, ¿eh? Eh, puede tener otro tipo que vos quieras, pero eso es lo que hace el fusible. Anteriormente, como yo había dicho, le había mostrado otra de esto, los primeros eran protegían los conductores, estos fusibles calibrados a rosca. Entonces tenía la rosca, vos sacabas, tenía un... que le llaman ellos y dos bornes acá pasaba un hilo con un... tapón por adentro eso después y un coso de arena en caso de que tenga la fusión y corte, se apagaba la chispa directamente la arena esa no es... silice le llaman, pero tengo arena, pero para que ustedes vean que que es más o menos parecido a la arena.
+Si quiero darle alimentación a este vivienda en algún lado vamos a colocar un medidor, o el gabinete de medidor. Esquemáticamente la simbología **si aparece M esa es la simbología de un gabinete de un medidor**.   
+   
+Esto que está acá es un gabinete de medidor pero trifásico, monofásico es más chico. Tiene el frente, se puede sacar el frente y hacer la conexión luego tiene la entrada del conductor ese.   
+   
+#### No entendí   
 
-Después apareció el unipolar de esto. Portaba solo el vivo, solo una llave. Eran las técnicas negras. Sí, las técnicas negras que esa era la marca americana. Después aparecieron la... la eh y tenía solo una llave de unipolar. Después exigieron como el conductor neutro que yo les comenté que era único, daba todo el circuito, recogía todo circuito, sino que variaba de la térmica para controlar la fase. Cuando había cortocircuito, como son... o si era el circuito neutro, había cortocircuito. El cortocircuito que hace, produce una corriente muy grande. Esa corriente grande puede pasar por el neutro y va a ¿dónde? A un equipo que tiene un sistema electrónico y quema. Entonces, aquí siendo este reglamento hicieron que todos los circuitos sean bipolares. Entonces en caso de que haya un cortocircuito, la térmica ese... unipolar corta fácilmente directamente. Eso es lo que la gran ventaja que tenemos ahora. Como le dije, tenemos termomagnética y el tercer componente para una protección segura y confiable para una instalación es la puesta tierra que existe sí o sí a partir del 2006 es obligatorio que todos los circuitos tengan puesta tierra que eso hacen algunos le desconectan la tierra de la ducha eléctrica para que no salte el disyuntor. Claro, después vamos a ver eso. Eh, hoy en día está mejorando ya lo que hace así.
+El otro que está ahí algún día mi idea es conseguir un caño garbanizado mostrarle la pipeta hacer la distribución acá poner un tablero general y hacer la instalación para que ustedes vayan viendo como se hace el coleccionado.   
+   
+Después que terminemos esto.   
+   
+Vamos a recibir una fotocopia de un pilar monofásico de aprobación por EMSA. Después va a aparecer un premoldeado. Esto es lo que realmente se debe hacer con la cantidad de materiales que se necesitan la altura que debe estar colocado.   
+   
+Aprobado por EMSA tiene que seguir al pie de la letra lo que pide la altura, que cañería, se entiende? Todavía no porque no saben ni de donde sale el medidor pero empezamos con la simbología.   
+   
+Luego vamos a ver simbología para que ustedes vayan viendo.   
+   
+Por ahora estamos haciendo todo aéreo.   
+   
+### Acá habrá una línea municipal, **el medidor está luego de la línea municipal** o en el límite de la línea municipal.   
+   
+O sea esta línea municipal ahí coloco el medidor, esto que está acá puede quedar en la línea municipal. (Hora 01:27 el profesor escribió con marcador permanente en vez de agua)   
+   
+Si yo quiero unir la línea de distribución con el medidor o gabinete de medidores, el medidor está dentro esto es un gabinete en el cual se recibe el recinto para el medidor.    
+   
+### Puedo hacerlo de forma aérea o de forma subterránea.   
 
-Vamos a hablar de la ficha eléctrica esta que venía de Brasil... un poquito más. Una época uno instalaba la ducha eléctrica, ponía por alimentación eh, la salía al disyuntor, el circuito por una térmica y se iba directamente a la ducha eléctrica de... y la puesta a tierra. Pero, ¿qué problema tenía? Como una resistencia a veces un choque térmico el agua, la resistencia entonces provocaba como si fuera una fuga de corriente. Entonces hacía saltar un... torque. Entonces que yo en mi casa hago así eh estaba bañando cortaba toda la instalación eh hacía no hacía saltar. Ahora hay gente que hace térmica. Entonces, ¿qué hice? Eh, o conectaba al disyuntor o hacía puesta tierra. Entonces yo le conecté, saqué del disyuntor afuera del disyuntor y le puse a la térmica. La térmica entraba ahí y la de la ducha bajé a una puesta tierra. Entonces, la ventaja que tenemos ahora es que antes eran de los estos de... logo o si no de bronce, o sea, que son metálicos. Entonces cualquier fuga de corriente se transmitía por la canería y... tiempo que lleva ahí hoy en día de... crecer. Entonces esa pequeña fuga de corriente porque cosa va directamente a la tierra. Esa es la ventaja que tenemos ahora de poco ¿no? En algunos lugares. Una vez estaba haciendo... tipo para un club, yo quería poner un termotanque y ellos querían poner duchas eléctricas. Bueno, vamos a probar. Entonces hicimos toda instalación, todos los sistemas y lo que pasaba entend eran como seis boxes. Si prendía una sola andaba o dos andaban bien. Prendía las tres o cuatro y saltaba todo, se recalentaba la línea... piloto. Después con el tiempo se volvió a poner el... una termotanque de 100.000 L, de 100 L. Pero viste que a veces la gente quiere adornar. Hoy en día tenemos, como le dije, estoy haciendo algún edificio con una empresa y ya sacaron el tema del gas, que todos los elementos que están ahí, termotanque, eh, horno eléctrico, todo lo que ustedes quieran, o sea, se hace con electricidad, se no hace instalación de gas y hay que prever todos esos consumos mejor que antes, porque todo el equipo produce eléctrico. Le comenté que yo una cocina que tenía cuatro anafe y horno eléctrico. Se recompleta. Voy al catálogo porque tengo un problema en una casa. Voy a averiguar. Voy al catálogo y me dice consumo de la cocina 7500 W. Fíjate que para una posición más o menos buena necesita una hora, una hora 7500 W instalación porque eh el cable que sea de... tienes que calcular porque le dije dividí 7500 dividido 220 te va a dar la corriente del consumo normal de esa cocina y daba 32 o 23 o por ahí ampere, y ese ese consumo es lo que vos... una cara convertida de 10, o sea, y vos tenés toda la casa un elemento que está consumiendo todo lo que tenés usar nadir las luces ni la heladera porque tu heladera está consumiendo todo lo que vos y se quemó la instalación. Entonces le reprogramé la instalación de otra forma y le dije si usa... horno sin el horno, usa el horno y muy... horno. Más que eso ¿no? El señor sobrecargaba la... y así logré avisarle al tipo, porque el tipo era un tipo que vino de Buenos Aires, vino como abogado de ese entonces de eh de... Cipolletti. Entonces trajo todo su esposa de Buenos Aires y bueno, la tiraron una una casa que la negra y todo el le ponen su equipo ahí... lado. Pero bueno, es interesante porque siempre hay problemas que uno tiene que solucionar.
+Para que ustedes entiendan hay una parte que se llama línea principal en la cual yo me mido con la línea de distribución yo puedo hacerlo a través de aérea o subterránea.   
+   
+Si el cable, vamos a suponer que yo tenga un poste acá, este poste de madera o de hormigón en la cuál sujeta la línea yo puedo hacerlo de forma subterránea tac tac tac (Hora 01:29) porque ese poste porque ese poste puede ser de 6 metro y medio. En algunos casos 7 metros. Yo puedo tomar la alimentación al premsamblado aéreo ahí bajar por el poste en línea forma subterránea y entrar a mi gabinete de medidores.    
+   
+Vamos a suponer que este sea mi gabinete de medidores viene en forma de subterránea baja por los 6 metros 50,luego vamos a ver como es la bajada como es la protección de ese conductor, porque sale plata y hoy a empresas cada cosa si puede llevar el conductor es más fácil pero hay que hacerle difícil... Entonces a 3 metros vamos a suponer que este sea el poste 6 metros 50. A 3 metros esa bajada de poste se pone una tipo protector avanzado con abrazadera todos los chiches y esto después baja en forma subterránea y va al gabinete del medidor.   
+   
+Hora 01:31:24   
+   
+#### Estamos viendo la ACOMETIDA, la ACOMETIDA es la unión de la línea de la B con el ...   
 
-No, tomar para saber quién qué nombre tiene cada uno, si no Sí. ¿Cómo es nombre? Yo soy Francisco Pichi, Ingeniero Electromecánico todavía. Yo ando trabajo como inspector de obra, asesor de empresa, proyectista, todo lo que sea. Antes primer título que tuve fue Ingeniero Mecánico, pero lo que pasa que en la mecánica tenés que trabajar constantemente... taller y se programado talleres para fabricar contornos, esas cosas, proyectos importantes o una empresa tipo acá hay pocas, pero en esa época estaba o que y ahora algo para nada, eh, o la tela, pero un entrenamiento solo es muy difícil y tener que depender de él. Entonces después hice un año más me recibí la parte eléctrica ingeniero mecánico y era más fácil porque tenía mucho amigo la parte de... contemplo con ellos y a... biciclo cuando uno está solo tenía otro... y hasta... le pared con los que están... caño y todo bien, o sea, eh estaba y más cuando vos que la aceleración sale bien y porque sale bien aparte de... O sea, que son cosas interesantes que después boca a boca siempre lo va pero no no hay problema. Bueno, nos vemos.
+Esto es subterráneo lo vamos a hacer en segunda etapa, pero en la 1er etapa tengo unida la línea si es fase y neutro en algunos casos se une la línea generalmente preensamblado se une con un elemento que se llama **morceto**. Entonces agarra la fase y el neutro esto que está acá es un conductor preensamblado tengo fase y neutro y tiene una característica que yo voy a mostrar como yo conozco fijense que los conductores son iguales,   
+   
+#### **¿cuál es la fase y cuál es el nuetro?** En este caso hay un relieve acá y ese pequeño relieve es la fase.   
+
+Si yo tengo una alimentación trifásica o preensablado son 4 cables ustedes van a tener un cable que tiene **un relieve**, un segundo cable que tiene **2 relieve** y el 3er cable tiene **3 relieves**. Son RAR77 ¿? (Hora 01:32:55)   
+   
+#### Este morceto la línea esta es preensamblado como yo tengo sistema monofásico acá hay una unión para el morceto, tomo fase neutro cable de alimentación a este para simplifcar el esquema **hacemos solo 1 rayita** y acá ponemos esto significa conductor y esto significa fase y el neutro sería así (ver imágenes).   
+   
+El cable que tiene acá es preensamblado anteriormente la gente ponía conectores bipolar que es un solo a veces blanco a veces negro bipolar son dos cables separado esto viene ya prensado que es preensamablado tiene mayor capacidad la corriente que soporta esto por más sección que sea igual que el otro conductor bipolar acá tengo la posibilidad de que la capacidad máxima de la corriente es mayor que el otro, pero vamos viendo de a poco.   
+   
+Acá hicimos que la unión sea un morceto acá arriba, esto vaya al pilar el pilar tiene algunos casos unos cables garbanizados puede ser 2 o 3 metros creo que el nivel de piso hasta arriba más o menos son 4 luego les daré exacta la medida y ahí entra el prensamblado directamente hasta el gabinete del medidor...   
+   
+Vamos a apagar por las dudas no va a hacer que meta el dedo acá (en la foto del gabinete de PC)   
+   
+Y tengo 2 posibilidades yo acá tengo un medidor y en algunos casos tiene un morceto con fusible.   
+   
+Acá tiene un sistema en donde se pone un fusible ese fusible está calibrado en algunos casos se calibra hasta 40 amper que es lo que realmente me delimita la corriente acá dentro del medidor 40 amper, **una vivienda normal es 40 amper**.   
+   
+Después vemos cuál es la potencia máxima para esas cosas.   
+   
+Morceto con fusible si no tengo no colocan el morceto con fusible acá aparece esto que es un fusible aéreo. Después por ahí tengo porqué dicen que es el fusible aéreo que habló tanto el señor, **es lo blanco que está en el cable**.   
+   
+#### Si tenés morceto con fusible no hace falta el aéreo.   
+   
+Este es conductor bipolar, el otro preensamblado pero siempre corta la fase. El fusible aéreo corta en la parte de la fase.   
+   
+Acá dice línea municipal de acá para adentro tenemos injerencia nosotros. De acá para arriba la distribuidora en este caso EMSA.   
+   
+Acá tenemos propietario o electricista.   
+   
+### Qué título te habilita para trabajar en EMSA?    
+   
+Desde la línea municipal para adentro nosotros los electricistas somos los responsables, de allá para arriba hace EMSA, lo que es interesante: acuérdense ahora cuando les pase el tema del gabinete de medidores para comprar los materiales, nosotros como electricistas tenemos que hacer eso. Dejar todo preparado dejar preensamblado la cantidad de metros para llegar hasta allá arriba, dejar los fusibles aéreos los prenzacable el morceto, se hace el pedido a EMSA paga el impuesto. Y luego viene EMSA a conectardespués del medidor  le hacen la conexión arriba.   
+   
+Los materiales lo que pide EMSA deja el chicote, los morcetos, pinza de anclaje que es para sujetar el preensamblado fijar el garbanizado para que el otro quede poco trenzado y no se forme esa catenaria? (Hora 01:40)   
+   
+Todo eso lo hacemos nosotros medidor gabinete de medidor dejamos todo preparado el propietario paga derecho de protección¿? (Hora 01:40), viene con el instalador.   
+    
+Alumna: Nosotros le sugerimos a EMSA si queremos que sea aéreo o subterráneo.      
+Profesor: No. Si quieren una casa o la propiedad ya está en un poste cerca ahí yo puedo bajar, si no tengo un poste cerca y el poste tiene que estar en frente entonces armo la bajada acá, es más estético porque no quedan colgados los cables. Pero si no tengo otra opción vamos a ver.   
+   
+Esto es teniendo en cuenta que el medidor   
+   
+Detrás del medidor otro símbolo que van a empezar a conocer un rectángulo y dos líneas diagonales esto es también el GENERAL o PRINCIPAL. Que estará detrás del medidor.   
+   
+Diagonales, algunos le llaman tablero general porque el primero que está detrás del mdidor es tablero principal.   
+   
+Generalmente ahí va un ITM (interruptor termomagnético tipo 2) depende que conductor pero generalmente podemos trabajar de 6 o de 10. De 32 o de 40 amper.   
+   
+#### Curva B es importante, EMSA pide curva B. Es una termomagnética que es más rápida. Nosotros tenemos una de tipo B afuera y una de tipo C adentro.   
+   
+En nuestro caso: Llega a 25 amper y supera y a la de afuera actúa más rápida.   
+   
+#### Esta línea que viene de acá hasta acá se llama línea de alimentación.   
+Entonces a veces hay una pregunta que dice ¿cuál es la línea de alimentación? es fácil es la línea de alimentación que viene se conecta de la red hasta el medidor la línea principal. Después les paso eso.   
+   
+#### Esto viene a hacer gabinete y ahí tengo el medidor de energía dentro del gabinete.   
+   
+### Tablero principal.   
+
+Hay una cosa muy importante a partir de acá dice acá límite y aplicación de la reglamentación de la AEA. Límite. O sea que todo lo que está acá dentro yo aplico la reglamentación de la AEA para instalaciones eléctricas.   
+   
+Hay otra reglamentación que no tiene nada que ver con nosotros, nosotros empezamos del dominio de acá para allá aplicando la reglamentación de la AEA y la capacidad de la distribuidora. Armamos todo lo que nos pide.   
+   
+Bueno. Atrás de este está el tablero general vamos a suponer que tengo la casa y dentro de la vivienda tengo un tablero y es la mitad no más, este se llama tablero seccional. Ese tablero está dentro de la vivienda, tablero seccional dentro de la vivienda.   
+   
+Otra cosa interesante si yo tengo una vivienda lo ideal a veces tmb la gente pone lo más común es poner el gabinete del medidor de un lado o del otro NO en el medio.   
+   
+Hora 01:45   
+   
+Lo ideal siempre es colocar en un extremo es muy difícil ponerlo en el medio, porque te va a aparecer un cable justo en el medio en la entrada de la vivienda, poniendole acá cintar un poco hacer otra entrada depende de algunos casos de la estética del PROYECTISTA.   
+   
+El proyectista que es? Quien es el que hace la vivienda, en la ¿? yo siempre trabajo con un arquitecto y yo tengo que saber lo que piensa el arquitecto.    
+   
+Yo siempre tengo que saber lo que piensa el arquitecto, tenés que pensar como él piensa, sino es difícil tener una buena instalación.   
+   
+Ven que yo hago los y a veces en algunos casos le pido que me defina los muebles y la iluminación, acá tenemos iluminación que es directa.   
+   
+Nosotros tenemos en algunos casos tenemos que son indirectas, depende de la idea que tenga el arquitecto.    
+   
+Es importante nosotros que somos PROYECTISTAS tratar de congeniar con el arquitecto, que es lo que él pretende.   
+   
+A veces el arquitecto se hace el loco y agarra el proyecto y dice que lo hizo él.   
+   
+Alumno: Del tablero principal al seccional tenemos el conductor de cuántos milímetros?              
+Profesor: Lo que se usa normalmente ahora es un preensamblado de 6 o de 10 amper.   
+   
+Llega hasta acá y hasta acá puede llegar de 6 o de 10 amper. Una vivienda normal podemos un conductor de 6 y teniendo poco consumo o consumo distribuido con 6 está bien. Luego vemos tanto que capacidad máxima tiene el conductor ese ahí, como para que ustedes entiendan.   
+   
+#### Esto es un conductor preensamblado y este es un conductor bipolar,   
+Si yo tengo la misma sección que este conductor que este, este acuérdense que necesita si o si un sistema de canalización para proteger estos cablecitos, **no puedo tirar en el cielorazo el conductor**, uno de los motivos: por los roedores otros por sistema de distintas aislaciones entonces se puede cortar el cable y tener mayor consumo.   
+   
+Lo que me interesa que entienda es lo siguiente: yo tengo el conductor preensamblado un subterráneo de sección igual que este conductor bipolar, este tiene una capacidad máxima vamos a suponer que sea de 6 de 10 y de acá iría acá. Este la capacidad máxima de un conductor de 10 mm es casi 32 amper. Y este conductor de 10 mm preensamblado 10 veces más una vez de 32 a 52 amper.   
+   
+Si este es 6 y este es 6 este tiene una capacidad máxima de 28 amper y este por lo menos 40 amper (preensamblado).   
+   
+---   
+    
+### Observación propia.   
+El punto es la tecla y el toma es el enchufe.   
+   
+Que hace que sea antirobo? Fusible tipo tabaquera es un cilindrito tenes que abrir y poner ese fusible, por eso le llama antirobo porque antes ponían un cablecito no más.   
+Ellos te sacan el fusible y no podés poner un cablecito.   
+Si dejás de apgar te van a sacar el fusible.    
+El cable aguanta 32 amper pero te ponen un fusible de 10 o 20 amper.   
+   
+---   
+   
+La características constructiva de estos conductores son distintos y la capacidad máxima que soportan son distintas.   
+   
+Me llama un conocido y me dice que hay un electricista que me quiere cambiar toda la instalación porque el conductor de entrada es más chico que va al tablero seccional.   
+   
+El conductor de entrada era de 6 mm y acá este puso de 10 mm. Entonces el electricista le aconsejaba al propietario que cambie toda la alimentación.    
+   
+Lo que el tipo no sabía mostrame que control tenés, y yo me reí porque el tipo no sabe que este conductor puede soportar mayor carga o igual mayor que este conductor de 6 mm o de 10 mm, el tipo quería cambiar todo, pero está mal porque este tenía la propiedad de soportar mayor carga.   
+   
+Es importante saber, si el tipo no preguntaba iba a cambiar toda la instalación.   
+   
+Alumna: De la distribución al medidor se llama línea de alimentación y del TP al TS como se llama?        
+Profesor: Esto se llama línea seccional, línea principal para circuitos de distribuciones.   
+   
+Línea o circuito asistido seccional, línea seccional.   
+   
+Fijense tengo la línea de alimentación luego voy a pasar las definicions.   
+   
+### Línea de alimentación es la que vincula la red de la empresa distribuidora con los borners del medidor de carga (acometida), se llama así al conjunto de elementos que se utiliza para hacer la conexión entre la red alimentación y el medidor: cable, fusible y morceto.   
+   
+#### Todo lo que ustedes tienen ahí se llama acometida es un conjunto de cosas: fusible, morceto, cable.   
+   
+La otra es línea de distribución principal la línea de alimentación y de acá a acá hay una línea que se llama línea principal porque a veces detrás del medidor dijieron n acá tengo el gabinete voy a poner el tablero general un poco más allá, acá tengo la pared muy chica, entonces **esta línea que va del medidor al tablero general se llama línea principal** para que ustedes entiendan aunque esté detrás del medidor yo del medidor saco una alimentación que va al tablero general o principal del medidor saco una línea que va al tablero general esa línea se llama línea principal.   
+   
+### Línea de circuito   
+
+Esta es línea seccional y acá es la línea del tablero seccional va a cada circuito entonces esto se llama línea de circuito. Acá puede ir un toma puede ir otro tablero allá puedo tener el quincho allá en el fondo. Puedo tener otro tablero seccional 1 que sale para el principal **entonces todo lo que está habilitando cosa después del tablero seccional una línea de circuitos**.   
+   
+Todo esto van a recibir.   
+   
+Alumna: Que simbología puso en la línea seccional.      
+Profesor: Una línea no más y luego 3 fases todo lo que sea con ¿? (Hora 01:56) pongan línea.   
+   
+Así se grafica como unifilar pero la característica que tiene es que tiene es que tengo una línea que es la fase y otro que es neutro, por eso indica el ¿?    
+   
+Vamos a suponer que yo tenga una alimentación trifásica, ahí aparecerán 3 fases (3 líneas) trifásica tengo los motores ella tiene una alimentación. Si tengo una alimentación como ese tablero que te mostré ahí tengo UNA DOS TRES fase más el neutro.   
+   
+Ustedes van a ver que habrá una caja ortogonal caja cuadrada y cada cosa, yo cuando veo el plano veo el proyecto, yo voy a tener una idea cuando hago la canalización ese cuadradito, si es la caja ortogonal va a aparecer ¿? (Hora 01:58)   
+   
+#### Fijense que esta caja es más alta que la otra ¿para qué?   
+
+Es cuando uno tiene losa, la losa continua se hace primero la parte de madera se pone la caja se hace la distribución luego va el hormigón arriba. Fijense que es más alto entonces ahí para hierro y todas esas cosas y logro una mejor distribución se usa este tipo de caja.   
+   
+Generalmente no estamos haciendo más losa continua, pero bueno para tener en cuenta puede aparecer esto en una instalación y tendrán que hacer ese tipo que es más conveniente acuérdense que también se hace losa con estos flotantes con ladrillo cerámico se pone arriba.   
+   
+Los ladrillos cerámicos hay que pasar por arriba las cañerías al costado lo que sea.   
+   
+A veces nos encontramos con cada condición y tenemos que saber como hacer la instalación, también aparecen sistemas de vigas que nos costó llevar arriba y tenemos que hacer también la instalación.    
+   
+O sea que todo implica que siempre podemos tener distintas características constructivas nosotros como instaladores tenemos que saber.   
+   
+Fijense en lugar hacían pared de DURLOCK, entonces teníamos que saber como colocar las cajas en durlock.    
+   
+Tienen todos esos problemas, al principio hay gente que no conocía el sistema de durlock se hacía las ¿? (Hora 02:00) y colocaba las placas y después cuando tenían que colocar el ¿? y las cajas no estaban bien fijas porque hacían el cuadradito apoyaban y trataban de que atornillarle con la placa la placa entonces quedaba eso vos enchufaba y ¿?   
+   
+Otros errores esas cajas que son 5x10 que son de los tomas o las llaves, en ladrillo cerámico de 10 o 12 que hacen las paredes de ahora, siempre le digo al electricista piquen la pared no hay problema, pero cuando pongan la caja pongan cemento porque acá tiene que ir cemento acá porque el ladrillo cerámico es hueco entonces que pasa? Como vamos a suponer una cajita con toma corriente ahí no le pegué no le puse cemento atrás como es toma constantemente se mueve hasta que después queda flojo.   
+   
+Yo tengo mi casa que tiene eso, mi hija dice cuando vas a arreglar? Cuando tenga ganas. Y cuando tengo ganas, fin de semana se levantan al mediodía XD y yo ya quiero hacer otra cosa, pero tengo que arreglar, ellos empujan el enchufe.   
+   
+   
+Siempre es interesante. Cuando vemos cañerías vamos a ver como se fijan las cajas cuanto centímetros, generalmente 1 cm a veces uno tiene el metro pero generalmente 1 dedo es 1 cm. A veces no tengo un metro al lado pero ya sé igual que justo se olvidaron el metro y tengo que hacer el cuadrado acá.   
+   
+1 metro     
+2 metro     
+3 metro      
+   
+Tienen que ir sabiendo que cualquier parte del cuerpo se puede usar para tomar la longitud porque hay que esquematizar si o si. A veces nos olvidamos el metro.   
+   
+Siempre se busca la manera, vení hacé una ampliación y justo no tenés ningún alineamiento? tenés que rebuscarte hacé el dibujo y tomá las medidas principales.   
+   
+Les voy a pasar el esquema, si todos hicieron el QR les voy pasando lo que vimos.   
+   
+El que falta que busque la carpeta.   
+   
+Antes de que me olvide acá no dice pero agrega la puesta a tierra.   
+   
+Siempre en todo gabinete, en todo medidor hasta EMSA te pide que esté en el gabinete puesta a tierra, sino no te baja la línea.    
+   
+Conector desnudo conductor amarillo no te baja la línea.   
+   
+Puesta a tierra, ahí no dice en el esquema pero se sabe que es así.   
+   
+Voy a preparar la semana que viene les voy a dar ya el gabinete para que vayan entre un monofásico aprobado por EMSA y todo lo que ustedes hagan tiene que ser igual que ese, GABINETE METÁLICO, en otras provincias trabajan con gabinetes PBC. El tablero de atrás también es metálico y otras provincias trabajan con PBC.   
+   
+Todos los tableros tienen que ir con esta características si yo hago un tablero al costado en la contratapa tiene que ir el esquema ahí te va a decir que se 1 ese RCT o lo que sea va a tener iluminación aula en este caso como es escuela esto después se arregla se pone a la altura pero primero tengo que armar esta parte para poder hacer todo allá.   
+   
+Y se va viendo.   
+   
+Alumno: Y acá hay un millón?   
+Alumno2: 45 mil 60 mil pesos.   
+   
+Cada aula tiene un tablero seccional y la alimentación de la mitad de donde está el pasillo es un tablero que maneja todo hasta ahí estuve dirigiendo yo.   
+   
+Y lo otro hicieron después ya para inaugurar si o si así que contrataron otra gente, toda la parte de iluminación de esta aula hicimos nosotros, solo 4 de estos se quemaron entonces quedamos medias oscuras. Y a veces traigo los tubos de una escuela.   
+   
+Hay todavía en la misma proporción los tubos florescentes entonces cambiamos por tubos leds.   
+   
+Alumno: El florescente tiene un gas que es venenoso por el polvo.   
+   
+Fijense que yo ya tengo contacto con algunos alumnos mientras pueda ayudarlos.   
+   
+Siempre hay que tratar de hacer la alimentación por un lado y la salida por otro, porque si a veces hay gente que les gusta meter todo el canal solo para alimentación y distrubición pero que pasa unen. Pero que problema tiene? Si yo tengo corto circuito me puede quemar la alimentación.   
+   
+Lo ideal es que la alimentación esté por un lado en este caso venga por arriba. Entonces no tengo problema, si yo hago la salida acá entro por acá no queda bien, hago por un lado la alimentación principal y la otra que va a los circuitos por otro lado.   
+   
+Puede ser por debajo porque puede venir de forma subterránea y venir por acá y subir arriba puede ir por abajo puedo tener el tablero acá y puede tener tomacorriente por acá entonces baja por acá y otro toma. Lo que no puedo hacer es que el tablero me sirva como caja de paso.   
+Vamos a suponer que yo tengo el tablero acá quiero prender las luces viene alimentación de acá para allá y quiero prender las luces entonces lo ideal es poner una caja de paso que vayan las luces y después venga a la llave. Esto es fusible así como está no tengo corriente tengo que un conductor desnudo calibrado generalmente.   
+   
+Los primeros fusibles protegían los conductores fusibles calibrados a rosca, tenía la rosca vos sacabas tenía un diasec y dos borneras acá pasaba un conductor por adentro y un coso de arena, en caso de que tenía la fusión y corte apagaba la chica la leña no es silice ,  pero es parecido a la arena.   
+   
+Después apareció el bipolar que cortaba solo el vivo esa es la térmica negra, esa es la marca americana y tenía solo 1 llave bipolar.    
+   
+Después exigieron el conductor neutro que era único daba todo el circuito que variaba la térmica para controlar la fase como había cortocircuito como cierra el cortocircuito neutro.   
+   
+Hicieron que todo el circuito sea bipolar entonces en caso de que haya un cortocircuito esa que es bipolar corta fácilmente.   
+   
+Tenemos disyuntor, termomagnética y el 3er componente es la puesta a tierra, es obligatorio.   
+   
+#### Ducha eléctrica por qué desconectan el disyuntor.   
+
+Una época ponían por reglamentación la salida del disyuntor el circuito tenía térmica y se iba a la ducha eléctrica y la puesta a tierra, pero el problema es que la resistencia producía un choque térmico entonces provocaba como una fuga de corriente, hacía saltar el disyuntor.   
+   
+En mi casa yo hago así ahora: vos te estabas bañando cortaba toda la instalación hacía saltar el disyuntor. Entonces lo que hice fue desconectar el disyuntor o hacer puesta a tierra, desconecté saqué el disyuntor y le puse a una térmica y la ducha bajé a una puesta a tierra. La ventaja que tenemos ahora es que antes los caños eran de plomo o sino de elobrown ? soy mecánico cualquier fuga se transmitía por la cañería y sentías el cosquilleo hoy en día es de PBC, entonces esa pequeña fuga de corriente no se transmite.   
+   
+Una vez yo quiería poner un termotanque y ellos querían poner duchas eléctricas brazileras, hicimos toda la instalación si prendías una sola andaba bien, prendías 3 o 4 sobrecargaba la línea después con el tiempo pusimos un termotanque de 1000 litros pero a veces la gente quiere ahorrar, estoy haciendo un edificio con una empresa y ya sacaron el tema del gas que todo elemento que están ahí termotanque horno eléctrico ya se hace con electricidad y hay que prever todos esos consumo mejor que antes.   
+   
+Consumo de la cocina 7500 watts, para una cocción más o menos buena se necesita 1 hora. 1 hora 7500 watts te baja la instalación. Porque el cable que sea de 10 te liquida.   
+   
+Dividí 7500/220 te da el amper, el consumo normal de esa cocina y ese consumo es lo mismo que acá consume acá en la acometida de 10. O sea y vos tenés toda la casa, un elemento consumís todo. No podés usar el aire, ni las luces ni la heladera porque estás consumiendo todo la cocina.   
+   
+Le programé la instalación de otra forma y le dije si usa 3 hornallas sin el horno, o puede usar el horno y 1 ornalla más que eso no, o sino se recargaba la línea.   
+   
+---   
+   
+Las barritas de cobre se puede usar.   
+   
+Si se unen los cables de entrada con la salida la térmica no van a saltar, porque la corriente no pasa por las térmicas pasa de cable a cable, porque se juntan los cables por el calor. Cuando se juntan los cables ya no va a saltar más.   
+   
+

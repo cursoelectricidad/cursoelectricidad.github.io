@@ -18,23 +18,23 @@ Reglamentación AEA 90364-7-770 (Viviendas): [https://archive.org/details/aea-77
 
 Estudiando AEA lista de reproducción de YouTube en la cual está basada el curso: [https://youtube.com/playlist?list=PLaJ9_1pBg2ZeF431-Alaplgi05p2k7Cor](https://youtube.com/playlist?list=PLaJ9_1pBg2ZeF431-Alaplgi05p2k7Cor)
 
-Podes descargar la playlist entera ordenadamente con este comando: `yt-dlp https://youtube.com/playlist?list=PLaJ9_1pBg2ZeF431-Alaplgi05p2k7Cor -o '%(autonumber)s%(id)s.%(ext)s'` tenes que saber como instalar `yt-dlp` tenes que saber manejar a la consola (en Windows PowerShell, en Linux bash), preguntale a chatgpt despues reproducis los videos con mpv o con vlc sino miralo directamente de YouTube (la peor opción).
+Podes descargar la playlist entera ordenadamente con este comando: `yt-dlp https://youtube.com/playlist?list=PLaJ9_1pBg2ZeF431-Alaplgi05p2k7Cor -o '%(autonumber)s%(id)s.%(ext)s'`.
 
 Foto del examen de auxiliar: [CLICK ACA PARA VER LA FOTO DEL EXAMEN](https://cursoelectricidad.github.io/40clase.html)
 
 Este es el PDF pasado a texto se lo podes tirar a la IA y hacerle preguntas: [https://archive.org/stream/aea-770/AEA%20770_djvu.txt](https://archive.org/stream/aea-770/AEA%20770_djvu.txt)
 
-En el medio mandaban [encuestas llenas de preguntas personales](https://ceisconsultora.com.ar/lime/index.php/133772), metieron talleres de Termotanque Solar (3 clases), vino gente de la UCAMI a ponernos vacunas (2 clases, no era obligatorio), taller de RCP (1 clase), una psicóloga (1 clase), y taller de informática de Excel (6 clases todos los Lunes). Solo fui al taller de RCP.
+En el medio mandaban [encuestas llenas de preguntas](https://ceisconsultora.com.ar/lime/index.php/133772), metieron talleres de Termotanque Solar (3 clases), vinieron estudiantes de carreras de salud de la UCAMI a ponernos vacunas (2 clases, no era obligatorio), taller de RCP (1 clase), una psicóloga (1 clase), y taller de informática de Excel (6 clases todos los Lunes). Solo fui al taller de RCP.
 
 A lo último hicimos electricidad industrial: armamos tablero de bombeo con contactor, rele termico, llave selectora y un foco como motor.
 
 Todo el curso, los profesores, los estudiantes es la cultura del gatekeeping, te quieren restringir el acceso a documentos apropósito para hacerte perder el tiempo y gritarte que te equivocaste, algunos le gusta tener la razón en vez de enseñar algo.      
-El mismo docente fue victima de esto, le enviaron un PDF de un plano que no podía editarlo y no pudo sacar información de la Universidad Nacional de Córdoba, lo malo es que el profesor luego aprendió a hacer lo mismo, me mezquino un PDF de electricidad industrial. Nos daban los folletos de los talleres que parecían una publicidad "GRATUITO CUPOS LIMITADOS" y otros tipos de manipulación, miren la clase 66 ahí está el folleto.
 
 Estas son las redes sociales pero estan llenas de boludeces:    
 
 * [https://www.instagram.com/centrofp.17/](https://www.instagram.com/centrofp.17/)       
 * [https://fundacion.uocra.org/oferta-educativa-formacion-profesional/cific-cfp-n17-posadas/](https://fundacion.uocra.org/oferta-educativa-formacion-profesional/cific-cfp-n17-posadas/)     
 
+Lo ideal sería que el curso sea lo más corto posible y darle las mínimas herramientas para que empiecen a trabajar, pero en lugar de eso los docentes te recomiendan perder más tiempo y hacer otro curso que tampoco te va a servir para nada. O directamente cerrar todo y publicarlo en YouTube (que ya está publicado).
 
 ---
