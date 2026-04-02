@@ -23,106 +23,107 @@ PESA 8,8 GIGABYTES Y SON 163 HORAS, PERO SE PUEDE ESCUCHAR ONLINE.
 [https://archive.org/details/AUDIO_CURSO_COMPLETO_ELECTRICIDAD_DOMICILIARIA_ARGENTINA_UOCRA](https://archive.org/details/AUDIO_CURSO_COMPLETO_ELECTRICIDAD_DOMICILIARIA_ARGENTINA_UOCRA)
 
 
-### Los subtitulos generado por YouTube de cada audio:
-
-[https://cursoelectricidad.github.io/03clase_sub.txt](https://cursoelectricidad.github.io/03clase_sub.txt)   
-[https://cursoelectricidad.github.io/04clase_sub.txt](https://cursoelectricidad.github.io/04clase_sub.txt)   
-...   
-.   
-.   
-.   
+### Los subtitulos generado por YouTube de cada audio:   
+   
+[https://cursoelectricidad.github.io/03clase_sub.txt](https://cursoelectricidad.github.io/03clase_sub.txt)      
+[https://cursoelectricidad.github.io/04clase_sub.txt](https://cursoelectricidad.github.io/04clase_sub.txt)      
+   
+   
+[https://cursoelectricidad.github.io/05clase_sub.txt](https://cursoelectricidad.github.io/05clase_sub.txt)   
+[https://cursoelectricidad.github.io/06clase_sub.txt](https://cursoelectricidad.github.io/06clase_sub.txt)   
+[https://cursoelectricidad.github.io/07clase_sub.txt](https://cursoelectricidad.github.io/07clase_sub.txt)   
+[https://cursoelectricidad.github.io/08clase_sub.txt](https://cursoelectricidad.github.io/08clase_sub.txt)   
+   
+Falté la clase de EMPALMES. El siguiente subtitulo es de un video de YouTube. Mejor buscá en YouTube sobre empalmes en la clase próxima está la foto del pizarrón.   
+      
+[https://cursoelectricidad.github.io/09clase_sub.txt ](https://cursoelectricidad.github.io/09clase_sub.txt )      
+[https://cursoelectricidad.github.io/10clase_sub.txt](https://cursoelectricidad.github.io/10clase_sub.txt)      
+[https://cursoelectricidad.github.io/11clase_sub.txt](https://cursoelectricidad.github.io/11clase_sub.txt)      
+[https://cursoelectricidad.github.io/12clase_sub.txt](https://cursoelectricidad.github.io/12clase_sub.txt)      
+[https://cursoelectricidad.github.io/13clase_sub.txt](https://cursoelectricidad.github.io/13clase_sub.txt)      
+[https://cursoelectricidad.github.io/14clase_sub.txt](https://cursoelectricidad.github.io/14clase_sub.txt)      
+[https://cursoelectricidad.github.io/15clase_sub.txt](https://cursoelectricidad.github.io/15clase_sub.txt)      
+[https://cursoelectricidad.github.io/16clase_sub.txt](https://cursoelectricidad.github.io/16clase_sub.txt)      
+[https://cursoelectricidad.github.io/17clase_sub.txt](https://cursoelectricidad.github.io/17clase_sub.txt)      
+[https://cursoelectricidad.github.io/18clase_sub.txt](https://cursoelectricidad.github.io/18clase_sub.txt)      
+[https://cursoelectricidad.github.io/19clase_sub.txt](https://cursoelectricidad.github.io/19clase_sub.txt)      
+[https://cursoelectricidad.github.io/20clase_sub.txt](https://cursoelectricidad.github.io/20clase_sub.txt)      
+[https://cursoelectricidad.github.io/21clase_sub.txt](https://cursoelectricidad.github.io/21clase_sub.txt)      
+[https://cursoelectricidad.github.io/22clase_sub.txt](https://cursoelectricidad.github.io/22clase_sub.txt)      
+[https://cursoelectricidad.github.io/23clase_sub.txt](https://cursoelectricidad.github.io/23clase_sub.txt)      
+[https://cursoelectricidad.github.io/24clase_sub.txt](https://cursoelectricidad.github.io/24clase_sub.txt)      
+[https://cursoelectricidad.github.io/25clase_sub.txt](https://cursoelectricidad.github.io/25clase_sub.txt)      
+[https://cursoelectricidad.github.io/26clase_sub.txt](https://cursoelectricidad.github.io/26clase_sub.txt)      
+[https://cursoelectricidad.github.io/27clase_sub.txt](https://cursoelectricidad.github.io/27clase_sub.txt)      
+[https://cursoelectricidad.github.io/28clase_sub.txt](https://cursoelectricidad.github.io/28clase_sub.txt)      
+[https://cursoelectricidad.github.io/29clase_sub.txt](https://cursoelectricidad.github.io/29clase_sub.txt)      
+[https://cursoelectricidad.github.io/30clase_sub.txt](https://cursoelectricidad.github.io/30clase_sub.txt)      
+[https://cursoelectricidad.github.io/31clase_sub.txt](https://cursoelectricidad.github.io/31clase_sub.txt)      
+[https://cursoelectricidad.github.io/32clase_sub.txt](https://cursoelectricidad.github.io/32clase_sub.txt)   
+[https://cursoelectricidad.github.io/33clase_sub.txt](https://cursoelectricidad.github.io/33clase_sub.txt)   
+[https://cursoelectricidad.github.io/34clase_sub.txt](https://cursoelectricidad.github.io/34clase_sub.txt)   
+[https://cursoelectricidad.github.io/35clase_sub.txt](https://cursoelectricidad.github.io/35clase_sub.txt)   
+[https://cursoelectricidad.github.io/36clase_sub.txt](https://cursoelectricidad.github.io/36clase_sub.txt)   
+[https://cursoelectricidad.github.io/37clase_sub.txt](https://cursoelectricidad.github.io/37clase_sub.txt)   
+[https://cursoelectricidad.github.io/38clase_sub.txt](https://cursoelectricidad.github.io/38clase_sub.txt)   
+[https://cursoelectricidad.github.io/39clase_sub.txt](https://cursoelectricidad.github.io/39clase_sub.txt)   
+[https://cursoelectricidad.github.io/40clase_sub.txt](https://cursoelectricidad.github.io/40clase_sub.txt)   
+[https://cursoelectricidad.github.io/41clase_sub.txt](https://cursoelectricidad.github.io/41clase_sub.txt)   
+[https://cursoelectricidad.github.io/42clase_sub.txt](https://cursoelectricidad.github.io/42clase_sub.txt)   
+[https://cursoelectricidad.github.io/43clase_sub.txt](https://cursoelectricidad.github.io/43clase_sub.txt)   
+[https://cursoelectricidad.github.io/44clase_sub.txt](https://cursoelectricidad.github.io/44clase_sub.txt)   
+[https://cursoelectricidad.github.io/45clase_sub.txt](https://cursoelectricidad.github.io/45clase_sub.txt)   
+[https://cursoelectricidad.github.io/46clase_sub.txt](https://cursoelectricidad.github.io/46clase_sub.txt)   
+[https://cursoelectricidad.github.io/47clase_sub.txt](https://cursoelectricidad.github.io/47clase_sub.txt)   
+[https://cursoelectricidad.github.io/48clase_sub.txt](https://cursoelectricidad.github.io/48clase_sub.txt)   
+[https://cursoelectricidad.github.io/49clase_sub.txt](https://cursoelectricidad.github.io/49clase_sub.txt)   
+[https://cursoelectricidad.github.io/50clase_sub.txt](https://cursoelectricidad.github.io/50clase_sub.txt)   
+[https://cursoelectricidad.github.io/51clase_sub.txt](https://cursoelectricidad.github.io/51clase_sub.txt)   
+[https://cursoelectricidad.github.io/52clase_sub.txt](https://cursoelectricidad.github.io/52clase_sub.txt)   
+[https://cursoelectricidad.github.io/53clase_sub.txt](https://cursoelectricidad.github.io/53clase_sub.txt)   
+[https://cursoelectricidad.github.io/54clase_sub.txt](https://cursoelectricidad.github.io/54clase_sub.txt)   
+[https://cursoelectricidad.github.io/55clase_sub.txt](https://cursoelectricidad.github.io/55clase_sub.txt)   
+[https://cursoelectricidad.github.io/56clase_sub.txt](https://cursoelectricidad.github.io/56clase_sub.txt)   
+[https://cursoelectricidad.github.io/57clase_sub.txt](https://cursoelectricidad.github.io/57clase_sub.txt)   
+[https://cursoelectricidad.github.io/58clase_sub.txt](https://cursoelectricidad.github.io/58clase_sub.txt)   
+[https://cursoelectricidad.github.io/59clase_sub.txt](https://cursoelectricidad.github.io/59clase_sub.txt)   
+[https://cursoelectricidad.github.io/60clase_sub.txt](https://cursoelectricidad.github.io/60clase_sub.txt)   
+[https://cursoelectricidad.github.io/61clase_sub.txt](https://cursoelectricidad.github.io/61clase_sub.txt)   
+[https://cursoelectricidad.github.io/62clase_sub.txt](https://cursoelectricidad.github.io/62clase_sub.txt)   
+[https://cursoelectricidad.github.io/63clase_sub.txt](https://cursoelectricidad.github.io/63clase_sub.txt)   
+[https://cursoelectricidad.github.io/64clase_sub.txt](https://cursoelectricidad.github.io/64clase_sub.txt)   
+[https://cursoelectricidad.github.io/66clase_sub.txt](https://cursoelectricidad.github.io/66clase_sub.txt)   
+[https://cursoelectricidad.github.io/67clase_sub.txt](https://cursoelectricidad.github.io/67clase_sub.txt)   
+[https://cursoelectricidad.github.io/68clase_sub.txt](https://cursoelectricidad.github.io/68clase_sub.txt)   
+[https://cursoelectricidad.github.io/69clase_sub.txt](https://cursoelectricidad.github.io/69clase_sub.txt)   
+[https://cursoelectricidad.github.io/70clase_sub.txt](https://cursoelectricidad.github.io/70clase_sub.txt)   
+[https://cursoelectricidad.github.io/71clase_sub.txt](https://cursoelectricidad.github.io/71clase_sub.txt)   
+[https://cursoelectricidad.github.io/72clase_sub.txt](https://cursoelectricidad.github.io/72clase_sub.txt)   
+[https://cursoelectricidad.github.io/73clase_sub.txt](https://cursoelectricidad.github.io/73clase_sub.txt)   
+[https://cursoelectricidad.github.io/74clase_sub.txt](https://cursoelectricidad.github.io/74clase_sub.txt)   
+[https://cursoelectricidad.github.io/75clase_sub.txt](https://cursoelectricidad.github.io/75clase_sub.txt)   
+[https://cursoelectricidad.github.io/76clase_sub.txt](https://cursoelectricidad.github.io/76clase_sub.txt)   
+[https://cursoelectricidad.github.io/77clase_sub.txt](https://cursoelectricidad.github.io/77clase_sub.txt)   
+[https://cursoelectricidad.github.io/78clase_sub.txt](https://cursoelectricidad.github.io/78clase_sub.txt)   
+[https://cursoelectricidad.github.io/79clase_sub.txt](https://cursoelectricidad.github.io/79clase_sub.txt)   
+   
+Falté la clase 80 porque el docente nos dijo que íbamos a tener una clase de psicología y al final no fue, el siguiente subtitulo es de un video de YouTube.   
+   
+[https://cursoelectricidad.github.io/79clase_sub.txt](https://cursoelectricidad.github.io/80clase_sub.txt)   
+   
+[https://cursoelectricidad.github.io/81clase_sub.txt](https://cursoelectricidad.github.io/81clase_sub.txt)   
+[https://cursoelectricidad.github.io/82clase_sub.txt](https://cursoelectricidad.github.io/82clase_sub.txt)   
+[https://cursoelectricidad.github.io/83clase_sub.txt](https://cursoelectricidad.github.io/83clase_sub.txt)   
+   
+Falté una semana completa porque ya quería dejar el curso        
+   
+[https://cursoelectricidad.github.io/87clase_sub.txt](https://cursoelectricidad.github.io/87clase_sub.txt)   
+[https://cursoelectricidad.github.io/88clase_sub.txt](https://cursoelectricidad.github.io/88clase_sub.txt)   
 [https://cursoelectricidad.github.io/89clase_sub.txt](https://cursoelectricidad.github.io/89clase_sub.txt)   
+
+Acá dejé de ir (faltaban 11 clases para terminar el curso).
 
 
 ### Audios separados de cada una de las clases (el volumen no esta amplificado)
 
-Los volumenes de estas clases están más bajo. En el archivo grande amplifiqué el volumen. Acá vas a tener que usar un reproductor como VLC para amplificar más del 100%.
-
-   
-[https://vocaroo.com/1bkuThXk0Fs9](https://vocaroo.com/1bkuThXk0Fs9) - Clase 03   
-[https://vocaroo.com/12sRsOPRw6es](https://vocaroo.com/12sRsOPRw6es) - Clase 04   
-[https://vocaroo.com/1hnXZFbaWXBU](https://vocaroo.com/1hnXZFbaWXBU) - Clase 05   
-[https://vocaroo.com/1oV3Ik1LSwaP](https://vocaroo.com/1oV3Ik1LSwaP) - Clase 06   
-[https://vocaroo.com/15jDCE6h4IdZ](https://vocaroo.com/15jDCE6h4IdZ) - Clase 07   
-[https://vocaroo.com/1ogqpgbNGUlR](https://vocaroo.com/1ogqpgbNGUlR) - Clase 08   
-Falté la clase 9 de EMPLAMES, pero está una foto del pizarrón.       - Clase 09    
-[https://vocaroo.com/1mOXmDVVcNcE](https://vocaroo.com/1mOXmDVVcNcE) - Clase 10   
-[https://vocaroo.com/1nCsI2HvLFNc](https://vocaroo.com/1nCsI2HvLFNc) - Clase 11   
-[https://vocaroo.com/1bzUkEBGqoud](https://vocaroo.com/1bzUkEBGqoud) - Clase 12   
-[https://vocaroo.com/1dx7HunJiApZ](https://vocaroo.com/1dx7HunJiApZ) - Clase 13   
-[https://vocaroo.com/1efmU5QFpIEW](https://vocaroo.com/1efmU5QFpIEW) - Clase 14   
-[https://voca.ro/1bSaDxOxewXW](https://voca.ro/1bSaDxOxewXW) - Clase 15   
-[https://voca.ro/1ducR52fkSsq](https://voca.ro/1ducR52fkSsq) - Clase 16   
-[https://vocaroo.com/1hjLQYyLQIkS](https://vocaroo.com/1hjLQYyLQIkS) - Clase 17   
-[https://vocaroo.com/1ekttX93zXKA](https://vocaroo.com/1ekttX93zXKA) - Clase 18   
-[https://vocaroo.com/17BxVXxtlKi2](https://vocaroo.com/17BxVXxtlKi2) - Clase 19   
-[https://vocaroo.com/1cAFyikGV6rm](https://vocaroo.com/1cAFyikGV6rm) - Clase 20   
-[https://vocaroo.com/1apF9nGDzSRW](https://vocaroo.com/1apF9nGDzSRW) - Clase 21   
-[https://vocaroo.com/1268wHQBLwls](https://vocaroo.com/1268wHQBLwls) - Clase 22   
-[https://vocaroo.com/12vVDMn5Viq2](https://vocaroo.com/12vVDMn5Viq2) - Clase 23   
-[https://vocaroo.com/1kU19ki9zqAq](https://vocaroo.com/1kU19ki9zqAq) - Clase 24   
-[https://vocaroo.com/1dlEbWtj6jkS](https://vocaroo.com/1dlEbWtj6jkS) - Clase 25   
-[https://vocaroo.com/1oFkLIlf3v25](https://vocaroo.com/1oFkLIlf3v25) - Clase 26   
-[https://vocaroo.com/1ndiSoYVRjEc](https://vocaroo.com/1ndiSoYVRjEc) - Clase 27   
-[https://vocaroo.com/12GLRDtU5Q3l](https://vocaroo.com/12GLRDtU5Q3l) - Clase 28   
-[https://vocaroo.com/1oGJu6JbJHr9](https://vocaroo.com/1oGJu6JbJHr9) - Clase 29   
-[https://vocaroo.com/1kdaJ3BdGrCz](https://vocaroo.com/1kdaJ3BdGrCz) - Clase 30   
-[https://vocaroo.com/1iHHSbiUXgm1](https://vocaroo.com/1iHHSbiUXgm1) - Clase 31   
-[https://vocaroo.com/11YfVW6QE7QS](https://vocaroo.com/11YfVW6QE7QS) - Clase 32   
-[https://vocaroo.com/1dNfZlpedJa6](https://vocaroo.com/1dNfZlpedJa6) - Clase 33   
-[https://vocaroo.com/1aYATeHa481q](https://vocaroo.com/1aYATeHa481q) - Clase 34   
-[https://vocaroo.com/1hSZf8wq7RJM](https://vocaroo.com/1hSZf8wq7RJM) - Clase 35   
-[https://vocaroo.com/1cTonDaIf9VT](https://vocaroo.com/1cTonDaIf9VT) - Clase 36   
-[https://vocaroo.com/19Ddr8rj9Jco](https://vocaroo.com/19Ddr8rj9Jco) - Clase 37   
-[https://vocaroo.com/15pfGHEbKMe9](https://vocaroo.com/15pfGHEbKMe9) - Clase 38   
-[https://vocaroo.com/1ah2hMBPBwjn](https://vocaroo.com/1ah2hMBPBwjn) - Clase 39   
-[https://vocaroo.com/18OOp5ddV1J9](https://vocaroo.com/18OOp5ddV1J9) - Clase 40   
-[https://vocaroo.com/18HLAUVPLg8z](https://vocaroo.com/18HLAUVPLg8z) - Clase 41   
-[https://vocaroo.com/1jU2gVFOUp8s](https://vocaroo.com/1jU2gVFOUp8s) - Clase 42   
-[https://vocaroo.com/1mMgp9RqS3l7](https://vocaroo.com/1mMgp9RqS3l7) - Clase 43   
-[https://vocaroo.com/1nYvA7jIrSMl](https://vocaroo.com/1nYvA7jIrSMl) - Clase 44   
-[https://vocaroo.com/1oHoZB8WNiFg](https://vocaroo.com/1oHoZB8WNiFg) - Clase 45   
-[https://vocaroo.com/1m8658AxJlp3](https://vocaroo.com/1m8658AxJlp3) - Clase 46   
-[https://vocaroo.com/1obbPubQmp4T](https://vocaroo.com/1obbPubQmp4T) - Clase 47   
-[https://vocaroo.com/1979ylz1KTim](https://vocaroo.com/1979ylz1KTim) - Clase 48   
-[https://vocaroo.com/1cpnXdKWPsk1](https://vocaroo.com/1cpnXdKWPsk1) - Clase 49   
-[https://vocaroo.com/1kIHpRnIBrwu](https://vocaroo.com/1kIHpRnIBrwu) - Clase 50   
-[https://vocaroo.com/16EjsGG7ysfn](https://vocaroo.com/16EjsGG7ysfn) - Clase 51   
-[https://vocaroo.com/15MBU9U2G3Zf](https://vocaroo.com/15MBU9U2G3Zf) - Clase 52   
-[https://voca.ro/1l55DmLWj7fq](https://voca.ro/1l55DmLWj7fq) - Clase 53   
-[https://vocaroo.com/1dmyHB2QZCYf](https://vocaroo.com/1dmyHB2QZCYf) - Clase 54   
-[https://voca.ro/1dkM9ypIxHbl](https://voca.ro/1dkM9ypIxHbl) - Clase 55   
-[https://voca.ro/1Drawhi1RRaO](https://voca.ro/1Drawhi1RRaO) - Clase 56   
-[https://vocaroo.com/1hNCYP7Xp7eM](https://vocaroo.com/1hNCYP7Xp7eM) - Clase 57   
-[https://vocaroo.com/1gFTgenwWqTL](https://vocaroo.com/1gFTgenwWqTL) - Clase 58   
-[https://voca.ro/12ALfghCID5h](https://voca.ro/12ALfghCID5h) - Clase 59   
-[https://vocaroo.com/1lJzg52PKkri](https://vocaroo.com/1lJzg52PKkri) - Clase 60   
-[https://vocaroo.com/1iZb5iMOHsNG](https://vocaroo.com/1iZb5iMOHsNG) - Clase 61   
-[https://vocaroo.com/11fkACoCxLik](https://vocaroo.com/11fkACoCxLik) - Clase 62   
-[https://vocaroo.com/1d01jBzbcYlH](https://vocaroo.com/1d01jBzbcYlH) - Clase 63   
-[https://voca.ro/1jqYBIltZCqy](https://voca.ro/1jqYBIltZCqy) - Clase 64   
-[https://vocaroo.com/1cHdosl9ArMk](https://vocaroo.com/1cHdosl9ArMk) - Clase 66   
-[https://vocaroo.com/15d8hE9GnmzG](https://vocaroo.com/15d8hE9GnmzG) - Clase 67   
-[https://voca.ro/1oFcQHbBLdud](https://voca.ro/1oFcQHbBLdud) - Clase 68   
-[https://voca.ro/1hu4WlDbXusd](https://voca.ro/1hu4WlDbXusd) - Clase 69   
-Falté la última clase del taller de termotanque - Clase 70      
-[https://vocaroo.com/13pVJJ4wvs7s](https://vocaroo.com/13pVJJ4wvs7s) - Clase 71   
-[https://vocaroo.com/1cz27sakb724](https://vocaroo.com/1cz27sakb724) - Clase 72   
-[https://vocaroo.com/14UQkueCwaMj](https://vocaroo.com/14UQkueCwaMj) - Clase 73   
-[https://voca.ro/1gBwvVHnF69E](https://voca.ro/1gBwvVHnF69E) - Clase 74   
-[https://vocaroo.com/1nEzfJ6G3mbb](https://vocaroo.com/1nEzfJ6G3mbb) - Clase 75   
-[https://vocaroo.com/1nUTnZdgzUQU](https://vocaroo.com/1nUTnZdgzUQU) - Clase 76   
-[https://vocaroo.com/1euH6yhrHAv1](https://vocaroo.com/1euH6yhrHAv1) - Clase 77   
-[https://voca.ro/1g9huW31UGih](https://voca.ro/1g9huW31UGih) - Clase 78   
-[https://voca.ro/1c8GOa1YfcOq](https://voca.ro/1c8GOa1YfcOq) - Clase 79   
-Falté la clase 80 porque el docente nos dijo que íbamos a tener una clase de psicología y al final no fue - Clase 80       
-[https://vocaroo.com/1aswdn0TEhs5](https://vocaroo.com/1aswdn0TEhs5) - Clase 81   
-[https://voca.ro/1lCa7VtzkXfh](https://voca.ro/1lCa7VtzkXfh) - Clase 82   
-[https://voca.ro/1o2lLa7L3XUl](https://voca.ro/1o2lLa7L3XUl) - Clase 83   
-Falté una semana completa porque ya quería dejar el curso     
-[https://voca.ro/19V02Lvzt8Ih](https://voca.ro/19V02Lvzt8Ih) - Clase 87   
-[https://voca.ro/1eUHCL73Whc4](https://voca.ro/1eUHCL73Whc4) - Clase 88   
-[https://vocaroo.com/1otzqs75KDrj](https://vocaroo.com/1otzqs75KDrj) - Clase 89   
-Acá dejé de ir (faltaban 11 clases para terminar el curso).
-
-
+Los volumenes de las clases están más bajo, el audio grande ese es recomendable porque tiene el volumen amplificado. Sino vas a tener que usar un reproductor como VLC para amplificar más del 100%.
