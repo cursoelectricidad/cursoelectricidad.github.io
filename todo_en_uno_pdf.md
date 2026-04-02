@@ -16,18 +16,14 @@ Compile todo el curso en 1 solo PDF (pesa 639 megas).
 
 [https://archive.org/download/curso_electricidad_uocra_CFP_17_espeche_pdf_completo/curso_electricidad.pdf](https://archive.org/download/curso_electricidad_uocra_CFP_17_espeche_pdf_completo/curso_electricidad.pdf)
 
-### Audios de cada una de las clases:
+# ACÁ ESTÁN TODOS LOS AUDIOS EN 1 SOLO Y AMPLIFIQUÉ 20 VECES MÁS EL VOLUMEN: 
 
-Si deja de existir vocaroo en un futuro, entrá a cada una y descargá desde el Archive.org. Las clases que no están falté: 65, 70, 80, 84, 85, 86, 91, 92, 93 y no fui a rendir el examen final, pero ahí está todo lo que tomaron en el examen.   
-
-# Acá están todos los audios en 1 solo y amplifiqué 20 veces más el volumen: 
-
-PESA 8,8 GIGABYTES Y TIENE 163 HORAS, PERO SE PUEDE ESCUCHAR ONLINE.
+PESA 8,8 GIGABYTES Y SON 163 HORAS, PERO SE PUEDE ESCUCHAR ONLINE.
 
 [https://archive.org/details/AUDIO_CURSO_COMPLETO_ELECTRICIDAD_DOMICILIARIA_ARGENTINA_UOCRA](https://archive.org/details/AUDIO_CURSO_COMPLETO_ELECTRICIDAD_DOMICILIARIA_ARGENTINA_UOCRA)
 
 
-### Los subtitulos de cada audio:
+### Los subtitulos generado por YouTube de cada audio:
 
 [https://cursoelectricidad.github.io/03clase_sub.txt](https://cursoelectricidad.github.io/03clase_sub.txt)   
 [https://cursoelectricidad.github.io/04clase_sub.txt](https://cursoelectricidad.github.io/04clase_sub.txt)   
@@ -37,7 +33,11 @@ PESA 8,8 GIGABYTES Y TIENE 163 HORAS, PERO SE PUEDE ESCUCHAR ONLINE.
 .   
 [https://cursoelectricidad.github.io/89clase_sub.txt](https://cursoelectricidad.github.io/89clase_sub.txt)   
 
+
+### Audios separados de cada una de las clases (el volumen no esta amplificado)
+
 Los volumenes de estas clases están más bajo. En el archivo grande amplifiqué el volumen. Acá vas a tener que usar un reproductor como VLC para amplificar más del 100%.
+
    
 [https://vocaroo.com/1bkuThXk0Fs9](https://vocaroo.com/1bkuThXk0Fs9) - Clase 03   
 [https://vocaroo.com/12sRsOPRw6es](https://vocaroo.com/12sRsOPRw6es) - Clase 04   
