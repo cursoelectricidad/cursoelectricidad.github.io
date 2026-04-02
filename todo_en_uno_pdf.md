@@ -4,7 +4,7 @@
 
 PDF COMPLETO DE 2000 PAGINAS CON TODAS LAS FOTOS DEL CURSO Y TODOS LOS AUDIOS DE LAS CLASES EN UN ARCHIVO (163 HORAS).
 
-Luego agregaré una encuesta multiple choise para probar tu conocimiento (en la clase 40 hay una foto del examen de auxiliar electricista).
+Luego agregaré una encuesta MULTIPLE CHOICE para probar tu conocimiento (en la clase 40 hay una foto del examen de auxiliar electricista).
 
 Compile todo el curso en 1 solo PDF (pesa 639 megas).
 
@@ -16,14 +16,16 @@ Compile todo el curso en 1 solo PDF (pesa 639 megas).
 
 [https://archive.org/download/curso_electricidad_uocra_CFP_17_espeche_pdf_completo/curso_electricidad.pdf](https://archive.org/download/curso_electricidad_uocra_CFP_17_espeche_pdf_completo/curso_electricidad.pdf)
 
-# ACÁ ESTÁN TODOS LOS AUDIOS EN 1 SOLO Y AMPLIFIQUÉ 20 VECES MÁS EL VOLUMEN: 
+# ACÁ ESTÁN TODOS LOS AUDIOS EN UN SOLO Y AMPLIFIQUÉ 20 VECES MÁS EL VOLUMEN: 
 
-PESA 8,8 GIGABYTES Y SON 163 HORAS, PERO SE PUEDE ESCUCHAR ONLINE.
+#### PESA 8,8 GIGABYTES Y SON 163 HORAS, PERO SE PUEDE ESCUCHAR ONLINE.
 
 [https://archive.org/details/AUDIO_CURSO_COMPLETO_ELECTRICIDAD_DOMICILIARIA_ARGENTINA_UOCRA](https://archive.org/details/AUDIO_CURSO_COMPLETO_ELECTRICIDAD_DOMICILIARIA_ARGENTINA_UOCRA)
 
 
-### Los subtitulos generado por YouTube de cada audio:   
+### Los subtitulos generado por YouTube de cada audio, la clase 7 la transcribí manualmente.
+
+Hay varias clases que las transcribí manualmente pero no las tengo subidas si queres te las paso, en un futuro voy a subir todo.
    
 [https://cursoelectricidad.github.io/03clase_sub.txt](https://cursoelectricidad.github.io/03clase_sub.txt)      
 [https://cursoelectricidad.github.io/04clase_sub.txt](https://cursoelectricidad.github.io/04clase_sub.txt)      
@@ -31,7 +33,10 @@ PESA 8,8 GIGABYTES Y SON 163 HORAS, PERO SE PUEDE ESCUCHAR ONLINE.
    
 [https://cursoelectricidad.github.io/05clase_sub.txt](https://cursoelectricidad.github.io/05clase_sub.txt)   
 [https://cursoelectricidad.github.io/06clase_sub.txt](https://cursoelectricidad.github.io/06clase_sub.txt)   
+
+
 [https://cursoelectricidad.github.io/07clase_sub.txt](https://cursoelectricidad.github.io/07clase_sub.txt)   
+
 [https://cursoelectricidad.github.io/08clase_sub.txt](https://cursoelectricidad.github.io/08clase_sub.txt)   
    
 Falté la clase de EMPALMES. El siguiente subtitulo es de un video de YouTube. Mejor buscá en YouTube sobre empalmes en la clase próxima está la foto del pizarrón.   
@@ -109,8 +114,6 @@ Falté la clase de EMPALMES. El siguiente subtitulo es de un video de YouTube. M
    
 Falté la clase 80 porque el docente nos dijo que íbamos a tener una clase de psicología y al final no fue, el siguiente subtitulo es de un video de YouTube.   
    
-[https://cursoelectricidad.github.io/79clase_sub.txt](https://cursoelectricidad.github.io/80clase_sub.txt)   
-   
 [https://cursoelectricidad.github.io/81clase_sub.txt](https://cursoelectricidad.github.io/81clase_sub.txt)   
 [https://cursoelectricidad.github.io/82clase_sub.txt](https://cursoelectricidad.github.io/82clase_sub.txt)   
 [https://cursoelectricidad.github.io/83clase_sub.txt](https://cursoelectricidad.github.io/83clase_sub.txt)   
@@ -124,6 +127,6 @@ Falté una semana completa porque ya quería dejar el curso
 Acá dejé de ir (faltaban 11 clases para terminar el curso).
 
 
-### Audios separados de cada una de las clases (el volumen no esta amplificado)
+### En cada publicación están los audios separados de cada una de las clases (el volumen no esta amplificado).
 
-Los volumenes de las clases están más bajo, el audio grande ese es recomendable porque tiene el volumen amplificado. Sino vas a tener que usar un reproductor como VLC para amplificar más del 100%.
+Los volúmenes de las clases están más bajo, el audio grande ese es recomendable porque tiene el volumen amplificado. Sino vas a tener que usar un reproductor como VLC para amplificar más del 100%.
