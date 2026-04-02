@@ -2,7 +2,7 @@
 % Andrés Imlauer
 % 26 Marzo 2025
 
-**Audio de vocaroo**   
+**Audio de Vocaroo**   
 
 [https://vocaroo.com/15jDCE6h4IdZ](https://vocaroo.com/15jDCE6h4IdZ)   
 
