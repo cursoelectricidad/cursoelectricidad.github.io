@@ -22,6 +22,14 @@ Compile todo el curso en 1 solo PDF (pesa 639 megas).
 
 [https://archive.org/details/AUDIO_CURSO_COMPLETO_ELECTRICIDAD_DOMICILIARIA_ARGENTINA_UOCRA](https://archive.org/details/AUDIO_CURSO_COMPLETO_ELECTRICIDAD_DOMICILIARIA_ARGENTINA_UOCRA)
 
+#### Aca tenes el AUDIO de los resumenes de ChatGPT de 24 horas.
+
+[https://archive.org/details/AUDIO_ESPEAK_RESUMEN_CHATGPT_COMPLETO_CURSO_ELECTRICIDAD_UOCRA_24HORAS](https://archive.org/details/AUDIO_ESPEAK_RESUMEN_CHATGPT_COMPLETO_CURSO_ELECTRICIDAD_UOCRA_24HORAS)
+
+#### Y acá tenes todo el resumen de ChatGPT de todas las clases (el audio de arriba consiste en leer este texto con espeak).
+
+[https://cursoelectricidad.github.io/todoenuno_para_espeak.txt](https://cursoelectricidad.github.io/todoenuno_para_espeak.txt)
+
 
 ### Los subtitulos generado por YouTube de cada audio, la clase 7 la transcribí manualmente.
 
