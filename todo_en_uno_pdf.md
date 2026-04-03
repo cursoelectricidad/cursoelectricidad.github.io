@@ -8,7 +8,7 @@ Luego agregaré una encuesta MULTIPLE CHOICE para probar tu conocimiento (en la 
 
 Compile todo el curso en 1 solo PDF (pesa 639 megas).
 
-### PDF subido a Google Drive (creo que es mas rapido)
+### PDF subido a Google Drive (creo que es mas rápido)
 
 [https://drive.google.com/file/d/13CA4tfUZ4x8i9gTgJHSVdLg0BJwXgD8A/view?usp=sharing](https://drive.google.com/file/d/13CA4tfUZ4x8i9gTgJHSVdLg0BJwXgD8A/view?usp=sharing)
 
@@ -22,16 +22,17 @@ Compile todo el curso en 1 solo PDF (pesa 639 megas).
 
 [https://archive.org/details/AUDIO_CURSO_COMPLETO_ELECTRICIDAD_DOMICILIARIA_ARGENTINA_UOCRA](https://archive.org/details/AUDIO_CURSO_COMPLETO_ELECTRICIDAD_DOMICILIARIA_ARGENTINA_UOCRA)
 
-#### Aca tenes el AUDIO de los resumenes de ChatGPT de 14 horas.
+### Aca tenes el AUDIO de los resumenes de ChatGPT de 14 horas:
 
 
 [https://archive.org/details/TODO_EL_CURSO_ESPEAK_RESUMEN_CHATGPT_UOCRA](https://archive.org/details/TODO_EL_CURSO_ESPEAK_RESUMEN_CHATGPT_UOCRA)
 
-#### Este fue el borrado que salió primero (24 horas) creo que el de arriba es mejor pero no escuché entero.
+
+### Este fue el borrado que salió primero (24 horas) creo que el de arriba es mejor pero no escuché entero:
 
 [https://archive.org/details/AUDIO_ESPEAK_RESUMEN_CHATGPT_COMPLETO_CURSO_ELECTRICIDAD_UOCRA_24HORAS](https://archive.org/details/AUDIO_ESPEAK_RESUMEN_CHATGPT_COMPLETO_CURSO_ELECTRICIDAD_UOCRA_24HORAS)
 
-#### Y acá tenes todo el resumen de ChatGPT de todas las clases (el audio de arriba consiste en leer este texto con espeak).
+### Acá tenes todo el resumen de ChatGPT de todas las clases (el audio de arriba consiste en leer este texto con espeak).
 
 [https://cursoelectricidad.github.io/todoenuno_para_espeak.txt](https://cursoelectricidad.github.io/todoenuno_para_espeak.txt)
 
@@ -137,7 +138,7 @@ Falté una semana completa porque ya quería dejar el curso
 [https://cursoelectricidad.github.io/88clase_sub.txt](https://cursoelectricidad.github.io/88clase_sub.txt)   
 [https://cursoelectricidad.github.io/89clase_sub.txt](https://cursoelectricidad.github.io/89clase_sub.txt)   
 
-Acá dejé de ir (faltaban 11 clases para terminar el curso).
+La clase 89 fue mi última clase. Dejé de ir. Faltaban 11 clases para terminar el curso.
 
 
 ### En cada publicación están los audios separados de cada una de las clases (el volumen no esta amplificado).
