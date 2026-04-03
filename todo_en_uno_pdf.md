@@ -25,7 +25,7 @@ Compile todo el curso en 1 solo PDF (pesa 639 megas).
 #### Aca tenes el AUDIO de los resumenes de ChatGPT de 14 horas.
 
 
-[https://archive.org/details/TODO_EL_CURSO_ESPEAK_RESUMEN_CHATGPT_UOCRA.wav](https://archive.org/details/TODO_EL_CURSO_ESPEAK_RESUMEN_CHATGPT_UOCRA.wav)
+[https://archive.org/details/TODO_EL_CURSO_ESPEAK_RESUMEN_CHATGPT_UOCRA](https://archive.org/details/TODO_EL_CURSO_ESPEAK_RESUMEN_CHATGPT_UOCRA)
 
 #### Este fue el borrado que salió primero (24 horas) creo que el de arriba es mejor pero no escuché entero.
 
