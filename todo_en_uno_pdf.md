@@ -28,10 +28,6 @@ Compile todo el curso en 1 solo PDF (pesa 639 megas).
 [TODO EL CURSO ESPEAK RESUMEN CHATGPT UOCRA TODO EL CURSO ESPEAK RESUMEN CHATGPT UOCRA (mp3)](https://archive.org/download/TODO_EL_CURSO_ESPEAK_RESUMEN_CHATGPT_UOCRA/TODO_EL_CURSO_ESPEAK_RESUMEN_CHATGPT_UOCRA.mp3)
 
 
-### Este fue el borrado que salió primero (24 horas) creo que el de arriba es mejor pero no escuché entero:
-
-[AUDIO ESPEAK RESUMEN CHATGPT COMPLETO CURSO ELECTRICIDAD UOCRA 24HORAS (mp3)](https://archive.org/download/AUDIO_ESPEAK_RESUMEN_CHATGPT_COMPLETO_CURSO_ELECTRICIDAD_UOCRA_24HORAS/todoenuno_espeak.mp3)
-
 ### Acá tenes todo el resumen de ChatGPT de todas las clases (el audio de arriba consiste en leer este texto con espeak).
 
 [https://cursoelectricidad.github.io/todoenuno_para_espeak.txt](https://cursoelectricidad.github.io/todoenuno_para_espeak.txt)
