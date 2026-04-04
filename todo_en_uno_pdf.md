@@ -20,17 +20,17 @@ Compile todo el curso en 1 solo PDF (pesa 639 megas).
 
 #### PESA 8,8 GIGABYTES Y SON 163 HORAS, PERO SE PUEDE ESCUCHAR ONLINE.
 
-[https://ia800502.us.archive.org/31/items/AUDIO_CURSO_COMPLETO_ELECTRICIDAD_DOMICILIARIA_ARGENTINA_UOCRA/curso_electricidad_completo_out.mp3](https://ia800502.us.archive.org/31/items/AUDIO_CURSO_COMPLETO_ELECTRICIDAD_DOMICILIARIA_ARGENTINA_UOCRA/curso_electricidad_completo_out.mp3)
+[AUDIO CURSO_COMPLETO ELECTRICIDAD DOMICILIARIA ARGENTINA UOCRA (mp3)](https://archive.org/download/AUDIO_CURSO_COMPLETO_ELECTRICIDAD_DOMICILIARIA_ARGENTINA_UOCRA/curso_electricidad_completo_out.mp3)
 
 ### Aca tenes el AUDIO de los resumenes de ChatGPT de 14 horas:
 
 
-[https://ia800506.us.archive.org/19/items/TODO_EL_CURSO_ESPEAK_RESUMEN_CHATGPT_UOCRA/TODO_EL_CURSO_ESPEAK_RESUMEN_CHATGPT_UOCRA.mp3](https://ia800506.us.archive.org/19/items/TODO_EL_CURSO_ESPEAK_RESUMEN_CHATGPT_UOCRA/TODO_EL_CURSO_ESPEAK_RESUMEN_CHATGPT_UOCRA.mp3)
+[TODO EL CURSO ESPEAK RESUMEN CHATGPT UOCRA TODO EL CURSO ESPEAK RESUMEN CHATGPT UOCRA (mp3)](https://archive.org/download/TODO_EL_CURSO_ESPEAK_RESUMEN_CHATGPT_UOCRA/TODO_EL_CURSO_ESPEAK_RESUMEN_CHATGPT_UOCRA.mp3)
 
 
 ### Este fue el borrado que salió primero (24 horas) creo que el de arriba es mejor pero no escuché entero:
 
-[https://archive.org/download/AUDIO_ESPEAK_RESUMEN_CHATGPT_COMPLETO_CURSO_ELECTRICIDAD_UOCRA_24HORAS/todoenuno_espeak.mp3](https://archive.org/download/AUDIO_ESPEAK_RESUMEN_CHATGPT_COMPLETO_CURSO_ELECTRICIDAD_UOCRA_24HORAS/todoenuno_espeak.mp3)
+[AUDIO ESPEAK RESUMEN CHATGPT COMPLETO CURSO ELECTRICIDAD UOCRA 24HORAS (mp3)](https://archive.org/download/AUDIO_ESPEAK_RESUMEN_CHATGPT_COMPLETO_CURSO_ELECTRICIDAD_UOCRA_24HORAS/todoenuno_espeak.mp3)
 
 ### Acá tenes todo el resumen de ChatGPT de todas las clases (el audio de arriba consiste en leer este texto con espeak).
 
