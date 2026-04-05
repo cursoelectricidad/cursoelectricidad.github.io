@@ -9,7 +9,7 @@ El curso de auxiliar electricista finalizó en la clase número 47 (8 de Julio d
 2025), y el curso de montador electricista comenzó en la clase número 48 (29 de
 Julio del año 2025).
 
-Profesor: Francisco Salvador Espeche. Ingeniero Electromecánico, inspector de obra.
+Profesor: Francisco Salvador Espeche. Ingeniero Electromecánico, inspector de obra, proyectista.
 
 Al principio son conceptos básicos de electricidad: la red de distribución,
 simbología, armado de portalamparas. Luego comienza con canalización, es un curso basado en las normas AEA 90364-7-770 (Viviendas). La clase mas importante serían las prácticas de armado de tableros esquemas de montaje (Clases 22 hasta 28).
