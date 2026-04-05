@@ -30,7 +30,7 @@ Compile todo el curso en 1 solo PDF (pesa 639 megas).
 
 # Parte 2
 
-[TODO EL CURSO ESPEAK RESUMEN CHATGPT UOCRA TODO EL CURSO ESPEAK RESUMEN CHATGPT UOCRA PARTE 2 (mp3)](https://archive.org/download/TODO_EL_CURSO_ESPEAK_RESUMEN_CHATGPT_UOCRA/TODO_EL_CURSO_ESPEAK_RESUMEN_CHATGPT_UOCRA.mp3)
+[TODO EL CURSO ESPEAK RESUMEN CHATGPT UOCRA TODO EL CURSO ESPEAK RESUMEN CHATGPT UOCRA PARTE 2 (mp3)](https://archive.org/download/TODO_EL_CURSO_ESPEAK_RESUMEN_CHATGPT_UOCRA/TODO_EL_CURSO_ESPEAK_RESUMEN_CHATGPT_UOCRA_PARTE2.mp3)
 
 ### Acá tenes el texto de resumen de ChatGPT de todas las clases (los audios de arriba consiste en leer este texto con espeak).
 
