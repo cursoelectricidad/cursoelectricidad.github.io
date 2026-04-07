@@ -16,11 +16,15 @@ Compile todo el curso en 1 solo PDF (pesa 639 megas).
 
 [https://archive.org/download/curso_electricidad_uocra_CFP_17_espeche_pdf_completo/curso_electricidad.pdf](https://archive.org/download/curso_electricidad_uocra_CFP_17_espeche_pdf_completo/curso_electricidad.pdf)
 
-# ACÁ ESTÁN TODOS LOS AUDIOS EN UN SOLO Y AMPLIFIQUÉ 20 VECES MÁS EL VOLUMEN: 
+# ACÁ ESTÁN TODOS LOS AUDIOS EN DOS PARTES: AUXILIAR Y MONTADOR. AMPLIFIQUÉ 20 VECES MÁS EL VOLUMEN: 
 
-#### PESA 8,8 GIGABYTES Y SON 163 HORAS, PERO SE PUEDE ESCUCHAR ONLINE.
+## Audio Curso entero Auxiliar (de la clase 03 hasta la 47): PESA 4,6 GIGABYTES Y SON X HORAS, PERO SE PUEDE ESCUCHAR ONLINE.
 
-[AUDIO CURSO_COMPLETO ELECTRICIDAD DOMICILIARIA ARGENTINA UOCRA (mp3)](https://archive.org/download/AUDIO_CURSO_COMPLETO_ELECTRICIDAD_DOMICILIARIA_ARGENTINA_UOCRA/curso_electricidad_completo_out.mp3)
+[AUDIO CURSO COMPLETO AUXILIAR ELECTRICISTA DOMICILIARIO ARGENTINA UOCRA (mp3)](https://archive.org/download/AUDIO_CURSO_COMPLETO_ELECTRICIDAD_DOMICILIARIA_ARGENTINA_CFP_17_UOCRA/auxiliar_electricista.mp3)
+
+## Audio Curso entero Montador (de la clase 48 hasta la última): PESA X GIGABYTES Y SON X HORAS, PERO SE PUEDE ESCUCHAR ONLINE.
+
+[AUDIO CURSO COMPLETO MONTADOR ELECTRICISTA DOMICILIARIO ARGENTINA UOCRA (mp3)](https://archive.org/download/AUDIO_CURSO_COMPLETO_ELECTRICIDAD_DOMICILIARIA_ARGENTINA_CFP_17_UOCRA/montador_electricista.mp3)
 
 ### Aca tenes los AUDIOS de los resumenes de ChatGPT de 14 horas:
 
