@@ -576,11 +576,7 @@ Quedaría listo como material de repaso para examen o práctica.
 
 
 
----
-title: "Electricidad / Clase 31: [FOTOCOPIA] Protecciones. Interruptor termomagnético. Fusibles. Repaso."
-date: 2025-05-28T22:19:52-03:00
-tags: [electricidad]
----
+Electricidad / Clase 31: [FOTOCOPIA] Protecciones. Interruptor termomagnético. Fusibles. Repaso.
 ###### Audio en Vocaroo:
 https://vocaroo.com/11YfVW6QE7QS
 ###### Audio en Archive:

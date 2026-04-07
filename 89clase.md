@@ -579,11 +579,7 @@ El profesor enfatiza:
 [![](https://archive.org/download/tablero_bombeo/IMG_20251106_171909808_thumb.jpg)](https://archive.org/download/tablero_bombeo/IMG_20251106_171909808.jpg)
 
 
----
-title: "Electricidad / Clase 88: Clase Practica. Terminamos tablero de bombeo."
-date: 2025-11-05T23:15:05-03:00
-tags: [electricidad]
----
+Electricidad / Clase 88: Clase Practica. Terminamos tablero de bombeo.
 
 #### Audio en Vocaroo:
 

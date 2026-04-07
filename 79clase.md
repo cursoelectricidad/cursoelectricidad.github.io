@@ -373,11 +373,7 @@ Por lo tanto es conveniente el uso de catalogos de fabricantes en los que se ind
 * Implementación de **sistema de bombeo automático** con flotador y contactor.   
 
 
----
-title: "Electricidad / Clase 78: [FOTOCOPIAS no entregadas] Contactores. Taller de 'Inteligencia Artificial' (me fui)."
-date: 2025-10-13T22:54:10-03:00
-tags: [electricidad]
----
+Electricidad / Clase 78: [FOTOCOPIAS no entregadas] Contactores. Taller de 'Inteligencia Artificial' (me fui).
 
 #### Audio en Vocaroo:
 

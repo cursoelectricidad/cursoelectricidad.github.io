@@ -487,41 +487,7 @@ Muy buena práctica para obra real: **paciencia + método + prueba**
 
 
 
----
-title: "Electricidad / Clase 87: Desarmamos enchufe aire acondicionado para agregar un cable extension, luego rearmamos el enchufe. Recomendación: dejar uno más largo que el otro para evitar que queden al mismo nivel (seguridad y mejor contacto). El enchufe ya no era el original."
-date: 2025-11-04T23:12:28-03:00
-tags: [electricidad]
----
-
-#### Audio en Vocaroo:
-
-[https://voca.ro/1eUHCL73Whc4](https://voca.ro/1eUHCL73Whc4)
-
-##### Audio en Archive:
-
-[https://archive.org/details/record-341](https://archive.org/details/record-341)
-
-#### Audio en YouTube:
-
-[https://www.youtube.com/watch?v=YyStr-OuXXM](https://www.youtube.com/watch?v=YyStr-OuXXM)
-
-Nos costo armar el enchufe y los empalmes porque el cable era grueso a comparación del otro y no entraba en la chapita del enchufe.
-
-### Observación:
-
-Todos los enchufes originales vienen sellados, este no estaba sellado lo desarmamos y parecía que el cable era de 1,5mm^2. Ya tocó otra persona.
-
-Lo ideal seria abrir la caja en donde esta atornillado el cable ese y cambiar de ahí, el cable dentro del aire que viene desde afuera desde el condensador. Todos los enchufes son sellados si tengo que poner un alargue tengo que cortar si o si.
-
-Luego de conectar el aire tuvimos que buscar el código con un control remoto universal que tenía más de 4000 códigos.
-
----
-
-Comenzamos la clase armando el tablero de bombeo siguiendo esta fotocopia, luego hicimos la extensión del cable.
-
-![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhWFNFixE2mtIW9yCsFBoTSfjeWOVks5pwJ6g7TQbzXfQzinaATyGc9sIeBCs-OM3O_HSGPCeIxgoXeV1UqyIY-skgoFle5lMp7PBpz4qOzXnljZJ8QgGxRkRL77jfFvMPTHmxrIH8kM8mHJwXsoZnC_lKzausiay6kwYKYONgOVK7fm5NhS6qS1gMDtqE/s4160/IMG_20251007_194100515.jpg)
-
----
+Electricidad / Clase 87: Desarmamos enchufe aire acondicionado para agregar un cable extension, luego rearmamos el enchufe. Recomendación: dejar uno más largo que el otro para evitar que queden al mismo nivel (seguridad y mejor contacto). El enchufe ya no era el original.
 
 
 ![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgSogzQiMRp_vAoRpmYwHN9AZDhsHHfz_Rn5OjSOiXfMlhQweAU15o9uvE61WySOyGBX0BcVulldtkgPaXP1wvJ9O_IgG9M5EnuITuAYFSmN3EKVcpE9F3782A72WJxGZy7Ljr-SZW6lAqrK39e9GPrnDp_qfSb1XSDhKc5devIWobW__4eJ7IgsjI1ob8/s4160/IMG_20251104_184402471.jpg)

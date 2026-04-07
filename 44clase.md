@@ -516,11 +516,7 @@ Esto sería un **manual resumido y didáctico** para repaso rápido y seguro.
 
 
 
----
-title: "Electricidad / Clase 43: Clase práctica. Como hacer RCP (Posadas Reanima)"
-date: 2025-07-05T08:50:53-03:00
-tags: [electricidad]
----
+Electricidad / Clase 43: Clase práctica. Como hacer RCP (Posadas Reanima)
 
 ###### Audio en Vocaroo:
 https://vocaroo.com/1nYvA7jIrSMl

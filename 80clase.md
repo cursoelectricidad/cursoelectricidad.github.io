@@ -126,11 +126,7 @@ L (fase)
 
 
 
----
-title: "Electricidad / Clase 79: Tablero electrobomba materiales. Arranque parada motor con contactor. Estuve ausente."
-date: 2025-10-15T22:52:50-03:00
-tags: [electricidad]
----
+Electricidad / Clase 79: Tablero electrobomba materiales. Arranque parada motor con contactor. Estuve ausente.
 
 No tengo audio, estuve ausente.
 

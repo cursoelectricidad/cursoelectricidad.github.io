@@ -777,11 +777,7 @@ El docente luego introduce el tema de **interruptores diferenciales**, destacand
 
 
 
----
-title: "Electricidad / Clase 75: [FOTOCOPIA Disyuntor] Ayudante explico como soluciono instalacion casa anterior (explicado clase anterior). Formula caida de tension."
-date: 2025-10-06T22:22:21-03:00
-tags: [electricidad]
----
+Electricidad / Clase 75: [FOTOCOPIA Disyuntor] Ayudante explico como soluciono instalacion casa anterior (explicado clase anterior). Formula caida de tension.
 
 #### Audio en Vocaroo:
 

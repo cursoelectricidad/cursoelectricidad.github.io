@@ -16,11 +16,7 @@ Estuve ausente.
    
 
 
----
-title: "Electricidad / Clase 8 : Clase práctica sobre EMPALMES. Estuve ausente."
-date: 2025-04-05T16:57:37-03:00
-tags: [electricidad]
----
+Electricidad / Clase 8 : Clase práctica sobre EMPALMES. Estuve ausente.
 Clase práctica sobre EMPALMES. Estuve ausente. Me sentia demasiado mal. Antes de la clase el profesor **Francisco Espeche** mando este video por WhatsApp:
 
 https://www.youtube.com/embed/nXI7tKH1FY0

@@ -729,11 +729,7 @@ SSR usados para controlar resistencias calefactoras, cargas conmutadas frecuente
    
 
 
----
-title: "Electricidad / Clase 77: [FOTOCOPIA Diagrama bomba] Leimos PDF en proyector. Teoria: Contactor y sus partes. Rele termico."
-date: 2025-10-08T22:18:51-03:00
-tags: [electricidad]
----
+Electricidad / Clase 77: [FOTOCOPIA Diagrama bomba] Leimos PDF en proyector. Teoria: Contactor y sus partes. Rele termico.
 
 #### Audio en Vocaroo:
 

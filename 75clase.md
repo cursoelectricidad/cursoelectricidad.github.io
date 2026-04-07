@@ -396,11 +396,7 @@ Minuto 46
 
 
 
----
-title: "Electricidad / Clase 74: Tableros: protecciones de tensión, contactor. Hablamos de problemas de un tablero."
-date: 2025-10-01T22:26:37-03:00
-tags: [electricidad]
----
+Electricidad / Clase 74: Tableros: protecciones de tensión, contactor. Hablamos de problemas de un tablero.
 
 #### Audio en Vocaroo: 
 

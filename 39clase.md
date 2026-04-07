@@ -135,11 +135,7 @@ Si querés, puedo hacer un **resumen final de las tres partes que me mandaste**,
 
 
 
----
-title: "Electricidad / Clase 38: Examen. FOTO del Examen teórico"
-date: 2025-06-17T22:36:04-03:00
-tags: [electricidad]
----
+Electricidad / Clase 38: Examen. FOTO del Examen teórico
 
 ###### Audio en Vocaroo:
 

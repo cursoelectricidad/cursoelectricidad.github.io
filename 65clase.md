@@ -50,11 +50,7 @@ Ayudante: Un compresor quemado.
 Profesor: Suele ocurrir eso así que por eso pero en principio salta el disyuntor otra vez porque salta la termomagnética sino el disyuntor está saltando por una descarga.
 
 
----
-title: "Electricidad / Clase 64: Estuve ausente. Día de lluvia. Clase práctica terminaron trabajo en aula. "
-date: 2025-09-09T00:34:53-03:00
-tags: [electricidad]
----
+Electricidad / Clase 64: Estuve ausente. Día de lluvia. Clase práctica terminaron trabajo en aula. 
 
 Estuve ausente.
 ![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiVy9ENwmttY5uZbAj2_56v1-915uPlD13A-2aIbThbFtHGFeDa0E67FrDY5zbEGP65DpiOHUKaL8oxAPY4ThQPVdQ39TJBoHILhViMFC9Ccn3pWGI5i62zg77og4UKAvnxZ7lux9sKZxeNL-O939mCGQpNqEdqrzw_LLt4nqQIiGqwpMua4PVmiyN7IHo/s4160/IMG-20250908-WA0003.jpg)

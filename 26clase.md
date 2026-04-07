@@ -269,11 +269,7 @@ Si querés, puedo hacer un **diagrama final visual completo de toda esta instala
 FIN
 
 
----
-title: "Electricidad / Clase 25. Clase práctica. Armamos tablero: 4) Dos lámparas y 2 interruptores en distintas cajas. 5) Una lámpara con llave combinación. Salteado porque es clase práctica."
-date: 2025-05-15T02:22:59-03:00
-tags: [electricidad]
----
+Electricidad / Clase 25. Clase práctica. Armamos tablero: 4) Dos lámparas y 2 interruptores en distintas cajas. 5) Una lámpara con llave combinación. Salteado porque es clase práctica.
 
 ###### Audio en Vocaroo:
 https://vocaroo.com/1oFkLIlf3v25

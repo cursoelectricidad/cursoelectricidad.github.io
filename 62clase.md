@@ -447,11 +447,7 @@ A continuación, resumo y destaco los puntos clave del diálogo, que parece ser 
    - Aprendizaje: Tomar notas, pensar en preguntas capciosas para exámenes; practicar en obra para entender complejidades.
 
 
----
-title: "Electricidad / Clase 61: Terminamos la canalizacion (reemplazamos caño del toma con varias curvas) y realizamos el cableado del aula."
-date: 2025-09-02T02:02:46-03:00
-tags: [electricidad]
----
+Electricidad / Clase 61: Terminamos la canalizacion (reemplazamos caño del toma con varias curvas) y realizamos el cableado del aula.
 
 #### Audio en Vocaroo:
 

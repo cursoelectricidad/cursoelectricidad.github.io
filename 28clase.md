@@ -301,11 +301,7 @@ Si querés, puedo hacer un **diagrama sencillo de trifásico y tablero residenci
 
 
 
----
-title: "Electricidad / Clase 27: Clase práctica. [LO MÁS IMPORTANTE DEL CURSO: ESQUEMA DE MONTAJE] 8) Llave de 1 punto y toma corrientes 1 lámpara - Baño. Cortamos la luz para probar disyuntor."
-date: 2025-05-21T10:38:31-03:00
-tags: [electricidad]
----
+Electricidad / Clase 27: Clase práctica. [LO MÁS IMPORTANTE DEL CURSO: ESQUEMA DE MONTAJE] 8) Llave de 1 punto y toma corrientes 1 lámpara - Baño. Cortamos la luz para probar disyuntor.
 
 ###### Audio en Vocaroo:
 https://vocaroo.com/12GLRDtU5Q3l

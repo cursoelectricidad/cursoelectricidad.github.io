@@ -259,11 +259,7 @@
   * Aplicación en tableros de mayor complejidad.
 
 
----
-title: "Electricidad / Clase Nº 72: Clase práctica. Armado de tableros."
-date: 2025-09-30T11:05:00-03:00
-tags: [electricidad]
----
+Electricidad / Clase Nº 72: Clase práctica. Armado de tableros.
 
 #### Audio en Vocaroo: 
 

@@ -375,11 +375,7 @@ Si querés, puedo prepararte **un esquema-resumen visual** con el temporizador, 
 
 
 
----
-title: "Electricidad / Clase 30: [FOTOCOPIA] Ordenamos. Fusibles. Térmicas. Mortero. Driver. Etc. Día de Lluvia."
-date: 2025-05-28T09:01:45-03:00
-tags: [electricidad]
----
+Electricidad / Clase 30: [FOTOCOPIA] Ordenamos. Fusibles. Térmicas. Mortero. Driver. Etc. Día de Lluvia.
 
 ###### Audio en Vocaroo:
 https://vocaroo.com/1iHHSbiUXgm1 (hay partes en mute¿?)

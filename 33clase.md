@@ -627,11 +627,7 @@ Si querés, puedo armar un **esquema visual paso a paso del ITM y su relación c
 
 
 
----
-title: "Electricidad / Clase 32: [FOTOCOPIA] Foto termomagnética. Leímos fotocopia interruptor termomagnético. Potencia nominal. Foto de Corriente máxima por sección de cable. Ley de Watt. PREGUNTA DE EXAMEN: Circuitos mixtos: poner 2 tipos de conductores puede empezar con 2,5mm^2 y después 1,5mm^2 pero protegíamos el conductor más chico que era 1,5mm^2 y todas las térmicas eran de 10 amper."
-date: 2025-06-02T22:30:44-03:00
-tags: [electricidad]
----
+Electricidad / Clase 32: [FOTOCOPIA] Foto termomagnética. Leímos fotocopia interruptor termomagnético. Potencia nominal. Foto de Corriente máxima por sección de cable. Ley de Watt. PREGUNTA DE EXAMEN: Circuitos mixtos: poner 2 tipos de conductores puede empezar con 2,5mm^2 y después 1,5mm^2 pero protegíamos el conductor más chico que era 1,5mm^2 y todas las térmicas eran de 10 amper.
 
 ###### Audio en Vocaroo:
 https://vocaroo.com/1dNfZlpedJa6

@@ -534,11 +534,7 @@ Si querés, puedo hacer un **documento maestro unificado** con todos los resúme
 
 
 
----
-title: "Electricidad / Clase 47: Comienzo del curso montador electricista. Bienvenida a nuevos alumnos. Repaso conceptos de las primeras clases."
-date: 2025-07-29T03:36:44-03:00
-tags: [electricidad]
----
+Electricidad / Clase 47: Comienzo del curso montador electricista. Bienvenida a nuevos alumnos. Repaso conceptos de las primeras clases.
 
 ###### Audio en Vocaroo:
 https://vocaroo.com/1979ylz1KTim

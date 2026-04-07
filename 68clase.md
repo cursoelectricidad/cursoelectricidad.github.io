@@ -698,11 +698,7 @@ Además del termotanque solar de tubos de vacío, se mencionan:
 En resumen, la charla proporciona una guía exhaustiva sobre la adquisición, instalación y uso de termotanques solares de tubos de vacío, enfatizando la importancia de la seguridad, el correcto dimensionamiento del sistema hídrico y eléctrico, y la consideración de factores climáticos para maximizar la eficiencia y la durabilidad del equipo.
 
 
----
-title: "Electricidad / Clase 67: Vimos trabajo practico. Taller de instalacion termotanque solar."
-date: 2025-09-15T22:49:42-03:00
-tags: [electricidad]
----
+Electricidad / Clase 67: Vimos trabajo practico. Taller de instalacion termotanque solar.
 
 #### Audio en Archive:
 

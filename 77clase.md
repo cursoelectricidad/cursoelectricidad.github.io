@@ -493,11 +493,7 @@ El docente anunció que:
 
 
 
----
-title: "Electricidad / Clase 76: Tablero de bombeo. Contactor. Rele termico. Diagrama."
-date: 2025-10-07T23:13:56-03:00
-tags: [electricidad]
----
+Electricidad / Clase 76: Tablero de bombeo. Contactor. Rele termico. Diagrama.
 
 #### Audio en Vocaroo:
 

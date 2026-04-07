@@ -188,11 +188,7 @@ Si querés, puedo hacer un **resumen visual completo de todos los puntos que me 
 
 
 
----
-title: "Electricidad / Clase 39: Examen. [FOTOCOPIA VIEJA DE AGRUPACIÓN DE CONDUCTORES] Foto del examen teórico (Continuación). Foto interruptor. Fotocopia agrupación de conductores normas."
-date: 2025-06-19T21:25:07-03:00
-tags: [electricidad]
----
+Electricidad / Clase 39: Examen. [FOTOCOPIA VIEJA DE AGRUPACIÓN DE CONDUCTORES] Foto del examen teórico (Continuación). Foto interruptor. Fotocopia agrupación de conductores normas.
 
 ###### Audio en Vocaroo:
 

@@ -775,11 +775,7 @@ A continuación, resumo y destaco los puntos clave del transcripto proporcionado
 Estos puntos capturan la esencia técnica y práctica de la clase, enfatizando normas de seguridad (como AEA o similares) y eficiencia en instalaciones. Si necesitas más detalles o expansión en algún tema, avísame.
 
 
----
-title: "Electricidad / Clase 55: Cálculo cableado de otro plano. Ayudante trajo plano sin conexionado y hicimos el cableado en clase. Repaso uniones, cañería."
-date: 2025-08-14T07:16:00-03:00
-tags: [electricidad]
----
+Electricidad / Clase 55: Cálculo cableado de otro plano. Ayudante trajo plano sin conexionado y hicimos el cableado en clase. Repaso uniones, cañería.
 
 #### Audio en Vocaroo:
 

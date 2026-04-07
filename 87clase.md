@@ -337,11 +337,7 @@ Un Alumno consulta sobre **termo tanque eléctrico quemado**.
 > “Primero el arquitecto debe definir la obra. Si cambian todo después, hay que romper y empezar de nuevo.”
 
 
----
-title: "Electricidad / Clase 86: [FOTOCOPIA] Relé térmico, guardamotor, cómo calcular contactor. Pasar HP a watts. En interruptores tetrapolares cualquiera de los bornes puede ser el neutro. Taller de Excel: cálculo de presupuestos."
-date: 2025-11-04T05:32:36-03:00
-tags: [electricidad]
----
+Electricidad / Clase 86: [FOTOCOPIA] Relé térmico, guardamotor, cómo calcular contactor. Pasar HP a watts. En interruptores tetrapolares cualquiera de los bornes puede ser el neutro. Taller de Excel: cálculo de presupuestos.
 
 #### Audio en Vocaroo:
 

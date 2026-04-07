@@ -540,11 +540,7 @@ Dan dirección y significado a la vida, sobre todo en momentos de crisis:
 
 
 
----
-title: "Electricidad / Clase 80: [FOTOCOPIAS CLASE ANTERIOR QUE FALTE] Charla de salud metal. Ayudante explica mala anecdota de trabajo con un supuesto ingeniero."
-date: 2025-10-21T01:20:29-03:00
-tags: [electricidad]
----
+Electricidad / Clase 80: [FOTOCOPIAS CLASE ANTERIOR QUE FALTE] Charla de salud metal. Ayudante explica mala anecdota de trabajo con un supuesto ingeniero.
 
 #### Audio en Vocaroo:
 

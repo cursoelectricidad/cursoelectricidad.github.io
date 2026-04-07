@@ -316,11 +316,7 @@
 
 
 
----
-title: "Electricidad / Clase 82: Clase practica. Rearmamos y emprolijamos tablero de clase anterior."
-date: 2025-10-23T05:53:27-03:00
-tags: [electricidad]
----
+Electricidad / Clase 82: Clase practica. Rearmamos y emprolijamos tablero de clase anterior.
 
 #### Audio en Vocaroo:
 

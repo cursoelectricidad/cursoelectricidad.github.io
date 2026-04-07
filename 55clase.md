@@ -412,11 +412,7 @@ La clase se centra en instalaciones eléctricas en inmuebles, enfatizando normas
 Estos puntos resumen las normas clave y prácticas para instalaciones seguras y eficientes. La clase enfatiza el cumplimiento de reglamentaciones para evitar riesgos como cortocircuitos por agua o materiales inadecuados.
 
 
----
-title: "Electricidad / Clase 54: Ejercicio importante: Cálculo de materiales de un aula. Repaso de colocación de cajas. Altura cajas. Anécdota unió 2 caños de hierro con un corrugado."
-date: 2025-08-13T06:32:36-03:00
-tags: [electricidad]
----
+Electricidad / Clase 54: Ejercicio importante: Cálculo de materiales de un aula. Repaso de colocación de cajas. Altura cajas. Anécdota unió 2 caños de hierro con un corrugado.
 
 #### Audio en Vocaroo:
 

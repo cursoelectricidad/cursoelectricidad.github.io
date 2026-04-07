@@ -3,10 +3,7 @@
 % 27 Octubre 2025
 
 
----
-title: "Electricidad / Clase 83: Ausente."
-date: 2025-11-03T17:36:18-03:00
----
+Electricidad / Clase 83: Ausente.
 
 Estuve ausente.
 

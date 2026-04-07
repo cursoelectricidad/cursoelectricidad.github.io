@@ -827,11 +827,7 @@ Perfecto, este fragmento está reforzando **conceptos prácticos y normativos de
 - Traer materiales: Tableros (4-20 módulos), catálogos, interruptores, peines. Iniciar con esquema eléctrico, montaje por partes.
 
 
----
-title: "Electricidad / Clase 59: Otro repaso de teoria de tableros. Simbolos ID y ITM"
-date: 2025-08-26T01:42:28-03:00
-tags: [electricidad]
----
+Electricidad / Clase 59: Otro repaso de teoria de tableros. Simbolos ID y ITM
 
 #### Audio en Vocaroo:
 

@@ -421,11 +421,7 @@ Esto te dejaría un **documento práctico y resumido para estudio o uso en obra*
 
 
 
----
-title: "Electricidad / Clase 44: Teoría. Riesgo eléctrico. Elementos de protección. Vimos videos en proyector."
-date: 2025-07-05T08:56:51-03:00
-tags: [electricidad]
----
+Electricidad / Clase 44: Teoría. Riesgo eléctrico. Elementos de protección. Vimos videos en proyector.
 
 ###### Audio en Vocaroo:
 https://vocaroo.com/1oHoZB8WNiFg

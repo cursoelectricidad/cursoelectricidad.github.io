@@ -712,11 +712,7 @@ Al final, agregar +10% por desperdicios/curvas. Usaron Pitágoras para diagonale
 
 
 
----
-title: "Electricidad / Clase 53: Circuitos eléctricos (repaso). Cálculo de cables."
-date: 2025-08-11T21:54:38-03:00
-tags: [electricidad]
----
+Electricidad / Clase 53: Circuitos eléctricos (repaso). Cálculo de cables.
 
 #### Audio en Vocaroo:
 

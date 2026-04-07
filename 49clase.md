@@ -392,11 +392,7 @@ Esto te va a ayudar a **visualizar y practicar en la hoja antes de la obra**.
 
 
 
----
-title: "Electricidad / Clase 48: Plano. Dibujo a escala. Pedir foto plano escala."
-date: 2025-07-29T22:58:32-03:00
-tags: [electricidad]
----
+Electricidad / Clase 48: Plano. Dibujo a escala. Pedir foto plano escala.
 
 ###### Audio en Vocaroo
 https://vocaroo.com/1cpnXdKWPsk1

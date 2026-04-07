@@ -406,11 +406,7 @@ Acá te destaco los puntos más importantes de la conversación y le agrego emoj
 
 
 
----
-title: "Electricidad / Clase 63: Clase práctica. Terminamos cableado, terminamos tablero, comprobamos continuidad y agregamos lámparas."
-date: 2025-09-04T01:24:29-03:00
-tags: [electricidad]
----
+Electricidad / Clase 63: Clase práctica. Terminamos cableado, terminamos tablero, comprobamos continuidad y agregamos lámparas.
 
 #### Audio en Vocaroo:
 

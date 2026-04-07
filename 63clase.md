@@ -520,11 +520,7 @@ Aquí te dejo un resumen con los puntos más importantes y con emojis para que s
 
 
 
----
-title: "Electricidad / Clase 62: Clase práctica. Continuamos con trabajo en aula: cableado de tomacorriente, iluminaria."
-date: 2025-09-03T05:45:49-03:00
-tags: [electricidad]
----
+Electricidad / Clase 62: Clase práctica. Continuamos con trabajo en aula: cableado de tomacorriente, iluminaria.
 
 #### Audio en Vocaroo:
 

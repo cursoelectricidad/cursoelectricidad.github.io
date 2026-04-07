@@ -346,11 +346,7 @@ Te hago un **resumen técnico** de este tramo de la clase, porque mezcla muchas 
 * ✅ Alimentación de tablero seccional con 3 fases + neutro (permitido)
 
 
----
-title: "Electricidad / Clase 73: Armamos tablero (usando distribucion)."
-date: 2025-09-30T21:47:55-03:00
-tags: [electricidad]
----
+Electricidad / Clase 73: Armamos tablero (usando distribucion).
 
 #### Audio en Vocaroo: 
 

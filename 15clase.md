@@ -522,11 +522,7 @@ Eso te dejaría una “chuleta visual” para el repaso.
 
 
 
----
-title: "Electricidad / Clase 14. Canalización. Leímos catalogo Genrod (Tubeelectric). Exámen entra esquema de una acometida."
-date: 2025-04-18T18:22:20-03:00
-tags: [electricidad]
----
+Electricidad / Clase 14. Canalización. Leímos catalogo Genrod (Tubeelectric). Exámen entra esquema de una acometida.
     
 ###### Audio en Vocaroo    
 https://voca.ro/1bSaDxOxewXW    

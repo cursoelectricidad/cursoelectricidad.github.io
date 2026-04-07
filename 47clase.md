@@ -551,11 +551,7 @@ El profesor utiliza diversas historias y ejemplos para ilustrar la importancia d
 En resumen, la clase es un espacio dinámico donde se combinan la transmisión de conocimientos técnicos esenciales con el fomento del pensamiento crítico, la comunicación y el aprendizaje a través de experiencias reales y anécdotas, preparando a los estudiantes para el mundo laboral con una sólida base teórica y práctica.
 
 
----
-title: "Electricidad / Clase 46: Chori final"
-date: 2025-07-08T20:58:41-03:00
-tags: [electricidad]
----
+Electricidad / Clase 46: Chori final
 
 ###### Audio en Vocaroo:
 https://vocaroo.com/1obbPubQmp4T

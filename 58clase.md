@@ -515,11 +515,7 @@ El ejercicio práctico de la próxima clase se centrará en **realizar una insta
 Este ejercicio busca integrar conocimientos teóricos con práctica, asegurando que los estudiantes puedan diseñar y ejecutar una instalación eléctrica básica, respetando normativas y priorizando la seguridad.
 
 
----
-title: "Electricidad / Clase 57: [FOTOCOPIA Pasos para el calculo de materiales] Repaso conceptos tableros."
-date: 2025-08-19T21:56:24-03:00
-tags: [electricidad]
----
+Electricidad / Clase 57: [FOTOCOPIA Pasos para el calculo de materiales] Repaso conceptos tableros.
 
 #### Audio en Vocaroo:
 

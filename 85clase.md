@@ -8,10 +8,7 @@ Por WhatsApp me llegó esta imagen.
 [![](https://archive.org/download/electricidad_85/IMG-20251029-WA0001_thumb.jpg)](https://archive.org/download/electricidad_85/IMG-20251029-WA0001.jpg)
 
 
----
-title: "Electricidad / Clase 84: Estuve ausente, creo que fue una clase práctica de fotocélulas."
-date: 2025-11-03T17:36:22-03:00
----
+Electricidad / Clase 84: Estuve ausente, creo que fue una clase práctica de fotocélulas.
 
 Estuve ausente.
 

@@ -355,11 +355,7 @@
 4. **Seguridad:** no mezclar fases en un caño; hasta 3 circuitos de una misma fase.
 
 
----
-title: "Electricidad / Clase 66: Tableros."
-date: 2025-09-10T22:21:15-03:00
-tags: [electricidad]
----
+Electricidad / Clase 66: Tableros.
    
 #### Audio en Vocaroo:   
    

@@ -322,11 +322,7 @@
 
 
 
----
-title: "Electricidad / Clase 70: Repaso tableros. Organización clase que viene: algunos harán circuito otros trabajaran en tablero. 8 bocas - 4 ITM bipolares = 3 ITM bipolares y 1 disyuntor. Hasta distribuidor mismo cable de entrada. Peine de conexión. Cinta de colores para marcar cables y caños. Tener cuidado: cuando esté terminado el trabajo recién decir que si, sino te cierran el cielorraso. Sobre la estructura de los perfiles se pone madera. Vimos tablero de puente doble, ayudante intentó usar destornillador grande(error). Terminal doble TIF. Laburo: iluminar la parrila. Compañero de ayudante conectó una bomba al revés. Benitez pregunta como proteger circuito mixto. Cuando el circuito es mixto hay que proteger al conductor de menor sección. Preensamblado por adentro no está permitido. Un vivo puso tanque de reserva y le sacó toda el agua al barrio. Acuífero. Primero vamos a terminar tableros y después vamos a empezar con tablero de bombeo. Un recibido del Janssen electromecánico conectó la bomba al revés."
-date: 2025-09-24T11:15:57-03:00
-tags: [electricidad]
----
+Electricidad / Clase 70: Repaso tableros. Organización clase que viene: algunos harán circuito otros trabajaran en tablero. 8 bocas - 4 ITM bipolares = 3 ITM bipolares y 1 disyuntor. Hasta distribuidor mismo cable de entrada. Peine de conexión. Cinta de colores para marcar cables y caños. Tener cuidado: cuando esté terminado el trabajo recién decir que si, sino te cierran el cielorraso. Sobre la estructura de los perfiles se pone madera. Vimos tablero de puente doble, ayudante intentó usar destornillador grande(error). Terminal doble TIF. Laburo: iluminar la parrila. Compañero de ayudante conectó una bomba al revés. Benitez pregunta como proteger circuito mixto. Cuando el circuito es mixto hay que proteger al conductor de menor sección. Preensamblado por adentro no está permitido. Un vivo puso tanque de reserva y le sacó toda el agua al barrio. Acuífero. Primero vamos a terminar tableros y después vamos a empezar con tablero de bombeo. Un recibido del Janssen electromecánico conectó la bomba al revés.
 
 #### Audio en Vocaroo:   
    

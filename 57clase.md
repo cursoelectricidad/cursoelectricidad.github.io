@@ -732,11 +732,7 @@ Esta transcripción de una clase sobre instalaciones eléctricas cubre temas com
 Estos puntos capturan lo esencial; la clase mezcla teoría, costos y anécdotas prácticas. Para valores exactos en 2025, revisa fuentes locales ya que varían por región e inflación.
 
 
----
-title: "Electricidad / Clase 56: Valores a cobrar. Repaso de la clase 43 (Tableros). Leimos PDF en proyector de Genrod de Tableros y Puesta a Tierra."
-date: 2025-08-19T08:40:06-03:00
-tags: [electricidad]
----
+Electricidad / Clase 56: Valores a cobrar. Repaso de la clase 43 (Tableros). Leimos PDF en proyector de Genrod de Tableros y Puesta a Tierra.
 
 ##### Audio en Vocaroo:
 
