@@ -854,7 +854,135 @@ A mi me contrataron para que vea como iluminaba un quincho con ladrillo a la vis
 
 Le digo al tipo: (hora 01:42)
 Profesor: mire yo no sé si le va a gustar pero podemos probar y después cualquier cosa si a usted no le gusta sacamos de vuelta yo propongo hacer todo con cañería de hierro.
-El tipo mirá así y dice: "ay esto es cañería de hierro va a quedar re feo
+El tipo mirá así y dice: "ay esto es cañería de hierro va a quedar re feo"
+Profesor: yo le propongo que usted vea
+El tipo: pero me va a perforar la pared con los tarugos porque eso hay que fijar, yo le doy la posibilidad y es la única solución y va a quedar lindo porque había una cosa que me llamaba la atención las vigas de madera tenían soporte de hierro negro viste para unir una a otra lo que sea, entonces el tipo no quería saber nada.
+Bueno vamos a hacer una prueba le digo, tienen que ir a laburar para el mediodía le voy a hacer el 50% de la instalación y colocamos las cajas con cuidado pintamos los conectores todo de negro armamos todo bien prolijo en algunos lugares pasamos hasta iluminación arriba, vino al mediodía y el tipo dijo: "qué lindo que quedó, perfecto metele pata" todo pintado de negro, hasta los conectores.
+
+La cañería no estaba pelada así, ni todo oxidada, estaba nuevita y bien hecho, quedó lindo la instalación, sin los tomas pero ¿qué pasa? Si yo pongo esta línea que es Genluz pongo el bastidor más lo que va al costado que es la tapa esa me sobresale, queda horrible así como ese, porque la tapa es más grande que el bastidor. En esa época había una línea que vendía ElectroMisiones la marca era cobre y entraba justo, todo el bastidor y la tapa todo era justo, salía un poco más caro. Entonces me dice bueno vaya y saque no más el tipo tenía guita, vayan y saquen de ElectroMisiones cual necesita y fíjese que quede lindo.
+Fui allá saqué la línea que en esa época era la línea más cara, pero tenía una textura que hasta el bastidor ese de la Genrod es más grande pusimos esto y ya sobresale demasiado o sea que exterior ya no pega ese, tiene que ser justo el bastidor justo apenas la tapa sobresale. 
+
+Bueno en síntesis usamos la línea cobre después quedó lindo faltaba el tema de los artefactos, bueno mire le digo usted elija los artefactos, elija lo que quiera ya la instalación tiene, los cables tiene, tiene el tablerito, el tablerito hicimos todo de chapa para que quede morochito y el eligió los artefactos. Había una época una sección de una arquitecta que también quería vender los mejores productos y logramos hacer una instalación. A veces el propietario tiene una idea de como quiere una instalación lo único que tenemos que tratar es de que lo que hagamos demostremos que puede hacer una variación distinta que el panorama el aspecto quede bien, y no sobresalga, ladrillo a la vista. Fíjense la estructura de madera bien barnizada, las grampas de chapa que soportaban las vigas de madera todo negro, lo que quiero decirle que a veces antes de cualquier cosa uno necesita mirar.
+
+Bueno seguimos.
+
+Vamos a la última estamos 2,75 metros hasta acá.
+
+###### Tramo `4-5`: 2,75 metros
+
+Ahora tengo el tramo de `3-6`, ¿por qué estoy poniendo todo esto? Para que ustedes el día de mañana cuando revisen otra vez el plano sepan de donde salió esto. Una vez que ustedes tienen una forma de trabajar automáticamente ya ni les importará toman la regla y la escala y el escalímetro y siguen ahí.
+
+Seguimos.
+
+Siempre yo tomo de la mitad de la caja octogonal hasta más o menos donde cae eso sería más o menos ahí está para mi es 2,20 metros llega ahí y después tengo que sumarle 2,60 metros quedará entonces: 4,80 metros
+
+O sea más 4,80 metros.
+
+Yo llego de acá hasta acá es 2,20 metros, después el cielorraso lo va bajando por arriba hasta 0,40 que es la caja de tomacorrientes 3 metros menos 0,40 metros me da 2,60 metros. La suma de 2,20 más 2,60 me da 4,80 metros.
+
+###### Por lo tanto el tramo `3-6`: 4,80 metros.
+
+De 3 a 6 de la boca a esta caja acá, siempre está en el medio acá es 1,20 metro hasta la pared y después bajo 3 metros menos 0,40 metros que es 2,60 metros. Dijimos que el cielorraso es de 3 metros.
+
+El está diciendo que viene el caño hasta acá y después baja.
+
+Claro desde la boca hasta acá tengo 2,20 metros después la bajada que es de 3 metros menos 0,40 metros es 2,60 metros, entonces si vengo todo por arriba, la suma de eso más la bajada que llega hasta este toma en total es 4,80 metros.
+
+###### Ayudante: Un dato importante que recalcó acá el compañero en el tramo `1-3` que sería de la caja de paso la 1er boca, faltó sumar el 0,30 metros que ustedes tienen que subir hasta el cielorraso y ahí venir hasta la caja.
+
+Alumno: Como el anterior
+Profesor: Sí, como el anterior falta 0,30 acá.
+
+O sea que hasta acá tenemos
+
+0,30+2+3+2,75+4,80.
+
+Llegamos hasta acá. Ahí es todo recto tengo la otra boca allá, a 0,40 y a 0,40 o sea que no hay problema porque ya tomo la medida acuérdense que esto es escala 1:50 (el rojo en el escalímetro).
+
+En el plano que tenemos nosotros no tenemos los 2 tomas, pero en el plano del pizarrón si estaba.
+
+Profesor: Si yo tengo que hacer estos 2 tomas (los que están a la derecha en el pizarrón) tomo la medida de acá hasta acá y la medida de acá hasta acá, estamos?
+
+Directamente supongamos tengo 2 metros de ahí a ahí 2 metros y sumo acá. Estamos hasta ahí?
+
+Otra cosa importante.
+
+Tramo de `3-7` (de 3 a 7): Ahora va este de esta boca a la caja en donde yo enciendo entonces tengo que tomar la medida de acá primero hasta la pared.
+Alumno: 1,5 metros.
+Ayudante: Si es más de 1,20 metros queda por ejemplo entre 1,20 1,30 redondeen para arriba.
+Alumno2: 3,50 (porque de 3 a 7 hay 1.5 metros y más el 1.90 porque la altura de la caja en donde yo enciendo está a 1.10 metros del piso o sea que le tengo que restar al cielorraso eso 3 metros - 1.10 metros =1.90 metros) 
+
+###### Tramo de `3-7` (de 3 a 7): 1.5+1.9=3,40 se redondea a 3,50
+
+Entonces ahora sumo todo para calcular la longitud del caño de 3/4:
+
+Tramo de `1-3` + Tramo de `3-4` + Tramo de `4-5` + Tramo de `3-6` + Tramo de `7-3`
+
+2,30+3+2,75+4,80+3,50=16,35/3=5,45 o sea 6 caños 
+
+###### Habla del plano del pizarrón
+Alumno: Profe, ese plano hubiese sido mejor bajar en el 1er toma ahí hacer directo y lo ponen en el circuito ahí en la punta.
+Profesor: Claro, lo que pasa es que la idea acá fue un día que la gente decía como usted pone el toma ahí porque yo tengo 3 y 6 pongo en la mitad este: "ah pero tengo muy poco" vamos a poner 2 tomas más, depende de la cantidad. 
+Alumno: Sí, pero si fuese real o sea dentro de esa caja no se puede hacer una derivación no?
+Profesor: Sí, porque llegas ahí y derivas este para allá y este para acá. Se puede no hay problema es una caja normal.
+Alumno2: Ese es por si empieza a agregar en la marcha.
+Profesor: Claro, sino directamente puedo bajar acá también y recorrer acá.
+
+16,35 metros divido 3 = 5,45 o sea 6 metros.
+
+Vamos a poner equivalente a 6 caños de 3/4.
+
+Lo que hicimos ahora fue canalización, primero vamos a hacer canalización y después otro día les daré los mismos planos pero vamos a hacer los conductores también, a mi lo que me interesa hoy con el tema de canalización es que sepamos.
+
+Lo primero que van a hacer ustedes cuando entren a una obra y lean el plano le van a pedir haceme la cantidad de materiales, cañerías y lo que necesitan, pero está faltando algo.
+
+¿Qué está faltando? Las uniones o cuplas.
+
+Unión/cupla. Vamos a poner cupla porque sino la gente de ElectroMisiones se va a enojar porque Union es el contrincante.
+
+Cupla o unión de 3/4 y cupla o unión de 7/8.
+
+Acá depende mucho del profesional o de la persona de oficio que haga el recorte, lo ideal siempre es utilizar todo los caños que yo tenga como posibilidad porque si voy cortando por partes y dejando retrasos estoy perdiendo plata, entonces la idea principalmente es que esa guita no se pierda, la otra vez le conté que fui a una empresa constructora que era Rapid creo contrató una empresa que se llamaba InjeLED el vago hacía solo la parte eléctrica y voy a mirar y en un rincón había una pila de caño, pero caño de hierro. Entonces le pregunté al vago ¿quién pone los materiales? Ustedes o la empresa constructora. Y el tipo me dijo la empresa constructora. Le digo decile a tu gente que tire esos caños porque lo 1ero que cualquier empresa mira son los retrasos si fuera 4 o 5 retracitos así o 6 o 7 no importa, pero que hagan de 1 metro 1 metro y algo porque entre caja y caja había 2,40 metros por ejemplo de 3 metros quedaba 60 y tiraban eso son pérdidas, entonces utilizamos con uniones o directamente lo hacemos desaparecer. Si nosotros usamos muy probable que nosotros tenemos una pérdida. 
+##### Por que a veces aparte de hacer la mano de obra podemos hacer un presupuesto con material incluido, mano de obra y material incluido entonces si nosotros estamos desperdiciando cañería estamos perdiendo plata, por más que le hayamos pasados tantas cosas al tipo lo que sea, estamos teniendo pérdidas y eso es plata.
+
+Las cuplas tienen una particularidad y es muy sencilla pero vamos a hacer algo práctico como yo calculo eso.
+Alumno: Y ahí hay que pedir pegamento también.
+Ayudante: No necesariamente.
+Profesor: Es otro cantar, acá todavía estamos haciendo cañería todavía, después te vamos a dar.
+
+Vamos a ver otra cosa importante como sacamos las cuplas y las uniones de 3/4 y 7/8, les diré lo que hago rápido después tengo sobra pero no importa: de acuerdo a la cantidad de caños yo multiplico por 2. Tengo 3 caños de 7/8 y pongo 6 cuplas. Después explico por qué. A veces en un sistema tan sencillo y otras veces es complicado.
+
+Y de 3/4 automáticamente tengo 6 caños entonces `6*2 = 12`. Les explico por qué yo puedo tener fíjense esto en PVC no hay problema porque tengo ya una mueca donde ya va directamente el caño pero si tengo este tipo por más que tenga fíjense que tiene roscado una parte y esto es una cupla también roscada pero no se puede roscar 2 caños entones si o si tengo que poner una cupla acá para que pueda unir con los otros caños si encima de eso tengo recorte tengo que unir para acá, necesito mínimamente por cada caño 2 cuplas. Entonces ya puedo poner acá otra cupla y a veces me sobre y tengo en mi casa un par que me sobraron pero no es un valor tan honeroso, es poca plata pero te ayuda. 
+Alumno: Eso es a presión o a rosca?
+Profesor: Este es a presión, pero la cupla que viene con la curva de hierro, este es de hierro y roscado en algunos casos viene así entonces el otro vos podes poner un caño, este caño tiene fíjense los caños de hierro tienen en su exterior, en el extremo tiene una rosca también o sea que yo puedo roscar directamente acá.
+Alumno: Si una hembra y un macho.
+Profesor: Entonces esto queda fijo cuando hagamos la parte esta de losa continua y tenemos que hacer la bajada podemos poner tranquilamente una unión de estos, o estos que dejamos un pasante va unido ahí directamente.
+Ayudante: Estos sí van a presión.
+
+Profesor: Listo. Fíjense hecho una mirada si falta algo mejoraremos si no entendieron mejoraremos, este es el inicio, la idea acá es principalmente que todos tengan la misma información. 
+
+Luego les daré un plano hecho, un nivel inicial ahí van a empezar a armar vamos a ir por partes yo puedo tener una parte de solo 1 local, y también para que ustedes tomen nota fíjense esto en una época era informa SICA siempre dibujaba la parte eléctrica con colores rojos y mantenemos el sistema en colores rojos apenas hacemos los borders para que resalte la parte de instalación eléctrica entonces va armando de acuerdo a la canalización la simbología siempre de hace rato es la misma entonces uno va entendiendo como es cada plano en particular y va tomando las medidas. Este es electricidad luego tenemos TV en esa época no había celular sino todo telefonía, luego portero eléctrico tenemos también el timbre ahora ya viene todos los otros sistemas, todo eso es lo que existe en una instalación y se puede ir mejorando.
+
+Y después viene una vez que ya empiece a mejorar todo el sistema ya viene la domótica entonces uno directamente a través del celular puede encender los aires acondicionados, riego de planta todo directamente desde el celular, hay que poner en la misma instalación algunos chips electrónicos que hacen que se active tal aparato, nada más que eso.
+
+Alumno: Que quiere decir esto? PR 0,20
+Profesor: PR significa PVC rígido 0,20 es lo mismo que 3/4 porque el exterior es 0. No hay caño 3/4, lo más lógico te pone 2,5 mm^2 ¿para qué? Vos sabes la canalización a través del conductor. 
+Alumno: 2x2,5mm^2 más tierra.
+Profesor: Ese es la lectura que vos hacés, lo ideal es que el caño vaya arriba y después vuelve 3 conductores más 1,5mm^2 más tierra.
+
+---
+
+![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgen8l7Ew7bg8ShgqSYVMQEsaz-5bLMzAsC_wZJVS1O3vdUyVVcRldAQ-r-WX22yC2MB_9_ijkpz4SyJEwIxQJVpcN1UTYsyGy-V4V_ZaYu8Efz-m5f0rOtJfRtNSMOeEijTMJn8h_S4xpl-PJI54w5Ev96TH39LgKj9GSQznd6FIFboIA-pNcrHURDEoE/s4160/IMG_20250805_185125382.jpg)
+![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjf3jfoaXVEDPLHBT8JrTd-1bq5abLKVK7u8GWqEoFMNNOmIFluXh0Ybqxh2aeyEtpgSlpoXFPRfhPN-ygs7ur5vUDlxaz_E5yeE_RxWchv1yJplSTqQqHhEKCtrICkvdSdVj6W7xuWgsrDsf09xlf6jdy2GmS3LPECBxU4wFU4rxY2DasYDYB9l51J980/s4160/IMG_20250806_195752324.jpg)
+![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi6ZZLCgw-l2EunBsbzlItwBFm1JurnOgQ21VhY0fB9Phyykl-opkV3Kk-pjUnRUeFFLJ5GCEwQvkzfYSPSDwbQtTP8mro83apMY0gnEFe7EyeJrpJaIsU2rpstedZjQwDCDherzPv2nvtfUP8kpnJe-T2s-lXl10keBEdxjUEbUuTZRp1ydfEeqpH4Vgo/s4160/IMG_20250806_195759612.jpg)
+![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhhWXYt3FU2tMAnuNmSpeOOIa1NIf6tsI73xHSw2Ockk_mNyHLsUNJ_lCgiifHJKk1FzcSpeJySaZ7J7MocZnEbS2PAJvK7yofO6RDdTpx2ZCOToVEtKyUTdnoLvUb2y2CD37XTfRjnyI43M-LudcT8ruMc-_nHjHJVGfjB086v9Plsei2QVlFFPuXkN00/s4160/IMG_20250806_202839333.jpg)
+![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg610F6YRFgeMg0yQ5oahbxdUcRZllv7bD67fMAt3y5zLgwoYvta3BWV-u9YtiEJi6CZIGzTMfYqlu5aUBa-w6bROoRi-FqBICoyhgQpoA09sivpBPWT8FiHwBiE7tww27_lKy0tLU3ttXYD8uBahmMtSPeDlAi6mkk_cg-dV4uhA05XaI_YJoe_7EE_Ss/s4160/IMG_20250806_202841471.jpg)
+![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgKiykEDjr8i9sVt9V7orlk-Ysj90g6g9cuynmhHdb6j7vxYhNuSwIZfjf_VsSn6vTLjIpLwa8yPKDPUdx5M5_Ox4jfoBQr28OwKI8iSL-osMQLiMDkEfmwBwQAVXvVyPsGvt0E8h3jScVB7Xp917cEbRiAFs3kzocumU80Fl318J6JeB9tkb5vD_YB9C4/s4160/IMG_20250806_202853138_BURST000_COVER_TOP.jpg)
+![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi5ItMv98EYFJuvxusCypY6TR6KXR65dQ8MuPJ_7qHCn_oEuyKAIHPRKz8b3aIHTjwV07MXUVvqhiwXonEy33I4G4SiIIqwuSHLzDvgzsebPdj0HAfTa-zBj0oxpNirr2yL5P9HS1kwUhku9oYJXg_BuTcwFBEYiLb8ozzOMbTi9DOTDoWXTgsTwc4eZLc/s4160/IMG_20250806_202853138_BURST001.jpg)
+![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjH3yOJ184RgDYipgNSpLKxkIskqkXN7tBCxeRxe_32g3v1kYVLfhEWYckpqIvfImRkLFmQh4A7XKWfHlxi-ZBRok0RpVbAHtQZz6gHdwGBrBzcXd_2D_kMzu9n_XMmgEevL0ZE4XHXVTQ6fXNqO0sLVQHIM3eP7JJgVYjlkbL0yxM3yYIWX3nUGs3NeJM/s4160/IMG_20250806_202907199.jpg)
+![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEidqRzJukn9Qwi7GUADmRjEk9potRUwdsOLxRrZMBKw8lFtllzqIATB3tfuynWX9oLj4QokCK3Bv4Vgcac32P9x-QRitVgMgQa1yEON7SeJPKZTY_4iQ6ok5kchJI4Vsn4splDiYNY9VyyZszKCPzleTgOIKiuu5xCSBNL1Ql8lPlh5vn47r5JvD72eq0k/s4160/IMG_20250811_182655694.jpg)
+
+
 
 ![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgen8l7Ew7bg8ShgqSYVMQEsaz-5bLMzAsC_wZJVS1O3vdUyVVcRldAQ-r-WX22yC2MB_9_ijkpz4SyJEwIxQJVpcN1UTYsyGy-V4V_ZaYu8Efz-m5f0rOtJfRtNSMOeEijTMJn8h_S4xpl-PJI54w5Ev96TH39LgKj9GSQznd6FIFboIA-pNcrHURDEoE/s4160/IMG_20250805_185125382.jpg)
 ![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjf3jfoaXVEDPLHBT8JrTd-1bq5abLKVK7u8GWqEoFMNNOmIFluXh0Ybqxh2aeyEtpgSlpoXFPRfhPN-ygs7ur5vUDlxaz_E5yeE_RxWchv1yJplSTqQqHhEKCtrICkvdSdVj6W7xuWgsrDsf09xlf6jdy2GmS3LPECBxU4wFU4rxY2DasYDYB9l51J980/s4160/IMG_20250806_195752324.jpg)
