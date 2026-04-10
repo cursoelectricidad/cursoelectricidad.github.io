@@ -37,6 +37,8 @@ Estas son las redes sociales pero estan llenas de boludeces:
 
 Este curso de 1 año se podría reducir a 3 meses pero los docentes te recomiendan perder más tiempo y hacer otro curso que tampoco te va a servir para nada. O directamente cerrar todo y publicarlo en YouTube (que ya está publicado).
 
+Aca tengo mas clases transcriptas de electricidad: [https://imlauera.github.io/tags/electricidad/](https://imlauera.github.io/tags/electricidad/)
+
 ---
 
 Subscribe to RSS: [/feed.xml](/feed.xml)
