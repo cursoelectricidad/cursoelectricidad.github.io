@@ -8,7 +8,6 @@ List of pages:
 * /04clase.md: [Clase Nº 4: Regleta de sección de cables. Efecto Joule. Sistemas de Puesta a Tierra. Pregunta de examen. Conductores preensamblados (RETENAX). Diferencial y termomagnético, acometidas.](/04clase.md)
 * /05clase.md: [Clase Nº 5: [FOTOCOPIA de pilar monofásico y requisitos generales] Técnicas para pelar cables (pinza, alicate). Acometida: aérea o subterránea. Simbología. Intervención desde la línea municipal hacia adentro. Gancho U. Cajas y altura de instalación. Módulos tienen 10 amper. Ocupación máxima del 35% en cañerías. Corrugado permitido y prohibido. ](/05clase.md)
 * /06clase.md: [Clase Nº 6: Capacitación en Trabajo en Altura. Simbología. Instalaciones Eléctricas: Conceptos básicos. Anédocta: El ayudante de Alejandro Ramirez trabajando con tensión corta un cable (fase y neutro juntos) y provoca un cortocircuito que arruina su alicate y casi se muere.](/06clase.md)
-* /07asasasasas.md: [Clase Nº 7: [FOTOCOPIA Simbología]. Desarmamos tablero anterior y desarmamos y armamos portalámparas desde 0, identificando donde colocar la fase y neutro en la portalámpara.](/07asasasasas.md)
 * /07clase.md: [Clase Nº 7: [FOTOCOPIA Simbología]. Desarmamos tablero anterior y desarmamos y armamos portalámparas desde 0, identificando donde colocar la fase y neutro en la portalámpara.](/07clase.md)
 * /08clase.md: [Clase Nº 8: [FOTOCOPIA ALTURA CAJAS] Empalmes. Reglamentación AEA 90364: Altura colocar cajas. Ubicación de las bocas de interruptores de efecto. Ubicación de las bocas de tomacorrientes. Clase que viene realizaremos: uniones en cajas de paso, ortogonal y 5x10](/08clase.md)
 * /09clase.md: [Clase Nº 9: Clase práctica sobre EMPALMES. Estuve ausente.](/09clase.md)
@@ -107,6 +106,7 @@ List of pages:
 * /suppliers.md: [Buy a bunny](/suppliers.md)
 * /template-license.md: [Template license](/template-license.md)
 * /texto_trabajo_practico.md: [Trabajo práctico: cálculo de materiales.](/texto_trabajo_practico.md)
+* /todas_las_imagenes.md: [Todas las fotos del curso de electricidad CLICK ACA.](/todas_las_imagenes.md)
 * /todo_en_uno_pdf.md: [TODAS LAS PUBLICACIONES JUNTAS EN UN PDF PARA IMPRIMIR. DESCARGAR PDF COMPLETO Y TODOS LOS AUDIOS EN UN SOLO AUDIO (20 VECES AMPLIFICADO EL VOLUMEN).](/todo_en_uno_pdf.md)
 * /trabajo_practico_calculo_materiales.md: [Trabajo práctico: cálculo de materiales.](/trabajo_practico_calculo_materiales.md)
 </div>

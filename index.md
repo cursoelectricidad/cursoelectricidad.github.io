@@ -43,6 +43,10 @@ Aca tengo mas clases transcriptas de electricidad: [https://imlauera.github.io/t
 
 Subscribe to RSS: [/feed.xml](/feed.xml)
 
+[Todas las fotos del curso de electricidad CLICK ACA.](/todas_las_imagenes.md){.title}
+[.]{.date}
+
+
 [TODAS LAS PUBLICACIONES JUNTAS EN UN PDF PARA IMPRIMIR. DESCARGAR PDF COMPLETO Y TODOS LOS AUDIOS EN UN SOLO AUDIO (20 VECES AMPLIFICADO EL VOLUMEN).](/todo_en_uno_pdf.md){.title}
 [14 Marzo 2026]{.date}
 
