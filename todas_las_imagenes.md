@@ -169,7 +169,7 @@ CFP Nº 17 Posadas, 2025. Subidas a [Archive.org](https://archive.org/details/cu
 
 ## 17clase
 
-![](<https://archive.org/download/cursoelectricidad2025_cfp17/0015_17clase_001.png>)
+[![](<https://archive.org/download/cursoelectricidad2025_cfp17/0015_17clase_001_thumb.jpg>)](<https://archive.org/download/cursoelectricidad2025_cfp17/0015_17clase_001.jpg>)
 [![](<https://archive.org/download/cursoelectricidad2025_cfp17/0015_17clase_002_thumb.jpg>)](<https://archive.org/download/cursoelectricidad2025_cfp17/0015_17clase_002.jpg>)
 [![](<https://archive.org/download/cursoelectricidad2025_cfp17/0015_17clase_003_thumb.jpg>)](<https://archive.org/download/cursoelectricidad2025_cfp17/0015_17clase_003.jpg>)
 [![](<https://archive.org/download/cursoelectricidad2025_cfp17/0015_17clase_004_thumb.jpg>)](<https://archive.org/download/cursoelectricidad2025_cfp17/0015_17clase_004.jpg>)
