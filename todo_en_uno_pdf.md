@@ -8,6 +8,8 @@ Luego agregaré una encuesta MULTIPLE CHOICE para probar tu conocimiento (en la 
 
 Compile todo el curso en 1 solo PDF (pesa 639 megas).
 
+Todas las fotos en un video: [https://www.youtube.com/watch?v=h811B6D7qJo](https://www.youtube.com/watch?v=h811B6D7qJo)
+
 # Noticia: Agregué transcripciones que esas transcripciones no están en el PDF solo están los resúmenes de ChatGPT.
 
 ### PDF subido a Google Drive (creo que es mas rápido)

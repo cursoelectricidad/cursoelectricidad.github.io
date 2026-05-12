@@ -2,6 +2,8 @@
 % Andrés Imlauer
 % 13 Marzo 2025
 
+VIDEO: [https://www.youtube.com/watch?v=h811B6D7qJo](https://www.youtube.com/watch?v=h811B6D7qJo)
+
 ### Click las fotos para verlo MAS GRANDE.
 
 Fotos de todas las clases del curso de auxiliar y montador electricista,
