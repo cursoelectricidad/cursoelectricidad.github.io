@@ -20,6 +20,8 @@ Estudiando AEA lista de reproducción de YouTube en la cual está basada el curs
 
 Podes descargar la playlist entera ordenadamente con este comando: `yt-dlp https://youtube.com/playlist?list=PLaJ9_1pBg2ZeF431-Alaplgi05p2k7Cor -o '%(autonumber)s%(id)s.%(ext)s'`.
 
+VIDEO DE TODAS LAS FOTOS DEL CURSO: [https://www.youtube.com/watch?v=x0RxggbysDo](https://www.youtube.com/watch?v=x0RxggbysDo)
+
 Foto del examen de auxiliar: [CLICK ACA PARA VER LA FOTO DEL EXAMEN](https://cursoelectricidad.github.io/40clase.html)
 
 Este es el PDF pasado a texto se lo podes tirar a la IA y hacerle preguntas: [https://archive.org/stream/aea-770/AEA%20770_djvu.txt](https://archive.org/stream/aea-770/AEA%20770_djvu.txt)
