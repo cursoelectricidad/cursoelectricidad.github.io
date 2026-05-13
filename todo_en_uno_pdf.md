@@ -12,6 +12,8 @@ Todas las fotos en un video: [https://www.youtube.com/watch?v=h811B6D7qJo](https
 
 # Noticia: Agregué transcripciones que esas transcripciones no están en el PDF solo están los resúmenes de ChatGPT.
 
+---
+
 ### PDF subido a Google Drive (creo que es mas rápido)
 
 [https://drive.google.com/file/d/13CA4tfUZ4x8i9gTgJHSVdLg0BJwXgD8A/view?usp=sharing](https://drive.google.com/file/d/13CA4tfUZ4x8i9gTgJHSVdLg0BJwXgD8A/view?usp=sharing)
@@ -22,8 +24,9 @@ Todas las fotos en un video: [https://www.youtube.com/watch?v=h811B6D7qJo](https
 
 # ACÁ ESTÁN TODOS LOS AUDIOS EN DOS PARTES: AUXILIAR Y MONTADOR. AMPLIFIQUÉ 20 VECES MÁS EL VOLUMEN:     
 
+---
 
-## Audio Curso entero Auxiliar (de la clase 03 hasta la 47): PESA 5 GIGABYTES Y SON 90 HORAS, PERO SE PUEDE ESCUCHAR ONLINE.
+#### Audio Curso entero Auxiliar (de la clase 03 hasta la 47): PESA 5 GIGABYTES Y SON 90 HORAS, PERO SE PUEDE ESCUCHAR ONLINE.
 
 [AUDIO CURSO COMPLETO AUXILIAR ELECTRICISTA DOMICILIARIO ARGENTINA UOCRA (mp3)](https://archive.org/download/AUDIO_CURSO_COMPLETO_ELECTRICIDAD_DOMICILIARIA_ARGENTINA_CFP_17_UOCRA/auxiliar_electricista.mp3)
 
@@ -31,17 +34,17 @@ Todas las fotos en un video: [https://www.youtube.com/watch?v=h811B6D7qJo](https
 
 [AUDIO CURSO COMPLETO MONTADOR ELECTRICISTA DOMICILIARIO ARGENTINA UOCRA (mp3)](https://archive.org/download/AUDIO_CURSO_COMPLETO_ELECTRICIDAD_DOMICILIARIA_ARGENTINA_CFP_17_UOCRA/montador_electricista.mp3)
 
-#### Aca tenes los AUDIOS de los resumenes de ChatGPT, la última clase 89 está lleno de imágenes y no la tengo transcripta y sería mejor transcribir las clases antes de este resumen pero bueno, algo es algo.
+## Aca tenes los AUDIOS de los resumenes de ChatGPT, la última clase 89 está lleno de imágenes y no la tengo transcripta y sería mejor transcribir las clases antes de este resumen pero bueno, algo es algo.
 
-# Parte 1
+### Parte 1
 
 [TODO EL CURSO ESPEAK RESUMEN CHATGPT UOCRA TODO EL CURSO ESPEAK RESUMEN CHATGPT UOCRA PARTE 1 (mp3)](https://archive.org/download/TODO_EL_CURSO_ESPEAK_RESUMEN_CHATGPT_UOCRA/TODO_EL_CURSO_ESPEAK_RESUMEN_CHATGPT_UOCRA.mp3)
 
-# Parte 2
+### Parte 2
 
 [TODO EL CURSO ESPEAK RESUMEN CHATGPT UOCRA TODO EL CURSO ESPEAK RESUMEN CHATGPT UOCRA PARTE 2 (mp3)](https://archive.org/download/TODO_EL_CURSO_ESPEAK_RESUMEN_CHATGPT_UOCRA/TODO_EL_CURSO_ESPEAK_RESUMEN_CHATGPT_UOCRA_PARTE2.mp3)
 
-### Acá tenes el texto de resumen de ChatGPT de todas las clases (los audios de arriba consiste en leer este texto con espeak).
+## Acá tenes el texto de resumen de ChatGPT de todas las clases (los audios de arriba consiste en leer este texto con espeak).
 
 [https://cursoelectricidad.github.io/todoenuno_para_espeak.txt](https://cursoelectricidad.github.io/todoenuno_para_espeak.txt)
 
