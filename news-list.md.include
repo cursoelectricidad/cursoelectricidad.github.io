@@ -17,6 +17,7 @@ Aca hay otra version del carousel:
 
 [https://miinstagram.github.io/cursoelectricidad/carousel.html](https://miinstagram.github.io/cursoelectricidad/carousel.html)
 
+[https://miinstagram.github.io/cursoelectricidad/](https://miinstagram.github.io/cursoelectricidad/)
 
 Profesor: Francisco Salvador Espeche. Ingeniero Electromecánico, inspector de obra, proyectista.
 
