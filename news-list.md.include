@@ -3,36 +3,37 @@ title: "Curso Electricidad - CFP Nº 17"
 x-toc-enable: true
 ...
 
-El curso comenzó el 10 de Marzo del año 2025 (mi primera clase fue el 12 de marzo). Son 3 clases por semana de 18:30 a 20:30 Lunes, Martes y Miercoles.
+El curso comenzó el 10 de Marzo del año 2025 (mi primera clase fue el 12 de marzo). Son 3 clases por semana Lunes, Martes y Miercoles de 18:30 a 20:30. 
 
 El curso de auxiliar electricista finalizó en la clase número 47 (8 de Julio del año
 2025), y el curso de montador electricista comenzó en la clase número 48 (29 de
 Julio del año 2025).
 
-Carousel de todas las fotos del curso:
-
-[https://miinstagram.github.io/cursoelectricidad/galeria/0001_03clase_001.jpg.html](https://miinstagram.github.io/cursoelectricidad/galeria/0001_03clase_001.jpg.html)
-
-Aca hay otra version del carousel:
-
-[https://miinstagram.github.io/cursoelectricidad/carousel.html](https://miinstagram.github.io/cursoelectricidad/carousel.html)
+Todas las fotos del curso:
 
 [https://miinstagram.github.io/cursoelectricidad/](https://miinstagram.github.io/cursoelectricidad/)
 
+**TODAS LAS FOTOS EN UN VIDEO** : [https://www.youtube.com/watch?v=h811B6D7qJo](https://www.youtube.com/watch?v=h811B6D7qJo)
+
+Carousel de todas las fotos del curso:
+
+[https://miinstagram.github.io/cursoelectricidad/carousel.html](https://miinstagram.github.io/cursoelectricidad/carousel.html)
+
+Aca hay otra version del carousel:
+
+[https://miinstagram.github.io/cursoelectricidad/galeria/0001_03clase_001.jpg.html](https://miinstagram.github.io/cursoelectricidad/galeria/0001_03clase_001.jpg.html)
+
 Profesor: Francisco Salvador Espeche. Ingeniero Electromecánico, inspector de obra, proyectista.
 
-Al principio son conceptos básicos de electricidad: la red de distribución,
-simbología, armado de portalamparas. Luego comienza con canalización, es un curso basado en las normas AEA 90364-7-770 (Viviendas). La clase mas importante serían las prácticas de armado de tableros esquemas de montaje (Clases 22 hasta 28).
-
-Reglamentación AEA 90364-7-770 (Viviendas): [https://archive.org/details/aea-770/AEA%20770/mode/1up](https://archive.org/details/aea-770/AEA%20770/mode/1up) creo que esta es una version resumida hay una mas larga.
+Al principio son conceptos básicos de electricidad: la red de distribución, simbología, armado de portalamparas. Luego comienza con canalización, es un curso basado en las normas AEA 90364-7-770 (Viviendas). La clase mas importante serían las prácticas de armado de tableros esquemas de montaje (Clases 22 hasta 28).
 
 Estudiando AEA lista de reproducción de YouTube en la cual está basada el curso: [https://youtube.com/playlist?list=PLaJ9_1pBg2ZeF431-Alaplgi05p2k7Cor](https://youtube.com/playlist?list=PLaJ9_1pBg2ZeF431-Alaplgi05p2k7Cor)
 
 Podes descargar la playlist entera ordenadamente con este comando: `yt-dlp https://youtube.com/playlist?list=PLaJ9_1pBg2ZeF431-Alaplgi05p2k7Cor -o '%(autonumber)s%(id)s.%(ext)s'`.
 
-**TODAS LAS FOTOS EN UN VIDEO** : [https://www.youtube.com/watch?v=h811B6D7qJo](https://www.youtube.com/watch?v=h811B6D7qJo)
-
 Foto del examen de auxiliar: [CLICK ACA PARA VER LA FOTO DEL EXAMEN](https://cursoelectricidad.github.io/40clase.html)
+
+Reglamentación AEA 90364-7-770 (Viviendas): [https://archive.org/details/aea-770/AEA%20770/mode/1up](https://archive.org/details/aea-770/AEA%20770/mode/1up) creo que esta es una version resumida hay una mas larga.
 
 Este es el PDF pasado a texto se lo podes tirar a la IA y hacerle preguntas: [https://archive.org/stream/aea-770/AEA%20770_djvu.txt](https://archive.org/stream/aea-770/AEA%20770_djvu.txt)
 
