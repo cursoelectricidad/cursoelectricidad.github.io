@@ -4,6 +4,10 @@
 
 VIDEO: [https://www.youtube.com/watch?v=h811B6D7qJo](https://www.youtube.com/watch?v=h811B6D7qJo)
 
+CAROUSEL DE TODAS LAS FOTOS DEL CURSO:
+
+[https://miinstagram.github.io/cursoelectricidad/carousel.html](https://miinstagram.github.io/cursoelectricidad/carousel.html)
+
 ### Click las fotos para verlo MAS GRANDE.
 
 Fotos de todas las clases del curso de auxiliar y montador electricista,

@@ -9,6 +9,15 @@ El curso de auxiliar electricista finalizó en la clase número 47 (8 de Julio d
 2025), y el curso de montador electricista comenzó en la clase número 48 (29 de
 Julio del año 2025).
 
+Carousel de todas las fotos del curso:
+
+[https://miinstagram.github.io/cursoelectricidad/galeria/0001_03clase_001.jpg.html](https://miinstagram.github.io/cursoelectricidad/galeria/0001_03clase_001.jpg.html)
+
+Aca hay otra version del carousel:
+
+[https://miinstagram.github.io/cursoelectricidad/carousel.html](https://miinstagram.github.io/cursoelectricidad/carousel.html)
+
+
 Profesor: Francisco Salvador Espeche. Ingeniero Electromecánico, inspector de obra, proyectista.
 
 Al principio son conceptos básicos de electricidad: la red de distribución,
