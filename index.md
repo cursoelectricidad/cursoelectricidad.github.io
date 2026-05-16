@@ -29,6 +29,8 @@ Al principio son conceptos básicos de electricidad: la red de distribución, si
 
 Estudiando AEA lista de reproducción de YouTube en la cual está basada el curso: [https://youtube.com/playlist?list=PLaJ9_1pBg2ZeF431-Alaplgi05p2k7Cor](https://youtube.com/playlist?list=PLaJ9_1pBg2ZeF431-Alaplgi05p2k7Cor)
 
+Aca hay otro canal que enseña electricidad: [https://www.youtube.com/@cellsarfix/playlists](https://www.youtube.com/@cellsarfix/playlists) esta lleno en YouTube pero te recomiendo que escuches los audios de cada clase de esta pagina.
+
 Podes descargar la playlist entera ordenadamente con este comando: `yt-dlp https://youtube.com/playlist?list=PLaJ9_1pBg2ZeF431-Alaplgi05p2k7Cor -o '%(autonumber)s%(id)s.%(ext)s'`.
 
 Foto del examen de auxiliar: [CLICK ACA PARA VER LA FOTO DEL EXAMEN](https://cursoelectricidad.github.io/40clase.html)
