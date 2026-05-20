@@ -19,10 +19,6 @@ Carousel de todas las fotos del curso:
 
 [https://miinstagram.github.io/cursoelectricidad/carousel.html](https://miinstagram.github.io/cursoelectricidad/carousel.html)
 
-Aca hay otra version del carousel:
-
-[https://miinstagram.github.io/cursoelectricidad/galeria/0001_03clase_001.jpg.html](https://miinstagram.github.io/cursoelectricidad/galeria/0001_03clase_001.jpg.html)
-
 Profesor: Francisco Salvador Espeche. Ingeniero Electromecánico, inspector de obra, proyectista.
 
 Al principio son conceptos básicos de electricidad: la red de distribución, simbología, armado de portalamparas. Luego comienza con canalización, es un curso basado en las normas AEA 90364-7-770 (Viviendas). La clase mas importante serían las prácticas de armado de tableros esquemas de montaje (Clases 22 hasta 28).
