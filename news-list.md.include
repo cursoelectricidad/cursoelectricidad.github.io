@@ -35,18 +35,14 @@ Reglamentación AEA 90364-7-770 (Viviendas): [https://archive.org/details/aea-77
 
 Este es el PDF pasado a texto se lo podes tirar a la IA y hacerle preguntas: [https://archive.org/stream/aea-770/AEA%20770_djvu.txt](https://archive.org/stream/aea-770/AEA%20770_djvu.txt)
 
-En el medio mandaban [encuestas llenas de preguntas (pusieron CFL Nº 17 se equivocaron era CFP Nº 17)](http://web.archive.org/web/20251204163622/https://ceisconsultora.com.ar/lime/index.php/133772?lang=es), metieron talleres de Termotanque Solar (3 clases), vinieron estudiantes de carreras de salud de la UCAMI a ponernos vacunas (2 clases, no era obligatorio), taller de RCP (1 clase), una psicóloga (1 clase), y taller de informática de Excel (6 clases todos los Lunes). Solo fui al taller de RCP y 2 clases de termotanque (que no debería haber ido).
+En el medio mandaban encuestas talleres de Termotanque Solar (3 clases), vinieron estudiantes de carreras de salud de la UCAMI a ponernos vacunas (2 clases, no era obligatorio), taller de RCP (1 clase), una psicóloga (1 clase), y taller de informática de Excel (6 clases todos los Lunes). Solo fui al taller de RCP y 2 clases de termotanque.
 
 A lo último hicimos electricidad industrial: armamos tablero de bombeo con contactor, rele termico, llave selectora y un foco como motor.
-
-Todo el curso, los profesores, los estudiantes es la cultura del gatekeeping, te quieren restringir el acceso a documentos apropósito para hacerte perder el tiempo y gritarte que te equivocaste, algunos le gusta tener la razón en vez de enseñar algo.      
 
 Estas son las redes sociales pero estan llenas de boludeces:    
 
 * [https://www.instagram.com/centrofp.17/](https://www.instagram.com/centrofp.17/)       
 * [https://fundacion.uocra.org/oferta-educativa-formacion-profesional/cific-cfp-n17-posadas/](https://fundacion.uocra.org/oferta-educativa-formacion-profesional/cific-cfp-n17-posadas/)     
-
-Este curso de 1 año se podría reducir a 3 meses pero los docentes te recomiendan perder más tiempo y hacer otro curso que tampoco te va a servir para nada. O directamente cerrar todo y publicarlo en YouTube (que ya está publicado).
 
 Aca tengo mas clases transcriptas de electricidad: [https://imlauera.github.io/tags/electricidad/](https://imlauera.github.io/tags/electricidad/)
 
