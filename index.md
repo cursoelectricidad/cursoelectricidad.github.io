@@ -3,43 +3,32 @@ title: "Curso Electricidad - Centro Formacion Profesional Nº 17 - Argentina(Pos
 x-toc-enable: true
 ...
 
-Este se un curso basado fuertemente en las **normas AEA (Asociación Electrotécnica Argentina) 90364-7-770 (Viviendas)**.
+Esto es un curso basado fuertemente en las **normas AEA (Asociación Electrotécnica Argentina) 90364-7-770 (Viviendas)**.
 Esta es la guia: [https://archive.org/details/aea-770/AEA%20770/mode/1up](https://archive.org/details/aea-770/AEA%20770/mode/1up)
 
 El profesor la llama "el reglamento de la AEA para la ejecución de instalaciones eléctricas en inmuebles" y la presenta como el respaldo de todo lo que enseña. El profesor pide que escriban, tal cual, que "una instalación es segura y confiable cuando la hizo un instalador habilitado que aplicó el reglamento de la **AEA** y usó materiales normalizados IRAM." La AEA le dice al instalador cómo tiene que hacer las cosas.
 
-Además de la AEA, cita estas fuentes:
-- **Normas IRAM** 2224 y 2005 (conectores), 2220, 2262 y 2268 (conductores subterráneos).
-- **Planos del pilar de EMSA** (https://energiademisiones.com.ar/planos-del-pilar).
-- **Catálogos de Genrod y Tubeelectric.** Genrod es proveedor de materiales y tiene PDFs de tableros y puesta a tierra.
+Además de la AEA, cita estas fuentes:   
+- **Normas IRAM** 2224 y 2005 (conectores), 2220, 2262 y 2268 (conductores subterráneos).  
+- **Planos del pilar de EMSA** ([https://energiademisiones.com.ar/planos-del-pilar](https://energiademisiones.com.ar/planos-del-pilar)).  
+- **Catálogos de Genrod y Tubeelectric.** Genrod es proveedor de materiales y tiene PDFs de tableros y puesta a tierra.  
+
+
+Foto del examen de auxiliar electricista: [CLICK ACA PARA VER LA FOTO DEL EXAMEN](https://cursoelectricidad.github.io/40clase.html)
 
 ---
 
-El curso comenzó el 10 de Marzo del año 2025 (mi primera clase fue el 12 de marzo). Son 3 clases por semana Lunes, Martes y Miercoles de 18:30 a 20:30. 
-
-El curso de auxiliar electricista finalizó en la clase número 47 (8 de Julio del año
-2025), y el curso de montador electricista comenzó en la clase número 48 (29 de
-Julio del año 2025).
-
-Todas las fotos del curso:
-
-[https://miinstagram.github.io/cursoelectricidad/](https://miinstagram.github.io/cursoelectricidad/)
-
-**TODAS LAS FOTOS EN UN VIDEO** : [https://www.youtube.com/watch?v=h811B6D7qJo](https://www.youtube.com/watch?v=h811B6D7qJo)
+Todas las fotos del curso: [https://miinstagram.github.io/cursoelectricidad/](https://miinstagram.github.io/cursoelectricidad/)
 
 Carousel de todas las fotos del curso: [https://miinstagram.github.io/cursoelectricidad/carousel.html](https://miinstagram.github.io/cursoelectricidad/carousel.html)
 
-Profesor: Francisco Salvador Espeche. Ingeniero Electromecánico, inspector de obra, proyectista.
+**TODAS LAS FOTOS EN UN VIDEO** : [https://www.youtube.com/watch?v=h811B6D7qJo](https://www.youtube.com/watch?v=h811B6D7qJo)
 
-Al principio son conceptos básicos de electricidad: la red de distribución, simbología, armado de portalamparas. Luego comienza con canalización, es un curso basado en las normas AEA 90364-7-770 (Viviendas). La clase mas importante serían las prácticas de armado de tableros esquemas de montaje (Clases 22 hasta 28).
+---
 
-Estudiando AEA lista de reproducción de YouTube en la cual está basada el curso: [https://youtube.com/playlist?list=PLaJ9_1pBg2ZeF431-Alaplgi05p2k7Cor](https://youtube.com/playlist?list=PLaJ9_1pBg2ZeF431-Alaplgi05p2k7Cor)
+**Profesor**: Francisco Salvador Espeche. Ingeniero Electromecánico, inspector de obra, proyectista.
 
-Aca hay otro canal que enseña electricidad: [https://www.youtube.com/@cellsarfix/playlists](https://www.youtube.com/@cellsarfix/playlists) esta lleno en YouTube pero te recomiendo que escuches los audios de cada clase de esta pagina.
-
-Podes descargar la playlist entera ordenadamente con este comando: `yt-dlp https://youtube.com/playlist?list=PLaJ9_1pBg2ZeF431-Alaplgi05p2k7Cor -o '%(autonumber)s%(id)s.%(ext)s'`.
-
-Foto del examen de auxiliar: [CLICK ACA PARA VER LA FOTO DEL EXAMEN](https://cursoelectricidad.github.io/40clase.html)
+Al principio son conceptos básicos de electricidad: la red de distribución, simbología, armado de portalamparas. Luego comienza con canalización, **es un curso basado en las normas AEA 90364-7-770 (Viviendas)**. La clase prácticas mas importante serían las de armado de tableros esquemas de montaje (Clases 22 hasta 28).
 
 Reglamentación AEA 90364-7-770 (Viviendas): [https://archive.org/details/aea-770/AEA%20770/mode/1up](https://archive.org/details/aea-770/AEA%20770/mode/1up) creo que esta es una version resumida hay una mas larga.
 
@@ -56,6 +45,19 @@ Estas son las redes sociales pero estan llenas de boludeces:
 
 Aca tengo mas clases transcriptas de electricidad: [https://imlauera.github.io/tags/electricidad/](https://imlauera.github.io/tags/electricidad/)
 
+
+El curso comenzó el 10 de Marzo del año 2025 (mi primera clase fue el 12 de marzo). Son 3 clases por semana Lunes, Martes y Miercoles de 18:30 a 20:30. 
+
+El curso de auxiliar electricista finalizó en la clase número 47 (8 de Julio del año
+2025), y el curso de montador electricista comenzó en la clase número 48 (29 de
+Julio del año 2025).
+
+Estudiando AEA: Una lista de reproducción que encontre en YouTube (el docente no la recomendo yo la encontre) en la cual está basada el curso: [https://youtube.com/playlist?list=PLaJ9_1pBg2ZeF431-Alaplgi05p2k7Cor](https://youtube.com/playlist?list=PLaJ9_1pBg2ZeF431-Alaplgi05p2k7Cor)
+
+Aca hay otro canal que enseña electricidad: [https://www.youtube.com/@cellsarfix/playlists](https://www.youtube.com/@cellsarfix/playlists) **esta lleno en YouTube pero te recomiendo que escuches los audios de cada clase de esta pagina**.
+
+Podes descargar la playlist entera ordenadamente con este comando: `yt-dlp https://youtube.com/playlist?list=PLaJ9_1pBg2ZeF431-Alaplgi05p2k7Cor -o '%(autonumber)s%(id)s.%(ext)s'`.
+
 ---
 
 Subscribe to RSS: [/feed.xml](/feed.xml)
@@ -64,7 +66,7 @@ Subscribe to RSS: [/feed.xml](/feed.xml)
 [13 Marzo 2025]{.date}
 
 
-[TODAS LAS PUBLICACIONES JUNTAS EN UN PDF PARA IMPRIMIR. DESCARGAR PDF COMPLETO Y TODOS LOS AUDIOS EN UN SOLO AUDIO (20 VECES AMPLIFICADO EL VOLUMEN).](/todo_en_uno_pdf.md){.title}
+[TODAS LAS PUBLICACIONES JUNTAS EN UN PDF PARA IMPRIMIR. DESCARGAR PDF COMPLETO Y TODOS LOS AUDIOS EN UN SOLO AUDIO](/todo_en_uno_pdf.md){.title}
 [14 Marzo 2026]{.date}
 
 

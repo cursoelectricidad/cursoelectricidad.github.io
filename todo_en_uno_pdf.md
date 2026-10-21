@@ -1,4 +1,4 @@
-% TODAS LAS PUBLICACIONES JUNTAS EN UN PDF PARA IMPRIMIR. DESCARGAR PDF COMPLETO Y TODOS LOS AUDIOS EN UN SOLO AUDIO (20 VECES AMPLIFICADO EL VOLUMEN).
+% TODAS LAS PUBLICACIONES JUNTAS EN UN PDF PARA IMPRIMIR. DESCARGAR PDF COMPLETO Y TODOS LOS AUDIOS EN UN SOLO AUDIO
 % Andrés Imlauer
 % 14 Marzo 2026
 
@@ -22,7 +22,7 @@ Todas las fotos en un video: [https://www.youtube.com/watch?v=h811B6D7qJo](https
 
 [https://archive.org/download/curso_electricidad_uocra_CFP_17_espeche_pdf_completo/curso_electricidad.pdf](https://archive.org/download/curso_electricidad_uocra_CFP_17_espeche_pdf_completo/curso_electricidad.pdf)
 
-# ACÁ ESTÁN TODOS LOS AUDIOS EN DOS PARTES: AUXILIAR Y MONTADOR. AMPLIFIQUÉ 20 VECES MÁS EL VOLUMEN:     
+# ACÁ ESTÁN TODOS LOS AUDIOS EN DOS PARTES: AUXILIAR Y MONTADOR.
 
 ---
 
