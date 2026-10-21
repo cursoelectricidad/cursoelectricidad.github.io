@@ -1,7 +1,19 @@
 ---
-title: "Curso Electricidad - CFP Nº 17"
+title: "Curso Electricidad - Centro Formacion Profesional Nº 17 - Argentina(Posadas)."
 x-toc-enable: true
 ...
+
+Este se un curso basado fuertemente en las **normas AEA (Asociación Electrotécnica Argentina) 90364-7-770 (Viviendas)**.
+Esta es la guia: [https://archive.org/details/aea-770/AEA%20770/mode/1up](https://archive.org/details/aea-770/AEA%20770/mode/1up)
+
+El profesor la llama "el reglamento de la AEA para la ejecución de instalaciones eléctricas en inmuebles" y la presenta como el respaldo de todo lo que enseña. El profesor pide que escriban, tal cual, que "una instalación es segura y confiable cuando la hizo un instalador habilitado que aplicó el reglamento de la **AEA** y usó materiales normalizados IRAM." La AEA le dice al instalador cómo tiene que hacer las cosas.
+
+Además de la AEA, cita estas fuentes:
+- **Normas IRAM** 2224 y 2005 (conectores), 2220, 2262 y 2268 (conductores subterráneos).
+- **Planos del pilar de EMSA** (https://energiademisiones.com.ar/planos-del-pilar).
+- **Catálogos de Genrod y Tubeelectric.** Genrod es proveedor de materiales y tiene PDFs de tableros y puesta a tierra.
+
+---
 
 El curso comenzó el 10 de Marzo del año 2025 (mi primera clase fue el 12 de marzo). Son 3 clases por semana Lunes, Martes y Miercoles de 18:30 a 20:30. 
 
@@ -15,9 +27,7 @@ Todas las fotos del curso:
 
 **TODAS LAS FOTOS EN UN VIDEO** : [https://www.youtube.com/watch?v=h811B6D7qJo](https://www.youtube.com/watch?v=h811B6D7qJo)
 
-Carousel de todas las fotos del curso:
-
-[https://miinstagram.github.io/cursoelectricidad/carousel.html](https://miinstagram.github.io/cursoelectricidad/carousel.html)
+Carousel de todas las fotos del curso: [https://miinstagram.github.io/cursoelectricidad/carousel.html](https://miinstagram.github.io/cursoelectricidad/carousel.html)
 
 Profesor: Francisco Salvador Espeche. Ingeniero Electromecánico, inspector de obra, proyectista.
 
