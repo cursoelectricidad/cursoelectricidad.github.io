@@ -1,7 +1,7 @@
 ---
 title: "Curso Electricidad - Centro Formacion Profesional Nº 17 - Argentina(Posadas)."
 x-toc-enable: true
-...
+---
 
 Esto es un curso basado fuertemente en las **normas AEA (Asociación Electrotécnica Argentina) 90364-7-770 (Viviendas)**.
 Esta es la guia: [https://archive.org/details/aea-770/AEA%20770/mode/1up](https://archive.org/details/aea-770/AEA%20770/mode/1up)
@@ -16,6 +16,8 @@ Además de la AEA, cita estas fuentes:
 
 
 Foto del examen de auxiliar electricista: [CLICK ACA PARA VER LA FOTO DEL EXAMEN](https://cursoelectricidad.github.io/40clase.html)
+
+La primera clase es la ultima y la ultima es la primera.
 
 ---
 
@@ -39,25 +41,30 @@ En el medio mandaban encuestas talleres de Termotanque Solar (3 clases), viniero
 
 **A lo último hicimos electricidad industrial: armamos tablero de bombeo con contactor, rele termico, llave selectora y un foco como motor.**
 
-Estas son las redes sociales pero estan llenas de boludeces:    
-
-* [https://www.instagram.com/centrofp.17/](https://www.instagram.com/centrofp.17/)       
-* [https://fundacion.uocra.org/oferta-educativa-formacion-profesional/cific-cfp-n17-posadas/](https://fundacion.uocra.org/oferta-educativa-formacion-profesional/cific-cfp-n17-posadas/)     
-
-Aca tengo mas clases transcriptas de electricidad: [https://imlauera.github.io/tags/electricidad/](https://imlauera.github.io/tags/electricidad/)
-
+---
 
 El curso comenzó el 10 de Marzo del año 2025 (mi primera clase fue el 12 de marzo). Son 3 clases por semana Lunes, Martes y Miercoles de 18:30 a 20:30. 
 
-El curso de auxiliar electricista finalizó en la clase número 47 (8 de Julio del año
-2025), y el curso de montador electricista comenzó en la clase número 48 (29 de
-Julio del año 2025).
+El curso de **auxiliar electricista** finalizó en la clase número 47 (8 de Julio del año 2025), y el curso de montador electricista comenzó en la clase número 48 (29 de Julio del año 2025).
+
+---
 
 Estudiando AEA: Una lista de reproducción que encontre en YouTube (el docente no la recomendo yo la encontre) en la cual está basada el curso: [https://youtube.com/playlist?list=PLaJ9_1pBg2ZeF431-Alaplgi05p2k7Cor](https://youtube.com/playlist?list=PLaJ9_1pBg2ZeF431-Alaplgi05p2k7Cor)
+
+**Canales de YouTube relacionados a este contenido:**
 
 Aca hay otro canal que enseña electricidad: [https://www.youtube.com/@cellsarfix/playlists](https://www.youtube.com/@cellsarfix/playlists) **esta lleno en YouTube pero te recomiendo que escuches los audios de cada clase de esta pagina**.
 
 Podes descargar la playlist entera ordenadamente con este comando: `yt-dlp https://youtube.com/playlist?list=PLaJ9_1pBg2ZeF431-Alaplgi05p2k7Cor -o '%(autonumber)s%(id)s.%(ext)s'`.
+
+Aca tengo mas clases transcriptas de electricidad: [https://imlauera.github.io/tags/electricidad/](https://imlauera.github.io/tags/electricidad/)
+
+---
+
+Estas son las redes sociales del Centro de Formacion Profesional Numero 17, pero estan llenas de boludeces:    
+
+* [https://www.instagram.com/centrofp.17/](https://www.instagram.com/centrofp.17/)       
+* [https://fundacion.uocra.org/oferta-educativa-formacion-profesional/cific-cfp-n17-posadas/](https://fundacion.uocra.org/oferta-educativa-formacion-profesional/cific-cfp-n17-posadas/)     
 
 ---
 
