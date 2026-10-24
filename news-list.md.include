@@ -43,7 +43,7 @@ Al principio son conceptos básicos de electricidad: la red de distribución, si
 
 Reglamentación AEA 90364-7-770 (Viviendas): [https://archive.org/details/aea-770/AEA%20770/mode/1up](https://archive.org/details/aea-770/AEA%20770/mode/1up) creo que esta es una version resumida hay una mas larga.
 
-Este es el PDF pasado a texto se lo podes tirar a la IA (probe con [DeepSeek](https://chat.deepseek.com) y funciona bien) y hacerle preguntas: [https://archive.org/stream/aea-770/AEA%20770_djvu.txt](https://archive.org/stream/aea-770/AEA%20770_djvu.txt)
+Este es el PDF pasado a texto se lo podes tirar a la IA (probe con [DeepSeek](https://chat.deepseek.com) y funciona bien) y hacerle preguntas: [https://archive.org/download/aea-770/AEA%20770_djvu.txt](https://archive.org/download/aea-770/AEA%20770_djvu.txt)
 
 En el medio mandaban encuestas talleres de Termotanque Solar (3 clases), vinieron estudiantes de carreras de salud de la UCAMI a ponernos vacunas (2 clases, no era obligatorio), taller de RCP (1 clase), una psicóloga (1 clase), y taller de informática de Excel (6 clases todos los Lunes). Solo fui al taller de RCP y 2 clases de termotanque.
 
