@@ -21,7 +21,7 @@ La primera clase es la ultima y la ultima es la primera.
 
 ---
 
-* Audio voz femenina Argentina leyendo el resumen hecho por IA. [Click aca para escuchar el resumen](https://archive.org/download/todoenuno_electricidad_voz_femenina_argentina/todoenuno_para_espeak_daniela.wav) (Lee este texto: [https://cursoelectricidad.github.io/todoenuno_para_espeak.txt](https://cursoelectricidad.github.io/todoenuno_para_espeak.txt) )
+* (**NUEVO**) Audio voz femenina Argentina leyendo el resumen hecho por IA. [Click aca para escuchar el resumen](https://archive.org/download/todoenuno_electricidad_voz_femenina_argentina/todoenuno_para_espeak_daniela.wav) (Lee este texto: [https://cursoelectricidad.github.io/todoenuno_para_espeak.txt](https://cursoelectricidad.github.io/todoenuno_para_espeak.txt) )
 
 * [PARTE 1: Audio Curso entero Auxiliar (de la clase 03 hasta la 47): PESA 5 GIGABYTES Y SON 90 HORAS, PERO SE PUEDE ESCUCHAR ONLINE, CLICK AQUI.](https://archive.org/AUDIO_CURSO_COMPLETO_ELECTRICIDAD_DOMICILIARIA_ARGENTINA_CFP_17_UOCRA/auxiliar_electricista.mp3)
 
