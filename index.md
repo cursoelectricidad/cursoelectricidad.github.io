@@ -21,11 +21,11 @@ La primera clase es la ultima y la ultima es la primera.
 
 ---
 
-
-* [PARTE 1: Audio Curso entero Auxiliar (de la clase 03 hasta la 47): PESA 5 GIGABYTES Y SON 90 HORAS, PERO SE PUEDE ESCUCHAR ONLINE, CLICK AQUI.](https://ia803109.us.archive.org/26/items/AUDIO_CURSO_COMPLETO_ELECTRICIDAD_DOMICILIARIA_ARGENTINA_CFP_17_UOCRA/auxiliar_electricista.mp3)
+* [PARTE 1: Audio Curso entero Auxiliar (de la clase 03 hasta la 47): PESA 5 GIGABYTES Y SON 90 HORAS, PERO SE PUEDE ESCUCHAR ONLINE, CLICK AQUI.](https://archive.org/AUDIO_CURSO_COMPLETO_ELECTRICIDAD_DOMICILIARIA_ARGENTINA_CFP_17_UOCRA/auxiliar_electricista.mp3)
 
 * [PARTE 2: Audio Curso entero Montador (de la clase 48 hasta la última): PESA 4 GIGABYTES Y SON 70 HORAS, PERO SE PUEDE ESCUCHAR ONLINE, CLICK AQUI](https://archive.org/download/AUDIO_CURSO_COMPLETO_ELECTRICIDAD_DOMICILIARIA_ARGENTINA_CFP_17_UOCRA/montador_electricista.mp3)
 
+Audio voz femenina Argentina leyendo el resumen hecho por IA. Lee este texto: [https://cursoelectricidad.github.io/todoenuno_para_espeak.txt](https://cursoelectricidad.github.io/todoenuno_para_espeak.txt). [Click aca para escuchar el resumen](https://archive.org/download/todoenuno_electricidad_voz_femenina_argentina/todoenuno_para_espeak_daniela.wav)
 
 ---
 
