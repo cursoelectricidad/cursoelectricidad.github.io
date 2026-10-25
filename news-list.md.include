@@ -21,7 +21,7 @@ La primera clase es la ultima y la ultima es la primera.
 
 ---
 
-* (**NUEVO**) Audio voz femenina Argentina leyendo el resumen hecho por IA. [Click aca para escuchar el resumen](https://archive.org/download/todoenuno_electricidad_voz_femenina_argentina/todoenuno_para_espeak_daniela.wav) (Lee este texto: [https://cursoelectricidad.github.io/todoenuno_para_espeak.txt](https://cursoelectricidad.github.io/todoenuno_para_espeak.txt) )
+* (**NUEVO**) Audio Voz Femenina Argentina leyendo el resumen hecho por IA. [Click aca para escuchar el resumen](https://archive.org/download/todoenuno_electricidad_voz_femenina_argentina/todoenuno_para_espeak_daniela.wav) (Lee este texto: [https://cursoelectricidad.github.io/todoenuno_para_espeak.txt](https://cursoelectricidad.github.io/todoenuno_para_espeak.txt) )
 
 * [PARTE 1: Audio Curso entero Auxiliar (de la clase 03 hasta la 47): PESA 5 GIGABYTES Y SON 90 HORAS, PERO SE PUEDE ESCUCHAR ONLINE, CLICK AQUI.](https://archive.org/AUDIO_CURSO_COMPLETO_ELECTRICIDAD_DOMICILIARIA_ARGENTINA_CFP_17_UOCRA/auxiliar_electricista.mp3)
 
@@ -43,7 +43,7 @@ Al principio son conceptos básicos de electricidad: la red de distribución, si
 
 Reglamentación AEA 90364-7-770 (Viviendas): [https://archive.org/details/aea-770/AEA%20770/mode/1up](https://archive.org/details/aea-770/AEA%20770/mode/1up) creo que esta es una version resumida hay una mas larga.
 
-Este es el PDF pasado a texto se lo podes tirar a la IA (probe con [DeepSeek](https://chat.deepseek.com) y funciona bien) y hacerle preguntas: [https://archive.org/download/aea-770/AEA%20770_djvu.txt](https://archive.org/download/aea-770/AEA%20770_djvu.txt)
+Este es el PDF pasado a texto se lo podes tirar a la IA (probe con [https://duck.ai/](https://duck.ai/) y funciona bien) y hacerle preguntas: [https://archive.org/download/aea-770/AEA%20770_djvu.txt](https://archive.org/download/aea-770/AEA%20770_djvu.txt)
 
 En el medio mandaban encuestas talleres de Termotanque Solar (3 clases), vinieron estudiantes de carreras de salud de la UCAMI a ponernos vacunas (2 clases, no era obligatorio), taller de RCP (1 clase), una psicóloga (1 clase), y taller de informática de Excel (6 clases todos los Lunes). Solo fui al taller de RCP y 2 clases de termotanque.
 
