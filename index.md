@@ -45,7 +45,7 @@ Reglamentación AEA 90364-7-770 (Viviendas): [https://archive.org/details/aea-77
 
 Este es el PDF pasado a texto se lo podes tirar a la IA (probe con [https://search.brave.com/ask](https://search.brave.com/ask) o [DeepSeek](https://chat.deepseek.com) y funciona bien) y hacerle preguntas: [https://archive.org/download/aea-770/AEA%20770_djvu.txt](https://archive.org/download/aea-770/AEA%20770_djvu.txt).
 
-Ejemplo de como usar la IA: ¿Como debo instalar un aire acondicinoado basado en esta guia?: [COPIA Y PEGA ESE TEXTO, ENTER] 
+**Ejemplo de como usar la IA con ese documento**: ¿Como debo instalar un aire acondicinoado basado en esta guia?: [COPIA Y PEGA ESE TEXTO, ENTER]. ¿Como prevenir incendios? [COPIA Y PEGA ESE TEXTO, ENTER]
 
 En el medio mandaban encuestas talleres de Termotanque Solar (3 clases), vinieron estudiantes de carreras de salud de la UCAMI a ponernos vacunas (2 clases, no era obligatorio), taller de RCP (1 clase), una psicóloga (1 clase), y taller de informática de Excel (6 clases todos los Lunes). Solo fui al taller de RCP y 2 clases de termotanque.
 
