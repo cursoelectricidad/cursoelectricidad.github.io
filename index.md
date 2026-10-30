@@ -6,9 +6,9 @@ x-toc-enable: true
 Esto es un curso basado fuertemente en las **normas AEA (Asociación Electrotécnica Argentina) 90364-7-770 (Viviendas)**.
 Esta es la guia: [https://archive.org/details/aea-770/AEA%20770/mode/1up](https://archive.org/details/aea-770/AEA%20770/mode/1up)
 
-El profesor la llama "el reglamento de la AEA para la ejecución de instalaciones eléctricas en inmuebles" y la presenta como el respaldo de todo lo que enseña. El profesor pide que escriban, tal cual, que "una instalación es segura y confiable cuando la hizo un instalador habilitado que aplicó el reglamento de la **AEA** y usó materiales normalizados IRAM." La AEA le dice al instalador cómo tiene que hacer las cosas.
+El profesor la llama "el reglamento de la AEA para la ejecución de instalaciones eléctricas en inmuebles" y la presenta como el respaldo de todo lo que enseña. El profesor pide que escriban, tal cual, que **"una instalación es segura y confiable cuando la hizo un instalador habilitado que aplicó el reglamento de la AEA y usó materiales normalizados IRAM."** (es una pregunta de examen) La AEA le dice al instalador cómo tiene que hacer las cosas.
 
-En mi opinion las mejores clases fueron las practicas: desde armado de un portalamparas, como realizar empalmes, tipos de empalme, doblar caños con resorte, armado de distribucion: primero fijar las cajas luego los caños, altura de cajas, etc, conexion en serie o paralelo, tension y corriente, esquemas de montaje como conectar: (1) Lampara y un interruptor (Llave de un punto). (2) Dos lámparas y 1 interruptor. (3) Dos lámparas y 2 interruptores en la misma caja. La fase siempre es recomendable que esté en el medio. (4) Dos lámparas y 2 interruptores en distintas cajas. (5) Una lámpara con llave combinación. (6) Dos lámparas con llave combinación. (7) Dos lámparas. Una con llave combinación y otra con llave de 1 punto. En el exámen entra el diagrama unifilar. (8) Llave de 1 punto y toma corrientes 1 lámpara - Baño. Cortamos la luz para probar disyuntor. Comprobación de Continuidad, como hacer RCP, armamos tablero con fotocelula (fotocelula siempre mirando al norte pregunte y me dijeron que esta mal es al este asi cuando apenas le da el sol se apaga), tablero con contactor: sistema de arranque, marcha y parada, tablero con metodo de distribuidor, metodo con peine, metodo de guirnalda o bucles, armado de un tablero de bombeo con contactor, rele termico, llave selectora y un foco como motor.
+En mi opinion las mejores clases fueron las practicas: desde armado de un portalámparas, como realizar empalmes, tipos de empalme, doblar caños con resorte, armado de distribución: primero fijar las cajas luego los caños, altura de cajas, tableros, ubicación, etc, tablero conectado en serie y paralelo, tension y corriente, esquemas de montaje como conectar: (1) Lampara y un interruptor (Llave de un punto). (2) Dos lámparas y 1 interruptor. (3) Dos lámparas y 2 interruptores en la misma caja. La fase siempre es recomendable que esté en el medio. (4) Dos lámparas y 2 interruptores en distintas cajas. (5) Una lámpara con llave combinación. (6) Dos lámparas con llave combinación. (7) Dos lámparas. Una con llave combinación y otra con llave de 1 punto. Diagrama unifilar. (8) Llave de 1 punto y toma corrientes 1 lámpara - Baño. Comprobación de Continuidad, como hacer RCP, armamos tablero con fotocélula (fotocélula siempre mirando al norte pregunte y me dijeron que esta mal es al este así cuando apenas le da el sol se apaga), tablero con contactor: sistema de arranque, marcha y parada, tablero con método de distribuidor, método con peine, método de guirnalda o bucles, armado de un tablero de bombeo con contactor, relé térmico, llave selectora y un foco como motor.
 
 Además de la AEA, cita estas fuentes:   
 
@@ -17,9 +17,9 @@ Además de la AEA, cita estas fuentes:
 - **Catálogos de Genrod y Tubeelectric.** Genrod es proveedor de materiales y tiene PDFs de tableros y puesta a tierra.  
 
 
-Foto del examen de auxiliar electricista: [CLICK ACA PARA VER LA FOTO DEL EXAMEN](https://cursoelectricidad.github.io/40clase.html)
+Foto del examen de auxiliar electricista: [CLICK ACA PARA VER LA FOTO DEL EXAMEN](https://cursoelectricidad.github.io/40clase.html).
 
-La primera clase es la ultima y la ultima es la primera.
+La primera clase es la última y la última es la primera.
 
 ---
 
